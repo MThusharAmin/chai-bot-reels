@@ -1,0 +1,51 @@
+{
+  "title": "रोज सुबह जिम जाता हूँ पर वजन कम नहीं होता",
+  "title_en": "I go to the gym daily, zero weight loss",
+  "topic": "gym and fitness goals",
+  "customer_voice": "male",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भाई रोज़ सुबह जिम जाता हूँ, पसीना बहाता हूँ, पर मेरा वजन कम क्यों नहीं हो रहा?",
+      "en": "I work out daily, but why am I not losing weight?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो रहा है। एरर यह है कि आप मशीन पर चलते हैं, मशीन आप पर नहीं चलती।",
+      "en": "Processing data. The error is you walk on the machine, not it on you.",
+      "face": "smug"
+    },
+    {
+      "who": "bot",
+      "text": "जिम से आकर सीधे चार कप कड़क चीनी वाली चाय पियो, सारा पसीना खुश होकर उड़ जाएगा।",
+      "en": "Drink four cups of sweet chai right after gym, all sweat will vanish happily.",
+      "face": "happy"
+    },
+    {
+      "who": "customer",
+      "text": "अरे भाई, उससे तो वजन और बढ़ जाएगा!",
+      "en": "Hey brother, that will increase my weight even more!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "सिस्टम कहता है, वजन बढ़े या घटे, चाय का कप खाली नहीं रहना चाहिए।",
+      "en": "System says, gain or lose weight, the chai cup must never stay empty.",
+      "face": "happy"
+    }
+  ],
+  "caption": "जिम का असली मज़ा तो कड़क चाय के बाद ही आता है! ☕🤖\nआपकी फिटनेस का क्या हाल है? कॉमेंट में बताओ।\n#chaibot3000 #gymmotivation #desimeme #chai #funnybot #fitnessfail #relatable",
+  "hashtags": [
+    "#chaibot3000",
+    "#gymmotivation",
+    "#desimeeme",
+    "#chai",
+    "#funnybot",
+    "#fitnessfail",
+    "#relatable",
+    "#chaiwala"
+  ],
+  "number": 6
+}
