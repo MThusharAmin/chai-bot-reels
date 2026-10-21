@@ -2,8 +2,12 @@ name: Daily Chai Bot Reel
 
 on:
   schedule:
-    # Every day at 12:24 UTC = 5:54 PM India time. The Reel goes live about 10 minutes later.
-    - cron: "24 12 * * *"
+    # Three Reels a day. Each run starts ~25 minutes early because making the video
+    # takes 10-20 minutes, so they go live around 11 AM, 4 PM and 7 PM India time.
+    # (Times below are UTC; India = UTC + 5:30.)
+    - cron: "7 5 * * *"    # 10:37 AM IST  -> live ~11 AM
+    - cron: "7 10 * * *"   #  3:37 PM IST  -> live ~4 PM
+    - cron: "7 13 * * *"   #  6:37 PM IST  -> live ~7 PM
   workflow_dispatch:
     inputs:
       post_to_instagram:
