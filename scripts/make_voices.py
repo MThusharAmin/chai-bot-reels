@@ -20,19 +20,19 @@ import numpy as np
 SAMPLE_RATE = 48000
 
 VOICES = {
-    # Chai Bot: male voice, a bit faster and higher, then robot effect.
-           "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-12%", "pitch": "+6Hz"},
-       "customer_female": {"voice": "hi-IN-SwaraNeural", "rate": "-5%", "pitch": "+0Hz"},
-       "customer_male": {"voice": "hi-IN-MadhurNeural", "rate": "-5%", "pitch": "-8Hz"},
+    # Chai Bot: male voice, slower and a bit higher, then robot effect.
+    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-22%", "pitch": "+4Hz"},
+    "customer_female": {"voice": "hi-IN-SwaraNeural", "rate": "-10%", "pitch": "+0Hz"},
+    "customer_male": {"voice": "hi-IN-MadhurNeural", "rate": "-10%", "pitch": "-8Hz"},
 }
 
-# Gentle robot sound: slight pitch lift, metallic shimmer, a touch of bit-crush, small echo.
+# Light robot sound that keeps every word clear: tiny pitch lift, faint metallic
+# double-voice and a short room echo. (Make it stronger by raising the aecho numbers.)
 ROBOT_FX = (
-    "asetrate=48000*1.05,aresample=48000,atempo=0.952,"
-    "flanger=delay=1.5:depth=1.2:regen=10:width=60:speed=0.35,"
-    "acrusher=bits=12:mix=0.25:mode=log:aa=1,"
-    "aecho=0.85:0.5:18:0.18,"
-    "highpass=f=110,lowpass=f=9500"
+    "asetrate=48000*1.03,aresample=48000,atempo=0.971,"
+    "aecho=0.9:0.5:9:0.22,"
+    "highpass=f=90,lowpass=f=11000,"
+    "loudnorm=I=-16:TP=-1.5:LRA=11"
 )
 
 
@@ -95,7 +95,7 @@ def make_voices(folder, fake=False):
         if line["who"] == "bot":
             settings, effects = VOICES["bot"], ROBOT_FX
         else:
-            settings, effects = VOICES[customer], "highpass=f=90"
+            settings, effects = VOICES[customer], "highpass=f=90,loudnorm=I=-16:TP=-1.5:LRA=11"
         print(f"  voice {i}: {line['who']}")
         if fake:
             fake_voice(line["text"], wav, seed=i)

@@ -36,12 +36,14 @@ WIDE = (563.0, 698.0, 1.0)
 MEDIUM = (560.0, 610.0, 1.28)
 CLOSE = (555.0, 487.0, 1.72)
 
-LOADING_TEXT = "प्रोसेसिंग… पहले चाय, फिर समाधान"
-END_TEXT_1 = "कल फिर आना!"
-END_TEXT_2 = "चाय तैयार मिलेगी"
-END_TEXT_3 = "फॉलो करें · CHAI BOT 3000"
-CUSTOMER_TAG = "ग्राहक"
-BOT_TAG = "चाय बॉट"
+LOADING_TEXT = "Processing… chai first, solution later"
+END_TEXT_1 = "Come back tomorrow!"
+END_TEXT_2 = "Chai will be ready"
+END_TEXT_3 = "Follow · CHAI BOT 3000"
+CUSTOMER_TAG = "CUSTOMER"
+BOT_TAG = "CHAI BOT"
+CUSTOMER_NUMBER = "Customer #{number}"
+GAP_BETWEEN_LINES = 0.55  # seconds of silence between lines
 
 
 # ---------------------------------------------------------------- fonts
@@ -238,7 +240,7 @@ def face_ops(state, t):
             a = 2 * np.pi * (i / 8) + spin * 2 * np.pi
             size = 3.0 + 4.0 * (i / 7)
             ops.append(("ellipse", "amber", (28 * math.cos(a), -8 + 28 * math.sin(a), size, size)))
-        ops.append(("text", "amber", (0, 34, "लोडिंग…", 13)))
+        ops.append(("text", "amber", (0, 34, "LOADING…", 12)))
         return ops
     expression = state["face"]
     eyes = EYES["blink"] if state.get("blink") else EYES.get(expression, EYES["neutral"])
@@ -312,6 +314,22 @@ def render_face(ops, w, h):
 
 # ---------------------------------------------------------------- overlays
 
+def balanced_wrap(text, fnt, max_width):
+    """Wrap into as few lines as possible, with lines of similar length (no lonely last word)."""
+    words = text.split()
+    count = len(wrap(text, fnt, max_width))
+    if count < 2 or len(words) < 2:
+        return wrap(text, fnt, max_width)
+    best, best_width = None, None
+    if count == 2:
+        for i in range(1, len(words)):
+            lines = [" ".join(words[:i]), " ".join(words[i:])]
+            widest = max(fnt.getlength(l) for l in lines)
+            if widest <= max_width and (best_width is None or widest < best_width):
+                best, best_width = lines, widest
+    return best or wrap(text, fnt, max_width)
+
+
 def rounded_panel(size, radius, fill):
     panel = Image.new("RGBA", size, (0, 0, 0, 0))
     ImageDraw.Draw(panel).rounded_rectangle((0, 0, size[0] - 1, size[1] - 1), radius, fill=fill)
@@ -346,7 +364,7 @@ def hook_overlay(number, title):
     """Episode number + problem, on a dark banner at the top (clear of Instagram's top bar)."""
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     title_font, tag_font = font(66), font(38)
-    lines = wrap(title, title_font, 860)[:2]
+    lines = balanced_wrap(title, title_font, 860)[:2]
     box_w = int(min(980, max(title_font.getlength(l) for l in lines) + 90))
     box_h = 40 + 86 * len(lines)
     top = 205
@@ -354,7 +372,7 @@ def hook_overlay(number, title):
     draw = ImageDraw.Draw(layer)
     for i, line in enumerate(lines):
         draw.text((W / 2, top + 22 + 86 * i + 43), line, font=title_font, fill=(255, 255, 255, 255), anchor="mm")
-    tag = f"ग्राहक #{number}"
+    tag = CUSTOMER_NUMBER.format(number=number)
     tag_w = int(tag_font.getlength(tag) + 50)
     draw.rounded_rectangle(((W - tag_w) / 2, top - 34, (W + tag_w) / 2, top + 30), 32, fill=(255, 176, 50, 255))
     draw.text((W / 2, top - 2), tag, font=tag_font, fill=(35, 22, 10, 255), anchor="mm")
@@ -395,7 +413,7 @@ def build_timeline(episode, audios):
             cam = WIDE
         segs.append({"kind": "line", "start": t, "dur": dur, "line": i, "who": line["who"],
                      "face": line["face"], "cam": cam})
-        t += dur + 0.28
+        t += dur + GAP_BETWEEN_LINES
     segs.append({"kind": "end", "start": t, "dur": 2.6, "face": "love", "cam": WIDE})
     total = t + 2.6
     first = {"kind": "intro", "start": 0.0, "dur": 0.4, "face": "happy", "cam": WIDE}
@@ -445,8 +463,15 @@ def crop_box(cam, img_w, img_h):
     return (cx - cw / 2, cy - ch / 2, cx + cw / 2, cy + ch / 2)
 
 
+def subtitle(line):
+    """English subtitle if the script has one, otherwise the Hindi line."""
+    return (line.get("en") or line["text"]).strip()
+
+
 def caption_chunks(text, duration, start):
     lines = wrap(text, font(60), 860)
+    if len(lines) == 2:
+        lines = balanced_wrap(text, font(60), 860)
     chunks = [lines[i:i + 2] for i in range(0, len(lines), 2)]
     total_chars = sum(len(" ".join(c)) for c in chunks) or 1
     out, t = [], start
@@ -508,11 +533,11 @@ def render(folder, out_path):
     cards = []
     for s in segs:
         if s["kind"] == "line":
-            for start, end, chunk in caption_chunks(episode["lines"][s["line"]]["text"], s["dur"], s["start"]):
+            for start, end, chunk in caption_chunks(subtitle(episode["lines"][s["line"]]), s["dur"], s["start"]):
                 cards.append((start, end + 0.12, caption_card(chunk, s["who"])))
         elif s["kind"] == "loading":
             cards.append((s["start"], s["start"] + s["dur"], caption_card(wrap(LOADING_TEXT, font(60), 860), "bot")))
-    hook = hook_overlay(episode["number"], episode["title"])
+    hook = hook_overlay(episode["number"], episode.get("title_en") or episode["title"])
     ending = end_overlay()
     end_start = segs[-1]["start"]
 

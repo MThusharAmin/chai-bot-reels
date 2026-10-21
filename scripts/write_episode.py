@@ -63,20 +63,22 @@ RULES — never break these
 OUTPUT
 Reply with ONLY a JSON object, no other text:
 {
-  "title": "4–7 word Hindi hook shown on screen, states the problem",
+  "title": "4–7 word Hindi hook that states the problem (Devanagari)",
+  "title_en": "the same hook in short, punchy English (max 7 words), shown on screen",
   "topic": "short English label of the topic",
   "customer_voice": "male" or "female",
   "reaction": one of FACES — Chai Bot's face the moment he hears the problem,
   "lines": [
-    {"who": "customer", "text": "...", "face": FACE Chai Bot shows while listening},
-    {"who": "bot", "text": "...", "face": FACE while saying it},
+    {"who": "customer", "text": "Hindi (Devanagari)", "en": "English subtitle", "face": FACE Chai Bot shows while listening},
+    {"who": "bot", "text": "Hindi (Devanagari)", "en": "English subtitle", "face": FACE while saying it},
     ...
   ],
   "caption": "Instagram caption in Hindi (Devanagari): one funny line, then a question that invites comments or tagging a friend. Max 3 short lines. Emojis allowed here.",
   "hashtags": ["#chaibot3000", ... 6–9 relevant hashtags, mix of Hindi-audience and English tags]
 }
 Lines: start with 1–2 customer lines, then 2–3 bot lines; optionally one short customer reply and a final bot punchline.
-Every line at most 18 words. 4–6 lines in total.
+Every line at most 16 words. 4–6 lines in total. Keep sentences short and simple so they're easy to follow.
+"en" is a natural, funny English subtitle of that exact line (not word-for-word), so non-Hindi speakers get the joke.
 FACES = happy, confused, smug, shocked, sad, angry, love, neutral."""
 
 
@@ -185,9 +187,17 @@ def parse_episode(text):
         if not any("ऀ" <= ch <= "ॿ" for ch in text):
             raise ValueError(f"line is not in Devanagari: {text}")
         line["text"] = text
+        english = (line.get("en") or "").strip()
+        if not english or sum(ch.isascii() for ch in english) < len(english) * 0.9:
+            raise ValueError(f"missing or non-English subtitle for: {text}")
+        line["en"] = english
         if line.get("face") not in FACES:
             line["face"] = "neutral" if line["who"] == "bot" else "happy"
         total_words += len(text.split())
+    title_en = (episode.get("title_en") or "").strip()
+    if not title_en:
+        raise ValueError("missing 'title_en'")
+    episode["title_en"] = title_en
     if not 30 <= total_words <= 100:
         raise ValueError(f"{total_words} words (aim 45–75)")
 
