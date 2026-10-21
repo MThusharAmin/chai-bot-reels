@@ -44,6 +44,7 @@ CUSTOMER_TAG = "CUSTOMER"
 BOT_TAG = "CHAI BOT"
 CUSTOMER_NUMBER = "Customer #{number}"
 GAP_BETWEEN_LINES = 0.55  # seconds of silence between lines
+SHOW_SUBTITLES = False    # True = show each spoken line as a subtitle box
 
 
 # ---------------------------------------------------------------- fonts
@@ -532,6 +533,8 @@ def render(folder, out_path):
     # ---- captions & overlays
     cards = []
     for s in segs:
+        if not SHOW_SUBTITLES:
+            break
         if s["kind"] == "line":
             for start, end, chunk in caption_chunks(subtitle(episode["lines"][s["line"]]), s["dur"], s["start"]):
                 cards.append((start, end + 0.12, caption_card(chunk, s["who"])))
