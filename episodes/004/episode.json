@@ -1,0 +1,50 @@
+{
+  "title": "नए साल का रेजोल्यूशन तीसरे दिन खत्म",
+  "title_en": "New Year Resolution Broken in Three Days",
+  "topic": "New Year Resolutions",
+  "customer_voice": "male",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "चाय बॉट, रोज सुबह जल्दी उठकर दौड़ने का रेजोल्यूशन तीसरे दिन ही टूट गया।",
+      "en": "Chai Bot, my New Year resolution to run every morning broke on day three!",
+      "face": "sad"
+    },
+    {
+      "who": "bot",
+      "text": "सिस्टम प्रोसेसिंग! तुम्हारा टाइमिंग खराब नहीं है, तुम्हारा कैलेंडर गलत है।",
+      "en": "System processing! Your timing isn't bad, your calendar is wrong.",
+      "face": "neutral"
+    },
+    {
+      "who": "customer",
+      "text": "कैलेंडर? मतलब मैं अब क्या करूं?",
+      "en": "Calendar? So what do I do now?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "दौड़ने का टारगेट हटाओ और रोज छह कप कड़क चाय का रेजोल्यूशन बनाओ।",
+      "en": "Ditch the running goal and resolve to drink six cups of strong chai daily.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "गारंटी है, यह रेजोल्यूशन पूरे बारह महीने बिना रुके चलेगा!",
+      "en": "Guaranteed, this resolution will run for twelve straight months!",
+      "face": "smug"
+    }
+  ],
+  "caption": "रेजोल्यूशन ऐसा चुनो जो कप में गरम रहे! ☕🤖\nआपका न्यू ईयर रेजोल्यूशन अभी तक जिंदा है या खत्म? कमेंट में बताओ!",
+  "hashtags": [
+    "#chaibot3000",
+    "#newyearresolution",
+    "#chaiwala",
+    "#desihumour",
+    "#relatablememes",
+    "#hindireels",
+    "#comedyreelsindia"
+  ],
+  "number": 4
+}
