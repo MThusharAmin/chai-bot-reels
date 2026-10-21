@@ -1,0 +1,34 @@
+name: Refresh Instagram token
+
+# Instagram tokens expire after 60 days. This renews it every Monday
+# and saves the new one back into the IG_ACCESS_TOKEN secret.
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Renew the token and save it
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.SECRETS_PAT }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GH_TOKEN}" ]; then
+            echo "::error::SECRETS_PAT secret is missing, so the new token can't be saved."
+            exit 1
+          fi
+          reply=$(curl -sS "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}")
+          new_token=$(echo "$reply" | jq -r '.access_token // empty')
+          if [ -z "$new_token" ]; then
+            echo "::error::Instagram did not renew the token: $(echo "$reply" | jq -c '.error // .')"
+            exit 1
+          fi
+          echo "::add-mask::$new_token"
+          gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" --body "$new_token"
+          days=$(( $(echo "$reply" | jq -r '.expires_in') / 86400 ))
+          echo "Token renewed. Valid for about $days more days."
