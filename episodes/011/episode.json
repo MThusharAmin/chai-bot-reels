@@ -1,0 +1,45 @@
+{
+  "title": "रात के खाने में क्या बनाऊँ",
+  "title_en": "The Endless Dinner Debate",
+  "topic": "dinner indecision",
+  "customer_voice": "female",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, रात के खाने में क्या बनाऊँ, सोच सोच कर मेरा दिमाग ब्लास्ट हो रहा है।",
+      "en": "Bhaiya, what should I make for dinner? My brain is about to blast.",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो गया है। सिस्टम कहता है कि दाल और सब्जी दोनों को रीसायकल कर दो।",
+      "en": "Data processed. System says recycle both dal and sabzi.",
+      "face": "neutral"
+    },
+    {
+      "who": "customer",
+      "text": "मतलब बासी खाना खा लूँ? अरे भगवान! कुछ ढंग की सलाह दो ना!",
+      "en": "You mean eat leftovers? Oh god! Give some actual advice!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "एरर! इंसान की भूख का सॉफ्टवेयर बहुत पुराना है। इसके लिए दो कप कड़क चाय और तीन घंटे की वोटिंग का अपडेट डाउनलोड करो।",
+      "en": "Error! Human hunger software is too old. Download two cups of chai and a three-hour voting update.",
+      "face": "happy"
+    }
+  ],
+  "caption": "रात के खाने का फैसला करना दुनिया का सबसे बड़ा टास्क है। 😅\nकिसको भेज रहे हो ये वीडियो जो कभी डिसाइड नहीं कर पाता? 👇\n#chaibot3000 #dinnerdebates #fooddilemma #relatable #chaiwala #robotjokes #desi humour",
+  "hashtags": [
+    "#chaibot3000",
+    "#dinnerdebates",
+    "#fooddilemma",
+    "#relatable",
+    "#chaiwala",
+    "#robotjokes",
+    "#desihumour",
+    "#funnyreels"
+  ],
+  "number": 11
+}
