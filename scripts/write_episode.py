@@ -25,15 +25,58 @@ HISTORY = EPISODES / "history.json"
 
 FACES = ["happy", "confused", "smug", "shocked", "sad", "angry", "love", "neutral"]
 
-TOPICS = [
-    "office and bosses", "exams and results", "college life", "job interviews",
-    "salary day and money running out", "friends who never reply", "relatives' questions",
-    "parents and phone use", "gym and fitness goals", "Monday mornings", "traffic and commute",
-    "online shopping", "food delivery and cooking", "sleep and alarm clocks", "social media likes",
-    "weddings and functions", "neighbours", "rain and weather", "group projects",
-    "WiFi and phone battery", "New Year resolutions", "procrastination", "first salary",
-    "hostel and PG life", "siblings", "being single", "work from home",
-]
+# Real-life situations, grouped by the time of day they fit best. Each run picks one
+# that hasn't been used recently, from the group for the current posting slot.
+TOPICS = {
+    "morning": [  # 11 AM post: office, college, start of the day
+        "Monday morning and the alarm was snoozed seven times",
+        "boss calls an 'urgent' meeting that could have been a message",
+        "office group chat has 200 unread messages",
+        "teacher says 'this will come in the exam' about every single topic",
+        "attendance is short and the semester ends next week",
+        "job interview question: where do you see yourself in five years",
+        "work from home but the family thinks you're free all day",
+        "salary credited and already gone in two days",
+        "colleague takes credit for her work in front of the boss",
+        "auto driver refuses to go by the meter",
+        "group project where she's doing all the work",
+        "first day at a new office, doesn't know anyone",
+        "laptop updates right before an important presentation",
+        "packed lunch smells so good the whole office wants some",
+    ],
+    "afternoon": [  # 4 PM post: chai time, afternoon slump, everyday life
+        "post-lunch sleepiness at the desk",
+        "ordered online, the item looks nothing like the photo",
+        "friend replies 'haha' to a long emotional message",
+        "phone at 2 percent and the charger is at home",
+        "gym membership paid for a year, went twice",
+        "diet starts 'from Monday' for the fifth Monday",
+        "delivery app says 'arriving in 2 minutes' for 20 minutes",
+        "best friend posts the one photo where her eyes are closed",
+        "WiFi stops working exactly during an online class",
+        "neighbour aunty knows her business before she does",
+        "started a hobby, bought all the equipment, did it once",
+        "seen-zoned by a friend who is online",
+        "trying to save money but sales keep happening",
+        "rain ruined the plan and the new shoes",
+    ],
+    "evening": [  # 7 PM post: family, relatives, going home, weekend plans
+        "relatives asking 'beta, shaadi kab karogi?' at every function",
+        "mom compares her to Sharma ji's daughter",
+        "dad forwards fake news on the family WhatsApp group",
+        "stuck in traffic for an hour to travel five kilometres",
+        "friends cancel the weekend plan at the last minute",
+        "sibling steals her charger and denies it",
+        "trying to watch a series but the family wants the TV",
+        "evening walk resolution lasting one day",
+        "making plans with friends that never happen",
+        "parents discovering she has a social media account",
+        "wedding season: three functions, one outfit",
+        "dinner debate: what to eat, nobody decides",
+        "grandmother insists on feeding her a fourth dinner",
+        "electricity goes off right before the episode's climax",
+    ],
+}
 
 SYSTEM_PROMPT = """You write short comedy scripts for "Chai Bot 3000", an animated Instagram Reels series for teens and adults in India.
 
@@ -47,6 +90,18 @@ THE FORMAT
 A customer — a young woman, always female (so Hindi verb endings must be feminine: "करती हूँ", "गई थी") — arrives with a
 relatable everyday problem. Chai Bot listens, "processes", and gives confident, absurd advice.
 The last line is a punchline that lands. Total spoken words: 45–75 (about 20–35 seconds).
+
+MAKE IT GENUINELY FUNNY AND RELATABLE
+- Start from a hyper-specific, everyday Indian moment people instantly recognise ("this is literally me / my mom / my
+  office"). Specific details make it funny: the exact excuse, the exact WhatsApp message, the exact thing aunty says.
+- Chai Bot's advice must be absurd but follow a weird, confident robot logic — he takes things too literally, "optimises"
+  human life like a machine, or misunderstands an idiom. Example flavours (don't copy them): treating relatives' questions
+  as "spam calls" to block; offering to "factory reset" the boss; prescribing "two cups of chai every 30 minutes" for heartbreak.
+- Escalate: each bot line gets a bit more ridiculous than the last.
+- End on a twist punchline: a callback to her first line, a surprising self-own by the bot, or an unexpectedly wise line
+  hidden inside nonsense. The punchline should make people want to tag a friend.
+- Before writing, silently think of three different premises and use the funniest; skip anything predictable.
+- Comedy comes from the situation and the robot's logic — never from insulting anyone.
 
 MAKE IT FEEL LIKE A REAL CONVERSATION
 - The customer talks like a real person venting to a chaiwala: emotional, a bit dramatic, uses fillers and reactions
@@ -102,10 +157,22 @@ def load_history():
     return []
 
 
-def pick_topic(history):
-    """Pick a topic not used recently, so episodes stay varied."""
-    recent = [h.get("seed_topic") for h in history[-len(TOPICS) // 2:]]
-    fresh = [t for t in TOPICS if t not in recent] or TOPICS
+def time_slot():
+    """morning / afternoon / evening, by the current time in India (UTC+5:30)."""
+    from datetime import datetime, timedelta, timezone
+    hour = (datetime.now(timezone.utc) + timedelta(hours=5, minutes=30)).hour
+    if hour < 14:
+        return "morning"
+    if hour < 18:
+        return "afternoon"
+    return "evening"
+
+
+def pick_topic(history, slot):
+    """Pick a situation for this time of day that hasn't been used recently."""
+    options = TOPICS[slot]
+    recent = {h.get("seed_topic") for h in history[-30:]}
+    fresh = [t for t in options if t not in recent] or options
     return random.choice(fresh)
 
 
@@ -259,11 +326,13 @@ def main():
 
     history = load_history()
     number = (history[-1]["number"] + 1) if history else 1
-    topic = pick_topic(history)
+    slot = time_slot()
+    topic = pick_topic(history, slot)
     used = "\n".join(f"- {h['title']}" for h in history[-60:]) or "(none yet)"
     prompt = (
-        f"Write episode #{number}. Topic area: {topic}.\n"
-        f"Pick a specific, relatable situation inside that topic.\n\n"
+        f"Write episode #{number}. It posts in the {slot} (India time), so it should feel right for that moment.\n"
+        f"Situation to build on: {topic}.\n"
+        f"Make it specific, relatable and genuinely funny, with a punchline people would tag a friend for.\n\n"
         f"Already used (don't repeat these problems):\n{used}"
     )
 
