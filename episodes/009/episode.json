@@ -1,0 +1,51 @@
+{
+  "title": "बारिश में नए जूते भी गए और प्लान भी",
+  "title_en": "Rain ruined my new shoes and plans",
+  "topic": "spoiled plans due to rain",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, दो हफ्ते बाद प्लान बनाया था घूमने का और ये अचानक बारिश आ गई! मेरे नए सफेद जूते भी कीचड़ में डूब गए।",
+      "en": "I planned this trip for two weeks and it started raining! My brand new white shoes are ruined.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो रहा है... एरर! मौसम विभाग ने बारिश का अपडेट नहीं दिया था क्या?",
+      "en": "Processing data... Error! Did the weather department not push an update?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "सुझाव: जूतों को बोट बना कर घर के टब में चलाओ, और चाय की दो चुस्की के साथ खिड़की से बादलों को घूरो!",
+      "en": "Advice: Turn your shoes into boats in the bathtub, and glare at clouds with two sips of chai!",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "सच में?! जूते तो गए, अब बस यही बचा था।",
+      "en": "Seriously?! The shoes are gone, this is all I needed.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "चिंता मत करो, पानी फ्री है और मेरी अदरक वाली चाय से बड़ा कोई वेदर अपडेट नहीं है!",
+      "en": "Don't worry, water is free and my ginger chai is the best weather update!",
+      "face": "happy"
+    }
+  ],
+  "caption": "बारिश ने सारे प्लान पर पानी फेर दिया? कोई बात नहीं, चाय पियो और सिस्टम को दोष दो! ☕🌧️\n\nकिस-किस के नए जूते भी बारिश में ऐसे ही डूबे हैं? अपने उस दोस्त को टैग करो जिसका हर प्लान बारिश खराब करती है! 👇",
+  "hashtags": [
+    "#chaibot3000",
+    "#rainydiaries",
+    "#mumbairains",
+    "#chailovers",
+    "#relatable",
+    "#desihumour",
+    "#chai",
+    "#badweather"
+  ],
+  "number": 9
+}
