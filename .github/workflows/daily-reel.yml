@@ -35,7 +35,7 @@ jobs:
       - name: Install tools
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg fonts-noto-core libfribidi0 libraqm0
+          sudo apt-get install -y -qq ffmpeg fonts-noto-core fonts-dejavu-core libfribidi0 libraqm0
           pip install -q -r requirements.txt
 
       - name: Make today's Reel
