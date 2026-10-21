@@ -21,9 +21,9 @@ SAMPLE_RATE = 48000
 
 VOICES = {
     # Chai Bot: male voice, a bit faster and higher, then robot effect.
-    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "+6%", "pitch": "+6Hz"},
-    "customer_female": {"voice": "hi-IN-SwaraNeural", "rate": "+4%", "pitch": "+0Hz"},
-    "customer_male": {"voice": "hi-IN-MadhurNeural", "rate": "+2%", "pitch": "-8Hz"},
+           "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-12%", "pitch": "+6Hz"},
+       "customer_female": {"voice": "hi-IN-SwaraNeural", "rate": "-5%", "pitch": "+0Hz"},
+       "customer_male": {"voice": "hi-IN-MadhurNeural", "rate": "-5%", "pitch": "-8Hz"},
 }
 
 # Gentle robot sound: slight pitch lift, metallic shimmer, a touch of bit-crush, small echo.
