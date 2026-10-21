@@ -1,0 +1,45 @@
+{
+  "title": "बॉस की नजरों से कैसे बचूं",
+  "title_en": "How to hide from my boss",
+  "topic": "Work from home",
+  "customer_voice": "male",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "बॉस ने घर से काम करते हुए वेबकैम ऑन रखने को कहा है, अब मैं सो भी नहीं सकता।",
+      "en": "My boss wants my webcam on while working from home, I cannot even sleep now.",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "एरर फोर्टी फोर। समाधान बहुत आसान है बॉस। लैपटॉप पर अपनी सोते हुए आंख का फोटो लगा दो।",
+      "en": "Error forty four. The solution is easy boss. Just stick a photo of your sleeping eye on the laptop.",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "अरे भाई, वो मीटिंग में लाइव सवाल भी पूछता है। फोटो कैसे जवाब देगी?",
+      "en": "Bro, he asks live questions in meetings too. How will a photo reply?",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "सिस्टम अपडेट। अदरक वाली चाय पियो, दिमाग तेज होगा। वरना लैपटॉप को बोलो आज नेटवर्क गुल है।",
+      "en": "System update. Drink ginger chai, your brain will sharpen. Or tell the laptop network is dead.",
+      "face": "happy"
+    }
+  ],
+  "caption": "वर्क फ्रॉम होम का असली स्ट्रगल सिर्फ चाय ही समझ सकती है। ☕🤖\nकिसको भेजना है ये एपिसोड? टैग करो अपने सोफे पर सोने वाले दोस्त को!\n#chaibot3000 #wfhlife #officememes #chailover #hindi",
+  "hashtags": [
+    "#chaibot3000",
+    "#wfhlife",
+    "#officememes",
+    "#chailover",
+    "#hindi",
+    "#robot",
+    "#funny",
+    "#relatable"
+  ],
+  "number": 3
+}
