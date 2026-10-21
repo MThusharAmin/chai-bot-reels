@@ -1,0 +1,51 @@
+{
+  "title": "शादी में जाने से पहले क्या पहनूँ",
+  "title_en": "What to wear to the wedding",
+  "topic": "wedding outfit panic",
+  "customer_voice": "female",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "अरे चाय बोट, कल शादी में जाना है और अलमारी में पहनने के लिए कुछ नहीं है।",
+      "en": "Hey Chai Bot, wedding tomorrow and my wardrobe is completely empty!",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेसिंग पूरा हुआ। समस्या का समाधान बहुत सरल है।",
+      "en": "Data processing complete. The solution is very simple.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सोफे का पुराना पर्दा लपेट लो। लोग कहेंगे लेटेस्ट डिजाइनर थीम है।",
+      "en": "Just wrap the old sofa curtain around you. People will call it a designer theme.",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "पर्दा? लोग मुझे ही घूरेंगे!",
+      "en": "A curtain? People will stare at me!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "एरर। लोग सिर्फ खाने को घूरते हैं। अदरक वाली चाय पियो और स्टाइल से निकलो।",
+      "en": "Error. People only stare at the food. Drink ginger chai and walk out in style.",
+      "face": "happy"
+    }
+  ],
+  "caption": "शादी के कपड़ों का संकट सिर्फ चाय से दूर हो सकता है।\nआपका फेवरेट वेडिंग आउटफिट कौन सा है?\n#chaibot3000 #weddingdiaries #shaadiseason #delhincr #funnyscripts #desiromance #chai",
+  "hashtags": [
+    "#chaibot3000",
+    "#weddingdiaries",
+    "#shaadiseason",
+    "#delhincr",
+    "#funnyscripts",
+    "#desiromance",
+    "#chai",
+    "#relatable"
+  ],
+  "number": 7
+}
