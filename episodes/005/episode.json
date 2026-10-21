@@ -1,0 +1,45 @@
+{
+  "title": "पड़ोसी सुबह सुबह लाउडस्पीकर पर गाने बजाते हैं",
+  "title_en": "Neighbour plays loud music every morning",
+  "topic": "noisy neighbours",
+  "customer_voice": "male",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "अरे चाय बॉट, बाजू वाले अंकल रोज सुबह पांच बजे डीजे बजाते हैं। मेरा दिमाग खराब हो गया है।",
+      "en": "Hey Chai Bot, the uncle next door plays a DJ at five every morning. My head is exploding.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा लोड हो रहा है। एरर चार सौ चार, नींद गायब। यह तो सिस्टम का सुपरनैचुरल अपडेट है बॉस।",
+      "en": "Data loading. Error four zero four, sleep missing. This is a supernatural system update, boss.",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "आप एक कप तेज अदरक चाय पियो, फिर अपने किचन से प्रेशर कुकर की सीटी का म्यूजिकल कॉन्सर्ट शुरू कर दो।",
+      "en": "Drink a cup of strong ginger tea, then start a musical concert of cooker whistles from your kitchen.",
+      "face": "smug"
+    },
+    {
+      "who": "bot",
+      "text": "पड़ोसी खुद भागकर वॉल्यूम कम कर देगा। मुकाबला बराबरी का होना चाहिए।",
+      "en": "The neighbour will run over and lower the volume himself. The match must be a draw.",
+      "face": "happy"
+    }
+  ],
+  "caption": "सुबह सुबह लाउड म्यूजिक का परमानेंट इलाज सिर्फ चाय और कुकर की सीटी है।\nकिस किसके पड़ोसी रोज सुबह सुर में गाते हैं? टैग करो अपने दोस्त को।",
+  "hashtags": [
+    "#chaibot3000",
+    "#chai",
+    "#neighbours",
+    "#morning",
+    "#funny",
+    "#relatable",
+    "#desichai",
+    "#robot"
+  ],
+  "number": 5
+}
