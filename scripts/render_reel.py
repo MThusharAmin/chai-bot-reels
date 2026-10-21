@@ -45,23 +45,17 @@ BOT_TAG = "CHAI BOT"
 CUSTOMER_NUMBER = "Customer #{number}"
 GAP_BETWEEN_LINES = 0.55  # seconds of silence between lines
 SHOW_SUBTITLES = False    # True = show each spoken line as a subtitle box
+SHOW_TITLE = False        # True = show "Customer #N" + the problem at the top
 
 
 # ---------------------------------------------------------------- fonts
 
-def find_font():
-    patterns = [
-        "/usr/share/fonts/**/NotoSansDevanagari-Bold.ttf",
-        "/usr/share/fonts/**/NotoSansDevanagari-ExtraBold.ttf",
-        "/usr/share/fonts/**/NotoSansDevanagari*Bold*.[ot]tf",
-        "/usr/share/fonts/**/Lohit-Devanagari.ttf",
-        "/usr/share/fonts/**/FreeSansBold.ttf",
-    ]
+def find_font(patterns, what):
     for pattern in patterns:
         found = sorted(glob.glob(pattern, recursive=True))
         if found:
             return found[0]
-    sys.exit("::error::No Hindi (Devanagari) font found. Install fonts-noto-core.")
+    sys.exit(f"::error::No {what} font found. Install fonts-noto-core and fonts-dejavu-core.")
 
 
 from PIL import features as _features  # noqa: E402
@@ -69,14 +63,41 @@ from PIL import features as _features  # noqa: E402
 if not _features.check("raqm"):
     sys.exit("::error::Pillow can't shape Hindi text (libraqm missing). Install libraqm0 and libfribidi0.")
 
-FONT_PATH = find_font()
+# Newer Noto Devanagari fonts have no English letters, so English text uses its own font.
+HINDI_FONT = find_font([
+    "/usr/share/fonts/**/NotoSansDevanagari-Bold.ttf",
+    "/usr/share/fonts/**/NotoSansDevanagari-ExtraBold.ttf",
+    "/usr/share/fonts/**/NotoSansDevanagari*Bold*.[ot]tf",
+    "/usr/share/fonts/**/Lohit-Devanagari.ttf",
+    "/usr/share/fonts/**/FreeSansBold.ttf",
+], "Hindi (Devanagari)")
+ENGLISH_FONT = find_font([
+    "/usr/share/fonts/**/NotoSans-Bold.ttf",
+    "/usr/share/fonts/**/DejaVuSans-Bold.ttf",
+    "/usr/share/fonts/**/FreeSansBold.ttf",
+    "/usr/share/fonts/**/LiberationSans-Bold.ttf",
+], "English")
 _font_cache = {}
 
 
-def font(size):
-    if size not in _font_cache:
-        _font_cache[size] = ImageFont.truetype(FONT_PATH, size, layout_engine=ImageFont.Layout.RAQM)
-    return _font_cache[size]
+def is_hindi(text):
+    return any("\u0900" <= ch <= "\u097f" for ch in (text or ""))
+
+
+def font(size, text=""):
+    """Bold font at this size; picks the Hindi font only when the text contains Hindi."""
+    path = HINDI_FONT if is_hindi(text) else ENGLISH_FONT
+    key = (path, size)
+    if key not in _font_cache:
+        _font_cache[key] = ImageFont.truetype(path, size, layout_engine=ImageFont.Layout.RAQM)
+    return _font_cache[key]
+
+
+def fitted_font(text, size, max_width):
+    """Largest font up to `size` at which `text` fits in `max_width` pixels."""
+    while size > 20 and font(size, text).getlength(text) > max_width:
+        size -= 2
+    return font(size, text)
 
 
 def wrap(text, fnt, max_width):
@@ -295,7 +316,7 @@ def render_face(ops, w, h):
             draw.rectangle((x0, y0, x0 + rw * sx, y0 + rh * sy), fill=255)
         elif kind == "text":
             x, y, text, size = op[2]
-            fnt = font(max(8, int(size * sy)))
+            fnt = font(max(8, int(size * sy)), text)
             draw.text(P(x, y), text, font=fnt, fill=255, anchor="mt")
 
     light = np.zeros((h, w, 3), np.float32)
@@ -339,8 +360,7 @@ def rounded_panel(size, radius, fill):
 
 def caption_card(text_lines, who):
     """Subtitle box with a speaker tag, as an RGBA image."""
-    body = font(60)
-    tag_font = font(34)
+    body = font(60, " ".join(text_lines))
     line_h = 84
     widths = [body.getlength(line) for line in text_lines]
     box_w = int(min(960, max(widths + [300]) + 80))
@@ -352,6 +372,7 @@ def caption_card(text_lines, who):
         tag_text, tag_fill, tag_ink, text_ink = BOT_TAG, (255, 176, 50, 255), (35, 22, 10, 255), (255, 226, 160, 255)
     else:
         tag_text, tag_fill, tag_ink, text_ink = CUSTOMER_TAG, (245, 240, 232, 255), (35, 30, 25, 255), (255, 255, 255, 255)
+    tag_font = font(34, tag_text)
     tag_w = int(tag_font.getlength(tag_text) + 44)
     draw.rounded_rectangle((28, 0, 28 + tag_w, 62), 31, fill=tag_fill)
     draw.text((28 + tag_w / 2, 31), tag_text, font=tag_font, fill=tag_ink, anchor="mm")
@@ -364,7 +385,7 @@ def caption_card(text_lines, who):
 def hook_overlay(number, title):
     """Episode number + problem, on a dark banner at the top (clear of Instagram's top bar)."""
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    title_font, tag_font = font(66), font(38)
+    title_font = font(66, title)
     lines = balanced_wrap(title, title_font, 860)[:2]
     box_w = int(min(980, max(title_font.getlength(l) for l in lines) + 90))
     box_h = 40 + 86 * len(lines)
@@ -374,6 +395,7 @@ def hook_overlay(number, title):
     for i, line in enumerate(lines):
         draw.text((W / 2, top + 22 + 86 * i + 43), line, font=title_font, fill=(255, 255, 255, 255), anchor="mm")
     tag = CUSTOMER_NUMBER.format(number=number)
+    tag_font = font(38, tag)
     tag_w = int(tag_font.getlength(tag) + 50)
     draw.rounded_rectangle(((W - tag_w) / 2, top - 34, (W + tag_w) / 2, top + 30), 32, fill=(255, 176, 50, 255))
     draw.text((W / 2, top - 2), tag, font=tag_font, fill=(35, 22, 10, 255), anchor="mm")
@@ -384,9 +406,9 @@ def end_overlay():
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     panel = rounded_panel((820, 330), 44, (18, 12, 8, 215))
     draw = ImageDraw.Draw(panel)
-    draw.text((410, 95), END_TEXT_1, font=font(84), fill=(255, 190, 70, 255), anchor="mm")
-    draw.text((410, 190), END_TEXT_2, font=font(60), fill=(255, 255, 255, 255), anchor="mm")
-    draw.text((410, 272), END_TEXT_3, font=font(38), fill=(200, 230, 225, 255), anchor="mm")
+    draw.text((410, 95), END_TEXT_1, font=fitted_font(END_TEXT_1, 84, 740), fill=(255, 190, 70, 255), anchor="mm")
+    draw.text((410, 190), END_TEXT_2, font=fitted_font(END_TEXT_2, 60, 740), fill=(255, 255, 255, 255), anchor="mm")
+    draw.text((410, 272), END_TEXT_3, font=fitted_font(END_TEXT_3, 38, 740), fill=(200, 230, 225, 255), anchor="mm")
     layer.alpha_composite(panel, ((W - 820) // 2, 1180))
     return layer
 
@@ -470,9 +492,9 @@ def subtitle(line):
 
 
 def caption_chunks(text, duration, start):
-    lines = wrap(text, font(60), 860)
+    lines = wrap(text, font(60, text), 860)
     if len(lines) == 2:
-        lines = balanced_wrap(text, font(60), 860)
+        lines = balanced_wrap(text, font(60, text), 860)
     chunks = [lines[i:i + 2] for i in range(0, len(lines), 2)]
     total_chars = sum(len(" ".join(c)) for c in chunks) or 1
     out, t = [], start
@@ -539,7 +561,7 @@ def render(folder, out_path):
             for start, end, chunk in caption_chunks(subtitle(episode["lines"][s["line"]]), s["dur"], s["start"]):
                 cards.append((start, end + 0.12, caption_card(chunk, s["who"])))
         elif s["kind"] == "loading":
-            cards.append((s["start"], s["start"] + s["dur"], caption_card(wrap(LOADING_TEXT, font(60), 860), "bot")))
+            cards.append((s["start"], s["start"] + s["dur"], caption_card(wrap(LOADING_TEXT, font(60, LOADING_TEXT), 860), "bot")))
     hook = hook_overlay(episode["number"], episode.get("title_en") or episode["title"])
     ending = end_overlay()
     end_start = segs[-1]["start"]
@@ -618,7 +640,7 @@ def render(folder, out_path):
         img = Image.fromarray(np.clip(frame, 0, 255).astype(np.uint8), "RGB").convert("RGBA")
 
         # Overlays.
-        if t < end_start:
+        if SHOW_TITLE and t < end_start:
             img.alpha_composite(hook)
         for start, end, card in cards:
             if start <= t < end:

@@ -21,17 +21,16 @@ SAMPLE_RATE = 48000
 
 VOICES = {
     # Chai Bot: male voice, slower and a bit higher, then robot effect.
-    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-22%", "pitch": "+4Hz"},
+    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-30%", "pitch": "+3Hz"},
     "customer_female": {"voice": "hi-IN-SwaraNeural", "rate": "-10%", "pitch": "+0Hz"},
     "customer_male": {"voice": "hi-IN-MadhurNeural", "rate": "-10%", "pitch": "-8Hz"},
 }
 
-# Light robot sound that keeps every word clear: tiny pitch lift, faint metallic
-# double-voice and a short room echo. (Make it stronger by raising the aecho numbers.)
+# Very light robot touch that keeps every word crisp: a faint short echo, cleaned-up
+# lows and even loudness. No pitch-shifting or distortion (those blurred the Hindi).
 ROBOT_FX = (
-    "asetrate=48000*1.03,aresample=48000,atempo=0.971,"
-    "aecho=0.9:0.5:9:0.22,"
-    "highpass=f=90,lowpass=f=11000,"
+    "aecho=0.9:0.25:6:0.12,"
+    "highpass=f=90,lowpass=f=12000,"
     "loudnorm=I=-16:TP=-1.5:LRA=11"
 )
 
