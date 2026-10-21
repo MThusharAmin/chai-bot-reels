@@ -1,0 +1,45 @@
+{
+  "title": "वीकेंड प्लान कैंसिल होने पर क्या करें",
+  "title_en": "Weekend plans cancelled at last minute",
+  "topic": "Weekend plan cancelled by friends",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "यार भैया, पूरा हफ्ता सोच के रखा था कि संडे को बाहर घूमने जाऊँगी... और अब सबने प्लान कैंसिल कर दिया!",
+      "en": "Bhaiya, I planned my whole Sunday out... and now everyone cancelled!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो गया है। दोस्तों के फोन में सॉफ्टवेयर एरर आ गया है, इसलिए उनका सिस्टम क्रैश हो गया।",
+      "en": "Data processed. Your friends' phones had a software error, causing system crash.",
+      "face": "confused"
+    },
+    {
+      "who": "customer",
+      "text": "सॉफ्टवेयर एरर?! मतलब सच में घर बैठना पड़ेगा?",
+      "en": "Software error?! You mean I actually have to sit at home?",
+      "face": "sad"
+    },
+    {
+      "who": "bot",
+      "text": "बिल्कुल नहीं! आप तुरंत एक रोबोट खरीद लो, वो कभी प्लान कैंसिल नहीं करेगा। बस उसे चार्ज रखना पड़ेगा!",
+      "en": "Not at all! Just buy a robot, it never cancels plans. Just keep it charged!",
+      "face": "happy"
+    }
+  ],
+  "caption": "संडे के प्लान कैंसिल होने पर चाय ही सच्चा दोस्त है!\nकिस दोस्त का प्लान कैंसिल करने का पुराना रिकॉर्ड है? टैग करो नीचे।",
+  "hashtags": [
+    "#chaibot3000",
+    "#weekendplans",
+    "#relatable",
+    "#chai",
+    "#friends",
+    "#desimoments",
+    "#funny",
+    "#chaiwala"
+  ],
+  "number": 10
+}
