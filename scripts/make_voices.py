@@ -20,19 +20,23 @@ import numpy as np
 SAMPLE_RATE = 48000
 
 VOICES = {
-    # Chai Bot: male voice, slower and a bit higher, then robot effect.
-    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-30%", "pitch": "+3Hz"},
-    "customer_female": {"voice": "hi-IN-SwaraNeural", "rate": "-10%", "pitch": "+0Hz"},
-    "customer_male": {"voice": "hi-IN-MadhurNeural", "rate": "-10%", "pitch": "-8Hz"},
+    # Chai Bot: male voice, a little slower than normal so every word is clear.
+    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-20%", "pitch": "+3Hz"},
+    # Customer: always the female voice, at natural speed, so the two never sound alike.
+    "customer": {"voice": "hi-IN-SwaraNeural", "rate": "+0%", "pitch": "+0Hz"},
 }
 
 # Very light robot touch that keeps every word crisp: a faint short echo, cleaned-up
 # lows and even loudness. No pitch-shifting or distortion (those blurred the Hindi).
+# (Always resample to 48 kHz first: filtering the 24 kHz voice file near its limit
+#  caused a high-pitched whine.)
 ROBOT_FX = (
+    "aresample=48000,"
     "aecho=0.9:0.25:6:0.12,"
-    "highpass=f=90,lowpass=f=12000,"
-    "loudnorm=I=-16:TP=-1.5:LRA=11"
+    "highpass=f=90,lowpass=f=9000,"
+    "loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000"
 )
+CUSTOMER_FX = "aresample=48000,highpass=f=90,loudnorm=I=-16:TP=-1.5:LRA=11,aresample=48000"
 
 
 def fail(message):
@@ -87,14 +91,13 @@ def fake_voice(text, path, seed):
 def make_voices(folder, fake=False):
     folder = pathlib.Path(folder)
     episode = json.loads((folder / "episode.json").read_text(encoding="utf-8"))
-    customer = "customer_" + episode.get("customer_voice", "female")
 
     for i, line in enumerate(episode["lines"]):
         wav = folder / f"line_{i}.wav"
         if line["who"] == "bot":
             settings, effects = VOICES["bot"], ROBOT_FX
         else:
-            settings, effects = VOICES[customer], "highpass=f=90,loudnorm=I=-16:TP=-1.5:LRA=11"
+            settings, effects = VOICES["customer"], CUSTOMER_FX
         print(f"  voice {i}: {line['who']}")
         if fake:
             fake_voice(line["text"], wav, seed=i)

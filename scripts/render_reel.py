@@ -43,7 +43,9 @@ END_TEXT_3 = "Follow · CHAI BOT 3000"
 CUSTOMER_TAG = "CUSTOMER"
 BOT_TAG = "CHAI BOT"
 CUSTOMER_NUMBER = "Customer #{number}"
-GAP_BETWEEN_LINES = 0.55  # seconds of silence between lines
+GAP_BETWEEN_LINES = 0.45  # seconds of silence between lines
+GAP_BEFORE_PUNCHLINE = 0.8  # a beat of silence before Chai Bot's last line
+SOUND_EFFECTS = False     # True = whoosh + background hum (off: cleaner, more natural)
 SHOW_SUBTITLES = False    # True = show each spoken line as a subtitle box
 SHOW_TITLE = False        # True = show "Customer #N" + the problem at the top
 
@@ -436,7 +438,8 @@ def build_timeline(episode, audios):
             cam = WIDE
         segs.append({"kind": "line", "start": t, "dur": dur, "line": i, "who": line["who"],
                      "face": line["face"], "cam": cam})
-        t += dur + GAP_BETWEEN_LINES
+        next_is_punchline = i == len(lines) - 2 and lines[-1]["who"] == "bot"
+        t += dur + (GAP_BEFORE_PUNCHLINE if next_is_punchline else GAP_BETWEEN_LINES)
     segs.append({"kind": "end", "start": t, "dur": 2.6, "face": "love", "cam": WIDE})
     total = t + 2.6
     first = {"kind": "intro", "start": 0.0, "dur": 0.4, "face": "happy", "cam": WIDE}
@@ -530,18 +533,19 @@ def render(folder, out_path):
             a = audios[s["line"]]
             mix[at:at + a.size] += a * 0.95
             speech[at:at + a.size] = 1.0
-        elif s["kind"] == "react":
+        elif s["kind"] == "react" and SOUND_EFFECTS:
             w = whoosh()
             mix[at:at + w.size] += w
         elif s["kind"] == "loading":
             for j, f in enumerate([1180, 1480, 1180, 1760]):
-                b = tone(f, 0.09, 0.16, 25)
+                b = tone(f, 0.09, 0.07, 25)
                 p = at + int((0.12 + j * 0.24) * SR)
                 mix[p:p + b.size] += b
         elif s["kind"] == "end":
-            d = ding()[: mix.size - at]
+            d = (ding() * 0.5)[: mix.size - at]
             mix[at:at + d.size] += d
-    mix += ambience(mix.size / SR)[: mix.size]
+    if SOUND_EFFECTS:
+        mix += ambience(mix.size / SR)[: mix.size]
     music = load_music(mix.size / SR)
     if music is not None:
         duck = np.convolve(speech, np.ones(SR // 5) / (SR // 5), mode="same")

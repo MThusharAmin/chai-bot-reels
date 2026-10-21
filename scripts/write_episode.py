@@ -44,8 +44,17 @@ He believes chai solves everything. He refuses to serve coffee. He talks like a 
 (प्रोसेसिंग, डेटा, सिस्टम, अपडेट, एरर).
 
 THE FORMAT
-A customer arrives with a relatable everyday problem. Chai Bot listens, "processes", and gives confident, absurd advice.
+A customer — a young woman, always female (so Hindi verb endings must be feminine: "करती हूँ", "गई थी") — arrives with a
+relatable everyday problem. Chai Bot listens, "processes", and gives confident, absurd advice.
 The last line is a punchline that lands. Total spoken words: 45–75 (about 20–35 seconds).
+
+MAKE IT FEEL LIKE A REAL CONVERSATION
+- The customer talks like a real person venting to a chaiwala: emotional, a bit dramatic, uses fillers and reactions
+  ("यार", "अरे", "हाय", "सच में?", "मतलब...", "हम्म"), sometimes doesn't finish a sentence.
+- Chai Bot answers HER specific words, not a generic speech. Short back-and-forth turns, not long monologues.
+- At least one quick reaction line (e.g. customer: "सच में?!" or "भैया, ये क्या बोल रहे हो?").
+- Use punctuation for natural speech rhythm: commas for small pauses, "..." for hesitation, "?!" for disbelief.
+- Chai Bot is warm and friendly like a neighbourhood chaiwala who happens to be a robot — only an occasional robot word.
 
 LANGUAGE
 Everything spoken is natural, everyday spoken Hindi written in Devanagari script — how people actually talk, not formal or
@@ -66,7 +75,7 @@ Reply with ONLY a JSON object, no other text:
   "title": "4–7 word Hindi hook that states the problem (Devanagari)",
   "title_en": "the same hook in short, punchy English (max 7 words), shown on screen",
   "topic": "short English label of the topic",
-  "customer_voice": "male" or "female",
+  "customer_voice": "female",
   "reaction": one of FACES — Chai Bot's face the moment he hears the problem,
   "lines": [
     {"who": "customer", "text": "Hindi (Devanagari)", "en": "English subtitle", "face": FACE Chai Bot shows while listening},
