@@ -126,7 +126,12 @@ def ask_claude(prompt, api_key, model):
     return "".join(block.get("text", "") for block in data.get("content", []))
 
 
-def ask_gemini(prompt, api_key, model):
+# If the chosen Gemini model is busy or unavailable, these free models are tried next.
+GEMINI_BACKUPS = ["gemini-flash-lite-latest", "gemini-3.6-flash", "gemini-3.5-flash-lite"]
+GEMINI_WAITS = [20, 45, 90, 150]  # seconds to wait between retries on the same model
+
+
+def gemini_request(prompt, api_key, model):
     body = json.dumps({
         "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
@@ -139,20 +144,41 @@ def ask_gemini(prompt, api_key, model):
         method="POST",
         headers={"x-goog-api-key": api_key, "content-type": "application/json"},
     )
-    for attempt in range(1, 4):
-        try:
-            with urllib.request.urlopen(request, timeout=120) as reply:
-                data = json.load(reply)
-            break
-        except urllib.error.HTTPError as error:
-            detail = error.read().decode(errors="replace")
-            if error.code in (429, 500, 503) and attempt < 3:  # busy / free-tier limit: wait and retry
-                print(f"  Gemini busy ({error.code}), retrying in {30 * attempt}s...")
-                time.sleep(30 * attempt)
-                continue
-            fail(f"Gemini API error {error.code}: {detail}")
+    with urllib.request.urlopen(request, timeout=120) as reply:
+        data = json.load(reply)
     parts = (data.get("candidates") or [{}])[0].get("content", {}).get("parts", [])
     return "".join(part.get("text", "") for part in parts)
+
+
+def ask_gemini(prompt, api_key, model):
+    """Ask Gemini, waiting out busy periods and falling back to other free models."""
+    models = [model] + [m for m in GEMINI_BACKUPS if m != model]
+    last = ""
+    for current in models:
+        for attempt in range(len(GEMINI_WAITS) + 1):
+            try:
+                text = gemini_request(prompt, api_key, current)
+                if text.strip():
+                    if current != model:
+                        print(f"  (used backup model {current})")
+                    return text
+                last = f"{current}: empty reply"
+            except urllib.error.HTTPError as error:
+                detail = error.read().decode(errors="replace")[:300]
+                last = f"{current}: error {error.code} {detail}"
+                if error.code in (400, 401, 403):
+                    fail(f"Gemini rejected the request (check GEMINI_API_KEY): {last}")
+                if error.code == 404:
+                    print(f"  model {current} not available, trying the next one")
+                    break
+            except (urllib.error.URLError, TimeoutError) as error:
+                last = f"{current}: network problem {error}"
+            if attempt < len(GEMINI_WAITS):
+                wait = GEMINI_WAITS[attempt]
+                print(f"  Gemini busy ({last[:80]}), waiting {wait}s...")
+                time.sleep(wait)
+        print(f"  giving up on {current}, trying the next model")
+    fail(f"Gemini stayed unavailable on every model. Last error: {last}")
 
 
 def parse_episode(text):
