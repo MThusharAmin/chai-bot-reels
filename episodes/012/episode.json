@@ -1,0 +1,45 @@
+{
+  "title": "तीन शादी और मेरे पास एक ही जोड़ा",
+  "title_en": "Three weddings, one outfit, pure panic",
+  "topic": "wedding outfit repetition",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, इस हफ्ते तीन शादियां हैं और मेरे पास पहनने के लिए सिर्फ एक ही लहंगा बचा है!",
+      "en": "Bhaiya, three weddings this week and I only have one lehenga left to wear!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो गया है। चिंता मत करो, यह एक सॉफ्टवेयर अपडेट का मामला है।",
+      "en": "Data processed. Don't worry, this is just a software update issue.",
+      "face": "neutral"
+    },
+    {
+      "who": "customer",
+      "text": "सॉफ्टवेयर अपडेट?! मतलब?",
+      "en": "Software update?! Meaning?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "पहली शादी में लहंगा पहनो, दूसरी में दुपट्टा बदलो, और तीसरी में खुद को पुराना वर्जन बताकर रिजेक्ट कर दो!",
+      "en": "Wear it for the first, swap the dupatta for the second, and claim you are a legacy version for the third!",
+      "face": "smug"
+    }
+  ],
+  "caption": "एक लहंगा और तीन शादियां, चाय पियो और एल्गोरिदम पर छोड़ दो!\nटैग करो उस दोस्त को जो हर शादी में एक ही कपड़ों में फोटो डालती है।",
+  "hashtags": [
+    "#chaibot3000",
+    "#weddingseason",
+    "#indianweddings",
+    "#relatable",
+    "#lehengaproblems",
+    "#funnyreels",
+    "#chai",
+    "#botlife"
+  ],
+  "number": 12
+}
