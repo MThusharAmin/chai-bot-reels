@@ -1,0 +1,17 @@
+{
+  "number": 1,
+  "title": "बॉस मेरी बात सुनता ही नहीं",
+  "topic": "office and bosses",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {"who": "customer", "text": "भैया, मेरा बॉस मेरी कोई बात सुनता ही नहीं। मीटिंग में बोलती हूँ तो फोन देखने लगता है।", "face": "neutral"},
+    {"who": "customer", "text": "अब आप ही बताओ, मैं क्या करूँ?", "face": "confused"},
+    {"who": "bot", "text": "सिंपल है मैडम। कल से अपनी हर बात उसके फोन पर नोटिफिकेशन बनकर भेजो।", "face": "smug"},
+    {"who": "bot", "text": "मेरे डेटा के हिसाब से, इंसान माँ की बात ना सुने, पर नोटिफिकेशन ज़रूर खोलता है।", "face": "happy"},
+    {"who": "customer", "text": "और अगर उसने फिर भी नहीं सुना तो?", "face": "neutral"},
+    {"who": "bot", "text": "तो उसके लिए एक कड़क चाय बनाओ। चाय पीते वक्त कोई फोन नहीं देखता। ये मेरा सिस्टम कहता है।", "face": "love"}
+  ],
+  "caption": "बॉस नहीं सुनता? चाय बॉट के पास है पक्का इलाज ☕🤖\nआपके बॉस को कौन सी चाय चाहिए? कमेंट करो 👇",
+  "hashtags": ["#chaibot3000", "#officehumor", "#chai", "#bosslife", "#hindicomedy", "#robot", "#reels", "#chaiwala"]
+}

@@ -1,0 +1,101 @@
+# Chai Bot 3000 — daily Reel bot: setup
+
+Every day this bot, by itself:
+
+1. **Writes** a new Hindi episode (a customer's problem + Chai Bot's terrible advice) with Google Gemini (free).
+2. **Voices** it with free Hindi neural voices. Chai Bot gets a robot effect.
+3. **Animates** Chai Bot's screen-face talking in sync, with expressions, a loading spinner,
+   camera moves, Hindi subtitles and an end card, as a 1080×1920 Reel.
+4. **Posts** it to Instagram at about 6:05 PM India time.
+
+Setup takes about 40 minutes, once. Meta and GitHub occasionally rename menu items;
+if a label looks slightly different, pick the closest match.
+
+---
+
+## Step 1 — Instagram: switch to Creator
+
+Instagram app → profile → ☰ → **Account type and tools → Switch to professional account → Creator**.
+
+## Step 2 — Instagram access token
+
+1. <https://developers.facebook.com> → **My Apps → Create App** → use case for **managing content on Instagram** → type **Business**.
+2. In the app: **Instagram → API setup with Instagram login → Generate access tokens → Add account**, log in as Chai Bot.
+   If asked, accept the tester invite: Instagram app → **Settings → Apps and websites → Tester invites**.
+3. **Generate token** with `instagram_business_basic` and `instagram_business_content_publish`. Copy it.
+
+The app can stay in development mode. No review is needed to post to your own account.
+
+## Step 3 — Free Gemini API key (writes the scripts)
+
+1. Go to <https://aistudio.google.com> and sign in with a Google account.
+2. Click **Get API key → Create API key**. Copy it.
+3. No credit card needed. The bot makes one request a day, far inside the free limit.
+   (Free-tier requests may be used by Google to improve its models, which is fine for comedy scripts.)
+
+Prefer Claude for the scripts instead? Add an `ANTHROPIC_API_KEY` secret and leave out `GEMINI_API_KEY`
+(about 1–2 US cents a day).
+
+## Step 4 — GitHub repo
+
+1. Create a new **public** repository, e.g. `chai-bot-reels`, and upload everything in this folder,
+   including the hidden `.github` folder. It must be public on a free account so Instagram can download each video.
+2. **Settings → Pages → Source: GitHub Actions.**
+3. **Settings → Actions → General → Workflow permissions: Read and write.** Save.
+
+## Step 5 — Secrets
+
+**Settings → Secrets and variables → Actions → New repository secret**:
+
+| Name | Value |
+|---|---|
+| `GEMINI_API_KEY` | key from Step 3 |
+| `IG_ACCESS_TOKEN` | token from Step 2 |
+| `SECRETS_PAT` | lets the bot renew the Instagram token every week (below) |
+
+To make `SECRETS_PAT`: GitHub → profile picture → **Settings → Developer settings → Personal access tokens →
+Fine-grained tokens → Generate new token**. Repository access: **only this repo**. Permission: **Secrets → Read and write**.
+
+## Step 6 — First test (no posting)
+
+1. **Actions → Daily Chai Bot Reel → Run workflow**, untick **Post it to Instagram**, then run.
+2. After about 5 minutes, open the finished run and download **reel** at the bottom. Watch the video.
+3. Happy with it? Run again with the box ticked to post for real. From then on it runs every day by itself.
+4. Also run **Actions → Refresh Instagram token** once to check the weekly renewal works.
+
+---
+
+## Day to day
+
+- **Nothing to do.** One new episode is written, rendered and posted daily.
+- **Watch what went out:** `posted.log` has every post's link; `episodes/` keeps every script.
+- **Post your own video instead:** put `queue/anything.mp4` (+ `queue/anything.txt` caption) in the repo.
+  The next run posts that instead of making a new episode.
+- **If a run fails**, GitHub emails you. Nothing posts that day; the next day carries on as normal.
+  The run's log shows the exact reason.
+
+## Make it yours
+
+| Want to change… | Where |
+|---|---|
+| Posting time | `cron` line in `.github/workflows/daily-reel.yml` (UTC; India = UTC + 5:30) |
+| Chai Bot's personality, rules, topics | `SYSTEM_PROMPT` and `TOPICS` in `scripts/write_episode.py` |
+| Voices, robot effect | `VOICES` and `ROBOT_FX` in `scripts/make_voices.py` |
+| Loading line, end card text | top of `scripts/render_reel.py` |
+| Background music | add a royalty-free track as `assets/music.mp3` (e.g. from YouTube Audio Library). It loops quietly under the voices. |
+| Script model | repo variable `SCRIPT_MODEL` (default `gemini-flash-latest`) |
+| New artwork for Chai Bot | replace `assets/chai-bot-original.png`, adjust `SCREEN_BOX` in `scripts/prepare_assets.py`, run it once |
+
+## Costs
+
+Zero. GitHub Actions and Pages are free for public repos, the Hindi voices are free, Gemini's free tier
+covers one script a day, and Instagram posting is free.
+
+## Good to know
+
+- **Fully automatic means no one checks a script before it goes live.** The script writer has strict rules
+  (clean humour, no politics/religion/caste, nothing risky), but glance at your Reels now and then and
+  delete any that miss.
+- The free Hindi voices come from Microsoft Edge's text-to-speech. If Microsoft ever blocks it,
+  the run fails with a "Text-to-speech failed" message, and the voice step can be switched to a paid voice service.
+- GitHub pauses scheduled workflows in repos with no activity for 60 days. The bot's own daily commits keep it active.
