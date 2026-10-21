@@ -1,0 +1,45 @@
+{
+  "title": "शादी की बात पर रिश्तेदारों के अजीब सवाल",
+  "title_en": "Relatives asking when you will marry",
+  "topic": "relatives and marriage questions",
+  "customer_voice": "female",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, कल शादी में दूर के चाचा ने पूछ लिया, बेटा शादी कब कर रही हो?",
+      "en": "Uncle asked at the wedding, when are you getting married?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "एरर! डेटा स्कैन हो रहा है। क्या आपने उन्हें वाईफाई का पासवर्ड दिया?",
+      "en": "Error! Scanning data. Did you give them the wifi password?",
+      "face": "shocked"
+    },
+    {
+      "who": "customer",
+      "text": "नहीं भैया, पासवर्ड से इसका क्या लेना देना है?",
+      "en": "No, what does that have to do with wifi?",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्रोसेसिंग पूरी। अगली बार पूछें तो बोलो, जब तक आप अपडेट नहीं होंगे, मैं ऑफलाइन हूँ!",
+      "en": "Processing done. Next time say, until you update, I am offline!",
+      "face": "smug"
+    }
+  ],
+  "caption": "रिश्तेदारों के सवालों का सिर्फ एक ही इलाज है, गरम गरम अदरक वाली chai! \nटैग करो उस दोस्त को जो इस सवाल से सबसे ज्यादा डरता है।",
+  "hashtags": [
+    "#chaibot3000",
+    "#chai",
+    "#relatives",
+    "#shaadi",
+    "#funny",
+    "#robot",
+    "#desiproblems",
+    "#relatable"
+  ],
+  "number": 8
+}
