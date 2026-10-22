@@ -76,5 +76,11 @@
     "title": "फोन की बैटरी दो परसेंट पर अटकी",
     "topic": "low battery panic",
     "seed_topic": "phone at 2 percent and the charger is at home"
+  },
+  {
+    "number": 14,
+    "title": "शाम की वॉक का रेजोल्यूशन",
+    "topic": "Evening walk resolution",
+    "seed_topic": "evening walk resolution lasting one day"
   }
 ]

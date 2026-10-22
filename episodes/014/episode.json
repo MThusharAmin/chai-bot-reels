@@ -1,0 +1,45 @@
+{
+  "title": "शाम की वॉक का रेजोल्यूशन",
+  "title_en": "Evening walk resolution lasted one day",
+  "topic": "Evening walk resolution",
+  "customer_voice": "female",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "कल ही तो मैंने सोचा था कि रोज शाम को पांच किलोमीटर वॉक करूँगी। आज फिर बिस्तर से उठने का मन ही नहीं कर रहा यार।",
+      "en": "Yesterday I vowed to walk five kilometres daily. Today I just can't get out of bed.",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो गया है। आपका यह रेजोल्यूशन केवल चौबीस घंटे में ही एक्सपायर हो गया, यह तो नया रिकॉर्ड है।",
+      "en": "Data processed. Your resolution expired in just twenty four hours. New record!",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "भैया, कोई ढंग की सलाह दो, मजाक मत बनाओ।",
+      "en": "Bhaiya, give some good advice, don't make jokes.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "सिस्टम अपडेट कर लीजिए। कल से फोन को पांच किलोमीटर दूर रख कर सोएं, उसे लेने उठना ही पड़ेगा।",
+      "en": "System update. Tomorrow sleep five kilometers away from your phone so you have to walk.",
+      "face": "happy"
+    }
+  ],
+  "caption": "कल से पक्का वॉक पर जाऊँगी वाला झूठ किस किस ने बोला है आज? अपने उस दोस्त को टैग करो जो बिस्तर छोड़ ही नहीं सकता! 🚶‍♀️🤖☕\n#chaibot3000 #eveningwalk #relatable #funnybot #chaiwala",
+  "hashtags": [
+    "#chaibot3000",
+    "#eveningwalk",
+    "#relatable",
+    "#funnybot",
+    "#chaiwala",
+    "#hindicomedy",
+    "#reelsindia",
+    "#dailyhumour"
+  ],
+  "number": 14
+}
