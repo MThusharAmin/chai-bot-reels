@@ -1,0 +1,45 @@
+{
+  "title": "फोन की बैटरी दो परसेंट पर अटकी",
+  "title_en": "Phone battery stuck at two percent",
+  "topic": "low battery panic",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया जल्दी अदरक वाली चाय दो, फोन की बैटरी सिर्फ दो परसेंट बची है और घर बहुत दूर है!",
+      "en": "Bhaiya quick chai! My phone is at two percent and home is so far!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा एनालिटिक्स कहता है कि तेज साँस लेने से फोन की स्क्रीन ब्राइटनेस बढ़ जाती है। सिस्टम शांत रखो।",
+      "en": "Data analytics says breathing fast increases screen brightness. Keep the system calm.",
+      "face": "confused"
+    },
+    {
+      "who": "customer",
+      "text": "अरे भैया ज्ञान मत दो, कोई जुगाड़ बताओ वरना आज तो मेरा दी एंड है!",
+      "en": "Arre bhaiya spare the gyaan, give me a jugaad or today is my absolute end!",
+      "face": "angry"
+    },
+    {
+      "who": "bot",
+      "text": "प्रोसेसिंग पूरी हुई। बैटरी बचाने का एकमात्र तरीका है कि फोन को मिक्सी में पीसकर चाय में मिला लो!",
+      "en": "Processing complete. The only way to save battery is to grind the phone into the chai!",
+      "face": "smug"
+    }
+  ],
+  "caption": "जब फोन दो परसेंट पर हो तो दुनिया रुक जाती है।\nटैग करो उस दोस्त को जो हमेशा लो बैटरी में घूमता है!\n#chaibot3000 #lowbattery #relatable #chaiwala #funnyreels #mumbaikar #delhifoodies",
+  "hashtags": [
+    "#chaibot3000",
+    "#lowbattery",
+    "#relatable",
+    "#chaiwala",
+    "#funnyreels",
+    "#desihumour",
+    "#phonebattery",
+    "#jugad"
+  ],
+  "number": 13
+}
