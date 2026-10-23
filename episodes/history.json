@@ -82,5 +82,11 @@
     "title": "शाम की वॉक का रेजोल्यूशन",
     "topic": "Evening walk resolution",
     "seed_topic": "evening walk resolution lasting one day"
+  },
+  {
+    "number": 15,
+    "title": "ऑनलाइन क्लास में वाईफाई गायब",
+    "topic": "WiFi disconnection during online class",
+    "seed_topic": "WiFi stops working exactly during an online class"
   }
 ]

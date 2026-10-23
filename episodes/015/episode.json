@@ -1,0 +1,51 @@
+{
+  "title": "ऑनलाइन क्लास में वाईफाई गायब",
+  "title_en": "WiFi died during online viva",
+  "topic": "WiFi disconnection during online class",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, पूरे दिन वाईफाई सही चला, पर ऑनलाइन वाइवा में मेरा नाम आते ही गायब!",
+      "en": "Bhaiya, WiFi worked all day, but vanished the exact second my viva started!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "यह कोई एरर नहीं, राउटर का सर्वाइवल मोड है दीदी!",
+      "en": "That's not an error didi, that's your router going into survival mode!",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "अरे पर अब वाइवा का क्या? सर जीरो दे देंगे!",
+      "en": "Arre but what about my viva? Sir will give me a zero!",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "सिंपल ट्रिक! चाय का कप हाथ में लेकर स्क्रीन के सामने एकदम स्टैच्यू बन जाओ।",
+      "en": "Simple trick! Hold a chai cup and freeze completely like a statue on screen.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सर सोचेंगे बफरिंग हो रही है और बिटिया कितनी ध्यान से सुन रही है!",
+      "en": "Sir will think video is buffering and you're the most focused student ever!",
+      "face": "smug"
+    }
+  ],
+  "caption": "वाइवा के टाइम पर तो राउटर भी हाथ खड़े कर देता है! 😭\nउस दोस्त को टैग करो जो ऑनलाइन क्लास में स्टैच्यू बन जाता है! 👇",
+  "hashtags": [
+    "#chaibot3000",
+    "#onlineclassmemes",
+    "#collegelife",
+    "#desimemes",
+    "#wifiissues",
+    "#studentlife",
+    "#hindicomedy",
+    "#relatablememes"
+  ],
+  "number": 15
+}
