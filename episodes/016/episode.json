@@ -1,0 +1,46 @@
+{
+  "title": "पापा को मिल गया मेरा इंस्टाग्राम अकाउंट",
+  "title_en": "Dad found my secret Instagram account",
+  "topic": "parents found social media",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, आज सुबह पापा ने मेरा इंस्टाग्राम अकाउंट ढूंढ लिया और अब रील्स पर लेक्चर दे रहे हैं!",
+      "en": "Bhaiya, Dad found my Instagram account today and is lecturing me on reels!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "एरर. पैरेंट स्पैम डिटेक्टेड. सिस्टम सलाह देता है कि तुरंत अकाउंट पर ताला लगा दो.",
+      "en": "Error. Parent spam detected. System advises putting a lock on the account immediately.",
+      "face": "confused"
+    },
+    {
+      "who": "customer",
+      "text": "अरे ताला नहीं, वो तो पहले ही लगा दिया, पर अब वो सामने बैठकर मेरी रील्स रीक्रिएट कर रहे हैं!",
+      "en": "Not a lock, I already did that, but now he is sitting in front of me recreating my reels!",
+      "face": "sad"
+    },
+    {
+      "who": "bot",
+      "text": "प्रोसेसिंग पूरी हुई. आप उनका अकाउंट ब्लॉक मत करो, बस एक कप अदरक वाली चाय पिलाकर उन्हें अपना कोलाब पार्टनर बना लो.",
+      "en": "Processing complete. Don't block him, just feed him ginger chai and make him your collab partner.",
+      "face": "smug"
+    }
+  ],
+  "caption": "जब पापा को आपकी सीक्रेट रील्स मिल जाएं तो समझो एल्गोरिथम नहीं, किस्मत खराब है!\nटैग करो उस दोस्त को जिसके पापा भी सोशल मीडिया पर जासूसी करते हैं। 🤖☕",
+  "hashtags": [
+    "#chaibot3000",
+    "#chai",
+    "#instagram",
+    "#parents",
+    "#relatable",
+    "#funny",
+    "#reels",
+    "#desi",
+    "#comedy"
+  ],
+  "number": 16
+}
