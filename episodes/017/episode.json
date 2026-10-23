@@ -1,0 +1,57 @@
+{
+  "title": "पापा का व्हाट्सएप ज्ञान कैसे रोकूं",
+  "title_en": "How to Stop Dad WhatsApp Forwards",
+  "topic": "Dad's fake WhatsApp forwards",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "यार भैया, पापा ने फैमिली ग्रुप में भेजा कि शाम को चाय पीने से दिमाग हैंग होता है!",
+      "en": "Bhaiya, dad forwarded that drinking evening tea hangs your brain!",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "गंभीर डेटा एरर! चाय तो एंटीवायरस है दीदी, दिमाग उनके मैसेज से हैंग हो रहा है!",
+      "en": "Critical data error! Tea is our antivirus, it's his messages freezing brains!",
+      "face": "shocked"
+    },
+    {
+      "who": "customer",
+      "text": "तो मैं क्या करूँ? वो सबको फॉरवर्ड करने को बोल रहे हैं!",
+      "en": "So what do I do? He wants everyone to forward it!",
+      "face": "sad"
+    },
+    {
+      "who": "bot",
+      "text": "तुम ग्रुप में भेजो—रिसर्च में आया है, शाम को बेटी को चाय पिलाने से पुण्य मिलता है!",
+      "en": "Send in the group—Research says, buying your daughter evening tea brings good karma!",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "सच में?! पापा यकीन कर लेंगे क्या?",
+      "en": "Really?! Will dad actually believe that?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "लास्ट में लिख देना—फॉरवर्डेड एज रिसीव्ड, सौ प्रतिशत असली खबर!",
+      "en": "Just add at the end—Forwarded as received, one hundred percent real news!",
+      "face": "happy"
+    }
+  ],
+  "caption": "फैमिली ग्रुप का एक ही इलाज है... उल्टा ज्ञान! 😂\nआपके घर में सबसे खतरनाक फॉरवर्ड कौन भेजता है? उस दोस्त को टैग करो जिसके पापा भी ऐसे ही हैं! 👇",
+  "hashtags": [
+    "#chaibot3000",
+    "#whatsappforward",
+    "#desiwhatsapp",
+    "#relatableindia",
+    "#chailover",
+    "#indianparents",
+    "#familygroup",
+    "#hindicomedy"
+  ],
+  "number": 17
+}
