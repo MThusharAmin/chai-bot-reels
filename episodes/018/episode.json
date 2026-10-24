@@ -1,0 +1,45 @@
+{
+  "title": "नया शौक एक दिन में खत्म",
+  "title_en": "New Hobby Lasted One Day",
+  "topic": "abandoned hobby equipment",
+  "customer_voice": "female",
+  "reaction": "confused",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "यार भैया, पांच हजार का प्रोफेशनल पेंटिंग सेट मंगाया। सिर्फ एक ड्राइंग बनाई और मन भर गया!",
+      "en": "Bhaiya, I ordered a five-thousand-rupee painting set. Made one drawing and I'm already bored!",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेस हो गया दीदी! सामान खरीदना ही असली हॉबी है, इस्तेमाल करना तो बस साइड इफेक्ट है।",
+      "en": "Data processed, Didi! Buying equipment IS the real hobby, actually using it is just a side effect.",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "पर मम्मी कह रही हैं पैसे बर्बाद कर दिए, अब इन महंगे ब्रशेस का क्या करूँ?!",
+      "en": "But mom says I wasted money! What do I do with these expensive brushes now?!",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "ब्रश से चाय में चीनी मिलाओ, और चुपचाप अगले शौक के लिए गिटार ऑर्डर करो!",
+      "en": "Stir sugar in your chai with the brush, and quietly order a guitar for your next hobby!",
+      "face": "happy"
+    }
+  ],
+  "caption": "सामान आ गया, हॉबी खत्म! 🎨📦\nअपने उस दोस्त को टैग करो जिसके घर में ऐसा सामान धूल खा रहा है। 👇",
+  "hashtags": [
+    "#chaibot3000",
+    "#relatablecomedy",
+    "#desimemes",
+    "#hobbylobby",
+    "#shoppingaddict",
+    "#artistlife",
+    "#indianhumour",
+    "#explorepage"
+  ],
+  "number": 18
+}
