@@ -1,0 +1,51 @@
+{
+  "title": "भाई ने चार्जर चुरा लिया",
+  "title_en": "Sibling Stole My Phone Charger",
+  "topic": "sibling charger theft",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भाई ने मेरा चार्जर चुराया और कहता है—'मुझे क्या पता, मैंने देखा भी नहीं!'",
+      "en": "My brother stole my charger and said, 'I haven't even seen it!'",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "गंभीर एरर! भाई लोग कभी चार्जर चोरी स्वीकार नहीं करते, ये उनका डिफ़ॉल्ट सिस्टम है।",
+      "en": "Critical error! Siblings never admit to charger theft, it's their factory setting.",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "तो फिर अपना चार्जर वापस कैसे लूँ?!",
+      "en": "Then how do I get my charger back?!",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "गरम चाय पियो और चुपचाप घर का वाई-फाई बंद कर दो।",
+      "en": "Sip hot chai and quietly switch off the home Wi-Fi.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जब वो चिल्लाए, तो सीधे बोलना—'मुझे क्या पता, मैंने देखा भी नहीं!'",
+      "en": "When he screams, look him dead in the eye: 'I haven't even seen it!'",
+      "face": "smug"
+    }
+  ],
+  "caption": "चार्जर चोरी का बदला लेने की सबसे तगड़ी ट्रिक! 🔌😂\nअपने उस चोर भाई या बहन को अभी टैग करो जो कभी चार्जर नहीं लौटाता! 👇",
+  "hashtags": [
+    "#chaibot3000",
+    "#siblingmemes",
+    "#bhaibehan",
+    "#relatableindia",
+    "#desimemes",
+    "#chargertheft",
+    "#hindicomedy",
+    "#familydrama"
+  ],
+  "number": 20
+}
