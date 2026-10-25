@@ -1,0 +1,51 @@
+{
+  "title": "सीरीज के बीच में पापा का न्यूज शो",
+  "title_en": "When Dad Hijacks The TV For News",
+  "topic": "evening tv remote battle",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, शाम को सीरीज का फिनाले देखने बैठी, और पापा ने रिमोट छीनकर न्यूज लगा दी!",
+      "en": "Bhaiya, sat down for my series finale, and Papa snatched the remote for the news!",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "शाम के आठ बजे का क्लासिक एरर! स्क्रीन पर आठ लोग चिल्ला रहे हैं ना?",
+      "en": "Classic eight PM error! Eight uncles screaming on screen right now?",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "हाँ! अब मुझे कैसे पता चलेगा कि कातिल कौन था?!",
+      "en": "Yes! Now how will I find out who the killer was?!",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "टीवी म्यूट करो, और अपनी सीरीज का सस्पेंस म्यूजिक चला दो।",
+      "en": "Mute the TV, and play your show's suspense music in the background.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "वो चिल्लाते हुए एंकर ही तुम्हें असली कातिल लगेंगे! एकदम नया थ्रिलर!",
+      "en": "Those screaming news anchors will look like the real killers! Brand new thriller!",
+      "face": "happy"
+    }
+  ],
+  "caption": "शाम के आठ बजते ही टीवी पर रिमोट की जंग शुरू! ☕📺\nआपके घर में रिमोट किसके कब्जे में रहता है? उस सिरीयल लवर को टैग करो!",
+  "hashtags": [
+    "#chaibot3000",
+    "#relatablememes",
+    "#desihumor",
+    "#indianfamilies",
+    "#tvremotewars",
+    "#hindicomedy",
+    "#reelsindia",
+    "#bingewatching"
+  ],
+  "number": 23
+}
