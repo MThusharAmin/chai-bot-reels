@@ -1,0 +1,45 @@
+{
+  "title": "क्लाइमैक्स से ठीक पहले बिजली गायब",
+  "title_en": "Power cuts right before the climax",
+  "topic": "electricity power cut during TV show climax",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "भैया, पूरी जिंदगी का सबसे सस्पेंस वाला सीन चल रहा था और ऐन मौके पर बिजली चली गई! अब क्या करूँ?",
+      "en": "Bro, the most suspenseful scene was playing and the power went out right then! What do I do now?",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेसिंग पूरी हुई! सिस्टम कहता है कि हीरो को बचाने के लिए तुम्हें खुद टॉर्च जलाकर स्क्रीन के आगे भागना चाहिए।",
+      "en": "Data processed! The system says to save the hero, you must run in front of the screen with a torch.",
+      "face": "smug"
+    },
+    {
+      "who": "customer",
+      "text": "भैया, मैं टीवी के आगे थोड़ी भागूँगी! मतलब... आगे क्या हुआ होगा?",
+      "en": "Bro, I am not running in front of the TV! I mean... what must have happened next?",
+      "face": "confused"
+    },
+    {
+      "who": "bot",
+      "text": "एरर! हमारी चाय पियो, बाकी क्लाइमैक्स बिजली विभाग वाले अगले जन्म में दिखाएंगे।",
+      "en": "Error! Drink our chai, the electricity board will show the rest of the climax in the next birth.",
+      "face": "happy"
+    }
+  ],
+  "caption": "जब शो का सबसे अच्छा सीन हो और बिजली टाटा बाय-बाय कह दे! 😭\nकिस-किस के साथ ऐसा हुआ है? अपने उस दोस्त को टैग करो जो लाइट जाने पर सबसे ज्यादा चिल्लाता है! 👇",
+  "hashtags": [
+    "#chaibot3000",
+    "#powercut",
+    "#bijligayab",
+    "#funnyreels",
+    "#relatable",
+    "#chai",
+    "#hindicomedy",
+    "#indianmoments"
+  ],
+  "number": 22
+}
