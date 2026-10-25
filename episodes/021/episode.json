@@ -1,0 +1,51 @@
+{
+  "title": "सेल के चक्कर में बचत गायब",
+  "title_en": "Saving Money vs Endless Sales",
+  "topic": "online sale temptation",
+  "customer_voice": "female",
+  "reaction": "shocked",
+  "lines": [
+    {
+      "who": "customer",
+      "text": "यार भैया, पैसे बचाने की सोची थी, पर हर पांच मिनट में 'महा सेल' का नोटिफिकेशन आ रहा है!",
+      "en": "Bhaiya, I planned to save money, but every five minutes there's a 'Mega Sale' alert!",
+      "face": "sad"
+    },
+    {
+      "who": "bot",
+      "text": "डेटा प्रोसेसिंग... इंसान पचास रुपये बचाने के लिए पांच सौ का फालतू सामान खरीद लेता है!",
+      "en": "Data processing... Humans buy five hundred rupees worth of junk just to save fifty!",
+      "face": "confused"
+    },
+    {
+      "who": "customer",
+      "text": "सच में?! कार्ट भरी पड़ी है, बताओ अब क्या करूँ?",
+      "en": "Literally me! My cart is full, how do I stop myself?",
+      "face": "sad"
+    },
+    {
+      "who": "bot",
+      "text": "एकदम आसान सिस्टम अपडेट! जब भी 'बाय नाउ' दिखे, स्क्रीन का स्क्रीनशॉट लेकर मम्मी को भेजो।",
+      "en": "Simple system update! Whenever you see 'Buy Now', screenshot it and send it to your mom.",
+      "face": "smug"
+    },
+    {
+      "who": "bot",
+      "text": "मम्मी का 'पैसे पेड़ पर उगते हैं क्या?' आते ही... सारी शॉपिंग बंद, बजट सुरक्षित!",
+      "en": "The moment she replies 'Does money grow on trees?'... shopping cancelled, budget saved!",
+      "face": "happy"
+    }
+  ],
+  "caption": "जब सेल का डिस्काउंट और मम्मी का डांट-मीटर आमने-सामने आ जाएं! 🛍️📉\n\nअपने उस दोस्त को टैग करो जिसकी कार्ट में दस चीजें फंसी पड़ी हैं!",
+  "hashtags": [
+    "#chaibot3000",
+    "#onlineshoppingmemes",
+    "#relatableindia",
+    "#hindicomedy",
+    "#indianmemes",
+    "#savingmoney",
+    "#reelsindia",
+    "#momsbelike"
+  ],
+  "number": 21
+}
