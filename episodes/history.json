@@ -136,5 +136,16 @@
     "title": "सीरीज के बीच में पापा का न्यूज शो",
     "topic": "evening tv remote battle",
     "seed_topic": "trying to watch a series but the family wants the TV"
+  },
+  {
+    "number": 24,
+    "format": "news",
+    "category": "sports",
+    "title": "भारतीय क्रिकेट टीम की शानदार जीत",
+    "links": [
+      "https://www.thehindu.com/sport/cricket/harmanpreet-deepti-on-fire-as-india-seals-emphatic-series-win/article71624538.ece",
+      "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece",
+      "https://www.thehindu.com/sport/dominant-india-aims-to-seal-odi-series/article71620692.ece"
+    ]
   }
 ]

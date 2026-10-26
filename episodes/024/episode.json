@@ -1,0 +1,58 @@
+{
+  "number": 24,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "भारतीय क्रिकेट टीम की शानदार जीत",
+  "title_en": "Indian cricket team's brilliant wins",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय महिला क्रिकेट टीम ने ज़िम्बाब्वे के ख़िलाफ़ शानदार प्रदर्शन करते हुए श्रृंखला अपने नाम कर ली है। इस मुकाबले में हरमनप्रीत और दीप्ति का प्रदर्शन बहुत बेहतरीन रहा।",
+      "en": "The Indian women's cricket team has won the series against Zimbabwe with a brilliant performance. Harmanpreet and Deepti performed very well in this match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "न्यूज़ीलैंड के क्राइस्टचर्च में खेले गए ट्वेन्टी ट्वेन्टी मुकाबले में भारत की जीत के बाद प्रशंसकों ने खिलाड़ियों की प्रशंसा की। तिलक वर्मा और नीतीश कुमार रेड्डी के खेल को लोगों ने बहुत सराहा।",
+      "en": "Fans praised the players after India's win in the T20 match played in Christchurch, New Zealand. People greatly appreciated the game of Tilak Varma and Nitish Kumar Reddy.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय टीम ज़िम्बाब्वे के ख़िलाफ़ अपनी एकदिवसीय श्रृंखला को पक्का करने के लिए मैदान में उतरेगी। टीम का लक्ष्य इस श्रृंखला में अपनी श्रेष्ठता बनाए रखना है।",
+      "en": "The Indian team will take to the field to seal its ODI series against Zimbabwe. The team's goal is to maintain its supremacy in this series.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई खेल ख़बरों के साथ। कृपया हमारे इस पृष्ठ का अनुसरण करें।",
+      "en": "We will meet again tomorrow with new sports news. Please follow this page.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\nभारतीय महिला टीम ने ज़िम्बाब्वे के ख़िलाफ़ श्रृंखला जीत ली है\nक्राइस्टचर्च में भारत की जीत के बाद प्रशंसकों ने खिलाड़ियों की सराहना की\nभारतीय टीम ज़िम्बाब्वे के ख़िलाफ़ एकदिवसीय श्रृंखला जीतने के लिए तैयार है\nकल की खेल ख़बरों के लिए हमारे पृष्ठ का अनुसरण करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Harmanpreet, Deepti on fire as India seals emphatic series win against Zimbabwe",
+      "link": "https://www.thehindu.com/sport/cricket/harmanpreet-deepti-on-fire-as-india-seals-emphatic-series-win/article71624538.ece"
+    },
+    {
+      "title": "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece"
+    },
+    {
+      "title": "Dominant India aims to seal ODI series against Zimbabwe",
+      "link": "https://www.thehindu.com/sport/dominant-india-aims-to-seal-odi-series/article71620692.ece"
+    }
+  ]
+}
