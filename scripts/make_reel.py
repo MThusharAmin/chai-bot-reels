@@ -7,6 +7,7 @@ Otherwise a brand-new Chai Bot episode is written, voiced and rendered.
 Writes site/<video>.mp4 and site/reel.json (file name + caption).
 """
 import json
+import os
 import pathlib
 import shutil
 import sys
@@ -16,6 +17,10 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 import make_voices  # noqa: E402
 import render_reel  # noqa: E402
 import write_episode  # noqa: E402
+import write_news  # noqa: E402
+
+# "news" = daily Hindi news bulletin from The Hindu; "comedy" = the old customer sketches.
+CONTENT_MODE = os.environ.get("CONTENT_MODE", "").strip() or "news"
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 QUEUE = ROOT / "queue"
@@ -39,7 +44,7 @@ def from_queue():
 
 
 def new_episode():
-    folder = write_episode.main()
+    folder = write_news.main() if CONTENT_MODE == "news" else write_episode.main()
     episode = json.loads((folder / "episode.json").read_text(encoding="utf-8"))
     print("Making voices...")
     make_voices.make_voices(folder)
@@ -49,7 +54,9 @@ def new_episode():
     seconds = render_reel.render(folder, SITE / name)
     for wav in folder.glob("line_*.wav"):
         wav.unlink()
-    caption = episode["caption"].strip() + "\n\n" + " ".join(episode["hashtags"])
+    caption = episode["caption"].strip()
+    if episode.get("hashtags"):
+        caption += "\n\n" + " ".join(episode["hashtags"])
     return {"video": name, "caption": caption[:2200], "source": "generated",
             "episode": episode["number"], "title": episode["title"], "seconds": round(seconds, 1)}
 

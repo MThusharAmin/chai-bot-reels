@@ -176,12 +176,12 @@ def pick_topic(history, slot):
     return random.choice(fresh)
 
 
-def ask_claude(prompt, api_key, model):
+def ask_claude(prompt, api_key, model, system=None):
     body = json.dumps({
         "model": model,
         "max_tokens": 2000,
         "temperature": 1.0,
-        "system": SYSTEM_PROMPT,
+        "system": system or SYSTEM_PROMPT,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
     request = urllib.request.Request(
@@ -207,9 +207,9 @@ GEMINI_BACKUPS = ["gemini-flash-lite-latest", "gemini-3.6-flash", "gemini-3.5-fl
 GEMINI_WAITS = [20, 45, 90, 150]  # seconds to wait between retries on the same model
 
 
-def gemini_request(prompt, api_key, model):
+def gemini_request(prompt, api_key, model, system=None):
     body = json.dumps({
-        "system_instruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "system_instruction": {"parts": [{"text": system or SYSTEM_PROMPT}]},
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 1.0, "maxOutputTokens": 4000,
                              "responseMimeType": "application/json"},
@@ -226,14 +226,14 @@ def gemini_request(prompt, api_key, model):
     return "".join(part.get("text", "") for part in parts)
 
 
-def ask_gemini(prompt, api_key, model):
+def ask_gemini(prompt, api_key, model, system=None):
     """Ask Gemini, waiting out busy periods and falling back to other free models."""
     models = [model] + [m for m in GEMINI_BACKUPS if m != model]
     last = ""
     for current in models:
         for attempt in range(len(GEMINI_WAITS) + 1):
             try:
-                text = gemini_request(prompt, api_key, current)
+                text = gemini_request(prompt, api_key, current, system)
                 if text.strip():
                     if current != model:
                         print(f"  (used backup model {current})")

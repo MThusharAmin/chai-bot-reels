@@ -47,7 +47,11 @@ GAP_BETWEEN_LINES = 0.45  # seconds of silence between lines
 GAP_BEFORE_PUNCHLINE = 0.8  # a beat of silence before Chai Bot's last line
 SOUND_EFFECTS = False     # True = whoosh + background hum (off: cleaner, more natural)
 SHOW_SUBTITLES = False    # True = show each spoken line as a subtitle box
-SHOW_TITLE = False        # True = show "Customer #N" + the problem at the top
+SHOW_TITLE = False        # True = show "Customer #N" + the problem at the top (comedy episodes)
+SHOW_NEWS_BANNER = True   # news bulletins: show "चाय बॉट समाचार" + the category at the top
+NEWS_TAG = "चाय बॉट समाचार"
+NEWS_END = ("कल फिर मिलेंगे!", "ताज़ा ख़बरों के लिए फ़ॉलो करें", "स्रोत: द हिंदू")
+GAP_BETWEEN_NEWS = 0.7    # seconds between news stories
 
 
 # ---------------------------------------------------------------- fonts
@@ -384,7 +388,7 @@ def caption_card(text_lines, who):
     return card
 
 
-def hook_overlay(number, title):
+def hook_overlay(number, title, tag=None):
     """Episode number + problem, on a dark banner at the top (clear of Instagram's top bar)."""
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     title_font = font(66, title)
@@ -396,7 +400,7 @@ def hook_overlay(number, title):
     draw = ImageDraw.Draw(layer)
     for i, line in enumerate(lines):
         draw.text((W / 2, top + 22 + 86 * i + 43), line, font=title_font, fill=(255, 255, 255, 255), anchor="mm")
-    tag = CUSTOMER_NUMBER.format(number=number)
+    tag = tag or CUSTOMER_NUMBER.format(number=number)
     tag_font = font(38, tag)
     tag_w = int(tag_font.getlength(tag) + 50)
     draw.rounded_rectangle(((W - tag_w) / 2, top - 34, (W + tag_w) / 2, top + 30), 32, fill=(255, 176, 50, 255))
@@ -404,20 +408,37 @@ def hook_overlay(number, title):
     return layer
 
 
-def end_overlay():
+def end_overlay(texts=None):
+    line1, line2, line3 = texts or (END_TEXT_1, END_TEXT_2, END_TEXT_3)
     layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     panel = rounded_panel((820, 330), 44, (18, 12, 8, 215))
     draw = ImageDraw.Draw(panel)
-    draw.text((410, 95), END_TEXT_1, font=fitted_font(END_TEXT_1, 84, 740), fill=(255, 190, 70, 255), anchor="mm")
-    draw.text((410, 190), END_TEXT_2, font=fitted_font(END_TEXT_2, 60, 740), fill=(255, 255, 255, 255), anchor="mm")
-    draw.text((410, 272), END_TEXT_3, font=fitted_font(END_TEXT_3, 38, 740), fill=(200, 230, 225, 255), anchor="mm")
+    draw.text((410, 95), line1, font=fitted_font(line1, 84, 740), fill=(255, 190, 70, 255), anchor="mm")
+    draw.text((410, 190), line2, font=fitted_font(line2, 60, 740), fill=(255, 255, 255, 255), anchor="mm")
+    draw.text((410, 272), line3, font=fitted_font(line3, 38, 740), fill=(200, 230, 225, 255), anchor="mm")
     layer.alpha_composite(panel, ((W - 820) // 2, 1180))
     return layer
 
 
 # ---------------------------------------------------------------- timeline
 
+def build_news_timeline(episode, audios):
+    """News bulletin: Chai Bot reads every line, the camera changes shot per story."""
+    shots = [WIDE, MEDIUM, CLOSE, MEDIUM, CLOSE, MEDIUM]
+    segs, t = [], 0.4
+    for i, line in enumerate(episode["lines"]):
+        dur = audios[i].size / SR
+        segs.append({"kind": "line", "start": t, "dur": dur, "line": i, "who": "bot",
+                     "face": line.get("face", "neutral"), "cam": shots[i % len(shots)]})
+        t += dur + GAP_BETWEEN_NEWS
+    segs.append({"kind": "end", "start": t, "dur": 2.6, "face": "love", "cam": WIDE})
+    first = {"kind": "intro", "start": 0.0, "dur": 0.4, "face": "happy", "cam": WIDE}
+    return [first] + segs, t + 2.6
+
+
 def build_timeline(episode, audios):
+    if episode.get("format") == "news":
+        return build_news_timeline(episode, audios)
     segs = []
     t = 0.4
     bot_count = 0
@@ -566,8 +587,14 @@ def render(folder, out_path):
                 cards.append((start, end + 0.12, caption_card(chunk, s["who"])))
         elif s["kind"] == "loading":
             cards.append((s["start"], s["start"] + s["dur"], caption_card(wrap(LOADING_TEXT, font(60, LOADING_TEXT), 860), "bot")))
-    hook = hook_overlay(episode["number"], episode.get("title_en") or episode["title"])
-    ending = end_overlay()
+    is_news = episode.get("format") == "news"
+    if is_news:
+        hook = hook_overlay(episode["number"], episode.get("category_hi") or episode["title"], tag=NEWS_TAG)
+        ending = end_overlay(NEWS_END)
+    else:
+        hook = hook_overlay(episode["number"], episode.get("title_en") or episode["title"])
+        ending = end_overlay()
+    show_hook = SHOW_NEWS_BANNER if is_news else SHOW_TITLE
     end_start = segs[-1]["start"]
 
     # Blink times (not during loading).
@@ -644,7 +671,7 @@ def render(folder, out_path):
         img = Image.fromarray(np.clip(frame, 0, 255).astype(np.uint8), "RGB").convert("RGBA")
 
         # Overlays.
-        if SHOW_TITLE and t < end_start:
+        if show_hook and t < end_start:
             img.alpha_composite(hook)
         for start, end, card in cards:
             if start <= t < end:
