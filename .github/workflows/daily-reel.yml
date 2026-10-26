@@ -2,12 +2,15 @@ name: Daily Chai Bot Reel
 
 on:
   schedule:
-    # Three Reels a day. Each run starts ~25 minutes early because making the video
-    # takes 10-20 minutes, so they go live around 11 AM, 4 PM and 7 PM India time.
+    # Six Reels a day. Each run starts ~25 minutes early because making the video takes
+    # 10-20 minutes, so they go live around 7 AM, 10 AM, 1 PM, 3 PM, 6 PM and 8 PM India time.
     # (Times below are UTC; India = UTC + 5:30.)
-    - cron: "7 5 * * *"    # 10:37 AM IST  -> live ~11 AM
-    - cron: "7 10 * * *"   #  3:37 PM IST  -> live ~4 PM
-    - cron: "7 13 * * *"   #  6:37 PM IST  -> live ~7 PM
+    - cron: "7 1 * * *"    #  6:37 AM IST -> live ~7 AM
+    - cron: "7 4 * * *"    #  9:37 AM IST -> live ~10 AM
+    - cron: "7 7 * * *"    # 12:37 PM IST -> live ~1 PM
+    - cron: "7 9 * * *"    #  2:37 PM IST -> live ~3 PM
+    - cron: "7 12 * * *"   #  5:37 PM IST -> live ~6 PM
+    - cron: "7 14 * * *"   #  7:37 PM IST -> live ~8 PM
   workflow_dispatch:
     inputs:
       post_to_instagram:
@@ -47,6 +50,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SCRIPT_MODEL: ${{ vars.SCRIPT_MODEL }}
+          CONTENT_MODE: ${{ vars.CONTENT_MODE }}
         run: python scripts/make_reel.py
 
       - name: Save the episode script and history
