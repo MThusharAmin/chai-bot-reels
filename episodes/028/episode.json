@@ -1,0 +1,58 @@
+{
+  "number": 28,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की नई फ़िल्में",
+  "title_en": "New films in the entertainment world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "प्रभु देवा और सिमरन फ़िल्म कमल श्रीदेवी के लिए एक साथ आ रहे हैं। इस फ़िल्म का निर्माण सौंदर्या रजनीकांत कर रही हैं।",
+      "en": "Prabhu Deva and Simran are coming together for the film Kamal Sridevi. This film is produced by Soundarya Rajinikanth.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "धनुष और राजकुमार पेरियासामी की अगली फ़िल्म ओम चैप्टर एक में साई पल्लवी पुलिस अधिकारी की भूमिका में नजर आएंगी। यह एक्शन थ्रिलर फ़िल्म बीस नवंबर को सिनेमाघरों में रिलीज होगी।",
+      "en": "Sai Pallavi will be seen in the role of a police officer in Dhanush and Rajkumar Periasamy's next film Om Chapter One. This action thriller film will be released in theatres on November twenty.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नेटफ्लिक्स ने आगामी त्योहारी सीजन के लिए एक नए पारिवारिक नाटक दिलवाली दिवाली की घोषणा की है। इस फ़िल्म में कई जाने-माने कलाकार मुख्य भूमिकाओं में हैं।",
+      "en": "Netflix has announced a new family drama Dilwali Diwali for the upcoming festive season. Many well-known actors are in pivotal roles in this film.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ जुड़े रहें। धन्यवाद।",
+      "en": "Stay connected with us for tomorrow's latest news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 प्रभु देवा और सिमरन फ़िल्म कमल श्रीदेवी में एक साथ नजर आएंगे\n📽️ धनुष और राजकुमार पेरियासामी की फ़िल्म ओम चैप्टर एक बीस नवंबर को रिलीज होगी\n📺 नेटफ्लिक्स ने आगामी त्योहारी सीजन के लिए नई पारिवारिक फ़िल्म दिलवाली दिवाली की घोषणा की है\n✨ प्रतिदिन की ताजा मनोरंजन खबरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Prabhu Deva, Simran reunite for ‘Kamal Sridevi’, produced by Soundarya Rajinikanth",
+      "link": "https://www.thehindu.com/entertainment/movies/prabhu-deva-simran-kamal-sridevi-soundarya-rajinikanth-gv-prakash-kumar/article71630273.ece"
+    },
+    {
+      "title": "‘OM – Chapter 1’: Sai Pallavi is IPS Nithya Reddy in Dhanush-Rajkumar Periasamy’s next",
+      "link": "https://www.thehindu.com/entertainment/movies/om-chapter-1-sai-pallavi-ips-nithya-reddy-mammootty-dhanush-rajkumar-periasamy/article71627698.ece"
+    },
+    {
+      "title": "‘Dilwali Diwali’: Netflix announces new family-drama for festive season",
+      "link": "https://www.thehindu.com/entertainment/movies/dilwali-diwali-netflix-announces-new-family-drama-for-festive-season/article71626368.ece"
+    }
+  ]
+}
