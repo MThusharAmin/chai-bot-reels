@@ -158,5 +158,16 @@
       "https://www.thehindu.com/sci-tech/technology/moonshot-resets-subscriber-quotas-afterkimi-k31-pro-launch-issues/article71625530.ece",
       "https://www.thehindu.com/sci-tech/technology/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/article71625518.ece"
     ]
+  },
+  {
+    "number": 26,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अनुसंधान की नई खबरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece",
+      "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
+      "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
+    ]
   }
 ]

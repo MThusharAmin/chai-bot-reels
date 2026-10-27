@@ -1,0 +1,58 @@
+{
+  "number": 26,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अनुसंधान की नई खबरें",
+  "title_en": "New news of science and research",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कश्मीर के पारंपरिक चावल में जलवायु परिवर्तन से निपटने वाले जीन मिले हैं। ये किस्में पूर्वी एशिया के करीब हैं।",
+      "en": "Kashmir traditional rice has genes to fight climate change. These varieties are close to East Asia.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्रसिद्ध वैज्ञानिक अशोक सेन को ऑस्कर क्लेन पदक से सम्मानित किया गया है। यह पुरस्कार स्टॉकहोम विश्वविद्यालय द्वारा दिया जाता है।",
+      "en": "Renowned scientist Ashoke Sen has been awarded the Oskar Klein Medal. This award is given by Stockholm University.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक नए अध्ययन में इंसानी जीनों से भाषाओं की विविधता का खुलासा हुआ है। यह शोध बड़े पैमाने पर मानव प्रवास से पहले की स्थिति बताता है।",
+      "en": "A new study reveals language diversity through human genes. This research shows the situation before large scale human migration.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा विज्ञान ख़बरों के लिए हमारे पेज को फॉलो करना न भूलें।",
+      "en": "Do not forget to follow our page for tomorrow's fresh science news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🌾 कश्मीर के पारंपरिक चावल में जलवायु परिवर्तन से लड़ने वाले जीन मिले हैं\n🏆 प्रसिद्ध वैज्ञानिक अशोक सेन को ऑस्कर क्लेन पदक मिला है\n🗣️ एक नए अध्ययन में इंसानी जीनों से भाषाओं की विविधता का पता चला है\nरोज़ाना ऐसी ही विज्ञान ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "In Kashmir’s traditional rice, clues to a journey from East Asia",
+      "link": "https://www.thehindu.com/sci-tech/science/in-kashmir-traditional-rice-clues-to-a-journey-from-east-asia/article71626287.ece"
+    },
+    {
+      "title": "String theory pioneer Ashoke Sen wins Oskar Klein Medal",
+      "link": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece"
+    },
+    {
+      "title": "How people’s genes are revealing why some languages are so unique",
+      "link": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
+    }
+  ]
+}
