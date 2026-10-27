@@ -147,5 +147,16 @@
       "https://www.thehindu.com/news/cities/Visakhapatnam/telugu-brothers-steal-the-show-set-social-media-abuzz-with-finishing-act-against-new-zealand/article71621038.ece",
       "https://www.thehindu.com/sport/dominant-india-aims-to-seal-odi-series/article71620692.ece"
     ]
+  },
+  {
+    "number": 25,
+    "format": "news",
+    "category": "tech",
+    "title": "नई तकनीक और गैजेट्स की खास ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/fitbit-air-review-screenless-companion-for-easy-health-monitoring/article71615247.ece",
+      "https://www.thehindu.com/sci-tech/technology/moonshot-resets-subscriber-quotas-afterkimi-k31-pro-launch-issues/article71625530.ece",
+      "https://www.thehindu.com/sci-tech/technology/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/article71625518.ece"
+    ]
   }
 ]

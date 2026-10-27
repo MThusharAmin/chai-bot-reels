@@ -1,0 +1,58 @@
+{
+  "number": 25,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "नई तकनीक और गैजेट्स की खास ख़बरें",
+  "title_en": "Special news on new tech and gadgets",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में तेरह हजार नौ सौ নিরানব্বই रुपये में फिटबिट एयर पेश किया गया है। यह स्क्रीनलेस ट्रैकर स्वास्थ्य और नींद की निगरानी में मदद करता है।",
+      "en": "Fitbit Air has been introduced in India for 13,999 rupees. This screenless tracker helps monitor health and sleep.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "किमी के तीन दशमलव एक प्रो संस्करण के लॉन्च के बाद मूनशॉट ने सब्सक्राइबर कोटा रीसेट कर दिया है। पच्चीस प्रतिशत से कम उपयोग वाले ग्राहकों का कोटा शून्य कर दिया गया है।",
+      "en": "Moonshot has reset subscriber quotas after the launch of Kimi version 3.1 Pro. The quota for users with under 25 percent usage was reset to zero.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सुरक्षा समीक्षा के बाद ओपनएआई ने अपनी फ्रंटियर कृत्रिम बुद्धिमत्ता का प्रशिक्षण फिर से शुरू कर दिया है। इसके साथ ही उसने एक व्यापक सॉफ्टवेयर में खामी का खुलासा भी किया है।",
+      "en": "After security review, OpenAI has resumed training its frontier AI. Along with this, it has also disclosed a flaw in a widely used software.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ भारत में फिटबिट एयर स्वास्थ्य ट्रैकर तेरह हजार नौ सौ নিরানব্বই रुपये में पेश किया गया है\n⚙️ किमी के नए संस्करण के लॉन्च के बाद मूनशॉट ने सब्सक्राइबर कोटा रीसेट किया है\n💻 सुरक्षा समीक्षा के बाद ओपनएआई ने कृत्रिम बुद्धिमत्ता का प्रशिक्षण फिर से शुरू किया है\n✨ प्रतिदिन ऐसी ही ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Fitbit Air Review | Screenless companion for easy health monitoring",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/fitbit-air-review-screenless-companion-for-easy-health-monitoring/article71615247.ece"
+    },
+    {
+      "title": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
+      "link": "https://www.thehindu.com/sci-tech/technology/moonshot-resets-subscriber-quotas-afterkimi-k31-pro-launch-issues/article71625530.ece"
+    },
+    {
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "link": "https://www.thehindu.com/sci-tech/technology/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/article71625518.ece"
+    }
+  ]
+}
