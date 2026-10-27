@@ -1,0 +1,58 @@
+{
+  "number": 30,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "नवीनतम तकनीक और एआई की ख़बरें",
+  "title_en": "Latest tech and AI news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल ने नई आईपैड मिनी पेश की है। यह ए बीस प्रो चिप से लैस है और इसकी मोटाई पाँच दशमलव चार मिलीमीटर है।",
+      "en": "Apple has introduced the new iPad Mini. It is powered by the A20 Pro chip and is 5.4mm thick.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "वैज्ञानिकों ने ब्रेन रॉट इंटरनेट स्लैंग और आधुनिक जीवन पर इसके प्रभावों का गहराई से अध्ययन किया है।",
+      "en": "Scientists have taken an insightful look into the brain rot internet slang and its implications on modern life.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एन्थ्रोपिक ने अपने आरंभिक सार्वजनिक निर्गम दस्तावेज में कृत्रिम बुद्धिमत्ता के खतरों और बढ़ती बिक्री का जिक्र किया है।",
+      "en": "Anthropic pointed to AI dangers and soaring sales in its IPO filing.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए। धन्यवाद।",
+      "en": "Stay tuned with us for tomorrow's fresh news. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ एप्पल ने पतले डिज़ाइन और नए चिप के साथ नई आईपैड मिनी पेश की।\n🌐 वैज्ञानिकों ने इंटरनेट पर ब्रेन रॉट की परिघटना और इसके प्रभावों का अध्ययन किया है।\n📈 एन्थ्रोपिक ने अपने आईपीओ दस्तावेजों में कृत्रिम बुद्धिमत्ता से जुड़े खतरों और बिक्री का जिक्र किया है।\nरोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Apple launches new iPad Mini, powered by A20 Pro chip and thinner design",
+      "link": "https://www.thehindu.com/sci-tech/technology/apple-unveils-new-ipad-mini-with-thinner-design/article71630115.ece"
+    },
+    {
+      "title": "Into the “brain rot” psyche",
+      "link": "https://www.thehindu.com/children/into-the-brain-rot-psyche/article71578351.ece"
+    },
+    {
+      "title": "Anthropic points to AI dangers, soaring sales in IPO filing",
+      "link": "https://www.thehindu.com/sci-tech/technology/anthropic-points-to-ai-dangers-soaring-sales-in-ipo-filing/article71629700.ece"
+    }
+  ]
+}

@@ -202,5 +202,16 @@
       "https://www.thehindu.com/sport/cricket/ranji-trophy-steady-karnataka-builds-up-a-first-innings-lead/article71632629.ece",
       "https://www.thehindu.com/sport/cricket/ranji-trophy-centurion-shahbaz-and-shami-put-bengal-in-command/article71631748.ece"
     ]
+  },
+  {
+    "number": 30,
+    "format": "news",
+    "category": "tech",
+    "title": "नवीनतम तकनीक और एआई की ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/apple-unveils-new-ipad-mini-with-thinner-design/article71630115.ece",
+      "https://www.thehindu.com/children/into-the-brain-rot-psyche/article71578351.ece",
+      "https://www.thehindu.com/sci-tech/technology/anthropic-points-to-ai-dangers-soaring-sales-in-ipo-filing/article71629700.ece"
+    ]
   }
 ]
