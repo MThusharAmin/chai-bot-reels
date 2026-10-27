@@ -122,12 +122,17 @@ OUTPUT — reply with ONLY this JSON object:
               line is fine), then a line inviting people to follow for daily news. Do not include hashtags or sources."
 }}"""
 
-CHECK_PROMPT = """You are a strict fact-checker for a Hindi news bulletin. Compare the bulletin with the source headlines
-and summaries. Report a problem if the bulletin states ANY name, number, date, score, quote, cause or detail that is not
-supported by the sources, gets something wrong, or covers politics, religion, crime, violence, death or disasters.
-Also report any line that is not in proper Hindi (Devanagari) or that contains English letters or digits.
-Greeting and sign-off lines don't need sources.
-Reply with ONLY JSON: {"ok": true or false, "problems": ["short description", ...]}"""
+CHECK_PROMPT = """You fact-check a short Hindi news bulletin against English source headlines and summaries from
+The Hindu. The bulletin is a Hindi retelling, so these are all FINE and must NOT be reported:
+translation into Hindi, Hindi spellings of names, numbers written out as Hindi words, paraphrasing, shortening,
+leaving details out, and neutral linking words ("इसके अलावा", "आज").
+Mark a line as a problem ONLY if it:
+  - states a fact (name, number, score, date, place, result, quote, reason) that is NOT in any source story, or
+    contradicts a source; or
+  - covers politics, religion, crime, violence, death or a disaster.
+Lines 1 (greeting) and the last line (sign-off) don't need sources — mark them ok unless they state a news fact.
+Reply with ONLY JSON:
+{"lines": [{"line": 1, "ok": true, "problem": ""}, {"line": 2, "ok": false, "problem": "score 3-1 not in source"}, ...]}"""
 
 
 def fail(message):
@@ -277,30 +282,56 @@ def main():
     prompt = (f"Today's category: {category['hi']} ({category['en']}). Focus on: {category['focus']}.\n\n"
               f"Source stories from The Hindu (use only these facts):\n{story_list(stories)}")
 
+    all_sources = story_list(stories)
     feedback = ""
-    for attempt in range(1, 4):
-        reply = ask(prompt + feedback, system)
+    bulletin = None
+    for attempt in range(1, 5):
+        extra = ""
+        if attempt >= 3:  # safe mode: stick to the headline wording only
+            extra = ("\n\nSAFE MODE: for each story, only state what its HEADLINE says, in simple Hindi. "
+                     "Do not use any detail from the summaries.")
+        reply = ask(prompt + extra + feedback, system)
         try:
-            bulletin = parse_bulletin(reply, stories)
+            draft = parse_bulletin(reply, stories)
         except (ValueError, json.JSONDecodeError) as error:
             print(f"Attempt {attempt}: script didn't pass checks ({error}), asking again...")
             feedback = f"\n\nYour previous attempt was rejected: {error}. Fix this."
             continue
-        sources = story_list([stories[i] for i in bulletin["used_items"]])
-        script = "\n".join(line["text"] for line in bulletin["lines"])
-        verdict_text = ask(f"SOURCES:\n{sources}\n\nBULLETIN:\n{script}", CHECK_PROMPT)
+        numbered = "\n".join(f"{n}. {line['text']}" for n, line in enumerate(draft["lines"], 1))
+        verdict_text = ask(f"SOURCES:\n{all_sources}\n\nBULLETIN:\n{numbered}", CHECK_PROMPT)
         try:
             verdict = json.loads(verdict_text[verdict_text.find("{"): verdict_text.rfind("}") + 1])
-        except (ValueError, json.JSONDecodeError):
-            verdict = {"ok": False, "problems": ["fact-check reply unreadable"]}
-        if verdict.get("ok") is True:
+            bad = {int(v["line"]) for v in verdict.get("lines", []) if v.get("ok") is False}
+            problems = [f"line {v['line']}: {v.get('problem', '')}" for v in verdict.get("lines", [])
+                        if v.get("ok") is False]
+        except (ValueError, KeyError, TypeError, json.JSONDecodeError):
+            print(f"Attempt {attempt}: fact-check reply unreadable, trying again...")
+            continue
+        last = len(draft["lines"])
+        story_lines = list(range(2, last))  # lines between greeting and sign-off
+        if not bad:
             print("Fact-check passed.")
+            bulletin = draft
             break
-        problems = "; ".join(verdict.get("problems", []))[:600]
-        print(f"Attempt {attempt}: fact-check found problems: {problems}")
-        feedback = f"\n\nYour previous bulletin failed fact-checking: {problems}. Write it again, fixing these."
-    else:
-        fail("Couldn't produce a bulletin that passed fact-checking after 3 tries; skipping this post.")
+        print(f"Attempt {attempt}: fact-check flagged: {'; '.join(problems)[:500]}")
+        good_stories = [n for n in story_lines if n not in bad]
+        if 1 not in bad and last not in bad and len(good_stories) >= 2:
+            # Keep the stories that passed, drop the flagged ones.
+            keep = [1] + good_stories + [last]
+            positions = [story_lines.index(n) for n in good_stories]
+            draft["lines"] = [draft["lines"][n - 1] for n in keep]
+            if len(draft["used_items"]) == len(story_lines):
+                draft["used_items"] = [draft["used_items"][i] for i in positions]
+            draft["caption"] = "\n".join(
+                "🔹 " + line["text"].split("।")[0].strip() + "।" for line in draft["lines"][1:-1]
+            ) + "\nरोज़ की ताज़ा ख़बरों के लिए फ़ॉलो करें।"
+            print(f"  dropped flagged stories; posting {len(good_stories)} verified stories.")
+            bulletin = draft
+            break
+        feedback = (f"\n\nYour previous bulletin failed fact-checking: {'; '.join(problems)[:500]}. "
+                    "Write it again, fixing these. Only use facts that are clearly in the sources.")
+    if bulletin is None:
+        fail("Couldn't produce a bulletin that passed fact-checking after 4 tries; skipping this post.")
 
     used = [stories[i] for i in bulletin["used_items"]]
     tags = ["#chaibot3000", "#hindinews", "#हिंदी_समाचार", "#news"] + category["tags"]
