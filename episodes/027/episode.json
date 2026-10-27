@@ -1,0 +1,58 @@
+{
+  "number": 27,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "बेंगलुरु और हैदराबाद की अनोखी और अच्छी ख़बरें",
+  "title_en": "Good and unusual news from Bengaluru and Hyderabad",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु और हैदराबाद में एक नया संगठन काम कर रहा है। यह संस्था बचा हुआ भोजन लोगों तक पहुँचाती है।",
+      "en": "A new organization is working in Bengaluru and Hyderabad. This institution delivers surplus food to people.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दीपावली सन दो हज़ार छब्बीस के लिए विशेष उपहार बाज़ार में आ गए हैं। इनमें हाथ से बनी वस्तुएं और धूपबत्ती शामिल हैं।",
+      "en": "Special gifts for Deepavali 2026 have arrived in the market. These include handmade items and incense sticks.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु के रिचर्ड्स टाउन में कलाकार पॉल फर्नांडिस की एक गैलरी है। यहाँ जाकर शहर को एक नई दृष्टि से देखा जा सकता है।",
+      "en": "Artist Paul Fernandes has a gallery in Richards Town, Bengaluru. Visiting here allows one to see the city from a new perspective.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया इस पृष्ठ को अवश्य फॉलो करें।",
+      "en": "We will meet again tomorrow with new news. Please be sure to follow this page.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🍽️ बेंगलुरु और हैदराबाद में बचा हुआ भोजन लोगों तक पहुँचाया जा रहा है।\n🎁 दीपावली सन दो हज़ार छब्बीस के लिए विशेष हस्तशिल्प उपहार उपलब्ध हैं।\n🎨 बेंगलुरु की गैलरी में शहर को एक नई दृष्टि से देखा जा सकता है।\nकल की ताज़ा ख़बरों के लिए इस पृष्ठ को फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Meet the duo giving unsold food a second life across Bengaluru and Hyderabad",
+      "link": "https://www.thehindu.com/food/features/meet-the-duo-giving-unsold-food-a-second-life-across-bengaluru-and-hyderabad/article71626255.ece"
+    },
+    {
+      "title": "Deepavali gifting 2026: 5 indie brands with gifts that tell a story",
+      "link": "https://www.thehindu.com/life-and-style/deepavali-gifting-2026-5-indie-brands-with-gifts-that-tell-a-story/article71607007.ece"
+    },
+    {
+      "title": "An afternoon at artist Paul Fernandes’ gallery in Bengaluru",
+      "link": "https://www.thehindu.com/entertainment/art/an-afternoon-at-artist-paul-fernandes-gallery-in-bengaluru/article71611739.ece"
+    }
+  ]
+}
