@@ -1,0 +1,58 @@
+{
+  "number": 29,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी में खिलाड़ियों का शानदार प्रदर्शन",
+  "title_en": "Outstanding performances by players in Ranji Trophy",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी में दिल्ली के कप्तान ने नाबाद दो सौ दस रन बनाए। उनके साथी बल्लेबाज ने भी नाबाद डेढ़ सौ रन की पारी खेली।",
+      "en": "In the Ranji Trophy, Delhi's captain scored an unbeaten two hundred ten runs. His teammate also played an unbeaten knock of one hundred fifty runs.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कर्नाटक की टीम ने रणजी ट्रॉफी मुकाबले में मजबूत बढ़त हासिल की। तीन बल्लेबाजों ने अर्धशतक बनाकर टीम को फायदा पहुंचाया।",
+      "en": "Karnataka team gained a strong lead in the Ranji Trophy match. Three batsmen scored half-centuries to benefit the team.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "बंगाल की टीम ने भी रणजी मुकाबले में शानदार प्रदर्शन किया। एक खिलाड़ी ने शानदार शतक लगाया और गेंदबाजों ने विकेट लिए।",
+      "en": "Bengal team also performed brilliantly in the Ranji match. One player scored a brilliant century and bowlers took wickets.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रोज़ाना ताज़ा खेल ख़बरें पाने के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us to get daily fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\nरणजी ट्रॉफी में दिल्ली के खिलाड़ियों ने बड़ी पारियां खेलीं\nकर्नाटक की टीम ने रणजी मुकाबले में बढ़त बनाई\nबंगाल के खिलाड़ियों ने शानदार खेल से टीम को मजबूत किया\nरोज़ाना ताज़ा खेल ख़बरें पाने के लिए फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi",
+      "link": "https://www.thehindu.com/sport/cricket/badoni-mathur-spearhead-a-perfect-day-for-delhi/article71632089.ece"
+    },
+    {
+      "title": "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-steady-karnataka-builds-up-a-first-innings-lead/article71632629.ece"
+    },
+    {
+      "title": "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-centurion-shahbaz-and-shami-put-bengal-in-command/article71631748.ece"
+    }
+  ]
+}

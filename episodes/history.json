@@ -191,5 +191,16 @@
       "https://www.thehindu.com/entertainment/movies/om-chapter-1-sai-pallavi-ips-nithya-reddy-mammootty-dhanush-rajkumar-periasamy/article71627698.ece",
       "https://www.thehindu.com/entertainment/movies/dilwali-diwali-netflix-announces-new-family-drama-for-festive-season/article71626368.ece"
     ]
+  },
+  {
+    "number": 29,
+    "format": "news",
+    "category": "sports",
+    "title": "रणजी ट्रॉफी में खिलाड़ियों का शानदार प्रदर्शन",
+    "links": [
+      "https://www.thehindu.com/sport/cricket/badoni-mathur-spearhead-a-perfect-day-for-delhi/article71632089.ece",
+      "https://www.thehindu.com/sport/cricket/ranji-trophy-steady-karnataka-builds-up-a-first-innings-lead/article71632629.ece",
+      "https://www.thehindu.com/sport/cricket/ranji-trophy-centurion-shahbaz-and-shami-put-bengal-in-command/article71631748.ece"
+    ]
   }
 ]
