@@ -20,8 +20,8 @@ import numpy as np
 SAMPLE_RATE = 48000
 
 VOICES = {
-    # Chai Bot: male voice, a little slower than normal so every word is clear.
-    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "-20%", "pitch": "+3Hz"},
+    # Chai Bot: male voice at a brisk news-anchor pace (+0% = normal speed).
+    "bot": {"voice": "hi-IN-MadhurNeural", "rate": "+10%", "pitch": "+3Hz"},
     # Customer: always the female voice, at natural speed, so the two never sound alike.
     "customer": {"voice": "hi-IN-SwaraNeural", "rate": "+0%", "pitch": "+0Hz"},
 }

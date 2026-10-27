@@ -51,7 +51,7 @@ SHOW_TITLE = False        # True = show "Customer #N" + the problem at the top (
 SHOW_NEWS_BANNER = True   # news bulletins: show "चाय बॉट समाचार" + the category at the top
 NEWS_TAG = "चाय बॉट समाचार"
 NEWS_END = ("कल फिर मिलेंगे!", "ताज़ा ख़बरों के लिए फ़ॉलो करें", "स्रोत: द हिंदू")
-GAP_BETWEEN_NEWS = 0.7    # seconds between news stories
+GAP_BETWEEN_NEWS = 0.4    # seconds between news stories
 
 
 # ---------------------------------------------------------------- fonts
