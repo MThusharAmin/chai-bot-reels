@@ -1,0 +1,58 @@
+{
+  "number": 33,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास और बड़ी खबरें",
+  "title_en": "Special and big news from the entertainment world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत की ऑस्कर प्रविष्टि गोंधल के निर्माताओं ने वैश्विक ट्रेलर जारी कर दिया है। यह फिल्म भारत के साथ कई देशों में दोबारा रिलीज की जाएगी।",
+      "en": "The makers of India's Oscar entry Gondhal have released a global trailer. This film will be re-released in India and several countries.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रणबीर कपूर, यश और साई पल्लवी ने अमेरिका में फिल्म रामायण के विश्व प्रीमियर में हिस्सा लिया। इस बहुप्रतीक्षित फिल्म का यह आयोजन लॉस एंजिल्स में हुआ।",
+      "en": "Ranbir Kapoor, Yash and Sai Pallavi attended the world premiere of the film Ramayana in America. This event of the much-awaited film took place in Los Angeles.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ड्यून पार्ट थ्री का अंतिम ट्रेलर जारी कर दिया गया है। इस महाकाव्य फिल्म के ट्रेलर में नई कहानी की झलक देखने को मिली है।",
+      "en": "The final trailer of Dune Part Three has been released. A glimpse of the new story has been seen in the trailer of this epic film.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा मनोरंजन खबरों के लिए हमारे साथ बने रहें। चाय बॉट को फॉलो करना न भूलें।",
+      "en": "Stay tuned with us for tomorrow's fresh entertainment news. Do not forget to follow Chai Bot.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 भारत की ऑस्कर प्रविष्टि गोंधल का वैश्विक ट्रेलर जारी हुआ\n🌟 रणबीर कपूर, यश और साई पल्लवी ने रामायण के विश्व प्रीमियर में हिस्सा लिया\n📽️ ड्यून पार्ट थ्री का अंतिम ट्रेलर रिलीज किया गया\n✨ कल की मनोरंजन खबरों के लिए फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Gondhal’: Makers of India’s Oscar entry unveil global trailer ahead of theatrical re-release",
+      "link": "https://www.thehindu.com/entertainment/movies/gondhal-makers-of-indias-oscar-entry-unveil-global-trailer-ahead-of-theatrical-re-release/article71635191.ece"
+    },
+    {
+      "title": "'Ramayana': Ranbir Kapoor, Yash, and Sai Pallavi attend the film’s world premiere in US ahead of theatrical release",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-ranbir-kapoor-yash-and-sai-pallavi-attend-the-films-world-premiere-in-us-ahead-of-theatrical-release/article71634857.ece"
+    },
+    {
+      "title": "‘Dune: Part Three’ trailer: A plot against the God Emperor in epic showdown",
+      "link": "https://www.thehindu.com/entertainment/movies/dune-part-three-trailer-a-plot-against-the-god-emperor-in-epic-showdown/article71634518.ece"
+    }
+  ]
+}

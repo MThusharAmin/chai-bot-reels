@@ -235,5 +235,16 @@
       "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece",
       "https://www.thehindu.com/news/cities/bangalore/antarctica-miracle-how-india-established-its-first-scientific-base-in-the-frozen-continent/article71618910.ece"
     ]
+  },
+  {
+    "number": 33,
+    "format": "news",
+    "category": "entertainment",
+    "title": "मनोरंजन जगत की खास और बड़ी खबरें",
+    "links": [
+      "https://www.thehindu.com/entertainment/movies/gondhal-makers-of-indias-oscar-entry-unveil-global-trailer-ahead-of-theatrical-re-release/article71635191.ece",
+      "https://www.thehindu.com/entertainment/movies/ramayana-ranbir-kapoor-yash-and-sai-pallavi-attend-the-films-world-premiere-in-us-ahead-of-theatrical-release/article71634857.ece",
+      "https://www.thehindu.com/entertainment/movies/dune-part-three-trailer-a-plot-against-the-god-emperor-in-epic-showdown/article71634518.ece"
+    ]
   }
 ]
