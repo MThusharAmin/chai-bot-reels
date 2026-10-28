@@ -1,0 +1,58 @@
+{
+  "number": 35,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "नई तकनीक और कृत्रिम बुद्धिमत्ता की बड़ी ख़बरें",
+  "title_en": "Big news on new technology and artificial intelligence",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल कंपनी ने नए एम छह मैकबुक प्रो और आईमैक लॉन्च किए हैं। यह नए कंप्यूटर तेज़ कृत्रिम बुद्धिमत्ता प्रदर्शन प्रदान करेंगे।",
+      "en": "Apple company has launched the new M6 MacBook Pro and iMac. These new computers will provide faster artificial intelligence performance.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "गूगल ने जैमनी कृत्रिम बुद्धिमत्ता मॉडल द्वारा संचालित जिनी चार वर्ल्ड मॉडल पेश किया है। इसका उपयोग रचनात्मक दिशा और ऐतिहासिक दृश्यों के निर्माण में किया जा सकता है।",
+      "en": "Google has introduced the Genie 4 world model powered by Gemini AI models. It can be used for creative direction and generating historical scenarios.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चैट जीपीटी की वर्चुअल ट्राई ऑन सुविधा इस त्योहारी सीज़न में आपके फ़ोन पर ट्रायल रूम का अनुभव लाती है। यह सुविधा भारतीय खरीदारों को शादी के सीज़न के लिए मार्गदर्शन दे सकती है।",
+      "en": "ChatGPT's Virtual Try On feature brings the trial room experience to your phone this festive season. This feature can guide Indian shoppers for the wedding season.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा तकनीक और गैजेट्स की ख़बरों के लिए हमारे चैनल को फ़ॉलो करें।",
+      "en": "Follow our channel for tomorrow's fresh technology and gadgets news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n📱 एप्पल ने नए एम छह कंप्यूटर लॉन्च किए हैं जो तेज़ कृत्रिम बुद्धिमत्ता प्रदर्शन देंगे\n🤖 गूगल ने जैमनी मॉडल पर आधारित जिनी चार वर्ल्ड मॉडल पेश किया है\n👗 चैट जीपीटी की वर्चुअल ट्राई ऑन सुविधा इस त्योहारी सीज़न में फ़ोन पर ट्रायल रूम का अनुभव देगी\n✨ रोज़ाना की ताज़ा ख़बरों के लिए फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Apple launches M6 MacBook Pro and iMac, pitches faster on-device AI",
+      "link": "https://www.thehindu.com/sci-tech/technology/apple-launches-m6-macbook-pro-and-imac-pitches-faster-on-device-ai/article71634165.ece"
+    },
+    {
+      "title": "Google unveils Genie 4 world model powered by Gemini AI models",
+      "link": "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece"
+    },
+    {
+      "title": "ChatGPT’s virtual try on moves the trial room to your phone this festive season",
+      "link": "https://www.thehindu.com/life-and-style/fashion/chatgpts-virtual-try-on-moves-the-trial-room-to-your-phone-this-festive-season/article71610774.ece"
+    }
+  ]
+}

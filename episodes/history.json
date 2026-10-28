@@ -257,5 +257,16 @@
       "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-nishants-knock-an-endorsement-for-patience-and-attrition/article71636032.ece",
       "https://www.thehindu.com/sport/cricket/wpl-auction-molineux-kiran-top-earners-kashvi-scripts-history/article71637753.ece"
     ]
+  },
+  {
+    "number": 35,
+    "format": "news",
+    "category": "tech",
+    "title": "नई तकनीक और कृत्रिम बुद्धिमत्ता की बड़ी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/apple-launches-m6-macbook-pro-and-imac-pitches-faster-on-device-ai/article71634165.ece",
+      "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece",
+      "https://www.thehindu.com/life-and-style/fashion/chatgpts-virtual-try-on-moves-the-trial-room-to-your-phone-this-festive-season/article71610774.ece"
+    ]
   }
 ]
