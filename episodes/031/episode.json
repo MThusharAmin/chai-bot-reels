@@ -1,0 +1,58 @@
+{
+  "number": 31,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और प्रकृति की नई खोजें",
+  "title_en": "New discoveries in science and nature",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक नए अध्ययन के अनुसार पौधे से बना मांस पारंपरिक मांस की तुलना में अधिक प्रोटीन देता है। प्रयोगशाला परीक्षणों से यह बात सामने आई है।",
+      "en": "According to a new study, plant-based meat yields more protein compared to traditional meat. This has been revealed through laboratory tests.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नया शोध बताता है कि आपके व्यक्तित्व के बारे में डीएनए से ज़्यादा ऑनलाइन क्विज़ बताता है। वैज्ञानिकों ने इस बात की पुष्टि की है।",
+      "en": "New research shows that an online quiz reveals more about your personality than your DNA. Scientists have confirmed this.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एक नए विषय पर यह सवाल सामने आया है कि खुजली को खुजाने से इतना अच्छा क्यों लगता है। वैज्ञानिक इस रोचक विषय पर अध्ययन कर रहे हैं।",
+      "en": "On a new topic, the question has arisen as to why scratching an itch feels so good. Scientists are studying this interesting subject.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए। अपनी गरमा-गरम चाय का मज़ा लीजिए।",
+      "en": "Stay connected with us for tomorrow's fresh news. Enjoy your hot tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🌿 पौधे से बने मांस से मिलता है अधिक प्रोटीन\n🧬 डीएनए से ज़्यादा व्यक्तित्व बताता है ऑनलाइन क्विज़\n✨ खुजली को खुजाने से क्यों मिलता है अच्छा अनुभव\nरोज़ाना ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Plant-based meat yields higher share of absorbable protein than traditional meat: study",
+      "link": "https://www.thehindu.com/sci-tech/science/plant-based-meat-yields-higher-share-of-absorbable-protein-than-traditional-meat-study/article71628261.ece"
+    },
+    {
+      "title": "Your DNA says less about your personality than a short online quiz",
+      "link": "https://www.thehindu.com/sci-tech/science/your-dna-says-less-about-your-personality-than-a-short-online-quiz/article71630628.ece"
+    },
+    {
+      "title": "Why scratching an itch feel so good",
+      "link": "https://www.thehindu.com/children/why-scratching-an-itch-feel-so-good/article71519105.ece"
+    }
+  ]
+}
