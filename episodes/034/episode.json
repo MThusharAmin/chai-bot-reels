@@ -1,0 +1,58 @@
+{
+  "number": 34,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज की प्रमुख खेल समाचार",
+  "title_en": "Today's major sports news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मुकाबले में आंद्रे ने शानदार नाबाद अर्धशतक बनाया। उनके बेहतरीन प्रदर्शन से तमिलनाडु ने रोमांचक मुकाबला जीत लिया।",
+      "en": "In the Ranji Trophy match, Andre scored a brilliant unbeaten half-century. With his great performance, Tamil Nadu won the thrilling match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "निशांत ने संयम और धैर्य का परिचय देते हुए नाबाद शतक जड़ा। उनकी इस पारी ने हरियाणा की टीम की उम्मीदों को जीवित रखा है।",
+      "en": "Displaying restraint and patience, Nishant scored an unbeaten century. This innings of his has kept the hopes of the Haryana team alive.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "महिला प्रीमियर लीग की नीलामी में खिलाड़ियों पर बड़ी बोलियां लगीं। पंद्रह साल की खिलाड़ी ने सबसे कम उम्र में अनुबंध हासिल करके इतिहास रच दिया।",
+      "en": "Big bids were placed on players in the Women's Premier League auction. The fifteen-year-old player made history by securing a contract at the youngest age.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया हमारे इस पृष्ठ को फ़ॉलो करें।",
+      "en": "We will meet again tomorrow with new news. Please follow this page of ours.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 आंद्रे के शानदार प्रदर्शन से तमिलनाडु ने जीता रोमांचक मुकाबला\n🏏निशांत के नाबाद शतक से हरियाणा की उम्मीदें कायम\n🏏महिला प्रीमियर लीग की नीलामी में खिलाड़ियों पर लगी बड़ी बोलियां\nप्रतिदिन ऐसी ही खेल ख़बरों के लिए हमारे पृष्ठ को फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-andre-guides-tamil-nadu-home-in-a-tense-chase/article71635880.ece"
+    },
+    {
+      "title": "Ranji Trophy 2026: Nishant’s knock an endorsement for patience and attrition",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-nishants-knock-an-endorsement-for-patience-and-attrition/article71636032.ece"
+    },
+    {
+      "title": "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
+      "link": "https://www.thehindu.com/sport/cricket/wpl-auction-molineux-kiran-top-earners-kashvi-scripts-history/article71637753.ece"
+    }
+  ]
+}
