@@ -1,0 +1,58 @@
+{
+  "number": 32,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और प्रेरणादायक ख़बरें",
+  "title_en": "Chai Bot's Unique and Inspiring News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "तमिलनाडु के येरकॉड में एक ऐसा अनूठा घर बनाया गया है जिसकी वास्तुकला प्राकृतिक ढलान, एक मौजूदा पेड़ और बहते हुए झरने के अनुसार तैयार की गई है।",
+      "en": "In Yercaud, Tamil Nadu, a unique home has been built whose architecture is shaped by a natural slope, an existing tree, and a flowing stream.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "शेफ के दामोदरन यानी शेफ दामू को श्रद्धांजलि अर्पित की गई है जिन्होंने तमिलनाडु की पाक कला को वैश्विक मंच पर पहुंचाया और भूले हुए व्यंजनों को संजोया।",
+      "en": "Tribute has been paid to Chef K. Damodaran, known as Chef Damu, who took Tamil Nadu's culinary art to the global stage and documented forgotten dishes.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "एक नई फ़िल्म मिरेकल इन अंटार्कटिका में इस बात की कहानी बताई गई है कि कैसे भारत ने जमे हुए महाद्वीप में अपना पहला वैज्ञानिक केंद्र स्थापित किया था।",
+      "en": "A new film Miracle in Antarctica tells the story of how India established its first scientific base in the frozen continent.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। ऐसी ही और दिलचस्प ख़बरों के लिए हमारे पृष्ठ को फ़ॉलो करें।",
+      "en": "We will meet again tomorrow. Follow our page for more such interesting news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ तमिलनाडु के येरकॉड में प्रकृति के अनुसार एक अनोखा घर बनाया गया है\n🍲 दिवंगत शेफ दामू को श्रद्धांजलि दी गई जिन्होंने तमिल व्यंजनों को दुनिया तक पहुंचाया\n❄️ एक नई फ़िल्म में अंटार्कटिका में भारत के पहले वैज्ञानिक केंद्र की स्थापना की कहानी दिखाई गई है\n✨ ऐसी ही दैनिक ख़बरों के लिए फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Whispers of the Wild: A Yercaud home shaped by its natural landscape",
+      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/whispers-of-the-wild-a-yercaud-home-shaped-by-its-natural-landscape/article71499878.ece"
+    },
+    {
+      "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
+      "link": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
+    },
+    {
+      "title": "Antarctica miracle: How India established its first scientific base in the frozen continent",
+      "link": "https://www.thehindu.com/news/cities/bangalore/antarctica-miracle-how-india-established-its-first-scientific-base-in-the-frozen-continent/article71618910.ece"
+    }
+  ]
+}
