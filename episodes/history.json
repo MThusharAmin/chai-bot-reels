@@ -323,5 +323,16 @@
       "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece",
       "https://www.thehindu.com/sci-tech/technology/uber-announces-new-driver-first-initiatives-like-bike-intercity-and-whatsapp-onboarding/article71639736.ece"
     ]
+  },
+  {
+    "number": 41,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अनुसंधान की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-how-the-humble-salt-marsh-softens-the-oceans-fury/article71630237.ece",
+      "https://www.thehindu.com/sci-tech/science/genetic-tools-apomixis-breathing-fresh-life-india-staple-crops/article71635064.ece",
+      "https://www.thehindu.com/sci-tech/health/animal-experiments-what-the-new-draft-rules-allow-and-what-they-mean-for-research-explained/article71640785.ece"
+    ]
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "number": 41,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अनुसंधान की मुख्य ख़बरें",
+  "title_en": "Main News on Science and Research",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "समुद्र के किनारे पाए जाने वाले नमकीन दलदल महासागर के तेज थपेड़ों को शांत करने का काम करते हैं। यह जानकारी विज्ञान से जुड़ी एक विशेष रिपोर्ट में सामने आई है।",
+      "en": "Salt marshes along the coast work to soften the fury of ocean waves. This information came to light in a special science report.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारत की मुख्य फसलों में नई आनुवंशिक तकनीकों का उपयोग किया जा रहा है। इन तकनीकों के आने से बीज क्षेत्र में निजी कंपनियों का निवेश भी बढ़ रहा है।",
+      "en": "New genetic techniques are being used in India's staple crops. With the advent of these techniques, investment by private companies in the seed sector is also increasing.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "शोध कार्यों में जानवरों के उपयोग को लेकर नए मसौदा नियम तैयार किए गए हैं। इन नियमों का उद्देश्य अनुसंधान के दौरान जानवरों को होने वाले कष्ट को कम करना है।",
+      "en": "New draft rules have been prepared regarding the use of animals in research work. The purpose of these rules is to minimize the suffering caused to animals during research.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे साथ जुड़े रहिए। चाय का आनंद लेते रहें।",
+      "en": "Stay connected with us for tomorrow's new news. Keep enjoying tea.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ विज्ञान और अनुसंधान से जुड़ी मुख्य बातें\n\n🌿 नमकीन दलदल समुद्र की लहरों के तेज प्रभाव को कम करते हैं\n🌱 नई आनुवंशिक तकनीकों से भारत की प्रमुख फसलों में सुधार हो रहा है\n🔬 अनुसंधान में जानवरों के उपयोग को लेकर नए मसौदा नियम बनाए गए हैं\n\nरोज़ाना ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "How the humble salt marsh softens the ocean’s fury",
+      "link": "https://www.thehindu.com/sci-tech/science/science-for-all-newsletter-how-the-humble-salt-marsh-softens-the-oceans-fury/article71630237.ece"
+    },
+    {
+      "title": "New genetic tools are breathing fresh life into India’s staple crops",
+      "link": "https://www.thehindu.com/sci-tech/science/genetic-tools-apomixis-breathing-fresh-life-india-staple-crops/article71635064.ece"
+    },
+    {
+      "title": "Animal experiments, what the new draft rules allow and what they mean for research | Explained",
+      "link": "https://www.thehindu.com/sci-tech/health/animal-experiments-what-the-new-draft-rules-allow-and-what-they-mean-for-research-explained/article71640785.ece"
+    }
+  ]
+}
