@@ -1,0 +1,58 @@
+{
+  "number": 38,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "आज के मुख्य मनोरंजन समाचार",
+  "title_en": "Today's Top Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की मनोरंजन खबरों में आपका स्वागत है।",
+      "en": "Hello, welcome to entertainment news with Chai Bot.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नेटफ्लिक्स ने अभिनेता चिरंजीवी के नए टॉक शो चिरंजीवीज़ मेगावर्स की घोषणा की है। इस शो में वे तेलुगु सिनेमा के प्रमुख कलाकारों से बातचीत करेंगे।",
+      "en": "Netflix has announced a new talk show hosted by actor Chiranjeevi titled Chiranjeevi's Megaverse. In this show, he will converse with leading stars of Telugu cinema.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "धर्मशाला अंतर्राष्ट्रीय फ़िल्म महोत्सव ने पंद्रह वर्ष पूरे कर लिए हैं। यह आयोजन वैश्विक स्तर पर गैर-मुख्यधारा सिनेमा की संस्कृति को बढ़ावा देता है।",
+      "en": "The Dharamshala International Film Festival has completed fifteen years. This event promotes a culture of global non-mainstream cinema.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेत्री सयामी खेर एक भारत और रूस के संयुक्त ड्रामे से अंतर्राष्ट्रीय शुरुआत करेंगी। इस फ़िल्म का निर्देशन मैक्सिम कुज़नेत्सोव कर रहे हैं।",
+      "en": "Actress Saiyami Kher will make her international debut with an Indo-Russian drama. The film is being directed by Maksim Kuznetsov.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मनोरंजन जगत की दैनिक खबरों के लिए हमसे जुड़े रहें, धन्यवाद।",
+      "en": "Stay connected with us for daily news from the entertainment world, thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 नेटफ्लिक्स ने अभिनेता चिरंजीवी के नए टॉक शो की घोषणा की है।\n🎥 धर्मशाला अंतर्राष्ट्रीय फ़िल्म महोत्सव के पंद्रह वर्ष पूरे हुए।\n🌟 अभिनेत्री सयामी खेर भारत और रूस के संयुक्त प्रोजेक्ट से अंतर्राष्ट्रीय शुरुआत करेंगी।\nताज़ा समाचारों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Chiranjeevi’s Megaverse’: Netflix announces talk show hosted by Chiranjeevi",
+      "link": "https://www.thehindu.com/entertainment/movies/chiranjeevis-megaverse-netflix-announces-talk-show-hosted-by-chiranjeevi/article71640513.ece"
+    },
+    {
+      "title": "‘The small, unheard film is the gem’: Dharamshala International Film Festival turns 15",
+      "link": "https://www.thehindu.com/entertainment/dharamshala-international-film-festival-ritu-sarin-bina-paul-interview/article71632549.ece"
+    },
+    {
+      "title": "Saiyami Kher to make international film debut with Indo-Russian drama",
+      "link": "https://www.thehindu.com/entertainment/movies/saiyami-kher-to-make-international-film-debut-with-indo-russian-drama/article71635124.ece"
+    }
+  ]
+}
