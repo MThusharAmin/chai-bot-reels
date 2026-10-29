@@ -268,5 +268,16 @@
       "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece",
       "https://www.thehindu.com/life-and-style/fashion/chatgpts-virtual-try-on-moves-the-trial-room-to-your-phone-this-festive-season/article71610774.ece"
     ]
+  },
+  {
+    "number": 36,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और स्वास्थ्य से जुड़े नए शोध",
+    "links": [
+      "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece",
+      "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece",
+      "https://www.thehindu.com/sci-tech/energy-and-environment/taxonomic-chauvinism-rife-in-ecological-literature/article71626469.ece"
+    ]
   }
 ]

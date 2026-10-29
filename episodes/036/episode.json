@@ -1,0 +1,58 @@
+{
+  "number": 36,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और स्वास्थ्य से जुड़े नए शोध",
+  "title_en": "New Research in Science and Health",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के समाचार बुलेटिन में आपका स्वागत है। आइए आज की विज्ञान संबंधी ख़बरें सुनते हैं।",
+      "en": "Hello, welcome to Chai Bot's news bulletin. Let us listen to today's science news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "केरल में हुए एक शोध में पार्किंसंस रोग और पेट के जीवाणुओं के बीच संबंध सामने आया है। वैज्ञानिकों ने मरीज़ों और स्वस्थ लोगों के जीवाणुओं में बड़ा अंतर पाया है।",
+      "en": "A study in Kerala has revealed a link between Parkinson's disease and gut bacteria. Scientists found significant differences between the bacteria of patients and healthy individuals.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "हेपेटाइटिस बी के उपचार के लिए सी आर एम ए एक हज़ार एक नामक प्रायोगिक थेरेपी बनाई गई है। यह थेरेपी सीधे वायरस के बजाय उसके डीएनए को निष्क्रिय कर देती है।",
+      "en": "An experimental therapy named CRMA-1001 has been developed for hepatitis B. This therapy silences the viral DNA instead of targeting the virus directly.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "पारिस्थितिकी पर हुए अध्ययनों के अनुसार पक्षी और स्तनधारी जीव कुल संख्या के एक प्रतिशत से भी कम हैं। इसके बावजूद संरक्षण और शोध कार्यों में इन्हीं पर सबसे अधिक ध्यान दिया जाता है।",
+      "en": "According to ecological studies, birds and mammals comprise less than one percent of species. Despite this, they dominate both conservation and research efforts.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "विज्ञान जगत की अन्य महत्वपूर्ण जानकारियों के लिए हमसे जुड़े रहें और कल फिर मिलें।",
+      "en": "Stay connected with us for more important science updates and see you again tomorrow.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🔬 केरल के वैज्ञानिकों ने पार्किंसंस रोग और पेट के जीवाणुओं के बीच महत्वपूर्ण संबंध का पता लगाया है।\n🧬 हेपेटाइटिस बी के इलाज के लिए तैयार प्रायोगिक थेरेपी सीधे वायरस के बजाय उसके डीएनए को शांत करती है।\n🌿 एक अध्ययन के अनुसार एक प्रतिशत से कम होने के बावजूद पक्षियों और स्तनधारियों पर सर्वाधिक शोध होता है।\nदैनिक वैज्ञानिक समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+      "link": "https://www.thehindu.com/news/national/kerala/study-in-keralam-sheds-light-on-link-between-gut-bacteria-parkinsons-disease/article71638025.ece"
+    },
+    {
+      "title": "Gene therapy offers to beat hepatitis B virus by muting its DNA",
+      "link": "https://www.thehindu.com/sci-tech/science/gene-therapy-offers-to-beat-hepatitis-b-virus-by-muting-its-dna/article71635399.ece"
+    },
+    {
+      "title": "Taxonomic ‘chauvinism’ rife in ecological literature",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/taxonomic-chauvinism-rife-in-ecological-literature/article71626469.ece"
+    }
+  ]
+}
