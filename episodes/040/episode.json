@@ -1,0 +1,58 @@
+{
+  "number": 40,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "नई तकनीकी और गैजेट्स की बड़ी ख़बरें",
+  "title_en": "Big tech and gadget news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल कंपनी ने पहली बार महंगे टचस्क्रीन लैपटॉप दिखाए हैं। यह आईफोन निर्माता कंपनी की एक नई पहल है।",
+      "en": "Apple showed pricey touchscreen laptops for the first time.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "गूगल ने साइबर सुरक्षा पर केंद्रित जेमिनी चार कार्बन कृत्रिम बुद्धिमत्ता मॉडल लॉन्च किया है। यह नया मॉडल आधुनिक तकनीक पर आधारित है।",
+      "en": "Google launched Gemini 4 Carbon AI model with cybersecurity focus.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "उबर ने बाइक इंटरसिटी और व्हाट्सएप ऑनबोर्डिंग जैसी नई चालक-प्रथम पहलों की घोषणा की है। इससे चालकों को सुविधा मिलेगी।",
+      "en": "Uber announced new driver-first initiatives like Bike Intercity and WhatsApp onboarding.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा तकनीक ख़बरों के लिए हमें फॉलो करना न भूलें। धन्यवाद।",
+      "en": "Do not forget to follow us for tomorrow's fresh tech news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ एप्पल ने पहली बार महंगे टचस्क्रीन लैपटॉप दिखाए हैं\n🤖 गूगल ने साइबर सुरक्षा केंद्रित जेमिनी चार कार्बन मॉडल लॉन्च किया है\n🚗 उबर ने बाइक इंटरसिटी और व्हाट्सएप ऑनबोर्डिंग पहल की घोषणा की है\n✨ रोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Apple shows pricey touchscreen laptops, a first for the iPhone maker",
+      "link": "https://www.thehindu.com/sci-tech/technology/apple-shows-pricey-touchscreen-laptops-a-first-for-the-iphone-maker/article71638852.ece"
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+      "link": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece"
+    },
+    {
+      "title": "Uber announces new driver-first initiatives like Bike Intercity and WhatsApp onboarding",
+      "link": "https://www.thehindu.com/sci-tech/technology/uber-announces-new-driver-first-initiatives-like-bike-intercity-and-whatsapp-onboarding/article71639736.ece"
+    }
+  ]
+}
