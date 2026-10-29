@@ -1,0 +1,58 @@
+{
+  "number": 39,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी में खिलाड़ियों का शानदार प्रदर्शन",
+  "title_en": "Outstanding performances by players in Ranji Trophy",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मुकाबले में मुंबई ने हरियाणा पर दस विकेट से शानदार जीत दर्ज की। ऑफ स्पिनर कोटियन ने अपने करियर का सर्वश्रेष्ठ प्रदर्शन करते हुए आठ विकेट लिए।",
+      "en": "In the Ranji Trophy match, Mumbai registered an emphatic ten-wicket win over Haryana. Off-spinner Kotian took eight wickets with his career-best performance.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दिल्ली के कप्तान बदोनी ने झारखंड के खिलाफ मुकाबले में लगातार दूसरा दोहरा शतक बनाया। उनका मुख्य सपना भारत के लिए अंतर्राष्ट्रीय क्रिकेट खेलना है।",
+      "en": "Delhi captain Badoni scored his second consecutive double century in the match against Jharkhand. His main dream is to play international cricket for India.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कर्नाटक ने त्रिपुरा को पारी से हराकर अपने रणजी अभियान को पटरी पर लौटाया। अंतिम दिन श्रेयस ने पांच विकेट लिए जबकि तेज़ गेंदबाज़ों ने भी शुरुआती झटके दिए।",
+      "en": "Karnataka got its Ranji campaign back on track by defeating Tripura by an innings. On the final day, Shreyas took five wickets while fast bowlers also struck early.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Stay tuned with us for tomorrow's fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ रणजी ट्रॉफी में मुंबई ने हरियाणा को दस विकेट से हराया\n🏏 दिल्ली के कप्तान बदोनी ने लगाया लगातार दूसरा दोहरा शतक\n🎯 कर्नाटक ने त्रिपुरा को पारी और अंतर से दी मात\n✨ कल की ताज़ा खेल ख़बरों के लिए हमारे साथ जुड़े रहिए\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Kotian serves another reminder to the national selectors",
+      "link": "https://www.thehindu.com/sport/cricket/kotian-serves-another-reminder-to-the-national-selectors/article71641421.ece"
+    },
+    {
+      "title": "Rigorous training routine works wonders for Badoni",
+      "link": "https://www.thehindu.com/sport/cricket/rigorous-training-routine-works-wonders-for-badoni/article71641044.ece"
+    },
+    {
+      "title": "Ranji Trophy: Karnataka gets campaign back on track with an innings victory",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-karnataka-gets-campaign-back-on-track-with-an-innings-victory/article71640495.ece"
+    }
+  ]
+}
