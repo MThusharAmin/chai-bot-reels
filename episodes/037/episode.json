@@ -1,0 +1,58 @@
+{
+  "number": 37,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "आज की अच्छी और अनोखी ख़बरें",
+  "title_en": "Today's Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की अच्छी और अनोखी ख़बरों में आपका स्वागत है।",
+      "en": "Hello, welcome to Chai Bot's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नाइकी ने भारत के लिए अपना पहला विशेष रनिंग जूता वेगम रन जारी किया है। कंपनी का कहना है कि यह देश के बढ़ते धावक समुदाय के लिए बनाया गया है।",
+      "en": "Nike has launched Vegam Run, its first running shoe designed for India. The company says it is aimed at the country's growing running community.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई में कम लागत वाले छोटे कॉफ़ी कियोस्क तेज़ी से लोकप्रिय हो रहे हैं। ये काउंटर नए स्वादों और किफायती दामों के साथ कैफ़े संस्कृति को बदल रहे हैं।",
+      "en": "Compact coffee kiosks are rapidly gaining popularity across Chennai. These counters are reshaping café culture with new brews and affordable prices.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु की संस्था नेचर क्लासरूम्स ने तितलियों के प्रवास पर आधारित एक नया खेल प्रस्तुत किया है। इसका उद्देश्य खेल के माध्यम से पर्यावरण संरक्षण को बढ़ावा देना है।",
+      "en": "Bengaluru-based Nature Classrooms has released a new game on butterfly migration. Its aim is to promote environmental conservation through gaming.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ऐसी ही सकारात्मक ख़बरों के लिए हमारे साथ जुड़े रहिए, कल फिर मिलेंगे।",
+      "en": "Stay tuned with us for more such positive news, see you again tomorrow.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n👟 नाइकी ने भारत के धावकों के लिए विशेष रनिंग जूता वेगम रन पेश किया।\n☕ चेन्नई में छोटे कॉफ़ी कियोस्क शहर की कैफ़े संस्कृति को नया रूप दे रहे हैं।\n🦋 बेंगलुरु की संस्था ने तितली संरक्षण को बढ़ावा देने के लिए नया खेल जारी किया।\nरोज़ाना ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Nike launches Vegam Run, its first running shoe designed for India",
+      "link": "https://www.thehindu.com/life-and-style/fitness/nike-launches-vegam-run-its-first-running-shoe-designed-for-india/article71639719.ece"
+    },
+    {
+      "title": "Chennai’s speciality coffee kiosks reshape the city’s café culture",
+      "link": "https://www.thehindu.com/life-and-style/chennais-speciality-coffee-kiosks-reshape-the-citys-cafe-culture/article71626024.ece"
+    },
+    {
+      "title": "Bengaluru-based Nature Classrooms releases new butterfly migration game",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-based-nature-classrooms-releases-new-butterfly-migration-game/article71635481.ece"
+    }
+  ]
+}
