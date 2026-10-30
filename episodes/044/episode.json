@@ -1,0 +1,58 @@
+{
+  "number": 44,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज के मुख्य खेल समाचार",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की बड़ी खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news. Listen to today's top sports stories.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चौथे टी-ट्वेंटी मैच में न्यूज़ीलैंड ने भारत को सतासी रन से हरा दिया। न्यूज़ीलैंड ने इस मैच में भारत के ख़िलाफ़ सबसे बड़ा टी-ट्वेंटी स्कोर बनाया।",
+      "en": "In the fourth T20I, New Zealand defeated India by eighty-seven runs. New Zealand also posted the highest T20I total against India in this match.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अफ़ग़ानिस्तान के राशिद ख़ान टी-ट्वेंटी अंतरराष्ट्रीय में दो सौ विकेट लेने वाले पहले पुरुष खिलाड़ी बन गए हैं। उन्होंने यह उपलब्धि अपने एक सौ बीसवें मैच में हासिल की।",
+      "en": "Afghanistan's Rashid Khan has become the first men's player to take two hundred T20I wickets. He achieved this feat in his one hundred and twentieth match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मुंबई इंडियंस ने रॉबिन उथप्पा को अपना बल्लेबाज़ी कोच नियुक्त किया है। इसके अलावा मिचेल मैक्लेनेघन को टीम का गेंदबाज़ी कोच बनाया गया है।",
+      "en": "Mumbai Indians have appointed Robin Uthappa as their batting coach. In addition, Mitchell McClenaghan has been named the team's bowling coach.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत के ताज़ा समाचारों के लिए हमें फ़ॉलो करना न भूलें। कल फिर मिलेंगे, धन्यवाद।",
+      "en": "Do not forget to follow us for the latest sports updates. See you tomorrow, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 चौथे टी-ट्वेंटी मुक़ाबले में न्यूज़ीलैंड ने भारत को सतासी रन से मात दी।\n⭐ अफ़ग़ानिस्तान के राशिद ख़ान ने टी-ट्वेंटी अंतरराष्ट्रीय क्रिकेट में दो सौ विकेट पूरे किए।\n🧢 मुंबई इंडियंस ने रॉबिन उथप्पा को बल्लेबाज़ी कोच और मिचेल मैक्लेनेघन को गेंदबाज़ी कोच बनाया।\nरोज़ाना ताज़ा खेल ख़बरों के लिए हमें ज़रूर फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "IND vs NZ 4th T20I: Phillips, Duffy power Black Caps to 87-run win over India",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece"
+    },
+    {
+      "title": "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets",
+      "link": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece"
+    },
+    {
+      "title": "Mumbai Indians appoint Robin Uthappa as batting coach",
+      "link": "https://www.thehindu.com/sport/cricket/mumbai-indians-appoint-robin-uthappa-as-batting-coach/article71643746.ece"
+    }
+  ]
+}

@@ -356,5 +356,16 @@
       "https://www.thehindu.com/entertainment/movies/aadarsha-kutumbam-house-no47-movie-review-venkatesh-anchors-trivikrams-family-drama/article71641841.ece",
       "https://www.thehindu.com/news/national/tamil-nadu/sada-master-the-guitarist-who-opened-the-doors-of-malayalam-cinema-for-ilaiyaraaja/article71644490.ece"
     ]
+  },
+  {
+    "number": 44,
+    "format": "news",
+    "category": "sports",
+    "title": "आज के मुख्य खेल समाचार",
+    "links": [
+      "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece",
+      "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece",
+      "https://www.thehindu.com/sport/cricket/mumbai-indians-appoint-robin-uthappa-as-batting-coach/article71643746.ece"
+    ]
   }
 ]
