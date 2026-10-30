@@ -1,0 +1,58 @@
+{
+  "number": 47,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "अनोखी और प्रेरक सांस्कृतिक ख़बरें",
+  "title_en": "Unusual and Inspiring Cultural News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बांग्लादेश की ग्रीन फ़ील्ड फ़ैक्टरी ने वास्तुकला का नया उदाहरण पेश किया है। पारंपरिक आंगनों और हरियाली से सजी इस इमारत को पुरस्कार के लिए चुना गया है।",
+      "en": "Bangladesh's Green Field Factory has set a new architectural example. Decorated with traditional courtyards and greenery, this building has been chosen for the award.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "मल्लापुरम के फ़्रीस्टाइल फ़ुटबॉल खिलाड़ी मुहम्मद रिजवान को पुरस्कार मिला है। उन्हें इस सम्मान के लिए अंतरराष्ट्रीय जूरी द्वारा चुना गया है।",
+      "en": "Freestyle football player Muhammed Riswan from Malappuram has received an award. He was chosen for this honor by an international jury.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक नई प्रदर्शनी में यह दिखाया गया है कि भारतीय चित्रों ने यूरोपीय और जापानी कारीगरों को कैसे प्रेरित किया था। उन्होंने इसके आधार पर देवी देवताओं की मूर्तियां बनाई थीं।",
+      "en": "A new exhibition shows how Indian paintings inspired European and Japanese artisans. They made idols of deities based on these.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा और अनोखी ख़बरों के लिए हमारे पेज को फ़ॉलो करना न भूलें।",
+      "en": "Do not forget to follow our page for tomorrow's fresh and unusual news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ बांग्लादेश की ग्रीन फ़ील्ड फ़ैक्टरी ने वास्तुकला में नया कीर्तिमान स्थापित किया है\n⚽ फ़्रीस्टाइल फ़ुटबॉल खिलाड़ी मुहम्मद रिजवान को मिला प्रतिष्ठित अंतरराष्ट्रीय पुरस्कार\n🏺 एक नई प्रदर्शनी में सामने आया कि कैसे यूरोपीय कारीगरों ने भारतीय कला से प्रेरणा ली\n✨ रोज़ाना ऐसी ही अच्छी ख़बरों के लिए हमारे पेज को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "RIBA International Prize 2026: Bangladesh knocks it out of the park with Green Field Factory",
+      "link": "https://www.thehindu.com/society/riba-international-prize-2026-green-field-factory-bangladesh/article71641635.ece"
+    },
+    {
+      "title": "Meet freestyle footballer Muhammed Riswan, one of the two Indian creators to win the Instagram Rings 2026",
+      "link": "https://www.thehindu.com/life-and-style/meet-freestyle-footballer-muhammed-riswan-one-of-the-two-indian-creators-to-win-the-instagram-rings-2026/article71643896.ece"
+    },
+    {
+      "title": "When Hindu gods took shape in European porcelain",
+      "link": "https://www.thehindu.com/entertainment/art/anil-relia-porcelain-the-lithographic-mold-indian-lithographs-porcelain-figurines-lalbhai-dalpatbhai-museum/article71606381.ece"
+    }
+  ]
+}
