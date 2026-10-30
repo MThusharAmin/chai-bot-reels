@@ -1,0 +1,58 @@
+{
+  "number": 46,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Big science and space news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष अनुसंधान संगठन एनवीएस शून्य तीन उपग्रह ले जाने वाले जीएसएलवी एफ अट्ठारह को लॉन्च करने के लिए तैयार है। इसकी उलटी गिनती जारी है।",
+      "en": "ISRO is set to launch GSLV-F18 carrying navigation satellite NVS-03. Countdown is progressing.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय वैज्ञानिकों ने पौधों की चेतावनी प्रणाली में एक नया द्वार खोज लिया है। इससे फसल सुरक्षा में मदद मिल सकती है।",
+      "en": "Indian scientists find new gateway in plants alarm system. This could help in crop protection.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कृत्रिम बुद्धिमत्ता विशेषज्ञों को असली और नकली रेम्ब्रांड कलाकृति में अंतर करने में मदद कर सकती है। यह नया शोध सामने आया है।",
+      "en": "Artificial intelligence can help experts tell a real Rembrandt from a fake. This new research has emerged.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे पेज को अवश्य फ़ॉलो करें। चाय का आनंद लेते रहें।",
+      "en": "Be sure to follow our page for tomorrow's new news. Keep enjoying your tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ भारतीय अंतरिक्ष अनुसंधान संगठन जीएसएलवी एफ अट्ठारह और एनवीएस शून्य तीन उपग्रह लॉन्च करने के लिए तैयार है\n🌿 भारतीय वैज्ञानिकों ने पौधों की चेतावनी प्रणाली में एक नया द्वार खोजा है\n🎨 कृत्रिम बुद्धिमत्ता असली और नकली कलाकृति की पहचान में मदद कर सकती है\n प्रतिदिन ऐसी ही ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "ISRO set to launch GSLV-F18 carrying navigation satellite NVS-03 | LIVE",
+      "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece"
+    },
+    {
+      "title": "Indian scientists find new gateway in plants’ alarm system",
+      "link": "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece"
+    },
+    {
+      "title": "AI can help experts tell a real Rembrandt from a fake",
+      "link": "https://www.thehindu.com/sci-tech/science/ai-can-help-experts-tell-a-real-rembrandt-from-a-fake/article71638995.ece"
+    }
+  ]
+}

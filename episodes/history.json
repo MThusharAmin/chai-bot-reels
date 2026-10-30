@@ -378,5 +378,16 @@
       "https://www.thehindu.com/sci-tech/technology/amazon-cuts-more-jobs-in-devices-unit-after-flurry-of-product-rollouts/article71638857.ece",
       "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
     ]
+  },
+  {
+    "number": 46,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/isro-gslv-f18-nvs-03-navigation-satellite-launch-sriharikota-october-30-2026-live-updates/article71645088.ece",
+      "https://www.thehindu.com/sci-tech/science/indian-scientists-find-new-gateway-in-plants-alarm-system/article71639981.ece",
+      "https://www.thehindu.com/sci-tech/science/ai-can-help-experts-tell-a-real-rembrandt-from-a-fake/article71638995.ece"
+    ]
   }
 ]
