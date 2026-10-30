@@ -1,0 +1,58 @@
+{
+  "number": 43,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "आज के मुख्य मनोरंजन समाचार",
+  "title_en": "Today's Top Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के बुलेटिन में आपका स्वागत है। आज के मुख्य मनोरंजन समाचार सुनिए।",
+      "en": "Hello and welcome to Chai Bot's bulletin. Listen to today's top entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "निर्माता भूषण कुमार और अभिनेता ऋषभ शेट्टी छत्रपति शिवाजी महाराज पर दो भागों की जीवनी फ़िल्म बना रहे हैं। संदीप सिंह के निर्देशन वाली यह फ़िल्म अभी निर्माण पूर्व चरण में है।",
+      "en": "Producer Bhushan Kumar and actor Rishab Shetty are teaming up for a two-part biopic on Chhatrapati Shivaji Maharaj. Directed by Sandeep Singh, the film is currently in pre-production.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक त्रिविक्रम की नई पारिवारिक फ़िल्म आदर्श कुटुंबम हाउस नंबर सैंतालीस में अभिनेता वेंकटेश मुख्य भूमिका में हैं। यह फ़िल्म मनोरंजक मोड़ों के साथ पारिवारिक ताने-बाने को दर्शाती है।",
+      "en": "Director Trivikram's new family film 'Aadarsha Kutumbam-House No. 47' stars actor Venkatesh in the lead role. The film depicts a family narrative filled with entertaining twists.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "संगीतकार और गीतकार गंगई अमरन ने गिटार वादक सदा मास्टर की भूमिका को याद किया है। उन्होंने बताया कि सदा मास्टर ने ही उन्हें और इलैयाराजा को मलयालम सिनेमा से जोड़ा था।",
+      "en": "Music director and lyricist Gangai Amaran recalled the role of guitarist Sada Master. He shared that Sada Master introduced him and Ilaiyaraaja to Malayalam cinema.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रोज़ाना की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए। धन्यवाद।",
+      "en": "Stay connected with us for daily news updates. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 भूषण कुमार और ऋषभ शेट्टी छत्रपति शिवाजी महाराज पर दो भागों की बायोपिक बनाएंगे।\n🎭 वेंकटेश और निर्देशक त्रिविक्रम की पारिवारिक फ़िल्म 'आदर्श कुटुंबम' चर्चा में है।\n🎵 गंगई अमरन ने गिटार वादक सदा मास्टर के योगदान को याद किया।\nदैनिक समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Bhushan Kumar joins Rishab Shetty for two-part biopic on Chhatrapati Shivaji Maharaj",
+      "link": "https://www.thehindu.com/entertainment/movies/bhushan-kumar-joins-rishab-shetty-for-two-part-biopic-on-chhatrapati-shivaji-maharaj/article71644551.ece"
+    },
+    {
+      "title": "‘Aadarsha Kutumbam-House No.47’ movie review: Venkatesh anchors Trivikram’s predictable yet entertaining family drama",
+      "link": "https://www.thehindu.com/entertainment/movies/aadarsha-kutumbam-house-no47-movie-review-venkatesh-anchors-trivikrams-family-drama/article71641841.ece"
+    },
+    {
+      "title": "Sada ‘Master’, the guitarist who opened the doors of Malayalam cinema for Ilaiyaraaja",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/sada-master-the-guitarist-who-opened-the-doors-of-malayalam-cinema-for-ilaiyaraaja/article71644490.ece"
+    }
+  ]
+}
