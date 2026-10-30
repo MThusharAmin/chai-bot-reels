@@ -1,0 +1,58 @@
+{
+  "number": 45,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की मुख्य ख़बरें",
+  "title_en": "Main Tech and Gadgets News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इंस्टाग्राम ने लंबे और क्षैतिज वीडियो पर काम शुरू किया है। इससे सोशल मीडिया पर वीडियो देखने का तरीका बदल जाएगा।",
+      "en": "Instagram has started working on long and horizontal videos. This will change how videos are viewed on social media.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "उत्पादों को बाजार में लाने के बाद अमेज़न ने छंटनी की है। कंपनी ने अपने डिवाइस विभाग में कुछ पदों को समाप्त कर दिया है।",
+      "en": "Amazon has made cuts after rolling out products. The company has eliminated some roles in its devices unit.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "माइक्रोसॉफ्ट ने अपने कर्मचारियों को स्वैच्छिक विदाई की पेशकश की है। एज़र क्लाउड व्यवसाय के कारण कंपनी ने उम्मीद से बेहतर प्रदर्शन किया है।",
+      "en": "Microsoft has offered voluntary exits to its employees. The company performed better than expected due to the Azure cloud business.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा तकनीक और गैजेट्स की ख़बरों के लिए हमें फॉलो करना न भूलें।",
+      "en": "Do not forget to follow us for tomorrow's fresh tech and gadgets news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ इंस्टाग्राम लंबे और क्षैतिज वीडियो के परीक्षण पर काम कर रहा है\n☕ अमेज़न ने अपने डिवाइस विभाग में कुछ पदों को समाप्त कर दिया है\n☕ एज़र क्लाउड व्यवसाय के बल पर माइक्रोसॉफ्ट ने बेहतर प्रदर्शन किया है\nरोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Would you watch a 90-minute-long video on Instagram?",
+      "link": "https://www.thehindu.com/sci-tech/technology/would-you-watch-a-90-minute-long-video-on-instagram/article71644021.ece"
+    },
+    {
+      "title": "Amazon cuts more jobs, in devices unit, after flurry of product rollouts",
+      "link": "https://www.thehindu.com/sci-tech/technology/amazon-cuts-more-jobs-in-devices-unit-after-flurry-of-product-rollouts/article71638857.ece"
+    },
+    {
+      "title": "Microsoft beats expectations fueled by Azure cloud business",
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
+    }
+  ]
+}

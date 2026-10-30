@@ -367,5 +367,16 @@
       "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece",
       "https://www.thehindu.com/sport/cricket/mumbai-indians-appoint-robin-uthappa-as-batting-coach/article71643746.ece"
     ]
+  },
+  {
+    "number": 45,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक और गैजेट्स की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/would-you-watch-a-90-minute-long-video-on-instagram/article71644021.ece",
+      "https://www.thehindu.com/sci-tech/technology/amazon-cuts-more-jobs-in-devices-unit-after-flurry-of-product-rollouts/article71638857.ece",
+      "https://www.thehindu.com/sci-tech/technology/microsoft-beats-expectations-fueled-by-azure-cloud-business/article71638844.ece"
+    ]
   }
 ]
