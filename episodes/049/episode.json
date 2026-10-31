@@ -1,0 +1,58 @@
+{
+  "number": 49,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी में शानदार मुकाबले",
+  "title_en": "Exciting matches in Ranji Trophy",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot's news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मुकाबले में मुंबई की टीम ने शानदार जीत हासिल की। गेंदबाज कोटियान ने शानदार प्रदर्शन करते हुए ग्यारह विकेट अपने नाम किए।",
+      "en": "In the Ranji Trophy match, Mumbai team achieved a brilliant win. Bowler Kotian made a great performance taking eleven wickets.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक अन्य रणजी मुकाबले में विदर्भ की टीम ने गोवा को करारी शिकस्त दी। विदर्भ के खिलाड़ियों ने मैच में बेहतरीन खेल का प्रदर्शन किया।",
+      "en": "In another Ranji match, Vidarbha team crushed Goa. Vidarbha players displayed great game in the match.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "इसके अलावा बंगाल की टीम ने भी मुकाबले में शानदार जीत पूरी की। केरल की टीम इस मैच में पीछे रह गई।",
+      "en": "Apart from this, Bengal team also completed a resounding win in the match. Kerala team lagged behind in this match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करना न भूलें।",
+      "en": "Do not forget to follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 रणजी ट्रॉफी में मुंबई की टीम ने शानदार जीत दर्ज की\n🏆 विदर्भ की टीम ने गोवा के खिलाफ बड़ी जीत हासिल की\n🎯 बंगाल की टीम ने भी मुकाबले में बेहतरीन प्रदर्शन कर जीत पूरी की\nकल की ताज़ा खेल ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Kotian caps a career-best haul to set up Mumbai’s win",
+      "link": "https://www.thehindu.com/sport/cricket/kotian-caps-a-career-best-haul-to-set-up-mumbais-win/article71640337.ece"
+    },
+    {
+      "title": "Ranji Trophy: Vidarbha crushes Goa",
+      "link": "https://www.thehindu.com/sport/vidarbha-crushes-goa/article71642290.ece"
+    },
+    {
+      "title": "Ranji Trophy: Bengal completes a resounding win as Kerala capitulates",
+      "link": "https://www.thehindu.com/sport/bengal-completes-a-resounding-win-as-kerala-capitulates/article71640358.ece"
+    }
+  ]
+}
