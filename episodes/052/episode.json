@@ -1,0 +1,58 @@
+{
+  "number": 52,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "भारतीय घरों में शिल्प और टिकाऊ सजावट",
+  "title_en": "Craft and durable decor in Indian homes",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय रियल एस्टेट बाज़ार में टिकाऊ पेंट लोकप्रिय हो रहे हैं। इन उत्पादों का मुख्य उद्देश्य मौसम से बचाव और बेहतर इमारत प्रदर्शन है।",
+      "en": "Durable paints are becoming popular in the Indian real estate market. The main focus of these products is weather protection and better building performance.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "त्योहारों की सजावट के लिए भारतीय शिल्प को नए रूपों में ढाला जा रहा है। डिजाइनर पारंपरिक कला को समकालीन घरों के लिए पुनर्कल्पित कर रहे हैं।",
+      "en": "Indian craft is being shaped into new forms for festive decoration. Designers are reimagining traditional art for contemporary homes.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "दीपावली के उपहारों के लिए कोयंबटूर में मिलेट मिठाई से लेकर चॉकलेट तक उपलब्ध हैं। घरेलू ब्रांडों के ये उपहार हर किसी की पसंद का ध्यान रखते हैं।",
+      "en": "From millet sweets to chocolates are available in Coimbatore for Diwali gifts. These gifts from home-grown brands cater to everyone's preference.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया हमें फ़ॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow with new news. Please do not forget to follow us.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\nभारतीय रियल एस्टेट बाज़ार में टिकाऊ और मौसम प्रतिरोधी पेंट की मांग बढ़ रही है।\nडिजाइनर पारंपरिक भारतीय शिल्प को समकालीन घरों की सजावट के लिए नए रूपों में ढाल रहे हैं।\nकोयंबटूर में दीपावली के उपहारों के लिए मिलेट की मिठाइयों से लेकर चॉकलेट तक कई विकल्प मौजूद हैं।\nप्रतिदिन की ऐसी ही रोचक ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Why durable paints are gaining ground in India’s real estate market",
+      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/why-durable-paints-are-gaining-ground-in-indias-real-estate-market/article71614788.ece"
+    },
+    {
+      "title": "Festive home decor: How Indian craft is finding new forms",
+      "link": "https://www.thehindu.com/life-and-style/luxury/festive-home-decor-how-indian-craft-is-finding-new-forms/article71635883.ece"
+    },
+    {
+      "title": "Deepavali gift hampers in Coimbatore: From millet sweets to artisanal chocolates",
+      "link": "https://www.thehindu.com/food/features/deepavali-gift-hampers-in-coimbatore-from-millet-sweets-to-artisanal-chocolates/article71643886.ece"
+    }
+  ]
+}
