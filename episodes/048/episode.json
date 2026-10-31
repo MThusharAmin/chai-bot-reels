@@ -1,0 +1,58 @@
+{
+  "number": 48,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की मुख्य ताज़ा ख़बरें",
+  "title_en": "Top Entertainment News Updates Today",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज के मुख्य मनोरंजन समाचार सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's top entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेत्री श्रद्धा कपूर की फ़िल्म ईथा का ट्रेलर जारी हो गया है। लक्ष्मण उतेकर द्वारा निर्देशित यह फ़िल्म चार दिसंबर को सिनेमाघरों में प्रदर्शित होगी।",
+      "en": "The trailer of actress Shraddha Kapoor's film Eetha has been released. Directed by Laxman Utekar, the film will hit theatres on December fourth.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "जेन ऑस्टिन के पहले उपन्यास पर आधारित फ़िल्म सेंस एंड सेंसिबिलिटी में डेज़ी एडगर-जोन्स नज़र आई हैं। इसमें रीजेंसी इंग्लैंड का दौर दिखाया गया है।",
+      "en": "Daisy Edgar-Jones stars in the film Sense and Sensibility, an adaptation of Jane Austen's debut novel set in Regency England.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेता इयान मैकेलन ने अपने मित्र पैट्रिक स्टीवर्ट के सम्मान में एक लंबा संदेश लिखा है। उन्होंने अपनी पुरानी मित्रता को याद करते हुए स्टीवर्ट की सराहना की।",
+      "en": "Actor Ian McKellan penned a long tribute note to his friend Patrick Stewart, recalling their enduring friendship and praising him.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "आज के मनोरंजन समाचारों में इतना ही। कल की ताज़ा ख़बरों के लिए हमारे साथ ज़रूर जुड़ें।",
+      "en": "That is all for today's entertainment news. Do join us tomorrow for the latest updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 श्रद्धा कपूर की फ़िल्म 'ईथा' का ट्रेलर रिलीज़ हुआ, फ़िल्म चार दिसंबर को सिनेमाघरों में आएगी।\n🎭 जेन ऑस्टिन के उपन्यास पर बनी फ़िल्म 'सेंस एंड सेंसिबिलिटी' में डेज़ी एडगर-जोन्स मुख्य भूमिका में दिखीं।\n🤝 अभिनेता इयान मैकेलन ने पैट्रिक स्टीवर्ट के सम्मान में संदेश लिखकर अपनी मित्रता को याद किया।\nदैनिक समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Eetha’ trailer: Shraddha Kapoor adds charm to the life of Lavani legend in biopic",
+      "link": "https://www.thehindu.com/entertainment/movies/eetha-trailer-shraddha-kapoor-adds-charm-to-the-life-of-lavani-legend-in-biopic/article71644738.ece"
+    },
+    {
+      "title": "‘Sense and Sensibility’ movie review: Daisy Edgar-Jones shines in this genteel persuasion",
+      "link": "https://www.thehindu.com/entertainment/movies/sense-and-sensibility-movie-review-daisy-edgar-jones-shines-in-this-genteel-persuasion/article71643648.ece"
+    },
+    {
+      "title": "Ian McKellan pens long note as tribute to Patrick Stewart",
+      "link": "https://www.thehindu.com/entertainment/movies/ian-mckellan-pens-long-note-as-tribute-to-patrick-stewart/article71643778.ece"
+    }
+  ]
+}
