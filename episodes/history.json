@@ -422,5 +422,16 @@
       "https://www.thehindu.com/sport/vidarbha-crushes-goa/article71642290.ece",
       "https://www.thehindu.com/sport/bengal-completes-a-resounding-win-as-kerala-capitulates/article71640358.ece"
     ]
+  },
+  {
+    "number": 50,
+    "format": "news",
+    "category": "tech",
+    "title": "चाय बॉट की तकनीकी और गैजेट्स ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/lava-to-increase-smartphone-prices-by-up-to-3000/article71648438.ece",
+      "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-publishers-new-way-to-block-some-scraping/article71648159.ece",
+      "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece"
+    ]
   }
 ]
