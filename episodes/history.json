@@ -433,5 +433,16 @@
       "https://www.thehindu.com/sci-tech/technology/ai-giants-promise-publishers-new-way-to-block-some-scraping/article71648159.ece",
       "https://www.thehindu.com/news/international/new-york-restricts-ai-chatbot-interactions-with-children-explained/article71644287.ece"
     ]
+  },
+  {
+    "number": 51,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece",
+      "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+      "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece"
+    ]
   }
 ]

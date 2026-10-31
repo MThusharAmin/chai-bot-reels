@@ -1,0 +1,58 @@
+{
+  "number": 51,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main News of Science and Space",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष से जुड़ी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु की एक स्टार्टअप कंपनी प्राणोस फ्यूजन वर्ष दो हज़ार सत्ताईस तक अपने पहले निजी तौर पर निर्मित परमाणु संलयन रिएक्टर के डिज़ाइन को अंतिम रूप दे सकती है।",
+      "en": "Bengaluru startup Pranos Fusion could finalize designs for its first privately built nuclear fusion reactor by 2027.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष अनुसंधान संगठन ने तीस अक्टूबर दो हज़ार छब्बीस को सतीश धवन अंतरिक्ष केंद्र से एनवीएस शून्य तीन नेविगेशन उपग्रह सफलतापूर्वक लॉन्च किया।",
+      "en": "The Indian Space Research Organisation successfully launched the NVS-03 navigation satellite from Satish Dhawan Space Centre on October 30, 2026.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "शोधकर्ताओं ने ब्राउन बुलहेड कैटफ़िश में मेलेनोमा का अध्ययन किया है, जिससे मानव शरीर द्वारा प्रत्यारोपित अंग को अस्वीकार करने से रोकने में मदद मिल सकती है।",
+      "en": "Researchers studied melanoma in brown bullhead catfish, which could help reveal clues to keeping a human body from rejecting a transplanted organ.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ बेंगलुरु की स्टार्टअप कंपनी प्राणोस फ्यूजन वर्ष दो हज़ार सत्ताईस में संलयन रिएक्टर के डिज़ाइन को अंतिम रूप दे सकती है।\n🚀 भारतीय अंतरिक्ष अनुसंधान संगठन ने सतीश धवन अंतरिक्ष केंद्र से एनवीएस शून्य तीन नेविगेशन उपग्रह सफलतापूर्वक लॉन्च किया है।\n🔬 शोधकर्ताओं ने कैटफ़िश में मेलेनोमा का अध्ययन किया है जिससे अंग प्रत्यारोपण में मदद मिल सकती है।\n👍 विज्ञान और अंतरिक्ष की दैनिक ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "India’s first fusion power company takes key steps",
+      "link": "https://www.thehindu.com/sci-tech/science/indias-first-fusion-power-company-takes-key-steps/article71649266.ece"
+    },
+    {
+      "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+      "link": "https://www.thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece"
+    },
+    {
+      "title": "Scientists unearth new instance of ‘contagious cancer’ in animals",
+      "link": "https://www.thehindu.com/sci-tech/science/scientists-unearth-new-instance-of-contagious-cancer-in-animals/article71604404.ece"
+    }
+  ]
+}
