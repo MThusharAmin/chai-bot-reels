@@ -1,0 +1,58 @@
+{
+  "number": 53,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन और कला की ताज़ा ख़बरें",
+  "title_en": "Fresh Entertainment and Arts News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय दर्शक चीनी नाटकों की तरफ आकर्षित हो रहे हैं। इन कहानियों में मजबूत महिला पात्र और आम जीवन को दिखाया जा रहा है.",
+      "en": "Indian audiences are drawn towards Chinese dramas. These stories show strong female characters and everyday life.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कीर्ति सुरेश और राधिका आप्टे की वेब सिरीज़ अक्का रिलीज़ हो चुकी है। इस सिरीज़ में दोनों अभिनेत्रियों के अभिनय की प्रशंसा की गई है.",
+      "en": "Web series Akka starring Keerthy Suresh and Radhika Apte has been released. The acting of both actresses is praised in this series.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दिल्ली के वार्षिक संगीत समारोह में शास्त्रीय संगीत पर एक विशेष प्रस्तुति दी गई। इस आयोजन में फोटोग्राफर अविनाश पाशरिचा की तस्वीरें दिखाई गईं.",
+      "en": "A special presentation on classical music was held at Delhi's annual music festival. Photographs by Avinash Pasricha were shown in this event.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "चाय का आनंद लीजिए और कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Enjoy your tea and stay tuned with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n☕ भारतीय दर्शक चीनी नाटकों की ओर आकर्षित हो रहे हैं\n🎭 कीर्ति सुरेश और राधिका आप्टे की सिरीज़ अक्का में दमदार अभिनय देखने को मिला है\n🎵 दिल्ली के संगीत समारोह में शास्त्रीय संगीत की यात्रा को चित्रों के माध्यम से दिखाया गया\n✨ कल की ताज़ा ख़बरों के लिए हमें फॉलो करना न भूलें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Why India is falling for C-dramas",
+      "link": "https://www.thehindu.com/entertainment/movies/chinese-dramas-india-is-falling-for-c-dramas-the-early-spring-pursuit-of-jade-irreplaceable/article71582343.ece"
+    },
+    {
+      "title": "‘Akka’ series review: Sisters in arms, Keerthy Suresh and Radhika Apte hold a mirror to absolute power",
+      "link": "https://www.thehindu.com/entertainment/movies/akka-series-review-sisters-in-arms-keerthy-suresh-and-radhika-apte-hold-a-mirror-to-absolute-power/article71645081.ece"
+    },
+    {
+      "title": "Vishnu Digambar Jayanti 2026: Revisiting five decades of Hindustani music through rare images",
+      "link": "https://www.thehindu.com/entertainment/music/vishnu-digambar-jayanti-2026-revisiting-five-decades-of-hindustani-music-through-rare-images/article71644776.ece"
+    }
+  ]
+}
