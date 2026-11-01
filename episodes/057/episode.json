@@ -1,0 +1,58 @@
+{
+  "number": 57,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "कला, पुनर्चक्रण और पर्यटन की सकारात्मक ख़बरें",
+  "title_en": "Positive news of art, upcycling and tourism",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के बुलेटिन में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's bulletin. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय डिज़ाइन स्टूडियो अनोखे हस्तनिर्मित उपहार प्रस्तुत कर रहे हैं। हाथ से रंगे बर्तनों और कलात्मक दीपकों से स्थानीय कारीगरों को बढ़ावा मिल रहा है।",
+      "en": "Indian design studios are presenting unique handcrafted gifts. Local artisans are being celebrated through hand-painted platters and artistic lamps.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "मुंबई की एक प्रदर्शनी में कपड़ों के कतरनों से नए वस्त्र बनाए गए हैं। डिज़ाइनर करिश्मा शाहनी खान ने पारंपरिक शिल्प और पुनर्चक्रण को प्रदर्शित किया है।",
+      "en": "In a Mumbai showcase, new garments have been made from textile waste. Designer Karishma Shahani Khan has highlighted traditional crafts and upcycling.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "श्रीलंका के पर्यटन क्षेत्र ने विदेशी सैलानियों की आमद में तेज़ी दर्ज की है। कोलंबो ने कठिन परिस्थितियों के बावजूद महामारी से पहले का स्तर पार कर लिया है।",
+      "en": "Sri Lanka's tourism sector has recorded strong growth in foreign arrivals. Colombo has surpassed its pre-pandemic figures despite challenging conditions.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा और अनोखी ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Stay tuned with us for tomorrow's fresh and unusual news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ भारतीय डिज़ाइन स्टूडियो हस्तनिर्मित कला और स्थानीय कारीगरों की प्रतिभा को सामने ला रहे हैं।\n♻️ मुंबई की प्रदर्शनी में कपड़ों के कतरनों से सुंदर परिधान बनाकर पुनर्चक्रण का संदेश दिया गया।\n✈️ श्रीलंका में विदेशी पर्यटकों की संख्या ने महामारी से पहले के आँकड़ों को पीछे छोड़ दिया है।\nप्रतिदिन ऐसी सकारात्मक ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Diwali gifting 2026: Unique handcrafted finds from Indian design studios",
+      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/diwali-gifting-2026-unique-handcrafted-finds-from-indian-design-studios/article71640467.ece"
+    },
+    {
+      "title": "Karishma Shahani Khan’s TARA showcase in Mumbai explores upcycled fashion and Indian crafts",
+      "link": "https://www.thehindu.com/life-and-style/fashion/karishma-shahani-khans-tara-showcase-in-mumbai-explores-upcycled-fashion-and-indian-crafts/article71629689.ece"
+    },
+    {
+      "title": "Why Sri Lanka’s tourism is thriving amid crises while Keralam struggles to regain lost ground despite its advantages",
+      "link": "https://www.thehindu.com/news/national/kerala/why-sri-lankas-tourism-is-thriving-amid-crises-while-keralam-struggles-to-regain-lost-ground-despite-its-advantages/article71648737.ece"
+    }
+  ]
+}
