@@ -1,0 +1,58 @@
+{
+  "number": 58,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की प्रमुख ख़बरें",
+  "title_en": "Top Entertainment News Headlines",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के बुलेटिन में आपका स्वागत है। आज के मनोरंजन समाचार सुनिए।",
+      "en": "Hello and welcome to the Chai Bot bulletin. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "गायक दिलजीत दोसांझ के औरा विश्व टूर की शुरुआत दिल्ली के जवाहरलाल नेहरू स्टेडियम में हुई। बारिश के बावजूद हज़ारों प्रशंसक उनके इस संगीत कार्यक्रम में शामिल हुए।",
+      "en": "Singer Diljit Dosanjh began his Aura World Tour at Jawaharlal Nehru Stadium in Delhi. Despite the rain, thousands of fans attended his concert.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विज्ञान कथा पर आधारित वेब श्रृंखला डार्क मैटर का दूसरा सत्र जारी हो गया है। अभिनेता जोएल एडगर्टन और अभिनेत्री जेनिफर कोनेली ने इसमें मुख्य भूमिकाएं निभाई हैं।",
+      "en": "The second season of the science fiction series Dark Matter has been released. Actor Joel Edgerton and actress Jennifer Connelly lead the cast.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेता विश्वक सेन की नई थ्रिलर फ़िल्म कल्ट प्रदर्शित हो चुकी है। इस फ़िल्म में उनके शानदार अभिनय की सराहना की जा रही है।",
+      "en": "Actor Vishwak Sen's new thriller film Cult has been released. His fine acting performance in the film is receiving praise.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दैनिक समाचारों के लिए हमारे साथ जुड़े रहिए। कल फिर मिलेंगे, धन्यवाद।",
+      "en": "Stay connected with us for daily news updates. See you tomorrow, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎤 दिल्ली में दिलजीत दोसांझ के भव्य संगीत कार्यक्रम के साथ औरा विश्व टूर का आगाज़ हुआ।\n🎬 विज्ञान कथा श्रृंखला डार्क मैटर के दूसरे सत्र में जोएल एडगर्टन और जेनिफर कोनेली मुख्य भूमिकाओं में लौटे।\n🍿 अभिनेता विश्वक सेन की नई थ्रिलर फ़िल्म कल्ट सिनेमाघरों में प्रदर्शित हुई।\nरोज़ाना ताज़ा समाचारों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Rain fails to dampen spirits as thousands turn up for Diljit Dosanjh’s Delhi concert, marking beginning of Aura World Tour",
+      "link": "https://www.thehindu.com/news/cities/Delhi/rain-fails-to-dampen-spirits-as-thousands-turn-up-for-diljit-dosanjhs-delhi-concert-marking-beginning-of-aura-world-tour/article71646870.ece"
+    },
+    {
+      "title": "‘Dark Matter’ Season 2 review: Joel Edgerton and Jennifer Connelly anchor the mind-bending multiverse saga",
+      "link": "https://www.thehindu.com/entertainment/movies/dark-matter-season-2-review-joel-edgerton-and-jennifer-connelly-anchor-the-mind-bending-multiverse-saga/article71652168.ece"
+    },
+    {
+      "title": "‘#Cult’ movie review: Vishwak Sen’s slasher thriller is ambitious but lacks finesse",
+      "link": "https://www.thehindu.com/entertainment/movies/cult-movie-review-vishwak-sens-slasher-thriller-is-ambitious-but-lacks-finesse/article71644669.ece"
+    }
+  ]
+}
