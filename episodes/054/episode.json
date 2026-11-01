@@ -1,0 +1,58 @@
+{
+  "number": 54,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की प्रमुख बड़ी और खास खबरें",
+  "title_en": "Major sports highlights of the day",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दक्षिण अफ्रीका ने तीसरा टेस्ट मैच जीतकर श्रृंखला अपने नाम कर ली है। साइमन हार्मर ने शानदार प्रदर्शन करते हुए मैच में दस विकेट लिए।",
+      "en": "South Africa won the third Test to claim the series. Simon Harmer put on a brilliant performance taking ten wickets in the match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मनीषा भानवाला ने इतिहास रच दिया है। वह महिलाओं की कुश्ती में विश्व खिताब जीतने वाली भारत की पहली महिला खिलाड़ी बन गई हैं।",
+      "en": "Manisha Bhanwala has made history. She has become the first Indian woman to win a world title in women's wrestling.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "ब्राइटन ने मैनचेस्टर सिटी को मुकाबले में हरा दिया है। इस जीत के साथ ब्राइटन ने खिताब की चुनौती को और मजबूत कर लिया है।",
+      "en": "Brighton has defeated Manchester City in the match. With this win Brighton has strengthened its title challenge.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमें फ़ॉलो करना न भूलें।",
+      "en": "Do not forget to follow us for tomorrow's fresh sports news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ दक्षिण अफ्रीका ने तीसरा टेस्ट मुकाबला जीतकर श्रृंखला अपने नाम की\n🏆 मनीषा भानवाला बनीं भारत की पहली महिला कुश्ती विश्व चैंपियन\n⚽ ब्राइटन ने मैनचेस्टर सिटी को हराकर दर्ज की शानदार जीत\n\nरोज़ाना ताज़ा खेल ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Harmer the hero as South Africa clinches series win",
+      "link": "https://www.thehindu.com/sport/cricket/harmer-the-hero-as-south-africa-clinches-series-win/article71650925.ece"
+    },
+    {
+      "title": "Manisha Bhanwala: The 29-year-old who ended India’s wait for a women’s wrestling world title",
+      "link": "https://www.thehindu.com/sport/wrestler-manisha-bhanwala-profile-biography-asian-games-kazakhstan-world-championship-news/article71649354.ece"
+    },
+    {
+      "title": "Brighton stun Manchester City, 10-man Manchester United beaten by Chelsea",
+      "link": "https://www.thehindu.com/sport/football/brighton-stun-manchester-city-10-man-manchester-united-beaten-by-chelsea/article71650932.ece"
+    }
+  ]
+}
