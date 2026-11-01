@@ -477,5 +477,16 @@
       "https://www.thehindu.com/sport/wrestler-manisha-bhanwala-profile-biography-asian-games-kazakhstan-world-championship-news/article71649354.ece",
       "https://www.thehindu.com/sport/football/brighton-stun-manchester-city-10-man-manchester-united-beaten-by-chelsea/article71650932.ece"
     ]
+  },
+  {
+    "number": 55,
+    "format": "news",
+    "category": "tech",
+    "title": "आज की प्रमुख तकनीकी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece",
+      "https://www.thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece",
+      "https://www.thehindu.com/sci-tech/technology/binance-crypto-exchange-confirms-major-hack-more-than-25-billion-frozen/article71643509.ece"
+    ]
   }
 ]

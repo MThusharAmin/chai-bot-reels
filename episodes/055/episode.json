@@ -1,0 +1,58 @@
+{
+  "number": 55,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "आज की प्रमुख तकनीकी ख़बरें",
+  "title_en": "Today's Top Technology News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello and welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "गूगल की मूल कंपनी अल्फाबेट की आय में पच्चीस प्रतिशत की वृद्धि हुई है। इसके बावजूद बाज़ार के निवेशक चिंतित दिखाई दे रहे हैं।",
+      "en": "Google's parent company Alphabet saw a twenty-five percent increase in revenue. Despite this, investors appear worried.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अल्फाबेट के शेयरों में साढ़े बारह प्रतिशत से अधिक की बड़ी गिरावट दर्ज हुई है। इससे कंपनी का बाज़ार मूल्य लगभग पांच सौ अरब डॉलर कम हुआ है।",
+      "en": "Alphabet's shares recorded a sharp decline of over twelve and a half percent. This wiped out nearly five hundred billion dollars from its market value.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "क्रिप्टो मंच बिनांस ने सुरक्षा समस्या के बाद लेन-देन पर रोक लगा दी है। इस कदम से लगभग तीन अरब डॉलर की संपत्ति रोक दी गई है।",
+      "en": "Crypto platform Binance froze transactions following a security issue. Nearly three billion dollars in funds have been frozen through this move.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "तकनीक जगत की ताज़ा जानकारी के लिए हमारे साथ जुड़े रहिए। कल फिर मिलेंगे, धन्यवाद।",
+      "en": "Stay connected with us for the latest tech news. See you tomorrow, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n📈 गूगल की मूल कंपनी अल्फाबेट का राजस्व बढ़ने के बावजूद निवेशक चिंतित दिखाई दे रहे हैं।\n📉 भारी बिकवाली से अल्फाबेट का बाज़ार मूल्य लगभग पांच सौ अरब डॉलर कम हो गया।\n🔒 सुरक्षा कारणों से क्रिप्टो मंच बिनांस ने तीन अरब डॉलर की संपत्ति रोकी।\nरोज़ाना ताज़ा तकनीकी ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Why investors are worried despite Alphabet’s 25% revenue growth and Google Cloud’s revenue more than doubling | Explained",
+      "link": "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece"
+    },
+    {
+      "title": "Google’s parent company Alphabet’s shares plunge 12.6%, loses almost $500 billion in market value",
+      "link": "https://www.thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece"
+    },
+    {
+      "title": "Crypto platform Binance freezes $3 billion worth of funds after “security issue”",
+      "link": "https://www.thehindu.com/sci-tech/technology/binance-crypto-exchange-confirms-major-hack-more-than-25-billion-frozen/article71643509.ece"
+    }
+  ]
+}
