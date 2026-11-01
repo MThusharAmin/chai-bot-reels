@@ -488,5 +488,16 @@
       "https://www.thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece",
       "https://www.thehindu.com/sci-tech/technology/binance-crypto-exchange-confirms-major-hack-more-than-25-billion-frozen/article71643509.ece"
     ]
+  },
+  {
+    "number": 56,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece",
+      "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+      "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece"
+    ]
   }
 ]

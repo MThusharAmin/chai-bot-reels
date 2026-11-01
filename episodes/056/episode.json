@@ -1,0 +1,58 @@
+{
+  "number": 56,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Big science and space news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वैज्ञानिकों ने बताया है कि छतरी की छड़ में लगी स्प्रिंग ऊर्जा को कैसे संग्रहित करती है। इसे बंद करने पर स्प्रिंग में ऊर्जा संचित हो जाती है।",
+      "en": "Scientists explained how the spring in an umbrella rod stores energy. Closing it stores energy in the spring.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष अनुसंधान संगठन ने अगली पीढ़ी के उपग्रह को कक्षा में स्थापित कर दिया है। इस उपग्रह की मिशन आयु बारह वर्ष है।",
+      "en": "ISRO has placed the next-generation satellite into orbit. The mission life of this satellite is twelve years.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नासा का एक दूरबीन असफल मिशन के बाद पृथ्वी पर वापस लौटने की स्थिति में है। इसके अधिकांश हिस्से वायुमंडल में जल जाने की संभावना है।",
+      "en": "A NASA telescope is on the verge of returning to Earth after a failed mission. Most of its parts are likely to burn in the atmosphere.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहें।",
+      "en": "Stay connected with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ वैज्ञानिक विधि से छतरी में ऊर्जा संचित होती है\n🛰️ भारतीय अंतरिक्ष अनुसंधान संगठन ने नया उपग्रह कक्षा में स्थापित किया\n🔭 नासा का एक पुराना दूरबीन पृथ्वी पर वापस लौट रहा है\nरोज़ाना ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "On umbrellas, springs, and superconductivity",
+      "link": "https://www.thehindu.com/sci-tech/science/on-umbrellas-springs-and-superconductivity/article71497022.ece"
+    },
+    {
+      "title": "GSLV places next-generation navigation satellite NVS-03 into orbit",
+      "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
+    },
+    {
+      "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
+      "link": "https://www.thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece"
+    }
+  ]
+}
