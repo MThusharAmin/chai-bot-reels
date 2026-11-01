@@ -1,0 +1,58 @@
+{
+  "number": 59,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी के रोमांचक मुकाबले",
+  "title_en": "Exciting matches in Ranji Trophy",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मुकाबले में बंगाल की टीम महाराष्ट्र के खिलाफ खेलेगी। तालिका में शीर्ष पर मौजूद बंगाल की टीम अपने तीन मैचों में तीन जीत हासिल कर चुकी है।",
+      "en": "In the Ranji Trophy match, Bengal will play against Maharashtra. Bengal, top of the table, has secured three wins in three matches.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "तमिलनाडु की टीम चंडीगढ़ के खिलाफ मुकाबले के लिए उत्तर भारत की यात्रा कर रही है। मेहमान टीम ने अपने पिछले दोनों घरेलू मैच जीते हैं।",
+      "en": "The Tamil Nadu team is traveling to north India for a match against Chandigarh. The visiting team has won both its previous home matches.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "मुंबई की टीम रेलवे के खिलाफ मैदान पर उतरेगी। बयालीस बार की विजेता मुंबई लगातार तीन बड़ी जीत हासिल करने के बाद शानदार फॉर्म में है।",
+      "en": "The Mumbai team will take the field against Railways. Forty-two time champion Mumbai is in great form after securing three big wins in a row.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया कल की ख़बरें जानने के लिए फॉलो करें।",
+      "en": "Will meet again tomorrow with new news. Please follow to know tomorrow's news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 बंगाल की टीम महाराष्ट्र के खिलाफ मैदान में उतरेगी।\n🏏 तमिलनाडु की टीम चंडीगढ़ के खिलाफ मुकाबला खेलेगी।\n🏏 मुंबई की टीम रेलवे के सामने चुनौती पेश करेगी।\nरोज़ाना ताज़ा खेल समाचार पाने के लिए फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ranji Trophy: Bengal will strive to maintain winning run in its first match at the Eden",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-bengal-will-strive-to-maintain-winning-run-in-its-first-match-at-the-eden/article71653044.ece"
+    },
+    {
+      "title": "Ranji Trophy 2026-27: Bubbling Tamil Nadu travels north to meet stuttering Chandigarh",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-tamil-nadu-chandigarh-preview/article71652947.ece"
+    },
+    {
+      "title": "Ranji Trophy 2026: A buzzing Mumbai takes on floundering Railways at ‘home’",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-a-buzzing-mumbai-takes-on-floundering-railways-at-home/article71652769.ece"
+    }
+  ]
+}
