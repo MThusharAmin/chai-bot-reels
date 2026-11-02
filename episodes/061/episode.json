@@ -1,0 +1,58 @@
+{
+  "number": 61,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "अंतरिक्ष, मौसम और विज्ञान की मुख्य ख़बरें",
+  "title_en": "Top Science, Space and Weather News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Hello and welcome to Chai Bot news. Listen to today's science and space updates.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "यूरोपीय अंतरिक्ष एजेंसी के गाया मिशन ने तारों की सतह पर सुनामी जैसी विशाल हलचल खोजी है। वैज्ञानिक इन दुर्लभ कंपनों को स्टारक्वेक कह रहे हैं।",
+      "en": "The European Space Agency's Gaia mission has discovered massive tsunami-like movements on the surface of stars. Scientists are calling these rare tremors starquakes.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "वर्ष उन्नीस सौ पचास के बाद से सात भारतीय मानसून अल नीनो से प्रभावित हुए हैं। इनमें से पाँच बार वर्षा सामान्य से कम से कम दस प्रतिशत कम रही है।",
+      "en": "Since nineteen fifty, seven Indian monsoons have been affected by El Niño. In five of these, rainfall was at least ten percent below average.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "ओपन एआई और एंथ्रोपिक के अनुसार उनके कृत्रिम बुद्धिमत्ता मॉडल ने घातीय समय परिकल्पना को गलत साबित किया है। वैज्ञानिकों ने इस परिणाम पर गहरा आश्चर्य व्यक्त किया है।",
+      "en": "According to OpenAI and Anthropic, their artificial intelligence models have disproved the exponential time hypothesis. Scientists have expressed shock at this result.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "देश और दुनिया की ताज़ा ख़बरों के लिए हमसे जुड़े रहिए, कल फिर मिलेंगे।",
+      "en": "Stay tuned for the latest news from around the world, see you again tomorrow.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🪐 यूरोपीय अंतरिक्ष एजेंसी के गाया मिशन ने तारों की सतह पर सुनामी जैसी विशाल हलचलों का पता लगाया है।\n🌧️ वर्ष उन्नीस सौ पचास के बाद सात बार अल नीनो के प्रभाव से भारतीय मानसून में वर्षा प्रभावित हुई है।\n💻 ओपन एआई और एंथ्रोपिक के नए मॉडल ने घातीय समय परिकल्पना को गलत साबित किया है।\nरोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Explained | What is the Gaia space mission and what has it revealed about the Milky Way?",
+      "link": "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece"
+    },
+    {
+      "title": "Why even a strong El Niño does not guarantee a poor Indian monsoon",
+      "link": "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece"
+    },
+    {
+      "title": "Shock and regret: scientists react to AI roiling life’s work",
+      "link": "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece"
+    }
+  ]
+}

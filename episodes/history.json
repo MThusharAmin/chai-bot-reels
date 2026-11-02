@@ -541,5 +541,16 @@
     "links": [
       "https://www.thehindu.com/sci-tech/technology/meta-builds-humanoid-robot-with-chinese-startup-fourier-report/article71655217.ece"
     ]
+  },
+  {
+    "number": 61,
+    "format": "news",
+    "category": "science",
+    "title": "अंतरिक्ष, मौसम और विज्ञान की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/explained-what-is-the-gaia-space-mission-and-what-has-it-revealed-about-the-milky-way/article65527518.ece",
+      "https://www.thehindu.com/sci-tech/science/why-even-a-strong-el-nino-does-not-guarantee-a-poor-indian-monsoon/article71652226.ece",
+      "https://www.thehindu.com/sci-tech/science/shock-and-regret-scientists-react-to-ai-roiling-lifes-work/article71656158.ece"
+    ]
   }
 ]
