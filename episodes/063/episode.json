@@ -1,0 +1,58 @@
+{
+  "number": 63,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की मुख्य बड़ी खबरें",
+  "title_en": "Main major entertainment world news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन समाचार सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "यूरोपीय संघ फ़िल्म महोत्सव सन दो हज़ार छब्बीस भारत में लौट आया है। यह महोत्सव सत्ताईस देशों और यूक्रेन की अट्ठाइस पुरस्कार विजेता फ़िल्में लेकर आया है।",
+      "en": "The European Union Film Festival 2026 has returned to India. This festival has brought twenty-eight award-winning films from twenty-seven countries and Ukraine.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "शाहरुख़ ख़ान ने अपने इकसठवें जन्मदिन पर फ़िल्म किंग का पहला गाना लॉन्च कर दिया है। इस गाने को सचिन और जिगर ने संगीतबद्ध किया है और अरिजीत सिंह ने गाया है।",
+      "en": "Shah Rukh Khan has launched the first song of the film King on his sixty-first birthday. This song has been composed by Sachin and Jigar and sung by Arijit Singh.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "गायक गुब्बी ने डॉक्टर राजकुमार के उन्नीस सौ अत्तर के क्लासिक गाने को नया रूप दिया है। इस नए गाने का नाम इफ़ यू कम टुडे टू पॉइंट ओ रखा गया है।",
+      "en": "Rapper Gubbi has given a new twist to Dr. Rajkumar's 1978 classic song. This new song has been named If You Come Today 2.0.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया कल की ख़बरों के लिए हमें फॉलो करें।",
+      "en": "Will meet again tomorrow with new news. Please follow us for tomorrow's news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n☕ यूरोपीय संघ फ़िल्म महोत्सव भारत में सत्ताईस देशों और यूक्रेन की अट्ठाइस पुरस्कार विजेता फ़िल्में लेकर आया है\n☕ शाहरुख़ ख़ान ने अपने इकसठवें जन्मदिन पर फ़िल्म किंग का पहला गाना लॉन्च किया\n☕ गायक गुब्बी ने डॉक्टर राजकुमार के क्लासिक गाने को नया हिप हॉप रूप दिया है\nरोज़ाना ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "EU Film Festival 2026 to bring 28 award-winning European films to India",
+      "link": "https://www.thehindu.com/entertainment/movies/eu-film-festival-european-union-film-festival-2026-india-28-award-winning-european-films-indian-ukraine/article71656362.ece"
+    },
+    {
+      "title": "‘Tu Mil Jaye’: Shah Rukh Khan unveils first song from ‘King’ on his 61st birthday",
+      "link": "https://www.thehindu.com/entertainment/movies/tu-mil-jaye-shah-rukh-khan-unveils-first-song-from-king-on-his-61st-birthday/article71656475.ece"
+    },
+    {
+      "title": "Dr. Rajkumar’s song ‘If You Come Today’ gets a hip-hop twist, courtesy rapper Gubbi",
+      "link": "https://www.thehindu.com/entertainment/music/dr-rajkumars-song-if-you-come-today-gets-a-hip-hop-twist-courtesy-rapper-gubbi/article71644342.ece"
+    }
+  ]
+}
