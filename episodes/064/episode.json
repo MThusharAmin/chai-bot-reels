@@ -1,0 +1,58 @@
+{
+  "number": 64,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी और घरेलू क्रिकेट की मुख्य खबरें",
+  "title_en": "Main news of Ranji Trophy and domestic cricket",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मैच में प्रदोष ने शानदार नाबाद शतक लगाकर तमिलनाडु को मजबूत स्थिति में पहुँचा दिया है।",
+      "en": "In the Ranji Trophy match, Pradosh has put Tamil Nadu in a strong position by scoring a brilliant unbeaten century.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विदर्भ के लिए खेलते हुए हर्ष दुबे ने नौ विकेट हासिल किए और मध्य प्रदेश की टीम को दो सौ नौ रन पर समेट दिया।",
+      "en": "Playing for Vidarbha, Harsh Dubey took nine wickets and bundled out the Madhya Pradesh team for two hundred nine runs.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बंगाल के बल्लेबाज मैच के शुरुआती दिन संघर्ष करते नजर आए और पूरी टीम एक सौ तैंतालीस रन पर आउट हो गई।",
+      "en": "Bengal batsmen struggled on the opening day of the match and the entire team was bowled out for one hundred forty three runs.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खेल खबरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 प्रदोष के नाबाद शतक से तमिलनाडु की टीम मजबूत हुई है\n🎯 हर्ष दुबे के नौ विकेट की बदौलत विदर्भ ने शानदार प्रदर्शन किया\n📉 बंगाल की पूरी टीम एक सौ तैंतालीस रन पर आउट हो गई\nकल की खेल खबरों के लिए हमें फॉलो करना न भूलें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Pradosh’s unbeaten century powers TN",
+      "link": "https://www.thehindu.com/sport/pradoshs-unbeaten-century-powers-tn/article71657973.ece"
+    },
+    {
+      "title": "Harsh Dubey’s nine-wicket haul helps Vidarbha spin out Madhya Pradesh for 209",
+      "link": "https://www.thehindu.com/sport/harsh-dubeys-nine-wicket-haul-helps-vidarbha-spin-out-madhya-pradesh-for-209/article71657304.ece"
+    },
+    {
+      "title": "Ranji Trophy: Bengal batters come a cropper on a truncated opening day",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-bengal-batters-come-a-cropper-on-a-truncated-opening-day/article71656379.ece"
+    }
+  ]
+}

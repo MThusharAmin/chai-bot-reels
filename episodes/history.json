@@ -574,5 +574,16 @@
       "https://www.thehindu.com/entertainment/movies/tu-mil-jaye-shah-rukh-khan-unveils-first-song-from-king-on-his-61st-birthday/article71656475.ece",
       "https://www.thehindu.com/entertainment/music/dr-rajkumars-song-if-you-come-today-gets-a-hip-hop-twist-courtesy-rapper-gubbi/article71644342.ece"
     ]
+  },
+  {
+    "number": 64,
+    "format": "news",
+    "category": "sports",
+    "title": "रणजी ट्रॉफी और घरेलू क्रिकेट की मुख्य खबरें",
+    "links": [
+      "https://www.thehindu.com/sport/pradoshs-unbeaten-century-powers-tn/article71657973.ece",
+      "https://www.thehindu.com/sport/harsh-dubeys-nine-wicket-haul-helps-vidarbha-spin-out-madhya-pradesh-for-209/article71657304.ece",
+      "https://www.thehindu.com/sport/cricket/ranji-trophy-bengal-batters-come-a-cropper-on-a-truncated-opening-day/article71656379.ece"
+    ]
   }
 ]
