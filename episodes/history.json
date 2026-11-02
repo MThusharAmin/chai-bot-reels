@@ -585,5 +585,15 @@
       "https://www.thehindu.com/sport/harsh-dubeys-nine-wicket-haul-helps-vidarbha-spin-out-madhya-pradesh-for-209/article71657304.ece",
       "https://www.thehindu.com/sport/cricket/ranji-trophy-bengal-batters-come-a-cropper-on-a-truncated-opening-day/article71656379.ece"
     ]
+  },
+  {
+    "number": 65,
+    "format": "news",
+    "category": "tech",
+    "title": "कृत्रिम बुद्धिमत्ता और तकनीक से जुड़ी मुख्य खबरें",
+    "links": [
+      "https://www.thehindu.com/opinion/lead/how-ai-training-models-could-compromise-privacy/article71658179.ece",
+      "https://www.thehindu.com/sci-tech/technology/apples-new-ceo-john-ternus-to-face-first-earnings-test-as-memory-costs-surge/article71655914.ece"
+    ]
   }
 ]

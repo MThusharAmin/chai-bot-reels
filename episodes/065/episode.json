@@ -1,0 +1,54 @@
+{
+  "number": 65,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "कृत्रिम बुद्धिमत्ता और तकनीक से जुड़ी मुख्य खबरें",
+  "title_en": "Key news related to artificial intelligence and technology",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स से जुड़ी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "शोध से पता चला है कि कृत्रिम बुद्धिमत्ता के प्रशिक्षण मॉडल गोपनीयता के लिए जोखिम बन सकते हैं। इन मॉडलों से व्यक्तिगत जानकारी निकालकर लोगों की पहचान उजागर की जा सकती है।",
+      "en": "Research shows that AI training models can pose privacy risks. Personal information can be extracted from these models to identify individuals.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल कंपनी के नए मुख्य कार्यकारी अधिकारी जॉन टर्नस अपनी पहली आय परीक्षा का सामना करने जा रहे हैं। इस दौरान मेमोरी की बढ़ती लागत भी एक बड़ा विषय है।",
+      "en": "Apple's new CEO John Ternus is going to face his first earnings test. Rising memory costs are also a major topic during this time.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल अपने कृत्रिम बुद्धिमत्ता उत्पादों को अन्य प्रतिद्वंद्वी कंपनियों से अलग रूप में प्रस्तुत करने का प्रयास कर रहा है।",
+      "en": "Apple is trying to present its artificial intelligence products differently from rival companies.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पेज को अवश्य फॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's latest news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n🤖 कृत्रिम बुद्धिमत्ता के प्रशिक्षण मॉडल गोपनीयता के लिए जोखिम बन सकते हैं।\n📱 एप्पल के नए मुख्य कार्यकारी अधिकारी जॉन टर्नस अपनी पहली आय परीक्षा का सामना करेंगे।\n✨ कल की ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "How AI training models could compromise privacy",
+      "link": "https://www.thehindu.com/opinion/lead/how-ai-training-models-could-compromise-privacy/article71658179.ece"
+    },
+    {
+      "title": "Apple's new CEO John Ternus to face first earnings test as memory costs surge",
+      "link": "https://www.thehindu.com/sci-tech/technology/apples-new-ceo-john-ternus-to-face-first-earnings-test-as-memory-costs-surge/article71655914.ece"
+    }
+  ]
+}
