@@ -1,0 +1,58 @@
+{
+  "number": 62,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और अच्छी ख़बरें",
+  "title_en": "Chai Bot Good And Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई में गैट्सबी कलेक्शन ने अपने नए त्यौहारी परिधान पेश किए हैं। इन कपड़ों में पारंपरिक और आधुनिक डिजाइनों का अनोखा मेल देखने को मिलता है।",
+      "en": "In Chennai, Gatsby Collection has showcased its new festive apparel. These clothes feature a unique blend of traditional and modern designs.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "संगीतकार विष्णु रवींद्रन नायर ने न्यूयार्क शहर पर आधारित एक नया गाना जारी किया है। यह गीत इस बड़े महानगर के शांत और एकांत पहलू को दर्शाता है।",
+      "en": "Musician Vishnu Ravindran Nair has released a new song based on New York City. This song depicts the quiet and solitary side of this large metropolis.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "अल्ट्रावायलेट ने अपनी नई इलेक्ट्रिक मोटरसाइकिल एक्स सैंतीस वेनम से पर्दा उठाया है। इस नई गाड़ी में बेहतर बैटरी और उन्नत तकनीक का इस्तेमाल किया गया है।",
+      "en": "Ultraviolette has unveiled its new electric motorcycle X-47 Venom. Better battery and advanced technology have been used in this new vehicle.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "आज की ख़बरें समाप्त हुईं। कल की ताज़ा ख़बरों के लिए हमसे जुड़े रहें और चाय का आनंद लें।",
+      "en": "Today's news is concluded. Stay connected with us for tomorrow's fresh news and enjoy your tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ चेन्नई में गैट्सबी कलेक्शन ने नए त्यौहारी परिधान पेश किए हैं।\n🎵 विष्णु रवींद्रन नायर का नया गाना न्यूयार्क शहर के शांत पहलू पर आधारित है।\n🏍️ अल्ट्रावायलेट ने बेहतर तकनीक के साथ अपनी नई इलेक्ट्रिक मोटरसाइकिल पेश की है।\nरोज़ाना ऐसी ही अच्छी और अनोखी ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Gatsby Collection’s festive edits explore contemporary menswear and womenswear",
+      "link": "https://www.thehindu.com/life-and-style/fashion/gatsby-collections-festive-edits-explore-contemporary-menswear-and-womenswear/article71635144.ece"
+    },
+    {
+      "title": "Vishnu Ravindran Nair’s new single encapsulates the quieter side of New York City",
+      "link": "https://www.thehindu.com/entertainment/music/vishnu-ravindran-nairs-new-single-encapsulates-the-quieter-side-of-new-york-city/article71644382.ece"
+    },
+    {
+      "title": "Ultraviolette X-47 Venom Review: More performance, more technology and a more complete electric motorcycle",
+      "link": "https://www.thehindu.com/life-and-style/motoring/ultraviolette-x-47-venom-review-more-performance-more-technology-and-a-more-complete-electric-motorcycle/article71652333.ece"
+    }
+  ]
+}
