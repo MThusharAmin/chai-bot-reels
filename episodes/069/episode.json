@@ -1,0 +1,58 @@
+{
+  "number": 69,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी के मुकाबलों में रोमांचक प्रदर्शन",
+  "title_en": "Exciting performances in Ranji Trophy matches",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मुकाबले में प्रदोष ने शानदार दोहरा शतक लगाया। उनके साथी अजीत राम ने भी अपना पहला प्रथम श्रेणी शतक पूरा किया।",
+      "en": "In the Ranji Trophy match, Pradosh scored a brilliant double century. His teammate Ajith Ram also completed his maiden first-class century.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कर्नाटक की टीम ने रणजी मुकाबले में अपनी स्थिति मजबूत कर ली है। अनीश और अनीश्वर की साझेदारी ने टीम को मजबूत स्कोर तक पहुंचाया।",
+      "en": "The Karnataka team has strengthened its position in the Ranji match. The partnership of Aneesh and Aneeshwar took the team to a strong score.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "महाराष्ट्र की टीम ने बंगाल के खिलाफ रणजी मैच में बढ़त हासिल कर ली है। निचले क्रम के बल्लेबाज संघवी के संघर्षपूर्ण प्रदर्शन ने टीम को संभाला।",
+      "en": "Maharashtra team has taken the lead against Bengal in the Ranji match. Lower order batsman Sanghvi's gritty performance saved the team.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ जुड़े रहें।",
+      "en": "Stay connected with us for tomorrow's fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 रणजी ट्रॉफी में प्रदोष ने लगाया शानदार दोहरा शतक और अजीत राम ने बनाया अपना पहला प्रथम श्रेणी शतक\n🏏 अनीश और अनीश्वर की बेहतरीन साझेदारी से कर्नाटक की टीम ने रणजी मुकाबले में मजबूत स्थिति बनाई\n🏏 निचले क्रम के बल्लेबाज संघवी के संघर्षपूर्ण खेल से महाराष्ट्र ने बंगाल के खिलाफ बढ़त हासिल की\nकल की खेल ख़बरों के लिए हमें फॉलो करना न भूलें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ranji Trophy: Pradosh, Ajith Ram pile more misery on Chandigarh",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-pradosh-ajith-ram-pile-more-misery-on-chandigarh/article71661609.ece"
+    },
+    {
+      "title": "Ranji Trophy 2026-27: Aneesh and Aneeshwar put Karnataka in complete control",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-karnataka-assam-day-two-report/article71661069.ece"
+    },
+    {
+      "title": "Ranji Trophy: Maharashtra takes the lead against Bengal after its tail wags",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-maharashtra-takes-the-lead-against-bengal-after-its-tail-wags/article71660721.ece"
+    }
+  ]
+}
