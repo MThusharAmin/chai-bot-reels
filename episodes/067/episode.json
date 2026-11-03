@@ -1,0 +1,58 @@
+{
+  "number": 67,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "आज की अच्छी और अनोखी ख़बरें",
+  "title_en": "Today's good and unusual news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "स्टूडियो ईकसारसस की एक नई लघु फ़िल्म रिलीज़ हुई है। यह फ़िल्म नीली पॉटरी का उपयोग करके गोडावन पक्षी के संरक्षण की कहानी कहती है।",
+      "en": "A new short film by Studio Eeksaurus has been released. It tells the story of the conservation of the Godawan bird using blue pottery.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कोलकाता और शांतिकेतन में बंगाल बिएनेल का दूसरा संस्करण आयोजित हो रहा है। इसमें कला के माध्यम से पारिस्थितिकी और स्मृति जैसे विषयों की खोज की जा रही है।",
+      "en": "The second edition of the Bengal Biennale is being held in Kolkata and Santiniketan. It explores themes like ecology and memory through art.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वृही फाउंडेशन की एक नई रिपोर्ट सामने आई है। इस रिपोर्ट में हल्दी और महुआ जैसे स्वदेशी उत्पादों के लिए वैश्विक बाजारों को मजबूत करने की बात कही गई है।",
+      "en": "A new report by the Vrihi Foundation has been released. It discusses strengthening global markets for indigenous produce like turmeric and mahua.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की ख़बरें समाप्त हुईं। कल की नई और ताज़ा ख़बरों के लिए हमारे पेज को अवश्य फॉलो करें।",
+      "en": "Today's news has ended. Please follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🌱 स्टूडियो ईकसारसस की लघु फ़िल्म में नीली पॉटरी से गोडावन पक्षी के संरक्षण की कहानी दिखाई गई है।\n🎨 कोलकाता और शांतिकेतन में बंगाल बिएनेल के दूसरे संस्करण में पारिस्थितिकी और कला पर चर्चा हो रही है।\n🌾 वृही फाउंडेशन की रिपोर्ट में हल्दी और महुआ जैसे स्वदेशी उत्पादों के वैश्विक बाज़ार को बढ़ाने पर ज़ोर दिया गया है।\n✨ रोज़ाना ऐसी ही अनोखी और अच्छी ख़बरों के लिए हमारे पेज को फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Stop-motion short film ‘The Godawan’ talks about the conservation of the Great Indian Bustard",
+      "link": "https://www.thehindu.com/entertainment/movies/stop-motion-short-film-the-godawan-pairs-jaipur-blue-pottery-with-conservation-of-the-great-indian-bustard-blending-craft-music-and-advocacy/article71629996.ece"
+    },
+    {
+      "title": "Bengal Biennale 2026: Artists, theme, dates and venues",
+      "link": "https://www.thehindu.com/entertainment/art/bengal-biennale-2026-artists-theme-dates-and-venues/article71655786.ece"
+    },
+    {
+      "title": "Can India’s heritage produce find a place on the global food map?",
+      "link": "https://www.thehindu.com/food/features/can-indias-heritage-produce-find-a-place-on-the-global-food-map/article71639345.ece"
+    }
+  ]
+}
