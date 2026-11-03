@@ -1,0 +1,58 @@
+{
+  "number": 71,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य खबरें",
+  "title_en": "Main Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अंतरिक्ष की प्रारंभिक दौड़ पर एक दैनिक प्रश्नोत्तरी प्रस्तुत की गई है। इसमें ऐतिहासिक यात्राओं के बारे में बताया गया है।",
+      "en": "A daily quiz on the early space race has been presented. It tells about historic journeys.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष अनुसंधान संगठन के जी एस एल वी एफ अट्ठारह मिशन पर धीमी रिकवरी की बात कही गई है। इस मिशन के लिए अधिक संसाधनों की आवश्यकता है।",
+      "en": "A slow recovery has been discussed for ISRO's GSLV-F18 mission. More resources are needed for this mission.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "विज्ञान स्नैपशॉट के तहत तीन नए अनुसंधान विकास सामने आए हैं। इन्हें एक मिनट में पढ़ा जा सकता है।",
+      "en": "Three new research developments have come to light under science snapshots. These can be read in one minute.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे पेज को फॉलो करें और चाय का आनंद लें।",
+      "en": "Follow our page for tomorrow's latest news and enjoy your tea.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ अंतरिक्ष की प्रारंभिक दौड़ पर दैनिक प्रश्नोत्तरी प्रस्तुत की गई है\n🚀 भारतीय अंतरिक्ष अनुसंधान संगठन के मिशन पर धीमी रिकवरी की बात कही गई है\n🔬 विज्ञान स्नैपशॉट के तहत तीन नए अनुसंधान विकास सामने आए हैं\nरोजाना ऐसी खबरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Daily Quiz: On the early Space Race",
+      "link": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-most-significant-and-poignant-episodes-of-the-early-space-race/article71659219.ece"
+    },
+    {
+      "title": "Slow recovery: On the ISRO’s GSLV-F18 mission",
+      "link": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece"
+    },
+    {
+      "title": "Science Snapshots: November 1, 2026",
+      "link": "https://www.thehindu.com/sci-tech/science/science-snapshots-november-1-2026/article71655133.ece"
+    }
+  ]
+}
