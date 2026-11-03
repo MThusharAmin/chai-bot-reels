@@ -1,0 +1,58 @@
+{
+  "number": 68,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा और बड़ी ख़बरें",
+  "title_en": "Latest and big news from entertainment world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "परसी जैक्सन एंड द ओलंपियंस के तीसरे सीज़न का नया ट्रेलर जारी हो गया है। इस रोमांचक वीडियो में मुख्य पात्र एक खतरनाक और कठिन यात्रा पर निकलता है।",
+      "en": "The new trailer for season three of Percy Jackson and the Olympians has been released. In this exciting video, the main character embarks on a dangerous and difficult journey.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "यूरोप का प्रसिद्ध संगीत बैंड बीट्लमेनिया भारत के दौरे पर आ रहा है। यह संगीत कार्यक्रम ग्यारह नवंबर को चेन्नई और बेंगलुरु सहित कई शहरों में आयोजित होगा।",
+      "en": "Europe's famous music band Beatlemania is coming to India on a tour. This music concert will be held in several cities including Chennai and Bengaluru in November.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेता ऋषििकांत ने अपनी फ़िल्म डोरोथी और मोधा राथरी की सफलता के बाद नई प्रसिद्धि हासिल की है। चेन्नई में पंद्रह वर्षों के संघर्ष के बाद उन्हें यह बड़ी कामयाबी मिली है।",
+      "en": "Actor Rishikanth has achieved new fame after the success of his films Dorothy and Modha Rathri. He got this big success after fifteen years of struggle in Chennai.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की मनोरंजन ख़बरों के लिए हमारे साथ जुड़े रहिए। अपनी गर्मा-गरम चाय का आनंद लेते रहें।",
+      "en": "Stay connected with us for tomorrow's entertainment news. Keep enjoying your hot tea.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\nपरसी जैक्सन एंड द ओलंपियंस के तीसरे सीज़न का नया ट्रेलर जारी हो गया है\nयूरोप का प्रसिद्ध संगीत बैंड बीट्लमेनिया भारत के दौरे पर आ रहा है\nअभिनेता ऋषििकांत ने डोरोथी फ़िल्म की सफलता के बाद नई प्रसिद्धि हासिल की है\nरोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Percy Jackson and the Olympians’ Season 3 trailer: Percy embarks on a dangerous quest to save Annabeth",
+      "link": "https://www.thehindu.com/entertainment/movies/percy-jackson-and-the-olympians-season-3-trailer-percy-embarks-on-a-dangerous-quest-to-save-annabeth/article71659692.ece"
+    },
+    {
+      "title": "Beatlemania hits India on tour, plays Chennai, Bengaluru and other cities in November",
+      "link": "https://www.thehindu.com/entertainment/music/beatlemania-hits-india-on-tour-plays-chennai-bengaluru-and-other-cities-in-november/article71643833.ece"
+    },
+    {
+      "title": "Rishikanth on ‘Dorothy’, newfound fame and his journey from a Chennai mansion to a new home",
+      "link": "https://www.thehindu.com/entertainment/movies/actor-rishikanth-on-dorothy-tamil-cinema/article71659582.ece"
+    }
+  ]
+}
