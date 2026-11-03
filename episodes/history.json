@@ -639,5 +639,16 @@
       "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-karnataka-assam-day-two-report/article71661069.ece",
       "https://www.thehindu.com/sport/cricket/ranji-trophy-maharashtra-takes-the-lead-against-bengal-after-its-tail-wags/article71660721.ece"
     ]
+  },
+  {
+    "number": 70,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक और गैजेट्स की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-omnibook-5-and-probook-4-g2is-in-india/article71660501.ece",
+      "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-find-x10-pro-max-review-one-of-this-seasons-best-android-flagships/article71656275.ece",
+      "https://www.thehindu.com/sci-tech/technology/corning-opens-new-optical-connectivity-facility-in-pune-commences-operations/article71656755.ece"
+    ]
   }
 ]
