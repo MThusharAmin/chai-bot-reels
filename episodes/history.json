@@ -595,5 +595,16 @@
       "https://www.thehindu.com/opinion/lead/how-ai-training-models-could-compromise-privacy/article71658179.ece",
       "https://www.thehindu.com/sci-tech/technology/apples-new-ceo-john-ternus-to-face-first-earnings-test-as-memory-costs-surge/article71655914.ece"
     ]
+  },
+  {
+    "number": 66,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece",
+      "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece",
+      "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+    ]
   }
 ]

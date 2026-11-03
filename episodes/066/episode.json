@@ -1,0 +1,58 @@
+{
+  "number": 66,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main News of Science and Space",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वैज्ञानिकों ने पाया है कि लंबे समय तक धू्म्रपान करने से फेफड़ों की कोशिकाएं बदल जाती हैं। इससे कैंसर का खतरा बढ़ जाता है और स्थानीय प्रतिरक्षा प्रणाली कमज़ोर हो जाती है।",
+      "en": "Scientists have found that long-term smoking alters lung cells. This increases the risk of cancer and weakens the local immune system.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एक नई तकनीक में प्रकाश का उपयोग करके सेकंडों में डीपफ़ेक की पहचान की गई है। परीक्षण के दौरान इस प्रणाली ने नब्बे प्रतिशत से अधिक की सटीकता दिखाई है।",
+      "en": "A new technique uses light to identify deepfakes in seconds. During tests, this system showed an accuracy of over ninety percent.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "शोधकर्ताओं ने आकाशगंगा के इतिहास का अध्ययन किया है जो लगभग बारह अरब वर्ष पुराना है। यह अध्ययन नए अभियानों से प्राप्त सटीक आंकड़ों के माध्यम से किया गया है।",
+      "en": "Researchers have studied the history of the Milky Way which goes back almost twelve billion years. This study was done through precise data obtained from new missions.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। ऐसी ही अन्य जानकारियों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "We will meet again tomorrow. Stay connected with us for more such information.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ धूम्रपान किस प्रकार फेफड़ों की कोशिकाओं को प्रभावित करता है और कैंसर का खतरा बढ़ाता है\n✨ प्रकाश का उपयोग करके सेकंडों में डीपफ़ेक की पहचान करने वाली नई तकनीक\n🌌 लगभग बारह अरब वर्ष पुराने आकाशगंगा के इतिहास से जुड़ा नया शोध\n🌿 ऐसी ही दैनिक जानकारियों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "How smoking sets the stage for lung cancer | Explained",
+      "link": "https://www.thehindu.com/sci-tech/science/how-smoking-sets-the-stage-for-lung-cancer-glimpsed-in-new-study/article71657077.ece"
+    },
+    {
+      "title": "New technique uses light to spot deepfakes in seconds",
+      "link": "https://www.thehindu.com/sci-tech/science/new-technique-uses-light-to-spot-deepfakes-in-seconds/article71656319.ece"
+    },
+    {
+      "title": "The Milky Way grew by devouring galaxies, leaving a trail of ghost stars",
+      "link": "https://www.thehindu.com/sci-tech/science/the-milky-way-grew-by-devouring-galaxies-leaving-a-trail-of-ghost-stars/article71652934.ece"
+    }
+  ]
+}
