@@ -694,5 +694,16 @@
       "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-in-auckland/article71663766.ece",
       "https://www.thehindu.com/sport/cricket/ranji-trophy-delhi-rides-on-doseja-and-mathurs-gritty-partnership-to-nose-ahead-of-services/article71661682.ece"
     ]
+  },
+  {
+    "number": 75,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक जगत की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/apple-ios-273-everything-you-need-to-know-about-siri-ai-apple-watch-and-audio-intelligence/article71664852.ece",
+      "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece",
+      "https://www.thehindu.com/sci-tech/technology/apple-posts-stronger-than-expected-q4-revenue-in-first-earnings-report-for-new-ceo-john-ternus/article71659288.ece"
+    ]
   }
 ]

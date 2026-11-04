@@ -1,0 +1,58 @@
+{
+  "number": 75,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक जगत की मुख्य ख़बरें",
+  "title_en": "Main news from the tech world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल के नए सॉफ्टवेयर अपडेट में सिरी कृत्रिम बुद्धिमत्ता कई कठिन कार्य करने में सक्षम होगी। यह सुविधा कैलेंडर, मेल, नोट्स और तस्वीरों जैसे विभिन्न अनुप्रयोगों में काम करेगी।",
+      "en": "In Apple's new software update, Siri AI will be able to do many complex tasks. This feature will work across various applications like Calendar, Mail, Notes, and Photos.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "इंडिया एआई मिशन के तहत तीन स्वदेशी मॉडल जारी किए गए हैं। इन मॉडलों के नाम एका एक, धीर दो बी और धीर पाँच बी हैं।",
+      "en": "Three indigenous models have been released under the IndiaAI Mission. These models are named EKA-1, Dhīr 2B and Dhīr 5B.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल कंपनी ने वित्तीय चौथी तिमाही में उम्मीद से अधिक मजबूत राजस्व दर्ज किया है। इस प्रविष्टि से नए मुख्य कार्यकारी अधिकारी जॉन टर्नस की शुरुआत सकारात्मक रही है।",
+      "en": "Apple Inc. has posted stronger-than-expected revenue in the fiscal fourth quarter. This entry has given a positive start to new CEO John Ternus.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा तकनीक ख़बरों के लिए हमारे पृष्ठ का अनुसरण करना न भूलें।",
+      "en": "Do not forget to follow our page for tomorrow's fresh tech news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ एप्पल के नए सॉफ्टवेयर अपडेट में सिरी कई कठिन कार्य करने में सक्षम होगी\n🤖 इंडिया एआई मिशन के तहत तीन स्वदेशी मॉडल जारी किए गए हैं\n📈 एप्पल कंपनी ने वित्तीय चौथी तिमाही में उम्मीद से अधिक मजबूत राजस्व दर्ज किया है\n✨ कल की ताज़ा तकनीक ख़बरों के लिए हमारे पृष्ठ का अनुसरण करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Apple iOS 27.3: Everything you need to know about Siri AI, Apple Watch and Audio Intelligence",
+      "link": "https://www.thehindu.com/sci-tech/technology/apple-ios-273-everything-you-need-to-know-about-siri-ai-apple-watch-and-audio-intelligence/article71664852.ece"
+    },
+    {
+      "title": "IndiaAI Mission releases indigenous foundation models EKA-1, Dhīr 2B and Dhīr 5B",
+      "link": "https://www.thehindu.com/sci-tech/technology/indiaai-mission-releases-indigenous-foundation-models-eka-1-dhir-2b-and-dhir-5b/article71663984.ece"
+    },
+    {
+      "title": "Apple posts stronger-than-expected Q4 revenue in first earnings report for new CEO John Ternus",
+      "link": "https://www.thehindu.com/sci-tech/technology/apple-posts-stronger-than-expected-q4-revenue-in-first-earnings-report-for-new-ceo-john-ternus/article71659288.ece"
+    }
+  ]
+}
