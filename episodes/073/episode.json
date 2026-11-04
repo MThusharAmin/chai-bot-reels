@@ -1,0 +1,58 @@
+{
+  "number": 73,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा ख़बरें",
+  "title_en": "Latest Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "तरुण भास्कर की आने वाली फ़िल्म ई नेगरानिकी एमैन्दि का ट्रेलर आ गया है। इस फ़िल्म में कलाकार विश्वक सेन और अभिनव गोमथम नज़र आएंगे।",
+      "en": "The trailer for Tharun Bhascker's upcoming film Ee Nagaraniki Emaindi is out. Artists Vishwak Sen and Abhinav Gomatham will feature in this film.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नितेश तिवारी के निर्देशन में बनी महाकाव्य रामायण पाँच नवंबर को सिनेमाघरों में उतरेगी। इस बहुप्रतीक्षित फ़िल्म में कई जाने-माने कलाकार विभिन्न भूमिकाओं में दिखेंगे।",
+      "en": "The epic Ramayana directed by Nitesh Tiwari will hit theatres on November 5. Several well-known actors will be seen in various roles in this highly anticipated film.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "तमिल सिनेमा में इस दीपावली अभिनेता सूर्या की फ़िल्म सीन प्रदर्शित होने जा रही है। यह एक अनोखी जाँच पर आधारित ड्रामा फ़िल्म है जिसका निर्देशन जिथु माधवन ने किया है।",
+      "en": "Actor Suriya's film Scene is releasing this Diwali in Tamil cinema. This is a quirky investigative drama film directed by Jithu Madhavan.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "चाय की चुस्की के साथ ख़बरें सुनने के लिए कल फिर मिलेंगे। कृपया इस पेज को अवश्य फॉलो करें।",
+      "en": "We will meet again tomorrow to listen to the news with a sip of tea. Please do follow this page.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 तरुण भास्कर की फ़िल्म ई नेगरानिकी एमैन्दि का नया ट्रेलर रिलीज़ हो गया है।\n🏹 नितेश तिवारी द्वारा निर्देशित रामायण पाँच नवंबर को सिनेमाघरों में आ रही है।\n⭐ तमिल सिनेमा में अभिनेता सूर्या की फ़िल्म सीन इस दीपावली रिलीज़ होगी।\n☕ मनोरंजन जगत की ऐसी ही ख़बरों के लिए रोज़ाना हमारे साथ जुड़ें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘ENE Repeat’ trailer: Tharun Bhascker’s ‘Ee Nagaraniki Emaindi’ sequel releases this month",
+      "link": "https://www.thehindu.com/entertainment/movies/ene-repeat-trailer-tharun-bhasckers-ee-nagaraniki-emaindi-sequel-releases-this-month/article71665129.ece"
+    },
+    {
+      "title": "‘Ramayana’: Beyond Rama and Ravana, here’s who plays whom in Nitesh Tiwari’s adaptation",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-beyond-rama-and-ravana-heres-who-plays-whom-in-nitesh-tiwaris-adaptation-ranbir-kapoor-yash-sai-pallavi/article71664463.ece"
+    },
+    {
+      "title": "Suriya’s ‘Scene’: What’s the hype surrounding this Tamil Deepavali release?",
+      "link": "https://www.thehindu.com/entertainment/movies/suriya-scene-deepavali-jithu-madhavan-nazriya-nazim-naslen-sushin-shyam-rajpriyan/article71664517.ece"
+    }
+  ]
+}
