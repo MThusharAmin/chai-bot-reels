@@ -1,0 +1,58 @@
+{
+  "number": 76,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main News in Science and Space",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष अनुसंधान संगठन का उपग्रह अपनी कक्षा में पहुँच गया है। चार कक्षा संचालन प्रक्रियाएँ पूरी हो चुकी हैं।",
+      "en": "The Indian Space Research Organisation's satellite has reached its orbit. Four orbit operations have been completed.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एक अध्ययन के अनुसार सेलोफेन मधुमक्खियाँ प्लास्टिक जैसा पदार्थ बनाती हैं। यह घोंसले का अस्तर एक वर्ष के भीतर नष्ट हो जाता है।",
+      "en": "According to a study, cellophane bees produce a plastic-like substance. This nest lining degrades within a year.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एक शोध में घोंघे के बच्चों के कवच के बारे में जानकारी मिली है। माँ के छिपे हुए जीन से यह तय होता है कि कवच किस दिशा में घूमेगा।",
+      "en": "Research has revealed information about snail baby shells. A mother's hidden genes decide which way the shell will spiral.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की चाय और ख़बरें समाप्त हुईं। कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Today's tea and news are over. Stay connected with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ भारतीय अंतरिक्ष अनुसंधान संगठन का उपग्रह अपनी सही कक्षा में सफलतापूर्वक पहुँच गया है।\n🐝 सेलोफेन मधुमक्खियाँ ऐसा पदार्थ बनाती हैं जो एक वर्ष के भीतर प्राकृतिक रूप से नष्ट हो जाता है।\n🐌 एक नए शोध से यह पता चला है कि माँ के जीन से घोंघे के कवच का घुमाव तय होता है।\nकल की विज्ञान ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "NVS-03 reaches geosynchronous orbit; satellite in good health",
+      "link": "https://www.thehindu.com/sci-tech/science/nvs-03-reaches-geosynchronous-orbit-satellite-in-good-health/article71667218.ece"
+    },
+    {
+      "title": "Cellophane bees produce a kind of plastic that also degrades, study finds",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cellophane-bees-produce-a-kind-of-plastic-that-also-degrades-study-finds/article71660428.ece"
+    },
+    {
+      "title": "A mother’s hidden genes decide which way her snail baby spirals",
+      "link": "https://www.thehindu.com/sci-tech/science/a-mothers-hidden-genes-decide-which-way-her-snail-baby-spirals/article71660357.ece"
+    }
+  ]
+}
