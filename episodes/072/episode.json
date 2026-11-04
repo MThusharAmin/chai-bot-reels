@@ -1,0 +1,58 @@
+{
+  "number": 72,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "आज की अनोखी और रोचक ख़बरें",
+  "title_en": "Today's Unusual and Interesting News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार। चाय बॉट के बुलेटिन में आपका स्वागत है। आज की कुछ अनोखी और रोचक ख़बरें सुनिए।",
+      "en": "Hello. Welcome to Chai Bot's bulletin. Listen to today's unusual and interesting news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु, मंगलुरु और गोवा वंदे भारत देश की सबसे धीमी वंदे भारत होगी। चौवन किलोमीटर प्रति घंटे की औसत गति वाली यह सबसे लंबी चेयर कार बनेगी।",
+      "en": "The Bengaluru, Mangaluru, and Goa Vande Bharat will be the slowest Vande Bharat in the country. With an average speed of fifty-four kmph, it will be the longest-duration chair car.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई में शादी के खानसामों ने दीपावली के लिए विशेष बाज़ार लगाए हैं। यहाँ ताज़ा पारंपरिक मिठाइयों के साथ उपहार और विदेश भेजने की सुविधा भी है।",
+      "en": "Wedding caterers in Chennai have set up special bazaars for Deepavali. Along with freshly prepared traditional sweets, gift hampers and overseas delivery facilities are available.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय त्योहार बदलते मौसम और खानपान की संस्कृति को दर्शाते हैं। इसमें बंगाल का चोद्दो शाक, ओडिशा का एंदुरी पीठा और असम का पारंपरिक भोजन शामिल है।",
+      "en": "Indian festivals reflect seasonal changes and regional food culture. This includes Bengal's choddo shaak, Odisha's enduri pitha, and traditional feasts of Assam.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "आज के लिए बस इतना ही। रोज़ाना ऐसी ही ख़बरें सुनने के लिए हमसे जुड़े रहें।",
+      "en": "That is all for today. Stay connected with us for daily news updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🚆 बेंगलुरु-मंगलुरु-गोवा वंदे भारत देश की सबसे धीमी और सबसे लंबी चेयर कार सेवा होगी।\n🍬 चेन्नई में शादी के खानसामों ने दीपावली के लिए मिठाइयों और उपहारों के विशेष बाज़ार लगाए।\n🍲 भारतीय त्योहारों के पारंपरिक व्यंजन बदलते मौसम और स्थानीय खानपान संस्कृति को दर्शाते हैं।\n\nरोज़ाना ताज़ा और रोचक ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Bengaluru-Mangaluru-Goa Vande Bharat to be longest-duration chair car service, slowest VB in India",
+      "link": "https://www.thehindu.com/news/cities/Mangalore/yeshwantpur-goa-vande-bharat-to-be-longest-duration-chair-car-service-in-india/article71660870.ece"
+    },
+    {
+      "title": "Deepavali sweets in Chennai: Six caterers’ bazaars for festive bakshanams and gift hampers",
+      "link": "https://www.thehindu.com/food/features/deepavali-sweets-in-chennai-six-caterers-bazaars-for-festive-bakshanams-and-gift-hampers/article71656075.ece"
+    },
+    {
+      "title": "How Indian festivals shape seasonal eating habits",
+      "link": "https://www.thehindu.com/food/features/indian-festivals-and-seasonal-diets/article71628351.ece"
+    }
+  ]
+}
