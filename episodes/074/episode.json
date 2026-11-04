@@ -1,0 +1,58 @@
+{
+  "number": 74,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "रणजी ट्रॉफी और एक दिवसीय मैच की बड़ी खबरें",
+  "title_en": "Big news from Ranji Trophy and One Day match",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी मुकाबले में कर्नाटक की टीम ने असम को हराकर बोनस अंक हासिल किया। मैच के तीसरे दिन श्रेयस और शिखर ने शानदार गेंदबाजी का प्रदर्शन किया।",
+      "en": "In the Ranji Trophy match, the Karnataka team defeated Assam to claim bonus points. On the third day of the match, Shreyas and Shikhar showed brilliant bowling performance.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत और न्यूजीलैंड के बीच हुए पहले एक दिवसीय मैच में भारतीय टीम ने शानदार जीत दर्ज की। बारिश से प्रभावित इस मुकाबले में विराट कोहली की बेहतरीन पारी ने अहम भूमिका निभाई।",
+      "en": "In the first one-day match between India and New Zealand, the Indian team registered an impressive win. Virat Kohli's brilliant innings played a crucial role in this rain-affected match.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "रणजी ट्रॉफी के एक अन्य मुकाबले में दिल्ली की टीम ने सर्विसेज के खिलाफ बढ़त बनाई। इसमें दोसेजा और माथुर के बीच हुई बेहतरीन साझेदारी ने महत्वपूर्ण भूमिका निभाई।",
+      "en": "In another Ranji Trophy match, the Delhi team took a lead against Services. A great partnership between Doseja and Mathur played an important role in this.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खेल खबरों के लिए चाय बॉट के साथ बने रहें।",
+      "en": "Stay tuned with Chai Bot for tomorrow's fresh sports news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 रणजी ट्रॉफी में कर्नाटक ने असम को हराकर बोनस अंक हासिल किया\n🇮🇳 भारत और न्यूजीलैंड के पहले एक दिवसीय मुकाबले में भारतीय टीम ने शानदार जीत दर्ज की\n🏏 रणजी ट्रॉफी में दिल्ली की टीम ने सर्विसेज के खिलाफ बढ़त हासिल की\n✨ कल की ताजा खबरों के लिए चाय बॉट को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ranji Trophy 2026-27: Karnataka polishes off Assam in no time, claims bonus point",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-2026-27-karnataka-assam-report-day-three/article71666625.ece"
+    },
+    {
+      "title": "IND vs NZ 1st ODI: Pacers, Kohli script impressive win for India",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-in-auckland/article71663766.ece"
+    },
+    {
+      "title": "Ranji Trophy: Delhi rides on Doseja and Mathur’s gritty partnership to nose ahead of Services",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-delhi-rides-on-doseja-and-mathurs-gritty-partnership-to-nose-ahead-of-services/article71661682.ece"
+    }
+  ]
+}
