@@ -1,0 +1,58 @@
+{
+  "number": 78,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "आज की मुख्य मनोरंजन ख़बरें",
+  "title_en": "Today's Top Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फ़िल्म 'तमिज़ पदम तीन' का निर्माण कार्य शुरू हो गया है। इसमें अभिनेता शिवा मुख्य भूमिका में नज़र आएंगे।",
+      "en": "Filming for the movie 'Tamizh Padam 3' has begun. Actor Shiva will be seen in the lead role.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एनिमेटेड फ़िल्म 'द एंग्री बर्ड्स मूवी तीन' का ट्रेलर जारी कर दिया गया है। इसमें ब्लैकपिंक की जीसू का एक नया गाना भी शामिल है।",
+      "en": "The trailer for the animated film 'The Angry Birds Movie 3' has been released. It also features a new song by BLACKPINK's Jisoo.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक सुंदर सी नई फ़िल्म 'मूकुत्ती अम्मन दो' का निर्देशन कर रहे हैं। इस फ़िल्म में अभिनेत्री नयनतारा मुख्य भूमिका में हैं।",
+      "en": "Director Sundar C is directing the new film 'Mookuthi Amman 2'. Actress Nayanthara plays the lead role in this film.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "आज के लिए बस इतना ही, रोज़ाना की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "That's all for today, stay tuned with us for daily news updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 फ़िल्म 'तमिज़ पदम तीन' की शूटिंग अभिनेता शिवा के साथ शुरू हो गई है।\n🐤 'द एंग्री बर्ड्स मूवी तीन' का नया ट्रेलर जारी, जिसमें ब्लैकपिंक की जीसू का गाना शामिल है।\n🌟 निर्देशक सुंदर सी की नई फ़िल्म 'मूकुत्ती अम्मन दो' में मुख्य भूमिका निभाएंगी नयनतारा।\n\nप्रतिदिन की ताज़ा ख़बरों के लिए फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "CS Amudhan’s ‘Tamizh Padam 3,’ starring Shiva, goes on floors",
+      "link": "https://www.thehindu.com/entertainment/movies/cs-amudhan-tamizh-padam-3-shiva-athula-ravi-y-not-studios/article71669708.ece"
+    },
+    {
+      "title": "‘The Angry Birds Movie 3’ trailer: Jason Sudeikis’ Red faces fatherhood and a new threat to Bird Island",
+      "link": "https://www.thehindu.com/entertainment/movies/the-angry-birds-movie-3-trailer-jason-sudeikis-red-faces-fatherhood-and-a-new-threat-to-bird-island/article71668850.ece"
+    },
+    {
+      "title": "‘This Amman has to save herself’: Sundar C on helming Nayanthara’s ‘Mookuthi Amman 2’",
+      "link": "https://www.thehindu.com/entertainment/movies/sundar-c-interview-nayanthara-mookuthi-amman-2-regena-cassandrra-urvashi/article71660304.ece"
+    }
+  ]
+}
