@@ -1,0 +1,58 @@
+{
+  "number": 81,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main news of science and space",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष अनुसंधान संगठन का नया नेविगेशन उपग्रह एनवीएस शून्य तीन पूरी तरह स्वस्थ है। संगठन के अध्यक्ष वी नारायणन ने यह जानकारी दी है।",
+      "en": "Indian Space Research Organisation's new navigation satellite NVS-03 is fully healthy. Organisation's chairman V. Narayanan has given this information.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "वॉयेजर वन अंतरिक्ष यान अंतरिक्ष में अपनी लंबी यात्रा जारी रखे हुए है। यह ऐतिहासिक यान अंतरिक्ष के रहस्यों की जानकारी जुटा रहा है।",
+      "en": "Voyager One spacecraft is continuing its long journey in space. This historic spacecraft is gathering information about space mysteries.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु में आयोजित एक विशेष प्रदर्शनी में क्वांटम भौतिकी को प्रदर्शित किया गया। इस आयोजन में विज्ञान और कला का अनूठा संगम देखने को मिला।",
+      "en": "Quantum physics was showcased in a special exhibition organised in Bengaluru. A unique confluence of science and art was seen in this event.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पेज को फ़ॉलो करें। धन्यवाद।",
+      "en": "Follow our page for tomorrow's latest news. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🛰️ भारतीय अंतरिक्ष अनुसंधान संगठन का नेविगेशन उपग्रह एनवीएस शून्य तीन पूरी तरह स्वस्थ है\n🌌 वॉयेजर वन अंतरिक्ष यान अंतरिक्ष में अपनी लंबी यात्रा जारी रखे हुए है\n🔬 बेंगलुरु की प्रदर्शनी में विज्ञान और कला के माध्यम से क्वांटम भौतिकी को प्रदर्शित किया गया\nदैनिक ख़बरों के लिए हमारे पेज को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "ISRO’s latest navigation satellite NVS-03 is fully healthy, says Chairman V. Narayanan",
+      "link": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+    },
+    {
+      "title": "Postcards from Earth",
+      "link": "https://www.thehindu.com/infographics/2026-11-05/nasa-voyager-i-49-years-in-space/index.html"
+    },
+    {
+      "title": "At Bengaluru exhibition, an attempt to make the quantum seem human",
+      "link": "https://www.thehindu.com/sci-tech/science/at-bengaluru-exhibition-an-attempt-to-make-the-quantum-seem-human/article71664686.ece"
+    }
+  ]
+}
