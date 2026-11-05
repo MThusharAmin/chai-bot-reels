@@ -1,0 +1,58 @@
+{
+  "number": 77,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "अनोखी और अच्छी ख़बरें",
+  "title_en": "Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अनोखी और अच्छी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual stories.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सिक्किनायक्कनपेट में साड़ियों को दूध में डुबोकर हाथ से चित्रित किया जाता है और फिर नदी में धोया जाता है। चेन्नई का एक बुटीक इन्हें शहर में ला रहा है।",
+      "en": "In Sikkinaickenpet, saris are dipped in milk, handpainted, and washed in the river. A boutique in Chennai is bringing them to the city.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई के युवा इस त्योहार पर खानदानी व्यंजनों को नया रूप दे रहे हैं। इनमें काजू कतली मूनकेक और मिर्च के तेल वाले सियम जैसे अनोखे व्यंजन शामिल हैं।",
+      "en": "Youngsters in Chennai are giving a fresh spin to traditional recipes this festive season. These include unique dishes like cashew katli mooncakes and chilli oil seeyam.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "तिरुवनंतपुरम के तटीय इलाकों में सीप चुनने का मौसम शुरू हो गया है। यह काम वहां के गोताखोरों की आजीविका को सहारा देता है।",
+      "en": "Mussel harvesting season has begun in the coastal areas of Thiruvananthapuram. This work sustains the livelihood of local divers.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "हर दिन की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for daily news updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🎨 सिक्किनायक्कनपेट में दूध में डुबोकर और नदी में धोकर बनाई जाने वाली पारंपरिक कलामकारी साड़ियां चेन्नई पहुंच रही हैं।\n🥮 चेन्नई के युवा इस त्योहार पर काजू कतली मूनकेक जैसे नए प्रयोगों के साथ पारंपरिक व्यंजनों को नया रूप दे रहे हैं।\n🦪 तिरुवनंतपुरम के तटों पर सीप की कटाई का मौसम शुरू होने से स्थानीय गोताखोरों की आजीविका को सहारा मिल रहा है।\nरोज़ाना ऐसी ही ताज़ा और सकारात्मक ख़बरें सुनने के लिए फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Chennai’s Shilpi heads to Sikkinaickenpet for a line of Karuppur kalamkari saris",
+      "link": "https://www.thehindu.com/life-and-style/fashion/chennais-shilpi-heads-to-sikkinaickenpet-for-a-line-of-karuppur-kalamkari-saris/article71660686.ece"
+    },
+    {
+      "title": "Deepavali 2026: How Chennai’s Gen Z and Millennials are reinventing festive recipes",
+      "link": "https://www.thehindu.com/life-and-style/deepavali-2026-how-chennais-gen-z-and-millennials-are-reinventing-festive-recipes/article71659942.ece"
+    },
+    {
+      "title": "From sea to market: How mussels sustain livelihoods along Thiruvananthapuram’s shore",
+      "link": "https://www.thehindu.com/videos/from-sea-to-market-how-mussels-sustain-livelihoods-along-thiruvananthapurams-shore/article71665807.ece"
+    }
+  ]
+}
