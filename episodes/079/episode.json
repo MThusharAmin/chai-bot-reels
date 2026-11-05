@@ -1,0 +1,48 @@
+{
+  "number": 79,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की मुख्य और बड़ी ख़बरें",
+  "title_en": "Major Sports Headlines of the Day",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "घरेलू क्रिकेट में गुजरात की टीम ने केरल के खिलाफ शानदार प्रदर्शन किया। उर्विल ने नाबाद दो सौ दस रन बनाकर अपनी टीम को भारी जीत दिलाई।",
+      "en": "In domestic cricket, Gujarat team performed brilliantly against Kerala. Urvil scored an unbeaten two hundred ten runs to give his team a massive win.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "महाराष्ट्र की टीम ने बंगाल को हराकर इस सत्र की अपनी सबसे बड़ी जीत हासिल की। इस मैच में प्रदीप धाडे और हितेश वलुंज ने चार चार विकेट लिए।",
+      "en": "Maharashtra team achieved its biggest win of the season by defeating Bengal. In this match, Pradeep Dhade and Hitesh Walunj took four wickets each.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई खेल ख़बरों के लिए हमारे साथ बने रहें और पेज को फॉलो करें।",
+      "en": "Stay tuned with us and follow the page for tomorrow's new sports news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🔹 घरेलू क्रिकेट में गुजरात की टीम ने केरल के खिलाफ शानदार प्रदर्शन किया।\n🔹 महाराष्ट्र की टीम ने बंगाल को हराकर इस सत्र की अपनी सबसे बड़ी जीत हासिल की।\nरोज़ की ताज़ा ख़बरों के लिए फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Urvil warms up for Mushtaq Ali Trophy in style",
+      "link": "https://www.thehindu.com/sport/cricket/urvil-warms-up-for-mushtaq-ali-trophy-in-style/article71670915.ece"
+    },
+    {
+      "title": "Ranji Trophy: Maharashtra coasts to biggest win of the season against Bengal",
+      "link": "https://www.thehindu.com/sport/cricket/ranji-trophy-maharashtra-coasts-to-biggest-win-of-the-season-against-bengal/article71669359.ece"
+    }
+  ]
+}
