@@ -748,5 +748,15 @@
       "https://www.thehindu.com/sport/cricket/urvil-warms-up-for-mushtaq-ali-trophy-in-style/article71670915.ece",
       "https://www.thehindu.com/sport/cricket/ranji-trophy-maharashtra-coasts-to-biggest-win-of-the-season-against-bengal/article71669359.ece"
     ]
+  },
+  {
+    "number": 80,
+    "format": "news",
+    "category": "tech",
+    "title": "कृत्रिम बुद्धिमत्ता और तकनीकी जगत की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
+      "https://www.thehindu.com/sci-tech/technology/openai-says-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises/article71668478.ece"
+    ]
   }
 ]
