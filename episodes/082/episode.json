@@ -1,0 +1,58 @@
+{
+  "number": 82,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "देश और दुनिया की अनोखी ख़बरें",
+  "title_en": "Unique and Inspiring News Stories",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की चौपाल पर आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फोटोग्राफर अनंत पद्मनाभन ने अपनी प्रस्तुति नो रिफ्यूजल में कोलकाता की पीली टैक्सियों की घटती विरासत को कैमरे में उतारा है। वह लगभग तीन दशकों से इस विषय पर काम कर रहे हैं।",
+      "en": "Photographer Ananth Padmanabhan has captured the fading legacy of Kolkata's yellow taxis in his work No Refusal. He has been photographing this subject for nearly three decades.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "हर्मीस और कार्टियर जैसे अंतरराष्ट्रीय ब्रांड्स ने दीपावली के लिए विशेष रूप से सजावट और उत्पाद तैयार किए हैं। इसमें चन्नापटना कला से प्रेरित रचनाएं शामिल हैं।",
+      "en": "International luxury brands like Hermes and Cartier have created special festive designs for Deepavali. These include installations inspired by Channapatna craft.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कोयंबटूर में इस त्योहारी मौसम पर मैसूरपाक और बादुशा जैसी पारंपरिक मिठाइयां बनाई जा रही हैं। साथ ही दीयों और रंगोली की सजावट वाले विशेष केक भी उपलब्ध हैं।",
+      "en": "In Coimbatore, traditional sweets like Mysorepak and badusha are being prepared for this festive season. Special cakes decorated with diya and rangoli motifs are also available.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सकारात्मक और रोचक ख़बरें सुनने के लिए हमारे साथ जुड़े रहिए, धन्यवाद।",
+      "en": "Stay tuned with us to hear positive and interesting news, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🚖 फोटोग्राफर अनंत पद्मनाभन ने अपनी प्रस्तुति में कोलकाता की पीली टैक्सियों की स्मृतियों को संजोया।\n✨ हर्मीस और कार्टियर जैसे वैश्विक ब्रांड्स ने दीपावली के उपलक्ष्य में चन्नापटना कला से प्रेरित उत्पाद तैयार किए।\n🪔 कोयंबटूर में त्योहारी मौसम के लिए विशेष मिठाइयों के साथ रंगोली की सजावट वाले केक भी पेश किए जा रहे हैं।\nऐसी ही सकारात्मक और ज्ञानवर्धक ख़बरों के लिए हमें फॉलो कीजिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ananth Padmanabhan’s ‘No Refusal’ captures the fading legacy of Calcutta’s yellow taxis",
+      "link": "https://www.thehindu.com/entertainment/art/ananth-padmanabhans-no-refusal-captures-the-fading-legacy-of-calcuttas-yellow-taxis/article71667050.ece"
+    },
+    {
+      "title": "Deepavali 2026: From Hermès to Cartier, luxury brands get festive",
+      "link": "https://www.thehindu.com/life-and-style/deepavali-2026-from-hermes-to-cartier-luxury-brands-get-festive/article71661339.ece"
+    },
+    {
+      "title": "Deepavali sweets in Coimbatore: What to order this festive season",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/deepavali-sweets-in-coimbatore-what-to-order-this-festive-season/article71660569.ece"
+    }
+  ]
+}
