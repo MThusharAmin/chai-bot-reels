@@ -1,0 +1,58 @@
+{
+  "number": 84,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "भारतीय टीम की खेल जगत में बड़ी खबरें",
+  "title_en": "Big news from the world of Indian sports",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की खेल खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत और न्यूजीलैंड के बीच दूसरे एकदिवसीय मैच से पहले भारतीय तेज गेंदबाजों ने अपने शानदार प्रदर्शन से सभी का ध्यान आकर्षित किया है।",
+      "en": "Ahead of the second ODI between India and New Zealand, Indian fast bowlers have drawn attention with their stellar performances.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "न्यूजीलैंड के खिलाड़ी डेवन कॉनवे तीन नवंबर सन दो हज़ार छब्बीस को अभ्यास के दौरान लगी चोट के कारण बाकी मैचों से बाहर हो गए हैं।",
+      "en": "New Zealand player Devon Conway has been ruled out of the remaining matches due to an injury sustained during practice on November 3, 2026.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "घरेलू क्रिकेट में अजिथ राम ने सात विकेट लेकर अपनी टीम को चंडीगढ़ के खिलाफ एक आसान जीत दिलाई है।",
+      "en": "In domestic cricket, Ajith Ram took seven wickets to lead his team to an easy win against Chandigarh.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ बने रहें। आपका दिन शुभ हो।",
+      "en": "Stay connected with us for tomorrow's fresh news. Have a good day.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ भारत और न्यूजीलैंड श्रृंखला से जुड़ी महत्वपूर्ण खेल खबरें\n🏏 भारतीय तेज गेंदबाजों का शानदार प्रदर्शन\n⚠️ चोट के कारण डेवन कॉनवे शेष मैचों से बाहर\n🌟 अजिथ राम के सात विकेट से टीम की आसान जीत\n✨ खेल जगत की हर बड़ी खबर के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "IND vs NZ second ODI: Pace heavy India looks to extend advantage over New Zealand",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-odi-in-wellington-on-november-7-2026/article71673163.ece"
+    },
+    {
+      "title": "IND vs NZ ODI series: Devon Conway ruled out of remaining matches, Kelly called in",
+      "link": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-devon-conway-ruled-out-of-remaining-matches-kelly-called-in/article71672672.ece"
+    },
+    {
+      "title": "Ajith Ram’s seven-wicket haul helps TN wrap up facile win against Chandigarh",
+      "link": "https://www.thehindu.com/sport/ajith-rams-seven-wicket-haul-helps-tn-wrap-up-facile-win-against-chandigarh/article71670403.ece"
+    }
+  ]
+}
