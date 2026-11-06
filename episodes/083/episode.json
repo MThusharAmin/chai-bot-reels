@@ -1,0 +1,58 @@
+{
+  "number": 83,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास खबरें",
+  "title_en": "Special entertainment news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की मनोरंजन खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नितेश तिवारी की फिल्म रामायण पार्ट वन आ चुकी है। इसमें रणबीर कपूर और यश मुख्य भूमिकाओं में हैं।",
+      "en": "Nitesh Tiwari's film Ramayana Part One has arrived. It features Ranbir Kapoor and Yash in lead roles.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "श्रीकर नयन ने अपनी तेलुगु निर्देशन की शुरुआत समर हॉलिडेज से की है। यह फिल्म ग्रामीण पुरानी यादों पर आधारित है।",
+      "en": "Srikar Nayan has made his Telugu directorial debut with Summer Holidays. This film is based on rural nostalgia.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रिज अहमद ने विलियम शेक्सपियर की त्रासदी हैम्लेट के नए रूपांतरण में काम किया है। इस फिल्म में उनका अभिनय बहुत तेज है।",
+      "en": "Riz Ahmed has worked in the new reimagination of William Shakespeare's tragedy Hamlet. His acting in this film is very intense.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की खबरों के लिए हमारे साथ बने रहें। आपका दिन शुभ हो।",
+      "en": "Stay tuned with us for tomorrow's news. Have a good day.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 नितेश तिवारी की फिल्म रामायण पार्ट वन में रणबीर कपूर और यश नजर आए हैं।\n🌿 श्रीकर नयन की तेलुगु फिल्म समर हॉलिडेज ग्रामीण पुरानी यादों पर आधारित है।\n🎭 रिज अहमद ने विलियम शेक्सपियर की त्रासदी हैम्लेट के नए रूप में अभिनय किया है।\n✨ रोजाना ऐसी खबरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Ramayana: Part 1’: How Yash mastered the art of playing Ravana",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-review-yash-ravana-ranbir-kapoor-sai-pallavi-a-r-rahman-nitesh-tiwari-namit-malhotra/article71669501.ece"
+    },
+    {
+      "title": "‘Summer Holidays’ movie review: A simplistic yet heartfelt ode to rural nostalgia",
+      "link": "https://www.thehindu.com/entertainment/movies/summer-holidays-movie-review-srikar-nayans-telugu-film-is-a-simplistic-yet-heartfelt-ode-to-rural-nostalgia/article71672853.ece"
+    },
+    {
+      "title": "‘Hamlet’ movie review: Riz Ahmed finds method in this madness",
+      "link": "https://www.thehindu.com/entertainment/movies/hamlet-movie-review-riz-ahmed-finds-method-in-this-madness/article71669699.ece"
+    }
+  ]
+}
