@@ -1,0 +1,58 @@
+{
+  "number": 85,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "आज की मुख्य तकनीक और गैजेट ख़बरें",
+  "title_en": "Today's Top Tech and Gadget News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दिवाली के बाद स्मार्टफोन की कीमतों में दस प्रतिशत तक की बढ़ोतरी हो सकती है। मेमोरी संकट और रुपये की गिरावट को इसका कारण बताया गया है।",
+      "en": "Smartphone prices may rise by up to ten percent after Diwali. Memory crisis and rupee depreciation are cited as the reasons.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एंथ्रोपिक कंपनी ने क्लॉड के लिए एक नई व्यक्तिगत वित्त सुविधा पेश की है। इस सुविधा में कोई भी विज्ञापन या प्रायोजित सिफारिशें नहीं होंगी।",
+      "en": "Anthropic has introduced a new personal finance feature for Claude. This feature will not contain any ads or sponsored recommendations.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ओपन एआई ने जीपीटी छह साइबर नाम का नया मॉडल जारी किया है। यह साइबर सुरक्षा शोधकर्ताओं को कमियां ढूंढने और उन्हें सुधारने में मदद करेगा।",
+      "en": "OpenAI has launched a new model named GPT-6 Cyber. It will help cybersecurity researchers find vulnerabilities and fix them.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रोज़ाना की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए। आपका दिन शुभ हो।",
+      "en": "Stay connected with us for daily news updates. Have a good day.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n📱 दिवाली के बाद स्मार्टफोन की कीमतें दस प्रतिशत तक बढ़ सकती हैं।\n🤖 एंथ्रोपिक ने क्लॉड के लिए बिना विज्ञापनों वाली व्यक्तिगत वित्त सुविधा शुरू की।\n🔒 ओपन एआई ने सुरक्षा शोधकर्ताओं के लिए जीपीटी छह साइबर मॉडल जारी किया।\n\nरोज़ाना की ताज़ा तकनीक ख़बरों के लिए हमें फॉलो करें!\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ai+ Smartphone to increase smartphone prices by up to ₹3,000",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/ai-smartphone-to-increase-smartphone-prices-by-up-to-3000/article71674050.ece"
+    },
+    {
+      "title": "Anthropic rolls out personal finance feature for Claude",
+      "link": "https://www.thehindu.com/sci-tech/technology/anthropic-rolls-out-personal-finance-feature-for-claude/article71672717.ece"
+    },
+    {
+      "title": "OpenAI launches GPT-6 Cyber with 'Critical' cybersecurity rating",
+      "link": "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece"
+    }
+  ]
+}

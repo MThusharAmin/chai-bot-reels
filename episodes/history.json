@@ -802,5 +802,16 @@
       "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-devon-conway-ruled-out-of-remaining-matches-kelly-called-in/article71672672.ece",
       "https://www.thehindu.com/sport/ajith-rams-seven-wicket-haul-helps-tn-wrap-up-facile-win-against-chandigarh/article71670403.ece"
     ]
+  },
+  {
+    "number": 85,
+    "format": "news",
+    "category": "tech",
+    "title": "आज की मुख्य तकनीक और गैजेट ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/ai-smartphone-to-increase-smartphone-prices-by-up-to-3000/article71674050.ece",
+      "https://www.thehindu.com/sci-tech/technology/anthropic-rolls-out-personal-finance-feature-for-claude/article71672717.ece",
+      "https://www.thehindu.com/sci-tech/technology/openai-launches-gpt-6-cyber-with-critical-cybersecurity-rating/article71672703.ece"
+    ]
   }
 ]
