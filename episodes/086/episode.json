@@ -1,0 +1,54 @@
+{
+  "number": 86,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "शोधकर्ताओं ने पाया है कि शोरगुल वन्यजीवों पर घातक तनाव डाल रहा है। इससे लगभग अस्सी प्रतिशत जलीय और स्थलीय प्रजातियों के लक्षण बदल गए हैं।",
+      "en": "Researchers found noise is putting fatal stress on wildlife, altering traits in about eighty percent of aquatic and terrestrial species.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "वैज्ञानिक नाभकीय संलयन के लिए टोकामक यंत्र का उपयोग करते हैं। यह चुंबकीय क्षेत्रों से प्लाज्मा को रोकता है, हालांकि व्यावसायिक ऊर्जा उत्पादन में अभी चुनौतियाँ हैं।",
+      "en": "Scientists use tokamaks for nuclear fusion using magnetic fields to confine plasma, though commercial energy challenges remain.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अमेज़ॅन अब कार्बन सिंक नहीं बल्कि उत्सर्जक बन चुका है।",
+      "en": "The Amazon is no longer a carbon sink but has become an emitter.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा विज्ञान ख़बरों के लिए हमारे पन्ने को अवश्य फॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's fresh science news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🌿 शोधकर्ताओं के अनुसार शोरगुल वन्यजीवों पर घातक तनाव डाल रहा है\n⚛️ टोकामक यंत्र चुंबकीय क्षेत्रों से नाभकीय संलयन में मदद करता है\n🌳 अमेज़ॅन का जंगल अब कार्बन सिंक नहीं बल्कि उत्सर्जक बन गया है\nरोज़ाना ऐसी ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "A noisy Anthropocene is imposing fatal stress on wildlife",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/a-noisy-anthropocene-is-imposing-fatal-stress-on-wildlife/article71666652.ece"
+    },
+    {
+      "title": "How do tokamaks work to make nuclear fusion possible?",
+      "link": "https://www.thehindu.com/sci-tech/science/how-do-tokamaks-work-to-make-nuclear-fusion-possible/article71670265.ece"
+    }
+  ]
+}
