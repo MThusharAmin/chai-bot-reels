@@ -856,5 +856,16 @@
       "https://www.thehindu.com/sport/cricket/mohammed-shami-retires-from-test-cricket-to-continue-playing-white-ball-formats/article71676026.ece",
       "https://www.thehindu.com/sport/vaibhav-sooryavanshi-named-bihar-captain-for-syed-mushtaq-ali-trophy/article71675483.ece"
     ]
+  },
+  {
+    "number": 90,
+    "format": "news",
+    "category": "tech",
+    "title": "आज की प्रमुख तकनीकी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/amazon-rolls-out-text-based-shopping-through-alexa/article71677218.ece",
+      "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+      "https://www.thehindu.com/sci-tech/technology/us-fbi-and-regulators-issue-warning-about-cyber-attacks-targeting-industrial-refrigerators/article71677605.ece"
+    ]
   }
 ]
