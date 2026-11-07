@@ -1,0 +1,58 @@
+{
+  "number": 87,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "अनोखी और अच्छी ख़बरें",
+  "title_en": "Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक भारतीय डिज़ाइनर और दो मधुबनी कलाकारों ने मिलकर एक प्राचीन महाकाव्य को अंग्रेज़ी वर्णमाला में बदल दिया है। यह एक अनूठा प्रयास है।",
+      "en": "An Indian designer and two Madhubani artists have translated an ancient epic into the English alphabet. This is a unique effort.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इस दीवाली पर पारंपरिक ताश पार्टियों के अलावा महजोंग का खेल भी पार्टियों में अपनी जगह बना रहा है। इसके क्लब और प्रतियोगिताएं लोकप्रिय हो रही हैं।",
+      "en": "This Diwali, besides traditional card parties, the game of mahjong is making its way into parties. Its clubs and tournaments are becoming popular.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "संकटग्रस्त काले गर्दन वाले क्रेन पक्षी भूटान पहुंच रहे हैं और इस अवसर पर एक वार्षिक उत्सव शुरू हो रहा है। वहाँ याक के झुंड के लिए ट्रैफिक भी रुकता है।",
+      "en": "Endangered black-necked cranes are arriving in Bhutan and an annual festival is starting on this occasion. Traffic also stops there for herds of yaks.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया हमारे पेज को फॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow with new news. Please do not forget to follow our page.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ रामायण पर आधारित टाइपफेस ने अंग्रेज़ी वर्णमाला को नया रूप दिया है\n🀄 पारंपरिक ताश के साथ अब पार्टियों में महजोंग का खेल भी लोकप्रिय हो रहा है\n🐦 भूटान में काले गर्दन वाले क्रेन पक्षियों के आने पर वार्षिक उत्सव शुरू हो गया है\nरोज़ाना ऐसी ही दिलचस्प ख़बरों के लिए हमारे पेज को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘The Ramayana’ as a typeface",
+      "link": "https://www.thehindu.com/entertainment/art/the-ramayana-typeface-ishan-khosla-the-typecraft-initiative-madhubani-artists/article71671400.ece"
+    },
+    {
+      "title": "Mahjong in India: The tile game finding its way into Deepavali parties",
+      "link": "https://www.thehindu.com/life-and-style/mahjong-in-india-the-tile-game-finding-its-way-into-deepavali-parties/article71672834.ece"
+    },
+    {
+      "title": "Black-necked cranes: yet another reason to visit Bhutan",
+      "link": "https://www.thehindu.com/life-and-style/travel/black-necked-cranes-bhutan-punakha-kelly-dorji-pemako-punakha/article71664282.ece"
+    }
+  ]
+}
