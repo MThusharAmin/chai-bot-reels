@@ -1,0 +1,58 @@
+{
+  "number": 88,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा खबरें",
+  "title_en": "Latest Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जीतू माधवन की फ़िल्म सीन में सूर्या और नसलेन नजर आते हैं। यह एक बेहद आकर्षक और मनोरंजक ब्लैक कॉमेडी फ़िल्म है।",
+      "en": "Jithu Madhavan's film Scene features Suriya and Naslen. This is a very engaging and entertaining dark comedy film.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्राइम वीडियो ने घोषणा की है कि ऑफ़ कैंपस का दूसरा सीजन अप्रैल सन दो हज़ार सत्ताईस में रिलीज़ होगा।",
+      "en": "Prime Video has announced that the second season of Off Campus will be released in April 2027.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अमल नीरद की फ़िल्म बैचलर पार्टी देउ का ट्रेलर आ गया है। यह फ़िल्म उन्नीस नवंबर को सिनेमाघरों में आएगी।",
+      "en": "The trailer of Amal Neerad's film Bachelor Party D'eux is out. This film will come to cinemas on November 19.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रोज़ाना ऐसी ही खबरें देखने के लिए हमारे साथ बने रहिए।",
+      "en": "Stay tuned with us to watch such news daily.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 निर्देशक जीतू माधवन की फ़िल्म सीन में सूर्या और नसलेन की शानदार अदाकारी देखने को मिलती है।\n📺 अमेज़न प्राइम वीडियो ने पुष्टि की है कि ऑफ़ कैंपस का दूसरा सीजन अप्रैल सन दो हज़ार सत्ताईस में रिलीज़ होगा।\n🎥 अमल नीरद की नई फ़िल्म बैचलर पार्टी देउ का स्टाइलिश ट्रेलर सामने आ गया है जो उन्नीस नवंबर को रिलीज़ होगी।\n✨ मनोरंजन जगत की ऐसी ही खास खबरों के लिए हमें फॉलो कीजिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Scene’ movie review: Suriya redefines mass in Jithu Madhavan’s ‘scene’-tillating dark comedy",
+      "link": "https://www.thehindu.com/entertainment/movies/scene-movie-review-suriya-jithu-madhavan-naslen-nazriya-nazim-sushin-shyam/article71673522.ece"
+    },
+    {
+      "title": "‘Off Campus’ Season 2 release date: Prime Video confirms April 2027 return with Allie and Dean’s romance",
+      "link": "https://www.thehindu.com/entertainment/movies/off-campus-season-2-release-date-prime-video-confirms-april-2027-return-with-allie-and-deans-romance/article71673486.ece"
+    },
+    {
+      "title": "‘Bachelor Party D’eux’ trailer: A stylish entertainer by Amal Neerad on cards",
+      "link": "https://www.thehindu.com/entertainment/movies/bachelor-party-deux-trailer-naslen-amal-neerad-bachelor-party-deux-release-date-kunchacko-boban/article71668930.ece"
+    }
+  ]
+}
