@@ -1,0 +1,58 @@
+{
+  "number": 91,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "आज की अच्छी और अनोखी ख़बरें",
+  "title_en": "Today's Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की अच्छी और अनोखी ख़बरों में आपका स्वागत है। आज की रोचक और सकारात्मक बातें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's Good and Unusual News. Listen to today's interesting and positive stories.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "हिमाचल प्रदेश के रामपुर बुशहर में तीन सौ साल पुराना लवी मेला जारी है। ऊन और वस्तु विनिमय का यह व्यापार अब महिला उद्यमियों और डिजिटल भुगतान तक पहुँच गया है।",
+      "en": "The three-hundred-year-old Lavi Fair is underway in Rampur Bushahr, Himachal Pradesh. This trade of wool and barter has now reached women entrepreneurs and digital payments.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विश्व के पचास सर्वश्रेष्ठ भोजनालयों की सूची में भारत के दो भोजनालय शामिल हुए हैं। पेरू में हुई घोषणा के अनुसार बास्क देश के असादोर एत्शेबारी ने पहला स्थान हासिल किया।",
+      "en": "Two Indian restaurants have made it to the list of the World's Fifty Best Restaurants. According to the announcement in Peru, Asador Etxebarri of the Basque Country took first place.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मिठाई प्रेमी लेखक प्रज्वल पराजुली ने लगभग एक वर्ष से मीठे का त्याग किया है। वह इस दीवाली पारंपरिक मिठाइयों की जगह हमस केक जैसे अनोखे विकल्प अपना रहे हैं।",
+      "en": "Dessert lover author Prajwal Parajuly has given up sweets for nearly a year. This Diwali, he is adopting unusual alternatives like hummus cake instead of traditional sweets.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "ऐसी ही सकारात्मक ख़बरों के लिए हमसे जुड़े रहिए और चाय बॉट को ज़रूर फ़ॉलो कीजिए।",
+      "en": "Stay connected with us for such positive news and do follow Chai Bot.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ हिमाचल प्रदेश के रामपुर बुशहर में तीन सौ साल पुराने ऐतिहासिक लवी मेले का आयोजन हो रहा है।\n🏆 विश्व के पचास सर्वश्रेष्ठ भोजनालयों की नई सूची में भारत के दो भोजनालयों ने अपनी जगह बनाई है।\n🥮 लेखक प्रज्वल पराजुली लगभग एक साल से चीनी छोड़े हुए हैं और दीवाली पर हमस केक अपना रहे हैं।\nहर रोज़ ऐसी ही ताज़ा और रोचक ख़बरों के लिए हमें फ़ॉलो कीजिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition",
+      "link": "https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece"
+    },
+    {
+      "title": "India claims two spots on the World’s 50 Best Restaurants 2026. Check out the full list",
+      "link": "https://www.thehindu.com/food/features/india-claims-two-spots-on-the-worlds-50-best-restaurants-2026-check-out-the-full-list/article71673864.ece"
+    },
+    {
+      "title": "Deepavali without mithai: What happens when a dessert addict gives up sugar for a year?",
+      "link": "https://www.thehindu.com/life-and-style/deepavali-without-mithai-what-happens-when-a-dessert-addict-gives-up-sugar-for-a-year/article71669153.ece"
+    }
+  ]
+}
