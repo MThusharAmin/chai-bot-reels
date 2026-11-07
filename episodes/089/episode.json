@@ -1,0 +1,58 @@
+{
+  "number": 89,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज के मुख्य खेल समाचार",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खेल ख़बरों में आपका स्वागत है। आइए आज के मुख्य समाचार सुनते हैं।",
+      "en": "Hello, welcome to Chai Bot's sports news. Let us hear today's top stories.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत ने दूसरे एकदिवसीय मैच में न्यूज़ीलैंड को डकवर्थ लुईस नियम से हरा दिया है। कप्तान शुभमन गिल ने टॉस जीतकर पहले गेंदबाज़ी चुनी थी।",
+      "en": "India defeated New Zealand via the DLS method in the second one-day international. Captain Shubman Gill had won the toss and chosen to bowl first.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अनुभवी गेंदबाज़ मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास ले लिया है। चौंसठ टेस्ट में दो सौ उनतीस विकेट लेने वाले शमी सीमित ओवरों में खेलते रहेंगे।",
+      "en": "Experienced bowler Mohammed Shami has retired from Test cricket. Having taken 229 wickets in 64 Tests, Shami will continue playing limited-overs cricket.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक़ अली ट्रॉफी के लिए वैभव सूर्यवंशी को बिहार टीम का कप्तान बनाया गया है। बिहार क्रिकेट संघ ने सूरज कश्यप को उपकप्तान नियुक्त किया है।",
+      "en": "Vaibhav Sooryavanshi has been appointed captain of the Bihar team for the Syed Mushtaq Ali Trophy. The Bihar Cricket Association has named Suraj Kashyap as vice-captain.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत की ताज़ा जानकारी के लिए हमारे साथ जुड़े रहिए। कल फिर मिलेंगे, धन्यवाद।",
+      "en": "Stay tuned with us for the latest sports updates. See you tomorrow, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 भारत ने दूसरे एकदिवसीय मुक़ाबले में न्यूज़ीलैंड को डकवर्थ लुईस नियम के तहत हराया।\n🎯 तेज़ गेंदबाज़ मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास की घोषणा की।\n🏆 सैयद मुश्ताक़ अली ट्रॉफी के लिए वैभव सूर्यवंशी बने बिहार के कप्तान।\nताज़ा खेल समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "NZL vs IND second ODI: India beat New Zealand via DLS after rain-hit pace battle",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-odi-wellington-november-7-2026/article71677380.ece"
+    },
+    {
+      "title": "Mohammed Shami retires from Test cricket, to continue playing white-ball formats",
+      "link": "https://www.thehindu.com/sport/cricket/mohammed-shami-retires-from-test-cricket-to-continue-playing-white-ball-formats/article71676026.ece"
+    },
+    {
+      "title": "Vaibhav Sooryavanshi named Bihar captain for Syed Mushtaq Ali Trophy",
+      "link": "https://www.thehindu.com/sport/vaibhav-sooryavanshi-named-bihar-captain-for-syed-mushtaq-ali-trophy/article71675483.ece"
+    }
+  ]
+}
