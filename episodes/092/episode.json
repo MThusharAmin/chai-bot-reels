@@ -1,0 +1,58 @@
+{
+  "number": 92,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास और नई फ़िल्मी खबरें",
+  "title_en": "Special and new entertainment film news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की मनोरंजन खबरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "लोकप्रिय श्रंखला स्ट्रेंजर थिंग्स का एक नया लाइव एक्शन स्पिन ऑफ़ आदर वर्ड्स नाम से सन दो हज़ार अट्ठावन में प्रसारित होगा। इसे डफर ब्रदर्स और केट ट्रेफ्री ने विकसित किया है.",
+      "en": "Popular series Stranger Things new live-action spin-off will premiere in 2028. It is developed by Duffer Brothers and Kate Trefry.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "डॉक्टर स्यूस की प्रसिद्ध बच्चों की पुस्तक पर आधारित द कैट इन द हैट फ़िल्म छुट्टियों के मौसम के लिए एक मनोरंजक प्रयास है। इसके चुटकुले मधुर और अभिनय बहुत जीवंत हैं.",
+      "en": "Based on Dr Seuss's famous children's book, The Cat in the Hat film is a fun effort for the holiday season. Its jokes are sweet and acting is lively.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कमल हासन अपनी अगली फिल्म में सांडियार शीर्षक का उपयोग कर रहे हैं। इस फिल्म का निर्देशन एस यू अरुण कुमार करेंगे और संगीत अनिरुद्ध रविचंदर का होगा.",
+      "en": "Kamal Haasan is using the title Sandiyar in his next film. The film will be directed by SU Arun Kumar and music will be by Anirudh Ravichander.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। कल की खबरों के लिए कृपया हमें फ़ॉलो करें।",
+      "en": "Will meet again tomorrow. Please follow us for tomorrow's news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n☕ नेटफ्लिक्स ने लोकप्रिय श्रंखला स्ट्रेंजर थिंग्स के नए स्पिन ऑफ़ आदर वर्ड्स की घोषणा की है जो सन दो हज़ार अट्ठावन में रिलीज होगी\n☕ डॉक्टर स्यूस की बच्चों की पुस्तक पर आधारित द कैट इन द हैट फ़िल्म छुट्टियों के मौसम के लिए एक मनोरंजक प्रस्तुति है\n☕ कमल हासन अपनी आगामी फिल्म के लिए सांडियार शीर्षक का उपयोग कर रहे हैं जिसका निर्देशन एस यू अरुण कुमार करेंगे\nरोज़ाना ऐसी ही ताज़ा खबरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Other Worlds’: Netflix announces live-action spin-off to ‘Stranger Things’",
+      "link": "https://www.thehindu.com/entertainment/movies/other-worlds-stranger-things-a-stranger-things-adventure-netflix-live-action-spin-off-duffer-brothers/article71678507.ece"
+    },
+    {
+      "title": "‘The Cat in the Hat’ movie review: A fun way to step into the holiday season",
+      "link": "https://www.thehindu.com/entertainment/movies/the-cat-in-the-hat-movie-review-dr-seuss-erica-rivinoja-alessandro-carloni-bill-hader-matt-berry-quinta-brunson/article71674694.ece"
+    },
+    {
+      "title": "‘Sandiyar’: Kamal Haasan reclaims his controversial title for his next",
+      "link": "https://www.thehindu.com/entertainment/movies/sandiyar-kamal-haasan-su-arun-kumar-controversial-title-virumandi-anirudh-ravichander-rkfi/article71674742.ece"
+    }
+  ]
+}
