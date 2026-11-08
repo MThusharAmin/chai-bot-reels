@@ -1,0 +1,58 @@
+{
+  "number": 98,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की महत्वपूर्ण उपलब्धियां",
+  "title_en": "Important achievements in the world of sports",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वैष्णवी और रुतुजा ने डब्ल्यू टी ए चेन्नई ओपन के फाइनल में पहुंचकर इतिहास रच दिया। यह भारतीय जोड़ी स्विस जोड़ी के खिलाफ उपविजेता रही।",
+      "en": "Vaishnavi and Rutuja created history by reaching the WTA Chennai Open final. This Indian pair finished as runners-up against the Swiss pair.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अनुज श्रीवात्रि भारत के सौवें शतरंज ग्रैंड मास्टर बन गए हैं। उन्होंने फिलीपींस में आयोजित प्रतियोगिता में यह उपलब्धि हासिल की।",
+      "en": "Anuj Shrivatri has become India's one hundredth chess Grandmaster. He achieved this feat in the tournament held in the Philippines.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कोच माइकल क्लिंजर ने कहा है कि फिटनेस और प्रदर्शन बेहतर होने पर उम्र कोई मायने नहीं रखती। वह महिला प्रीमियर लीग में गुजरात जायंट्स के कोच हैं।",
+      "en": "Coach Michael Klinger has said that age does not matter if fitness and performance are good. He is the coach of Gujarat Giants in the Women's Premier League.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ जुड़े रहें और चैनल को फॉलो करें।",
+      "en": "Stay connected with us for tomorrow's fresh sports news and follow the channel.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🎾 वैष्णवी और रुतुजा ने डब्ल्यू टी ए चेन्नई ओपन में उपविजेता रहकर रचा इतिहास\n♟️ अनुज श्रीवात्रि बने भारत के सौवें शतरंज ग्रैंड मास्टर\n🏏 कोच माइकल क्लिंजर ने फिटनेस और उम्र को लेकर रखी अपनी बात\nप्रतिदिन की खेल ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "WTA Chennai Open: Vaishnavi and Rutuja settle for runners-up finish against Swiss duo",
+      "link": "https://www.thehindu.com/sport/wta-chennai-open-vaishnavi-and-rutuja-settle-for-runners-up-finish/article71681151.ece"
+    },
+    {
+      "title": "Anuj Shrivatri becomes India’s 100th chess Grandmaster",
+      "link": "https://www.thehindu.com/sport/anuj-shrivatri-becomes-indias-100th-chess-grandmaster/article71681083.ece"
+    },
+    {
+      "title": "If you’re fit and performing well, age doesn’t matter: Michael Klinger",
+      "link": "https://www.thehindu.com/sport/cricket/michael-klinger-interview-australia-cricketer-gujarat-giants-coach-wpl-india/article71676036.ece"
+    }
+  ]
+}
