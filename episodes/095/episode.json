@@ -1,0 +1,58 @@
+{
+  "number": 95,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास खबरें",
+  "title_en": "Special entertainment news updates",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की मनोरंजन खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फिल्म मूकूथी अम्मन दो सिनेमाघरों में आ चुकी है। कमजोर कहानी के कारण यह दर्शकों को खास पसंद नहीं आई।",
+      "en": "The film Mookuthi Amman two has arrived in cinemas. It did not impress viewers much due to a weak story.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "डिस्को फिल्म पर्दे पर रिलीज हो गई है। तकनीकी रूप से मजबूत होने के बावजूद इसकी कहानी काफी सामान्य है।",
+      "en": "The film Disco has been released on screen. Despite being technically strong, its story is quite generic.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आर्ट मुंबई का आयोजन फिर से शुरू हो गया है। इसके संस्थापक नए खरीदारों के एक नए वर्ग के बारे में बात कर रहे हैं।",
+      "en": "Art Mumbai event has started again. Its founders are talking about a new generation of buyers.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "आज की खबरें समाप्त हुईं। कल की ताज़ा खबरों के लिए हमारे पेज को फॉलो करना न भूलें।",
+      "en": "Today's news has ended. Do not forget to follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n☕ मूकूथी अम्मन दो फिल्म कमजोर कहानी के कारण दर्शकों को नहीं लुभा पाई\n🎬 डिस्को फिल्म तकनीकी रूप से मजबूत है लेकिन कहानी में दम नहीं है\n🎨 आर्ट मुंबई का आयोजन नए खरीदारों के साथ लौट आया है\n✨ कल की ताजा खबरों के लिए हमारे पेज को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Mookuthi Amman 2’ movie review: Nayanthara’s Amman has divine powers, but cannot defeat bad filmmaking",
+      "link": "https://www.thehindu.com/entertainment/movies/mookuthi-amman-2-movie-review-nayanthara-sundar-c-regena-cassandrra-hiphop-tamizha/article71677645.ece"
+    },
+    {
+      "title": "‘Disco’ movie review: Stylish treatment fails to paper over the lack of substance in this generic mafia story",
+      "link": "https://www.thehindu.com/entertainment/movies/disco-movie-review-stylish-treatment-fails-to-paper-over-the-lack-of-substance-in-this-generic-mafia-story/article71674961.ece"
+    },
+    {
+      "title": "The next chapter of Art Mumbai",
+      "link": "https://www.thehindu.com/entertainment/art/art-mumbai-2026-fourth-edition-new-buyers-international-galleries-minal-vazirani/article71664306.ece"
+    }
+  ]
+}
