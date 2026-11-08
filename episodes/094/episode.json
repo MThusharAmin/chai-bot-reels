@@ -1,0 +1,58 @@
+{
+  "number": 94,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "दीपावली और जीवनशैली की अनूठी ख़बरें",
+  "title_en": "Unique news on Deepavali and lifestyle",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दीपावली की पार्टियों में अब नए स्वाद आ रहे हैं। तैयार मिलने वाले कॉकटेल में रस मलाई और जामुन जैसे भारतीय स्वाद शामिल हो रहे हैं।",
+      "en": "New flavors are now coming to Deepavali parties. Ready-to-drink cocktails are including Indian flavors like ras malai and jamun.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय पहनावे को नया रूप दिया जा रहा है। एक नए संग्रह में अजरख और कलमकारी दोनों कलाओं को एक साथ मिलाया गया है।",
+      "en": "Indian attire is being given a new form. A new collection brings together both Ajrakh and Kalamkari arts.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फैशन की दुनिया में एक नया प्रयोग हुआ है। चित्रकार यश प्रधान ने कपड़ों को पहनने योग्य कैनवास के रूप में पेश किया है।",
+      "en": "A new experiment has happened in the fashion world. Illustrator Yash Pradhan has presented garments as wearable canvases.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया इस पृष्ठ का अनुसरण करें।",
+      "en": "We will meet again tomorrow with new news. Please follow this page.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ दीपावली की पार्टियों में रस मलाई और जामुन जैसे भारतीय स्वादों वाले तैयार कॉकटेल शामिल हो रहे हैं।\n🎨 एक नए संग्रह में अजरख और कलमकारी दोनों पारंपरिक भारतीय कलाओं को मिलाया गया है।\n👕 चित्रकार यश प्रधान ने कपड़ों को पहनने योग्य कैनवास के रूप में नया रूप दिया है।\n🔔 रोज़ाना ऐसी ही अनूठी ख़बरों के लिए हमारे साथ बने रहें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Deepavali 2026: How ready-to-drink cocktails are changing India’s festive drinking scene",
+      "link": "https://www.thehindu.com/food/features/deepavali-2026-how-ready-to-drink-cocktails-are-changing-indias-festive-drinking-scene/article71648305.ece"
+    },
+    {
+      "title": "A tale of Ajrakh and Kalamkari",
+      "link": "https://www.thehindu.com/life-and-style/a-tale-of-ajrakh-and-kalamkari/article71669838.ece"
+    },
+    {
+      "title": "Yash Pradhan reimagines GAP hoodies as wearable canvases for Fall 2026",
+      "link": "https://www.thehindu.com/life-and-style/fashion/yash-pradhan-reimagines-gap-hoodies-as-wearable-canvases-for-fall-2026/article71639328.ece"
+    }
+  ]
+}
