@@ -1,0 +1,58 @@
+{
+  "number": 97,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "मुगल काल में दीवाली और घड़ियों के ऑस्कर",
+  "title_en": "Deepavali in Mughal era and watchmaking Oscars",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इतिहासकार अनुष्का जैन ने मुगल काल में दीपावली के जश्न पर प्रकाश डाला है। यह पर्व शाहजहांबाद के सांस्कृतिक जीवन और शाही दरबार का हिस्सा था।",
+      "en": "Historian Anoushka Jain has highlighted Deepavali celebrations in the Mughal era. This festival was part of the cultural life and imperial court of Shahjahanabad.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आगामी त्योहारी सीजन के लिए एक विशेष मार्गदर्शिका जारी की गई है। इसमें संलयन मिठाइयों और स्वतंत्र उपहारों के बारे में जानकारी दी गई है।",
+      "en": "A special guide for the upcoming festive season has been released. It provides information about fusion sweets and indie gifts.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जिनेवा घड़ी निर्माण प्रतियोगिता के भारतीय चरण का आयोजन हो रहा है। इस प्रतिष्ठित कार्यक्रम में चौरासी घड़ियों को नामांकित किया गया है।",
+      "en": "The Indian leg of the Geneva watchmaking competition is taking place. Eighty-four watches have been nominated in this prestigious event.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की ख़बरें समाप्त हुईं। कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Today's news is over. Stay with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\nइतिहासकार अनुष्का जैन ने मुगल साम्राज्य में दीपावली के उत्सव के इतिहास को साझा किया है। आगामी त्योहारी सीजन के लिए विशेष मिठाइयों और उपहारों की मार्गदर्शिका सामने आई है। जिनेवा घड़ी निर्माण प्रतियोगिता के भारतीय चरण में चौरासी घड़ियों को नामांकित किया गया है। ऐसी ही रोज़ाना ख़बरों के लिए हमें फ़ॉलो कीजिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Jashn-e Chiragha’n: Tracing Deepavali celebrations in the Mughal Empire",
+      "link": "https://www.thehindu.com/society/history-and-culture/jashn-e-chiraghan-tracing-deepavali-celebrations-in-the-mughal-empire/article71659626.ece"
+    },
+    {
+      "title": "The Deepavali 2026 guide: What to eat, gift and wear this season",
+      "link": "https://www.thehindu.com/society/the-deepavali-2026-guide-what-to-eat-gift-and-wear-this-season/article71669302.ece"
+    },
+    {
+      "title": "Oscars of watchmaking: At the 2026 GPHG Awards, 84 nominees and the winners to be announced today",
+      "link": "https://www.thehindu.com/life-and-style/gphg-2026-independent-watchmakers-best-watches-nominees/article71677656.ece"
+    }
+  ]
+}
