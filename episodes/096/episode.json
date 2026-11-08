@@ -1,0 +1,58 @@
+{
+  "number": 96,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "भारतीय क्रिकेट और खेल की मुख्य खबरें",
+  "title_en": "Key news from Indian cricket and sports",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय क्रिकेट नियंत्रण बोर्ड ने मोहम्मद शमी की प्रशंसा की है। बोर्ड ने कहा है कि उन्होंने तेज गेंदबाजी के एक युग को परिभाषित किया है।",
+      "en": "The Board of Control for Cricket in India praised Mohammed Shami. The board said that he defined an era of fast bowling.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारत ने अपने अभियान की शुरुआत शानदार तरीके से की है। नेपाल के खिलाफ मैच में भारतीय टीम ने बिना किसी नुकसान के लक्ष्य प्राप्त कर लिया।",
+      "en": "India has started its campaign in a grand way. In the match against Nepal, the Indian team achieved the target without any loss.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बांग्लादेश और वेस्टइंडीज के बीच खेले जा रहे टेस्ट मैच में महमूद ने बेहतरीन गेंदबाजी की। उन्होंने छह विकेट लेकर वेस्टइंडीज की पारी को सीमित कर दिया।",
+      "en": "In the Test match being played between Bangladesh and West Indies, Mahmud bowled brilliantly. He restricted the West Indies innings by taking six wickets.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई खेल ख़बरों के साथ। कृपया हमारे इस पृष्ठ को फॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow with new sports news. Please do not forget to follow this page.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\nभारतीय क्रिकेट नियंत्रण बोर्ड ने मोहम्मद शमी की गेंदबाजी की सराहना की\nभारत ने नेपाल के खिलाफ शानदार जीत के साथ अपने अभियान की शुरुआत की\nबांग्लादेश और वेस्टइंडीज के टेस्ट मैच में महमूद ने छह विकेट लिए\nप्रतिदिन की ताजा खबरों के लिए हमारे इस पृष्ठ को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Shami defined an era of pace bowling: BCCI",
+      "link": "https://www.thehindu.com/sport/cricket/shami-defined-an-era-of-pace-bowling-bcci/article71679448.ece"
+    },
+    {
+      "title": "Jr Sehwag and Lakshya shine as India win",
+      "link": "https://www.thehindu.com/sport/cricket/jr-sehwag-and-lakshya-shine-as-india-win/article71677150.ece"
+    },
+    {
+      "title": "BAN vs WI 2nd Test: Mahmud scalps six to restrict West Indies",
+      "link": "https://www.thehindu.com/sport/cricket/ban-vs-wi-2nd-test-mahmud-scalps-six-to-restrict-west-indies/article71676252.ece"
+    }
+  ]
+}
