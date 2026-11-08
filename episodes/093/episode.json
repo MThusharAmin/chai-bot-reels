@@ -1,0 +1,58 @@
+{
+  "number": 93,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज के मुख्य खेल समाचार",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के समाचार मंच पर आपका स्वागत है। आइए सुनते हैं आज की प्रमुख खेल ख़बरें।",
+      "en": "Hello and welcome to Chai Bot's news bulletin. Let us hear today's top sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत ए ने न्यूज़ीलैंड ए के विरुद्ध चार सौ चौंसठ रन बनाकर अपनी पहली पारी घोषित की। भारतीय टीम ने दूसरे दिन चार सौ अट्ठाइस रनों की मजबूत बढ़त बनाई।",
+      "en": "India A declared their first innings after scoring 464 runs against New Zealand A. The Indian team established a strong lead of 428 runs on day two.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वेस्ट इंडीज़ के विरुद्ध तौहीद हृदोय ने बांग्लादेश के लिए नया कीर्तिमान स्थापित किया। उन्होंने दो सौ उन्नीस रनों का रिकॉर्ड पीछे छोड़कर सबसे बड़ा व्यक्तिगत स्कोर बनाया।",
+      "en": "Towhid Hridoy set a new record for Bangladesh against the West Indies. He surpassed the record of 219 runs to register the country's highest individual score.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "आगामी टेस्ट श्रृंखला से पहले यशस्वी जायसवाल ने ए दौरे पर एक सौ दो रनों का शतक लगाया। उन्होंने इस शानदार पारी के ज़रिए अपनी लय वापस हासिल की।",
+      "en": "Ahead of the upcoming Test series, Yashasvi Jaiswal scored a century of 102 runs on the A tour. He regained his form through this fine innings.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत की ऐसी ही ताज़ा जानकारियों के लिए हमारे साथ जुड़े रहिए। कल फिर मिलेंगे, धन्यवाद।",
+      "en": "Stay tuned with us for more such latest sports updates. See you tomorrow, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 भारत ए ने न्यूज़ीलैंड ए के खिलाफ चार सौ अट्ठाइस रनों की विशाल बढ़त हासिल की।\n🏏 तौहीद हृदोय ने टेस्ट क्रिकेट में बांग्लादेश के लिए सर्वाधिक व्यक्तिगत स्कोर का नया कीर्तिमान बनाया।\n🏏 आगामी टेस्ट श्रृंखला से पहले यशस्वी जायसवाल ने एक सौ दो रनों का शानदार शतक जड़ा।\nदैनिक खेल समाचारों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "India A take 428-run lead to dominate day 2 against NZ A",
+      "link": "https://www.thehindu.com/sport/cricket/india-a-take-428-run-lead-to-dominate-day-2-against-nz-a/article71680608.ece"
+    },
+    {
+      "title": "Towhid Hridoy hits record-breaking double century for Bangladesh in second Test against West Indies",
+      "link": "https://www.thehindu.com/sport/cricket/towhid-hridoy-hits-record-breaking-double-century-for-bangladesh-in-second-test-against-west-indies/article71679460.ece"
+    },
+    {
+      "title": "Jaiswal smashes second ton of the A tour, hits top form ahead of Test series",
+      "link": "https://www.thehindu.com/sport/cricket/jaiswal-smashes-second-ton-of-the-a-tour-hits-top-form-ahead-of-test-series/article71679447.ece"
+    }
+  ]
+}
