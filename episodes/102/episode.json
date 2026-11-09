@@ -1,0 +1,58 @@
+{
+  "number": 102,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "अन्डर उन्नीस एशिया कप और शतरंज की बड़ी खबरें",
+  "title_en": "Under Nineteen Asia Cup and Chess Major News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की खेल खबरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अन्डर उन्नीस एशिया कप मुकाबले में पाकिस्तान ने भारत को तीन विकेट से हरा दिया। भारत की पूरी टीम दो सौ आठ रन पर आउट हो गई थी।",
+      "en": "In the Under Nineteen Asia Cup match, Pakistan beat India by three wickets. India's entire team was bowled out for two hundred eight runs.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "मोटर स्पोर्ट्स् प्रतियोगिता में अतीक मीर ने शानदार प्रदर्शन किया। उन्होंने रेस एक में सोलह स्थान हासिल करते हुए छठा स्थान प्राप्त किया।",
+      "en": "Atiqa Mir performed brilliantly in the motor sports competition. She secured the sixth position by making up sixteen places in Race one.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अनुज भारत के सौवें ग्रैंडमास्टर बन गए हैं। उन्होंने फिलीपींस में आयोजित चैंपियनशिप जीतकर यह उपलब्धि हासिल की है।",
+      "en": "Anuj has become India's one hundredth Grandmaster. He achieved this feat by winning the championship held in the Philippines.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमें फॉलो करना न भूलें।",
+      "en": "Do not forget to follow us for tomorrow's fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 पाकिस्तान ने भारत को तीन विकेट से हराया\n🏎️ अतीक मीर ने मोटर स्पोर्ट्स् में छठा स्थान प्राप्त किया\n♟️ अनुज भारत के सौवें ग्रैंडमास्टर बने\nरोजाना की खबरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Pakistan beat India by three wickets in U-19 Asia Cup",
+      "link": "https://www.thehindu.com/sport/pakistan-beat-india-by-three-wickets-in-u-19-asia-cup/article71680996.ece"
+    },
+    {
+      "title": "Atiqa Mir produces overtaking masterclass to finish 6th on FIA World Championship debut",
+      "link": "https://www.thehindu.com/sport/atiqa-mir-produces-overtaking-masterclass-to-finish-6th-on-fia-world-championship-debut/article71683921.ece"
+    },
+    {
+      "title": "Anuj lights up Indian chess, becomes the 100th GM",
+      "link": "https://www.thehindu.com/sport/anuj-lights-up-indian-chess-becomes-the-100th-gm/article71683912.ece"
+    }
+  ]
+}
