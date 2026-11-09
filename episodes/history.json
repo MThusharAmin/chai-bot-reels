@@ -976,5 +976,16 @@
       "https://www.thehindu.com/news/national/number-of-villages-without-4g-connectivity-falls-by-three-fourths-in-four-years/article71682377.ece",
       "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gears-up-for-31st-cii-partnership-summit/article71682329.ece"
     ]
+  },
+  {
+    "number": 101,
+    "format": "news",
+    "category": "entertainment",
+    "title": "मनोरंजन और कला की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/entertainment/movies/bass-x-machina-series-review-exhilarating-genre-mash-up-rides-out-boldly/article71680848.ece",
+      "https://www.thehindu.com/entertainment/music/karthik-gubbi-gives-dr-rajkumars-classic-a-hip-hop-twist/article71615510.ece",
+      "https://www.thehindu.com/entertainment/music/rk-padmanabha-to-be-honoured-with-chowdiah-award-2026/article71677655.ece"
+    ]
   }
 ]

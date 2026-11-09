@@ -1,0 +1,58 @@
+{
+  "number": 101,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन और कला की मुख्य ख़बरें",
+  "title_en": "Main entertainment and arts news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन और कला की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment and arts news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेस एक्स मशीना श्रृंखला अपनी अनूठी शैली और दृश्यों के कारण चर्चा में है। यह श्रृंखला नस्ल और शोषण से जुड़े महत्वपूर्ण सवाल उठाती है।",
+      "en": "The Bass X Machina series is being discussed for its unique style and visuals. This series raises important questions related to race and exploitation.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कन्नड़ के प्रसिद्ध अभिनेता राजकुमार का एक पुराना गाना अब नए रूप में आ गया है। रैपर कार्तिक गुब्बी ने इस क्लासिक गाने को हिप-हॉप का नया अंदाज़ दिया है।",
+      "en": "A classic song by renowned Kannada actor Rajkumar has now appeared in a new form. Rapper Karthik Gubbi has given this classic song a new hip-hop style.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अठत्तर वर्षीय गायक आर के पद्मनाभा को वर्ष दो हज़ार छब्बीस के चौड़ैया पुरस्कार से सम्मानित किया जाएगा। यह सम्मान उनके लंबे संगीत सफर की एक और बड़ी उपलब्धि है।",
+      "en": "Seventy-eight-year-old vocalist R. K. Padmanabha will be honored with the Chowdiah Award for the year two thousand twenty-six. This honor is another major achievement in his long musical journey.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "रोज़ाना ऐसी ही ताज़ा ख़बरें पाने के लिए चाय बॉट को फॉलो करना न भूलें।",
+      "en": "Do not forget to follow Chai Bot to get such fresh news daily.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 बेस एक्स मशीना श्रृंखला अपनी अनूठी शैली और दृश्यों के कारण चर्चा में है\n🎵 कन्नड़ के प्रसिद्ध अभिनेता राजकुमार के क्लासिक गाने को हिप-हॉप का नया अंदाज़ मिला है\n🏆 प्रसिद्ध गायक आर के पद्मनाभा को वर्ष दो हज़ार छब्बीस के चौड़ैया पुरस्कार से सम्मानित किया जाएगा\nरोज़ाना ऐसी ही ताज़ा ख़बरें पाने के लिए फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Bass X Machina’ series review: Exhilarating genre mash-up rides out boldly",
+      "link": "https://www.thehindu.com/entertainment/movies/bass-x-machina-series-review-exhilarating-genre-mash-up-rides-out-boldly/article71680848.ece"
+    },
+    {
+      "title": "Legendary Kannada actor Rajkumar’s classic song gets a hip-hop twist",
+      "link": "https://www.thehindu.com/entertainment/music/karthik-gubbi-gives-dr-rajkumars-classic-a-hip-hop-twist/article71615510.ece"
+    },
+    {
+      "title": "RK Padmanabha to be honoured with Chowdiah Award 2026",
+      "link": "https://www.thehindu.com/entertainment/music/rk-padmanabha-to-be-honoured-with-chowdiah-award-2026/article71677655.ece"
+    }
+  ]
+}
