@@ -965,5 +965,16 @@
       "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
       "https://www.thehindu.com/sci-tech/technology/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/article71681347.ece"
     ]
+  },
+  {
+    "number": 100,
+    "format": "news",
+    "category": "feelgood",
+    "title": "चाय बॉट की अच्छी और अनोखी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/life-and-style/gear-up-to-stack-your-deck-at-the-upcoming-bangalore-card-show-20/article71659500.ece",
+      "https://www.thehindu.com/news/national/number-of-villages-without-4g-connectivity-falls-by-three-fourths-in-four-years/article71682377.ece",
+      "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gears-up-for-31st-cii-partnership-summit/article71682329.ece"
+    ]
   }
 ]

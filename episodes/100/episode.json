@@ -1,0 +1,58 @@
+{
+  "number": 100,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अच्छी और अनोखी ख़बरें",
+  "title_en": "Chai Bot Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु कार्ड शो का दूसरा संस्करण होने जा रहा है। संग्राहक और प्रेमी इस आगामी सप्ताहांत का बेसब्री से इंतज़ार कर रहे हैं।",
+      "en": "The second edition of the Bangalore Card Show is going to take place. Collectors and enthusiasts are eagerly waiting for this upcoming weekend.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चार वर्षों में बिना चार जी संपर्क वाले गाँवों की संख्या में तीन चौथाई की कमी आई है। सूचना के अधिकार के तहत मिले आंकड़ों से यह जानकारी सामने आई है।",
+      "en": "The number of villages without 4G connectivity has fallen by three-fourths in four years. This information came to light from data obtained under the Right to Information Act.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विशाखापत्तनम इकतीसवें सीआईआई पार्टनरशिप समिट के लिए तैयार हो रहा है। इस आयोजन का उद्देश्य निवेश आकर्षित करना और रोजगार पैदा करना है।",
+      "en": "Visakhapatnam is gearing up for the 31st CII Partnership Summit. The aim of this event is to attract investments and generate jobs.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया इस पृष्ठ को फॉलो करें।",
+      "en": "Will meet again tomorrow with new news. Please follow this page.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ बेंगलुरु कार्ड शो का दूसरा संस्करण आयोजित होने जा रहा है\n📶 चार वर्षों में बिना चार जी कनेक्टिविटी वाले गाँवों की संख्या में भारी कमी आई है\n🌐 विशाखापत्तनम में इकतीसवें सीआईआई पार्टनरशिप समिट की तैयारियाँ शुरू हो चुकी हैं\nरोज़ाना ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Gear up to stack your deck at the upcoming Bangalore Card Show 2.0",
+      "link": "https://www.thehindu.com/life-and-style/gear-up-to-stack-your-deck-at-the-upcoming-bangalore-card-show-20/article71659500.ece"
+    },
+    {
+      "title": "Number of villages without 4G connectivity falls by three-fourths in four years",
+      "link": "https://www.thehindu.com/news/national/number-of-villages-without-4g-connectivity-falls-by-three-fourths-in-four-years/article71682377.ece"
+    },
+    {
+      "title": "Visakhapatnam gears up for 31st CII Partnership Summit",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gears-up-for-31st-cii-partnership-summit/article71682329.ece"
+    }
+  ]
+}
