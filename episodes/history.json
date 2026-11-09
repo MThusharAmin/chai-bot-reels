@@ -955,5 +955,15 @@
       "https://www.thehindu.com/sport/anuj-shrivatri-becomes-indias-100th-chess-grandmaster/article71681083.ece",
       "https://www.thehindu.com/sport/cricket/michael-klinger-interview-australia-cricketer-gujarat-giants-coach-wpl-india/article71676036.ece"
     ]
+  },
+  {
+    "number": 99,
+    "format": "news",
+    "category": "tech",
+    "title": "कृत्रिम बुद्धिमत्ता और वाहन निर्माण की खबरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece",
+      "https://www.thehindu.com/sci-tech/technology/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/article71681347.ece"
+    ]
   }
 ]

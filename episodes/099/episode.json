@@ -1,0 +1,54 @@
+{
+  "number": 99,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "कृत्रिम बुद्धिमत्ता और वाहन निर्माण की खबरें",
+  "title_en": "Artificial intelligence and automobile manufacturing news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एंथ्रोपिक कंपनी ने कृत्रिम बुद्धिमत्ता डेटा केंद्रों के लिए तीन अरब डॉलर से अधिक का समझौता किया है। इस समझौते के तहत भारी जनरेटर खरीदे जाएंगे।",
+      "en": "Anthropic has secured a deal worth over three billion dollars for AI data centres to buy heavy generators.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "टेस्ला कंपनी अगले साल उत्पादन लाइन को बंद करने से पहले साइबर ट्रक के ऑर्डर पूरा करेगी। टेस्ला के मुख्य कार्यकारी अधिकारी ने यह जानकारी दी है।",
+      "en": "Tesla will fulfill Cybertruck orders before dismantling the production line next year as shared by the CEO.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भविष्य में इस स्थान पर साइबर कैब का विस्तार किया जाएगा। इसलिए यह निर्णय लिया गया है।",
+      "en": "Cybercab will be expanded at this location in the future, hence this decision has been made.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा तकनीक और गैजेट्स की ख़बरों के लिए हमारे पेज को फ़ॉलो करें।",
+      "en": "Follow our page for tomorrow's fresh technology and gadgets news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ एंथ्रोपिक ने कृत्रिम बुद्धिमत्ता डेटा केंद्रों के लिए तीन अरब डॉलर से अधिक का समझौता किया है\n🚗 टेस्ला अगले साल उत्पादन लाइन बंद होने से पहले साइबर ट्रक के ऑर्डर पूरे करेगी\n👉 कल की ताज़ा तकनीक और गैजेट्स की ख़बरों के लिए हमारे पेज को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Anthropic secures $3.4 billion generator deal for AI data centres: Report",
+      "link": "https://www.thehindu.com/sci-tech/technology/anthropic-secures-34-billion-generator-deal-for-ai-data-centres-report/article71681342.ece"
+    },
+    {
+      "title": "Tesla to add Cybertruck shift to clear orders before dismantling line next year",
+      "link": "https://www.thehindu.com/sci-tech/technology/tesla-to-add-cybertruck-shift-to-clear-orders-before-dismantling-line-next-year/article71681347.ece"
+    }
+  ]
+}
