@@ -1,0 +1,58 @@
+{
+  "number": 103,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और इंटरनेट की मुख्य ख़बरें",
+  "title_en": "Main tech and internet news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वर्ल्ड वाइड वेब के आने से पहले मॉरिस वर्म नामक कंप्यूटर वर्म सामने आया था। इसे एक छात्र रॉबर्ट टैपन मॉरिस ने बनाया था जिससे नेटवर्किंग का पूरा परिदृश्य बदल गया था।",
+      "en": "Before the World Wide Web, a computer worm named Morris worm appeared. It was created by student Robert Tappan Morris, changing networking forever.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "इंस्टाग्राम का निःशुल्क एडिट्स ऐप उपयोग करने से पहले उपयोगकर्ताओं को मेटा को कुछ डेटा देना पड़ता है। इससे उपयोगकर्ताओं के डेटा की सुरक्षा को लेकर सवाल खड़े होते हैं।",
+      "en": "Before using Instagram's free Edits app, users have to hand over some data to Meta, raising questions about user data safety.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "बाइनेंस के मुख्य वित्त अधिकारी काइज़र एनजी अपने पद से हट गए हैं। उनकी जगह जस्टिन येक को नया वित्त प्रमुख नियुक्त किया गया है।",
+      "en": "Binance CFO Kaiser Ng has stepped down from his position. Justin Yek has been appointed as the new finance chief.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे चैनल को फ़ॉलो करें। अपना और अपनी सेहत का ध्यान रखिए।",
+      "en": "Follow our channel for tomorrow's fresh news. Take care of yourself and your health.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n🌐 वर्ल्ड वाइड वेब से पहले आए मॉरिस वर्म ने नेटवर्किंग की दुनिया को पूरी तरह बदल दिया था\n📱 इंस्टाग्राम का निःशुल्क एडिट्स ऐप इस्तेमाल करने से पहले मेटा को डेटा सौंपना पड़ता है\n💼 बाइनेंस के मुख्य वित्त अधिकारी काइज़र एनजी ने पद छोड़ा और जस्टिन येक नए वित्त प्रमुख बने\nकल की ताज़ा तकनीकी ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "The worm that broke the internet",
+      "link": "https://www.thehindu.com/sci-tech/technology/the-worm-that-broke-the-internet/article71615269.ece"
+    },
+    {
+      "title": "Is Instagram’s free Edits app safe for your data?",
+      "link": "https://www.thehindu.com/sci-tech/technology/is-instagrams-free-edits-app-safe-for-your-data/article71673158.ece"
+    },
+    {
+      "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
+      "link": "https://www.thehindu.com/sci-tech/technology/binance-cfo-kaiser-ng-steps-down-justin-yek-named-new-finance-chief/article71681343.ece"
+    }
+  ]
+}
