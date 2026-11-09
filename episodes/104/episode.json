@@ -1,0 +1,58 @@
+{
+  "number": 104,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चेन्नई में महिलाओं की सहायता और पर्यावरण पुरस्कार",
+  "title_en": "Women Support in Chennai and Environment Award",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई के नुंगमबक्कम में मथी एक्सपीरियंस स्टोर से खरीदारी करके लोग महिला स्वयं सहायता समूहों की मदद कर सकते हैं। इस स्टोर में खरीदारी के अलावा कैफ़े में आराम करने की सुविधा भी है।",
+      "en": "People can help women self-help groups by shopping at Mathi Experience Store in Nungambakkam, Chennai. Besides shopping, the store offers a cafe to relax.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई में कैंसर और गरीबी से जूझ रहे बच्चों के लिए खिलौने दान करने का अभियान चलाया जा रहा है। स्वैच्छिक संगठन इन बच्चों के लिए खिलौने के दाताओं की तलाश कर रहे हैं।",
+      "en": "A campaign to donate toys for children battling cancer and poverty is underway in Chennai. Voluntary organizations are looking for toy donors for these children.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "वायनाड के पर्यावरणविद् एन बदुशा को एक पर्यावरण पुरस्कार से सम्मानित किया गया है। इस पुरस्कार में पच्चीस हजार रुपये नकद, एक प्रशस्ति पत्र और एक तट्टिका शामिल है।",
+      "en": "Wayanad conservationist N. Badusha has been honored with an environmental award. The award includes twenty-five thousand rupees in cash, a citation, and a plaque.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। ऐसी ही अन्य रोचक और अच्छी खबरों के लिए हमें फॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow. Do not forget to follow us for more such interesting and good news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ चेन्नई के मथी स्टोर से खरीदारी कर महिला समूहों की मदद करें\n🧸 कैंसर पीड़ित बच्चों के लिए खिलौने दान करने की अनोखी पहल\n🌿 वायनाड के पर्यावरणविद् एन बदुशा को मिला विशेष पुरस्कार\n✨ कल की ताज़ा खबरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Deepavali countdown: an address for mindful festive shopping in Chennai",
+      "link": "https://www.thehindu.com/news/cities/chennai/deepavali-countdown-an-address-for-mindful-festive-shopping-in-chennai/article71622480.ece"
+    },
+    {
+      "title": "Gift a toy to a poor child battling cancer in Chennai",
+      "link": "https://www.thehindu.com/news/cities/chennai/a-toy-gifted-to-an-underprivileged-child-battling-cancer-is-more-than-a-plaything/article71679007.ece"
+    },
+    {
+      "title": "Wayanad conservationist N. Badusha wins environmental award",
+      "link": "https://www.thehindu.com/news/national/kerala/wayanad-conservationist-n-badusha-wins-kfbc-environmental-award/article71683095.ece"
+    }
+  ]
+}
