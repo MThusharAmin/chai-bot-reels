@@ -1,0 +1,58 @@
+{
+  "number": 108,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और चिकित्सा की खास खबरें",
+  "title_en": "Special news on science and medicine",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और चिकित्सा ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and medicine news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कादंबिनी गांगुली ने अपने समय में रूढ़ियों को तोड़ा। वह पश्चिमी चिकित्सा पद्धति से अभ्यास करने वाली पहली भारतीय महिला चिकित्सक बनीं।",
+      "en": "Kadambini Ganguly broke conventions in her time. She became the first Indian female doctor to practice Western medicine.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कृत्रिम बुद्धिमत्ता के विकास के बीच चिप के ऑर्डर बढ़ रहे हैं। इसके चलते एनवीडिया का बाजार मूल्यांकन बढ़कर चार दशमलव पाँच ट्रिलियन डॉलर हो गया है।",
+      "en": "Amid the development of artificial intelligence, chip orders are increasing. Due to this, Nvidia's market valuation has soared to four point five trillion dollars.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "सन दो हज़ार अट्ठारह में स्टीफन हॉकिंग की एक पुरानी व्हीलचेयर को बड़ी कीमत पर नीलाम किया गया था। उनके डॉक्टरेट थीसिस की प्रति भी काफी महंगी बिकी थी।",
+      "en": "In the year two thousand eighteen, one of Stephen Hawking's old wheelchairs was auctioned at a huge price. A copy of his doctoral thesis was also sold at a very high price.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। ऐसी ही जानकारियों के लिए हमें अवश्य फॉलो करें।",
+      "en": "We will meet again tomorrow with new news. Be sure to follow us for such information.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🍵 कादंबिनी गांगुली ने पश्चिमी चिकित्सा पद्धति से अभ्यास करने वाली पहली भारतीय महिला चिकित्सक बनकर इतिहास रचा\n💻 एनवीडिया का बाजार मूल्यांकन बढ़कर चार दशमलव पाँच ट्रिलियन डॉलर पर पहुँचा\n📚 सन दो हज़ार अट्ठारह में स्टीफन हॉकिंग की व्हीलचेयर और थीसिस की नीलाम हुई प्रतियाँ\n✨ रोजाना ऐसी ही रोचक जानकारियों के लिए हमारे पेज को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Kadambini Ganguly: breaking barriers in medicine",
+      "link": "https://www.thehindu.com/children/kadambini-ganguly-breaking-barriers-in-medicine/article71685840.ece"
+    },
+    {
+      "title": "How China gets the Nvidia chips it needs to develop AI",
+      "link": "https://www.thehindu.com/sci-tech/how-china-gets-the-nvidia-chips-it-needs-to-develop-ai/article71685340.ece"
+    },
+    {
+      "title": "Hawking, the celebrity theoretical physicist",
+      "link": "https://www.thehindu.com/sci-tech/science/hawking-the-celebrity-theoretical-physicist/article71630590.ece"
+    }
+  ]
+}
