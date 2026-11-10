@@ -1042,5 +1042,16 @@
       "https://www.thehindu.com/sport/cricket/afghanistan-vs-zimbabwe-first-test-in-sharjah/article71685038.ece",
       "https://www.thehindu.com/sport/japan-super-500-badminton-tournament-on-november-10-2026/article71685196.ece"
     ]
+  },
+  {
+    "number": 107,
+    "format": "news",
+    "category": "tech",
+    "title": "प्रौद्योगिकी और कृत्रिम बुद्धिमत्ता की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/article71684856.ece",
+      "https://www.thehindu.com/sci-tech/technology/anthropic-launches-fable-52-and-mythos-52-ahead-of-ipo/article71684857.ece",
+      "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece"
+    ]
   }
 ]
