@@ -1,0 +1,58 @@
+{
+  "number": 109,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "नई तकनीक और सिनेमा की विशेष ख़बरें",
+  "title_en": "Special news on new technology and cinema",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "हीरो मोटोकॉर्प ने अपनी मोटरसाइकिल एक्सट्रीम एक सौ पच्चीस आर का नया संस्करण पेश किया है। इसमें रंगीन स्क्रीन और ब्लूटूथ जैसी आधुनिक सुविधाएँ जोड़ी गई हैं।",
+      "en": "Hero MotoCorp has introduced a new version of its motorcycle Xtreme 125R. Modern features like a color screen and bluetooth have been added to it.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जंगल कैम्प्स इंडिया के माध्यम से पर्यटक मध्य प्रदेश के वनों की सुंदरता देख सकते हैं। यह पहल पर्यटकों को प्रकृति के बेहद करीब ले जाती है।",
+      "en": "Through Jungle Camps India, tourists can see the beauty of the forests of Madhya Pradesh. This initiative takes tourists very close to nature.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय सिनेमा ने आज़ादी के बाद के भारत के इतिहास को बहुत गहराई से पर्दे पर उतारा है। यह फ़िल्में हमारे देश की आत्मा और उसकी यात्रा को दर्शाती हैं।",
+      "en": "Indian cinema has deeply portrayed the history of post-independence India on screen. These films depict the soul of our country and its journey.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया कल की ताज़ा जानकारी के लिए हमारे साथ बने रहें।",
+      "en": "Will meet again tomorrow with new news. Please stay with us for tomorrow's latest information.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ हीरो मोटोकॉर्प ने अपनी मोटरसाइकिल का नया उन्नत संस्करण बाज़ार में उतारा है।\n🌲 जंगल कैम्प्स इंडिया पर्यटकों को मध्य प्रदेश के जीवंत वनों की सैर कराता है।\n🎬 भारतीय सिनेमा ने स्वतंत्रता के बाद के भारत के इतिहास को जीवंत किया है।\nकल की ताज़ा और अच्छी ख़बरों के लिए हमें फ़ॉलो करना न भूलें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Hero Xtreme 125R Stealth edition launched with TFT display, bluetooth and TPMS: What’s new",
+      "link": "https://www.thehindu.com/life-and-style/motoring/hero-xtreme-125r-stealth-edition-launched-with-tft-display-bluetooth-and-tpms-whats-new/article71681849.ece"
+    },
+    {
+      "title": "The bare necessities: Exploring Pench, Rukhad and Kanha at Jungle Camps India",
+      "link": "https://www.thehindu.com/life-and-style/jungle-camps-india-pench-rukhad-kanha-jungle-safari-national-park-wildlife-tourism/article71660946.ece"
+    },
+    {
+      "title": "A nation on the big screen: The spirit of India through cinema",
+      "link": "https://www.thehindu.com/children/a-nation-on-the-big-screen-the-spirit-of-india-through-cinema/article71685921.ece"
+    }
+  ]
+}
