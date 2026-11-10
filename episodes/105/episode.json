@@ -1,0 +1,58 @@
+{
+  "number": 105,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन और कला की मुख्य ख़बरें",
+  "title_en": "Main Entertainment and Art News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन और कला ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's entertainment and art news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दिलीप पोथन अभिनीत थ्रिलर फ़िल्म बोमा का ट्रेलर रिलीज़ हो गया है। इस फ़िल्म का निर्देशन रजिन एस बाबू ने किया है।",
+      "en": "The trailer of the thriller film Bouma starring Dileesh Pothan has been released. The film is directed by Rejin S Babu.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "संगीत अकादमी का चौडैया उत्सव सन दो हज़ार छब्बीस ग्यारह से पंद्रह नवंबर तक आयोजित होगा। इसमें संगीत के साथ कई अन्य कार्यक्रम भी होंगे।",
+      "en": "The Academy of Music Chowdiah Utsava 2026 will be held from November 11 to 15. It will feature music along with many other events.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दिल्ली के इंडिया हैबिटेट सेंटर में सीमा आर्ट मेला आयोजित हो रहा है। इसमें अस्सी से अधिक कलाकारों की कलाकृतियां प्रदर्शित की जा रही हैं।",
+      "en": "The CIMA Art Mela is being held at the India Habitat Centre in Delhi. Artworks by more than 80 artists are being showcased in it.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's latest news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 रिलीज़ हुआ थ्रिलर फ़िल्म बोमा का नया ट्रेलर\n🎵 सन दो हज़ार छब्बीस के चौडैया उत्सव की घोषणा\n🎨 दिल्ली में शुरू हुआ सीमा आर्ट मेला\n✨ रोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Bouma’ trailer: Dileesh Pothan headlines an eerie investigation thriller",
+      "link": "https://www.thehindu.com/entertainment/movies/bouma-trailer-dileesh-pothan-rejin-s-babu-sagar-surya-revathy-sharma-vineeth-aditi-balan-lenaa/article71685054.ece"
+    },
+    {
+      "title": "Academy of Music Chowdiah Utsava 2026 to offer visitors more than a melodious experience",
+      "link": "https://www.thehindu.com/entertainment/music/academy-of-music-chowdiah-utsava-2026-to-offer-visitors-more-than-a-melodious-experience/article71682371.ece"
+    },
+    {
+      "title": "CIMA Art Mela brings accessible art to Delhi this week",
+      "link": "https://www.thehindu.com/entertainment/art/cima-art-mela-brings-accessible-art-to-delhi-this-week/article71660251.ece"
+    }
+  ]
+}
