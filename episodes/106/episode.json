@@ -1,0 +1,58 @@
+{
+  "number": 106,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की मुख्य ख़बरें",
+  "title_en": "Main news from the sports world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत और न्यूज़ीलैंड के बीच तीसरा एक दिवसीय मुकाबला बारिश के कारण रद्द करना पड़ा। टॉस जीतकर भारतीय कप्तान शुभमन गिल ने पहले गेंदबाज़ी करने का फ़ैसला किया था।",
+      "en": "The third ODI between India and New Zealand was called off due to rain. Winning the toss, Indian captain Shubman Gill had decided to bowl first.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अफ़ग़ानिस्तान और ज़िम्बाब्वे के बीच खेला गया पहला टेस्ट मैच ड्रॉ पर समाप्त हुआ। इस मुकाबले में पंद्रह सौ से अधिक रन बने और अरविन ने नाबाद दो सौ छह रन बनाए।",
+      "en": "The first Test played between Afghanistan and Zimbabwe ended in a draw. More than fifteen hundred runs were scored in this match and Ervine scored an unbeaten two hundred and six runs.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "जापान ओपन बैडमिंटन प्रतियोगिता में गायत्री और ट्रीसा की जोड़ी आगे बढ़ने में सफल रही। इसके अलावा पुरुषों के युगल वर्ग में हरिहरन और अर्जुन की जोड़ी भी अगले दौर में पहुंच गई।",
+      "en": "In the Japan Open badminton tournament, the pair of Gayatri and Treesa succeeded in advancing. Apart from this, in the men's doubles category, the pair of Hariharan and Arjun also reached the next round.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Stay tuned with us for tomorrow's fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ भारत और न्यूज़ीलैंड का तीसरा एक दिवसीय मुकाबला बारिश के कारण रद्द हुआ।\n☕ अफ़ग़ानिस्तान और ज़िम्बाब्वे का पहला टेस्ट मैच ड्रॉ पर समाप्त हुआ।\n☕ जापान ओपन में गायत्री, ट्रीसा, हरिहरन और अर्जुन ने अगले दौर में प्रवेश किया।\nकल की ताज़ा खेल ख़बरों के लिए हमारे साथ जुड़े रहिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Rain plays spoilsport as India vs New Zealand third ODI called off",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-third-odi-in-hamilton-on-november-10-2026/article71684940.ece"
+    },
+    {
+      "title": "Afghanistan vs Zimbabwe first Test yields more than 1,500 runs, ends in draw",
+      "link": "https://www.thehindu.com/sport/cricket/afghanistan-vs-zimbabwe-first-test-in-sharjah/article71685038.ece"
+    },
+    {
+      "title": "Japan Open badminton: Gayatri-Treesa pair advances; Dhruv-Radhika combo bows out",
+      "link": "https://www.thehindu.com/sport/japan-super-500-badminton-tournament-on-november-10-2026/article71685196.ece"
+    }
+  ]
+}
