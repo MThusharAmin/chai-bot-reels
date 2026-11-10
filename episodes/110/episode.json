@@ -1,0 +1,58 @@
+{
+  "number": 110,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन और कला जगत की मुख्य ख़बरें",
+  "title_en": "Main entertainment and art world news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन और कला की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment and art news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कीरा नाइटली और बेन व्हिशॉ अभिनीत गुप्तचर थ्रिलर धारावाहिक ब्लैक डव्स का दूसरा सत्र आ गया है। इसके शांत क्षण इसकी कमियों को काफी हद तक पूरा करते हैं।",
+      "en": "Spy thriller series Black Doves starring Keira Knightley and Ben Whishaw has arrived with its second season. Its quiet moments make up for its shortcomings to a large extent.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "जेम्स गन और पीटर सेफ्रन डीसी स्टूडियो के नेतृत्व से हट रहे हैं। मार्वेल के अनुभवी जेरेमी लैटचम इस पद को संभालेंगे।",
+      "en": "James Gunn and Peter Safran are stepping down from DC Studios leadership. Marvel veteran Jeremy Latcham will take over this position.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रिचर्ड बाक के उपन्यास जोनाथन लिविंगस्टन सीगल को भरतनाट्यम का रूप दिया गया है। इसे चेन्नई में प्रस्तुत किया गया था।",
+      "en": "Richard Bach's novel Jonathan Livingston Seagull has been given a Bharatanatyam makeover. It was presented in Chennai.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Stay tuned with us for tomorrow's new stories.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n✨ कीरा नाइटली और बेन व्हिशॉ का गुप्तचर धारावाहिक ब्लैक डव्स का दूसरा सत्र रिलीज हो गया है\n✨ जेम्स गन और पीटर सेफ्रन डीसी स्टूडियो के नेतृत्व से हट रहे हैं और जेरेमी लैटचम कार्यभार संभालेंगे\n✨ रिचर्ड बाक के उपन्यास जोनाथन लिविंगस्टन सीगल को भरतनाट्यम के रूप में प्रस्तुत किया गया है\nरोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Black Doves’ Season 2 review: Keira Knightley and Ben Whishaw spy thriller continues to swing between gore, grit and giggles",
+      "link": "https://www.thehindu.com/entertainment/movies/black-doves-season-2-review-keira-knightley-ben-whishaw-spy-thriller-netflix-swings-between-gore-grit-and-giggles/article71685412.ece"
+    },
+    {
+      "title": "James Gunn and Peter Safran step down from DC Studios leadership as Marvel veteran Jeremy Latcham takes over",
+      "link": "https://www.thehindu.com/entertainment/movies/james-gunn-and-peter-safran-step-down-from-dc-studios-leadership-as-marvel-veteran-jeremy-latcham-takes-over/article71685130.ece"
+    },
+    {
+      "title": "Richard Bach’s allegorical novella Jonathan Livingston Seagull gets a Bharatanatyam makeover",
+      "link": "https://www.thehindu.com/entertainment/dance/jyotirgamaya-a-seagulls-quest-for-freedom-portrayed-through-bharatanatyam/article71677578.ece"
+    }
+  ]
+}
