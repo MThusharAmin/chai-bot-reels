@@ -1,0 +1,58 @@
+{
+  "number": 111,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज की प्रमुख खेल ख़बरें",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की चौपाल पर आपका स्वागत है। आज की ताज़ा खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's stall. Listen to today's latest sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इंडियन प्रीमियर लीग में हार्दिक पंड्या और अर्शदीप सिंह की अदला-बदली की गई है। इस बड़े बदलाव के बाद हार्दिक पंड्या पंजाब किंग्स की टीम में शामिल हुए हैं।",
+      "en": "A player swap took place in the Indian Premier League involving Hardik Pandya and Arshdeep Singh. Following this major trade, Hardik Pandya has joined Punjab Kings.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "महान क्रिकेटर वीरेंद्र सहवाग के पुत्र आर्यवीर ने संयुक्त अरब अमीरात के ख़िलाफ़ एक सौ साठ रन बनाए। उनकी इस पारी की बदौलत भारत सेमीफाइनल में पहुँच गया है।",
+      "en": "Great cricketer Virender Sehwag's son Aaryavir scored one hundred and sixty runs against UAE. Courtesy of his innings, India entered the semifinals.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत ने पच्चीस मीटर पिस्टल टीम स्पर्धा में स्वर्ण पदक जीता है। हालाँकि मनु भाकर और ईशा सिंह इस प्रतियोगिता में ओलंपिक कोटा हासिल नहीं कर पाईं।",
+      "en": "India won the gold medal in the twenty-five metre pistol team event. However, Manu Bhaker and Esha Singh could not secure an Olympic quota in this competition.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत की रोज़ाना ताज़ा ख़बरों के लिए हमसे जुड़े रहिए और हमें फ़ॉलो कीजिए।",
+      "en": "Stay connected with us and follow for daily sports updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 इंडियन प्रीमियर लीग में अर्शदीप सिंह के बदले हार्दिक पंड्या पंजाब किंग्स में शामिल हुए।\n🏏 आर्यवीर सहवाग के एक सौ साठ रनों की बदौलत भारत सेमीफाइनल में पहुँचा।\n🎯 भारत ने पच्चीस मीटर पिस्टल टीम स्पर्धा में स्वर्ण पदक हासिल किया।\nरोज़ाना ताज़ा खेल ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Hardik Pandya traded to Punjab Kings in exchange of Arshdeep Singh ahead of IPL 2027",
+      "link": "https://www.thehindu.com/sport/cricket/hardik-pandya-traded-to-punjab-kings-in-exchange-of-arshdeep-singh-ahead-of-ipl-2027/article71688297.ece"
+    },
+    {
+      "title": "Sehwag junior carries India into semifinals with match-winning 160 against UAE",
+      "link": "https://www.thehindu.com/sport/cricket/sehwag-junior-carries-india-into-semifinals-with-match-winning-160-against-uae/article71686797.ece"
+    },
+    {
+      "title": "India clinches 25m pistol team gold medal; Manu Bhaker, Esha Singh miss Olympic quota",
+      "link": "https://www.thehindu.com/sport/india-clinches-25m-pistol-team-gold-medal-manu-bhaker-esha-singh-miss-olympic-quota/article71688289.ece"
+    }
+  ]
+}

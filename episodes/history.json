@@ -1086,5 +1086,16 @@
       "https://www.thehindu.com/entertainment/movies/james-gunn-and-peter-safran-step-down-from-dc-studios-leadership-as-marvel-veteran-jeremy-latcham-takes-over/article71685130.ece",
       "https://www.thehindu.com/entertainment/dance/jyotirgamaya-a-seagulls-quest-for-freedom-portrayed-through-bharatanatyam/article71677578.ece"
     ]
+  },
+  {
+    "number": 111,
+    "format": "news",
+    "category": "sports",
+    "title": "आज की प्रमुख खेल ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sport/cricket/hardik-pandya-traded-to-punjab-kings-in-exchange-of-arshdeep-singh-ahead-of-ipl-2027/article71688297.ece",
+      "https://www.thehindu.com/sport/cricket/sehwag-junior-carries-india-into-semifinals-with-match-winning-160-against-uae/article71686797.ece",
+      "https://www.thehindu.com/sport/india-clinches-25m-pistol-team-gold-medal-manu-bhaker-esha-singh-miss-olympic-quota/article71688289.ece"
+    ]
   }
 ]
