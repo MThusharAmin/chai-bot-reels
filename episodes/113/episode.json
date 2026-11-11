@@ -1,0 +1,58 @@
+{
+  "number": 113,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और पर्यावरण की मुख्य ख़बरें",
+  "title_en": "Main Science and Environment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और पर्यावरण ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and environment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत के वायु को स्वच्छ बनाने के प्रयास आर्थिक विकास को धीमा नहीं करते हैं। बेहतर उपाय विकास प्राथमिकताओं का समर्थन करते हैं।",
+      "en": "India's efforts to clean its air do not need to slow economic growth. Better interventions support development priorities.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "शारीरिक दर्द अक्सर बुढ़ापे में नहीं बल्कि आपके कामकाजी वर्षों के दौरान सबसे अधिक होता है। एक बड़े नए अध्ययन ने यह बात पाई है।",
+      "en": "Physical pain often peaks during your working years, not in old age. A large new study has found this.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "विश्व नेता सीओपी इकतीस सम्मेलन में मंच संभाल रहे हैं लेकिन बड़े नाम अनुपस्थित हैं। मेजबान तुर्की ने एक स्वैच्छिक पहल का समर्थन किया है।",
+      "en": "World leaders take stage at COP31 but big names missing. Host Turkiye is championing a voluntary initiative.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पेज को फ़ॉलो करें। धन्यवाद।",
+      "en": "Follow our page for tomorrow's fresh news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ भारत के वायु को स्वच्छ बनाने के प्रयास आर्थिक विकास को धीमा नहीं करते हैं\n🩺 शारीरिक दर्द अक्सर बुढ़ापे में नहीं बल्कि कामकाजी वर्षों के दौरान चरम पर होता है\n🌍 विश्व नेता सीओपी इकतीस सम्मेलन में मंच संभाल रहे हैं लेकिन बड़े नाम अनुपस्थित हैं\n✨ कल की ताज़ा ख़बरों के लिए हमारे पेज को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "India’s efforts to clean its air need not slow its economic growth",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-efforts-to-clean-its-air-need-not-slow-its-economic-growth/article71681547.ece"
+    },
+    {
+      "title": "Physical pain often peaks during your working years, not in old age",
+      "link": "https://www.thehindu.com/sci-tech/science/physical-pain-often-peaks-during-your-working-years-not-in-old-age/article71688310.ece"
+    },
+    {
+      "title": "World leaders take stage at COP31 but big names missing",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece"
+    }
+  ]
+}
