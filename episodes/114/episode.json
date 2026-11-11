@@ -1,0 +1,58 @@
+{
+  "number": 114,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और अच्छी ख़बरें",
+  "title_en": "Chai Bot Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ईरोड के एक राजमिस्त्री के बेटे एम सुरेंद्रन ने चीन में आयोजित प्रतियोगिता में पदक जीता है। उन्हें यह सफलता प्लास्टरिंग और ड्राईवाल सिस्टम में मिली है।",
+      "en": "M Surenthiran, son of a mason from Erode, has won a medal in a competition held in China. He achieved this success in plastering and drywall systems.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मुंबई के ताज महल पैलेस में स्थित वासाबी रेस्तरां ने अपने बाईस वर्ष पूरे कर लिए हैं। शेफ मसाहारु मोरीमोटो ने जापानी भोजन को लेकर अपनी लंबी यात्रा साझा की है।",
+      "en": "Wasabi restaurant at Mumbai's Taj Mahal Palace has completed twenty-two years. Chef Masaharu Morimoto shared his long journey with Japanese food.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "मर्सिडीज बेंज ने भारत में अपनी नई इलेक्ट्रिक एसयूवी लॉन्च कर दी है। पुणे में तैयार इस गाड़ी की एक बार चार्ज करने पर सात सौ ग्यारह किलोमीटर की रेंज है।",
+      "en": "Mercedes Benz has launched its new electric SUV in India. Built in Pune, this vehicle has a range of seven hundred eleven kilometres on a single charge.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए और चाय का आनंद लेते रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh news and keep enjoying your tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ ईरोड के एम सुरेंद्रन ने चीन में आयोजित प्रतियोगिता में प्लास्टरिंग और ड्राईवाल सिस्टम के लिए पदक हासिल किया है।\n🍽️ मुंबई के ताज महल पैलेस का वासाबी रेस्तरां जापानी खानपान के साथ अपने बाईस वर्ष पूरे कर चुका है।\n🚗 मर्सिडीज बेंज ने भारत में नई इलेक्ट्रिक एसयूवी पेश की है जो एक बार चार्ज होने पर सात सौ ग्यारह किलोमीटर की रेंज देती है।\n✨ ऐसी ही अच्छी ख़बरों के लिए रोज़ाना हमारे साथ जुड़े रहिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "How a mason’s son from Erode won a Medal of Excellence at WorldSkills 2026",
+      "link": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece"
+    },
+    {
+      "title": "Masaharu Morimoto: 22 years of getting Japanese food right in Mumbai",
+      "link": "https://www.thehindu.com/food/features/masaharu-morimoto-22-years-of-getting-japanese-food-right-in-mumbai/article71660095.ece"
+    },
+    {
+      "title": "Mercedes-Benz GLC 400 4MATIC Electric launched in India with 711km range: All you need to know",
+      "link": "https://www.thehindu.com/life-and-style/motoring/mercedes-benz-glc-400-4matic-electric-launched-in-india-with-711km-range-all-you-need-to-know/article71681781.ece"
+    }
+  ]
+}
