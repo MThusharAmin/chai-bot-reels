@@ -1,0 +1,58 @@
+{
+  "number": 112,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "चाय बॉट की तकनीकी और व्यावसायिक ख़बरें",
+  "title_en": "Chai Bot tech and business news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स से जुड़ी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "व्हाट्सएप ऐप पर संचार को आसान बनाने और वित्तीय सेवाएँ जोड़ने की योजना बना रहा है। मेटा के व्हाट्सएप प्रमुख कुणाल शाह ने इसके बारे में जानकारी साझा की है।",
+      "en": "WhatsApp is planning to simplify communication and add financial services on the app. Meta's WhatsApp head Kunal Shah shared information about this.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एन्थ्रोपिक कंपनी एक दशमलव चार ट्रिलियन डॉलर तक के मूल्यांकन का लक्ष्य रख रही है। प्रमुख कृत्रिम बुद्धिमत्ता मॉडल डेवलपर्स में से यह पहली स्टॉक मार्केट में शुरुआत होगी।",
+      "en": "Anthropic company is targeting a valuation of up to one point four trillion dollars. This will be the first stock market debut among leading artificial intelligence model developers.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "ओपनएआई ने निवेशकों को बताया कि उसकी त्रैमासिक आय बढ़कर दस अरब डॉलर हो गई है। इसके साथ ही कंपनी ने अपने घाटे और वित्तीय प्रदर्शन की जानकारी भी साझा की है।",
+      "en": "OpenAI told investors that its quarterly revenue rose to ten billion dollars. Along with this, the company also shared information about its losses and financial performance.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की बड़ी ख़बरें समाप्त हुईं। कल की ताज़ा तकनीकी ख़बरों के लिए हमें ज़रूर फॉलो करें।",
+      "en": "Today's top news has ended. Be sure to follow us for tomorrow's latest tech news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ व्हाट्सएप ऐप पर संचार को आसान बनाने और वित्तीय सेवाएँ जोड़ने की योजना बना रहा है\n📈 एन्थ्रोपिक कंपनी एक दशमलव चार ट्रिलियन डॉलर तक के मूल्यांकन का लक्ष्य रख रही है\n💰 ओपनएआई ने निवेशकों को बताया कि उसकी त्रैमासिक आय बढ़कर दस अरब डॉलर हो गई है\n✨ कल की ताज़ा तकनीकी और व्यावसायिक ख़बरों के लिए हमें फ़ॉलो करना न भूलें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "WhatsApp to simplify communication on app, add financial services",
+      "link": "https://www.thehindu.com/sci-tech/technology/whatsapp-to-simplify-communication-on-app-add-financial-services/article71688497.ece"
+    },
+    {
+      "title": "Anthropic targets valuation of up to $1.4 trillion",
+      "link": "https://www.thehindu.com/sci-tech/technology/anthropic-targets-valuation-of-up-to-14-trillion/article71688205.ece"
+    },
+    {
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion: Report",
+      "link": "https://www.thehindu.com/sci-tech/technology/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-report/article71688191.ece"
+    }
+  ]
+}

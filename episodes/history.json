@@ -1097,5 +1097,16 @@
       "https://www.thehindu.com/sport/cricket/sehwag-junior-carries-india-into-semifinals-with-match-winning-160-against-uae/article71686797.ece",
       "https://www.thehindu.com/sport/india-clinches-25m-pistol-team-gold-medal-manu-bhaker-esha-singh-miss-olympic-quota/article71688289.ece"
     ]
+  },
+  {
+    "number": 112,
+    "format": "news",
+    "category": "tech",
+    "title": "चाय बॉट की तकनीकी और व्यावसायिक ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/whatsapp-to-simplify-communication-on-app-add-financial-services/article71688497.ece",
+      "https://www.thehindu.com/sci-tech/technology/anthropic-targets-valuation-of-up-to-14-trillion/article71688205.ece",
+      "https://www.thehindu.com/sci-tech/technology/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-report/article71688191.ece"
+    ]
   }
 ]
