@@ -1,0 +1,58 @@
+{
+  "number": 116,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की मुख्य समाचार",
+  "title_en": "Major Sports News Bulletin",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मुख्य खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's major sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सचिन तेंदुलकर मुंबई क्रिकेट एसोसिएशन संग्रहालय को छब्बीस बल्ले और अपनी यादें भेंट करेंगे। यह संग्रह सोलह नवंबर को प्रदर्शित किया जाएगा।",
+      "en": "Sachin Tendulkar will gift twenty-six bats and memorabilia to the MCA museum. This collection will be unveiled on November sixteen.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अंडर-उन्नीस एशिया कप के सेमीफाइनल में भारत का सामना अफ़ग़ानिस्तान से होगा। आर्यावीर संयुक्त अरब अमीरात के ख़िलाफ़ एक सौ साठ रन बनाकर प्रतियोगिता में सबसे आगे हैं।",
+      "en": "India will face Afghanistan in the Under-19 Asia Cup semifinal. Aaryavir leads the tournament after scoring one hundred sixty runs against the UAE.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अफ़ग़ानिस्तान के रहमत शाह आईसीसी टेस्ट रैंकिंग के शीर्ष दस में पहुँचने वाले पहले खिलाड़ी बने। ज़िम्बाब्वे के ख़िलाफ़ एक सौ तिहत्तर रन बनाकर वे सातवें स्थान पर पहुँचे।",
+      "en": "Afghanistan's Rahmat Shah became the first player to reach the top ten in ICC Test rankings. He reached seventh place after scoring one hundred seventy-three against Zimbabwe.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए। धन्यवाद।",
+      "en": "Stay tuned with us for daily news updates. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 सचिन तेंदुलकर मुंबई क्रिकेट एसोसिएशन संग्रहालय को छब्बीस बल्ले और अपनी यादें भेंट करेंगे, जिनका अनावरण सोलह नवंबर को होगा।\n🏏 अंडर-उन्नीस एशिया कप के सेमीफाइनल से पहले आर्यावीर एक सौ साठ रन बनाकर प्रतियोगिता में सबसे आगे हैं।\n🏏 अफ़ग़ानिस्तान के रहमत शाह आईसीसी टेस्ट रैंकिंग के शीर्ष दस में शामिल होने वाले पहले खिलाड़ी बन गए हैं।\nताज़ा ख़बरों के लिए फॉलो करें!\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Sachin to gift 26 bats, memorabilia for display at MCA museum",
+      "link": "https://www.thehindu.com/sport/cricket/sachin-to-gift-26-bats-memorabilia-for-display-at-mca-museum/article71691220.ece"
+    },
+    {
+      "title": "Aaryavir in focus as India face Afghanistan in U-19 Asia Cup semifinal",
+      "link": "https://www.thehindu.com/sport/cricket/aaryavir-in-focus-as-india-face-afghanistan-in-u-19-asia-cup-semifinal/article71691215.ece"
+    },
+    {
+      "title": "Rahmat Shah becomes first Afghan to break into top 10 of ICC Men's Test Player Rankings",
+      "link": "https://www.thehindu.com/sport/cricket/rahmat-shah-becomes-first-afghan-to-break-into-top-10-of-icc-mens-test-player-rankings/article71691153.ece"
+    }
+  ]
+}
