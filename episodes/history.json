@@ -1152,5 +1152,16 @@
       "https://www.thehindu.com/sport/cricket/aaryavir-in-focus-as-india-face-afghanistan-in-u-19-asia-cup-semifinal/article71691215.ece",
       "https://www.thehindu.com/sport/cricket/rahmat-shah-becomes-first-afghan-to-break-into-top-10-of-icc-mens-test-player-rankings/article71691153.ece"
     ]
+  },
+  {
+    "number": 117,
+    "format": "news",
+    "category": "tech",
+    "title": "प्रौद्योगिकी और कृत्रिम बुद्धिमत्ता की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/oppo-pad-mini-review-a-refreshing-take-on-what-a-tablet-can-be/article71689191.ece",
+      "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
+      "https://www.thehindu.com/books/prix-pascal-ai-writing-creativity-literature/article71690192.ece"
+    ]
   }
 ]
