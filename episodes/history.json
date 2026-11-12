@@ -1163,5 +1163,16 @@
       "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
       "https://www.thehindu.com/books/prix-pascal-ai-writing-creativity-literature/article71690192.ece"
     ]
+  },
+  {
+    "number": 118,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece",
+      "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece",
+      "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece"
+    ]
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "number": 118,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Big science and space news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अर्थशॉट प्राइज के मुख्य कार्यकारी अधिकारी ने कहा है कि भारत अक्षय ऊर्जा में बड़े बदलाव से गुजर रहा है। सस्ती और स्वच्छ ऊर्जा तक पहुंच रखने वाला देश बड़ा आर्थिक लाभ कमाएगा।",
+      "en": "The Earthshot Prize CEO said India is undergoing massive transformation in renewable energy. The country with access to cheap and clean energy will gain a huge economic advantage.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "शोधकर्ताओं ने दशकों की गलत पहचान के बाद हिंद महासागर में शार्क की एक नई प्रजाति की पहचान की है। इस नई प्रजाति का नाम इंडियन ब्रम्बल शार्क रखा गया है।",
+      "en": "Researchers have identified a new shark species in the Indian Ocean after decades of misclassification. This new species has been named the Indian Bramble Shark.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इंफोसिस साइंस फाउंडेशन पुरस्कार सन दो हज़ार छब्बीस के लिए छह शोधकर्ताओं को विजेता चुना गया है। इन पुरस्कारों के लिए छह श्रेणियों में कुल दो सौ बाइस आवेदन प्राप्त हुए थे।",
+      "en": "Six researchers have been chosen as winners for the Infosys Science Foundation prizes for 2026. A total of 222 applications across six categories were received for these prizes.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया हमारी इस प्रस्तुति को फॉलो करें।",
+      "en": "Will meet again tomorrow with new news. Please follow this presentation of ours.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🌍 भारत अक्षय ऊर्जा क्षेत्र में एक बड़े बदलाव के दौर से गुजर रहा है\n🦈 दशकों की भ्रमित पहचान के बाद हिंद महासागर में शार्क की नई प्रजाति की पहचान हुई है\n🏆 सन दो हज़ार छब्बीस के लिए छह शोधकर्ताओं को इंफोसिस साइंस फाउंडेशन पुरस्कार मिले हैं\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "India undergoing massive transformation in renewable energy: Earthshot Prize CEO",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece"
+    },
+    {
+      "title": "New shark species identified in Indian Ocean after decades of misclassification",
+      "link": "https://www.thehindu.com/sci-tech/science/new-shark-species-identified-in-indian-ocean-after-decades-of-misclassification/article71694050.ece"
+    },
+    {
+      "title": "Six researchers win Infosys Science Foundation prizes for 2026",
+      "link": "https://www.thehindu.com/sci-tech/science/infosys-prize-2026-isf-full-list-of-winners-bengaluru-researcher/article71692819.ece"
+    }
+  ]
+}
