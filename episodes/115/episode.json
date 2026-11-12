@@ -1,0 +1,58 @@
+{
+  "number": 115,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा ख़बरें",
+  "title_en": "Latest Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक मणिरत्नम की नई फ़िल्म इंजि वेल्लम को रिलीज़ की तारीख़ मिल गई है। इस फ़िल्म में मुख्य भूमिकाओं में विजय सेतुपति और साई पल्लवी नज़र आएंगे।",
+      "en": "Director Mani Ratnam's new film Inji Vellam has got a release date. Vijay Sethupathi and Sai Pallavi will star in this film.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नेटफ़्लिक्स की नई सीरीज़ ओ साथी रे की रिलीज़ की घोषणा हो चुकी है। इस शो का निर्माण और लेखन इम्तियाज़ अली ने किया है।",
+      "en": "The release date of Netflix's new series O Saathi Re has been announced. This show is created and written by Imtiaz Ali.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जैसी आइज़ेनबर्ग की म्यूज़िकल कॉमेडी द डेब्यूट का ट्रेलर रिलीज़ कर दिया गया है। इस फ़िल्म में जुलियन मूर और पॉल जियामाटी मुख्य भूमिकाओं में हैं।",
+      "en": "The trailer for Jesse Eisenberg's musical comedy The Debut has been released. This film stars Julianne Moore and Paul Giamatti.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पेज को फ़ॉलो करना न भूलें।",
+      "en": "Do not forget to follow our page for tomorrow's latest news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 मणिरत्नम की फ़िल्म इंजि वेल्लम को मिली रिलीज़ तारीख़\n📺 नेटफ़्लिक्स की नई सीरीज़ ओ साथी रे की घोषणा\n🎭 जैसी आइज़ेनबर्ग की फ़िल्म द डेब्यूट का ट्रेलर रिलीज़\nकल की ताज़ा ख़बरों के लिए फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Mani Ratnam’s ‘Inji Vellam,’ starring Vijay Sethupathi and Sai Pallavi, gets a release date",
+      "link": "https://www.thehindu.com/entertainment/movies/mani-ratnam-inji-vellam-release-date-vijay-sethupathi-sai-pallavi-ar-rahman/article71692672.ece"
+    },
+    {
+      "title": "‘O Saathi Re’: Aditi Rao Hydari, Arjun Rampal and Avinash Tiwary’s show gets release date",
+      "link": "https://www.thehindu.com/entertainment/movies/o-saathi-re-aditi-rao-hydari-arjun-rampal-and-avinash-tiwarys-show-gets-release-date/article71689232.ece"
+    },
+    {
+      "title": "‘The Debut’ trailer: Julianne Moore and Paul Giamatti clash in Jesse Eisenberg’s musical comedy",
+      "link": "https://www.thehindu.com/entertainment/movies/the-debut-trailer-julianne-moore-and-paul-giamatti-clash-in-jesse-eisenbergs-musical-comedy/article71688407.ece"
+    }
+  ]
+}
