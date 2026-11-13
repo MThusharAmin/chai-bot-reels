@@ -1,0 +1,58 @@
+{
+  "number": 119,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "सकारात्मक और अनोखी ख़बरें",
+  "title_en": "Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दिल्ली में दस दिनों का एक उत्सव शुरू हुआ है। यह आयोजन हिमालय की संस्कृति और कला का जश्न मनाता है।",
+      "en": "A ten-day festival has begun in Delhi. This event celebrates Himalayan culture and art.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु के एक स्टूडियो ने एक वैश्विक ब्रांड के साथ मिलकर दीपावली संग्रह तैयार किया है। इसमें पारंपरिक कला का उपयोग किया गया है।",
+      "en": "A Bengaluru studio has collaborated with a global brand to design a Deepavali collection using traditional art.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "युवा फ़िल्म निर्माता जुनैद अल्वी का सफर रामपुराहाट से हॉलीवुड तक रहा है। उन्होंने शैलीगत सिनेमा में महत्वपूर्ण काम किया है।",
+      "en": "Young filmmaker Junayed Alavi's journey has been from Rampurhat to Hollywood, working in genre cinema.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया चाय बॉट के पन्ने को फॉलो कीजिए।",
+      "en": "We will meet again tomorrow with new news. Please follow Chai Bot's page.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\nदिल्ली में हिमालय की संस्कृति और कला का जश्न मनाने वाला दस दिवसीय उत्सव शुरू हुआ है।\nबेंगलुरु के स्टूडियो ने वैश्विक ब्रांड के साथ मिलकर एक नया दीपावली संग्रह तैयार किया है।\nबंगाल के रामपुराहाट से हॉलीवुड तक युवा फ़िल्म निर्माता जुनैद अल्वी का अनूठा सफर रहा है।\nकल की नई ख़बरों के लिए चाय बॉट को फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "A 10-day festival in Delhi celebrates the Himalayan landscape, its people, and culture",
+      "link": "https://www.thehindu.com/entertainment/art/journeying-across-the-himalayas-celebrates-the-himalayan-landscape-its-people-and-culture/article68937440.ece"
+    },
+    {
+      "title": "Bengaluru-based Tharangini Studio designs Stanley 1913’s first-ever Deepavali collection",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-based-tharangini-studio-designs-stanley-1913s-first-ever-deepavali-collection/article71692675.ece"
+    },
+    {
+      "title": "Filmmaker Junayed Alavi's journey from Bengal’s Rampurhat to Hollywood",
+      "link": "https://www.thehindu.com/entertainment/movies/filmmaker-junayed-alavi-rampurhat-hollywood-ken-ochiai-marvel-peter-cameron-deathbed-sapiens/article71664943.ece"
+    }
+  ]
+}
