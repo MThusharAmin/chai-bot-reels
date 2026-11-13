@@ -1,0 +1,58 @@
+{
+  "number": 123,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अनुसंधान की मुख्य ख़बरें",
+  "title_en": "Main news of science and research",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक नई प्रयोगात्मक दवा ने घुटने के दर्द से पीड़ित लोगों को राहत दी है। इस दवा से मरीजों के दर्द में पचास प्रतिशत से अधिक की कमी दर्ज की गई।",
+      "en": "A new experimental drug provided relief to people suffering from knee pain. This drug recorded a reduction of more than fifty percent in patient pain.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई मेट्रो रेल में हुए एक हालिया अध्ययन से सार्वजनिक परिवहन पर सूक्ष्म जीवों की जानकारी मिली है। शोधकर्ताओं का कहना है कि इससे डरने की कोई आवश्यकता नहीं है।",
+      "en": "A recent study in Chennai Metro Rail has provided information on microbes on public transport. Researchers say there is no need to fear this.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "शंघाई जियाओ टोंग विश्वविद्यालय के शोधकर्ताओं ने एक नई कृत्रिम बुद्धिमत्ता प्रणाली पेश की है। यह प्रणाली प्रयोगशाला में जटिल प्रयोग करने में सक्षम है।",
+      "en": "Researchers from Shanghai Jiao Tong University have introduced a new artificial intelligence system. This system is capable of performing complex experiments in the laboratory.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। कल की ताज़ा ख़बरों के लिए हमारे पृष्ठ को अवश्य फॉलो करें।",
+      "en": "We will meet again tomorrow. Be sure to follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🔬 एक प्रयोगात्मक दवा ने ऑस्टियोआर्थराइटिस के मरीजों में घुटने के दर्द से राहत दिलाई है\n🚇 चेन्नई मेट्रो रेल में हुए अध्ययन से सार्वजनिक परिवहन पर सूक्ष्म जीवों की जानकारी सामने आई है\n🧪 शंघाई के शोधकर्ताओं ने एक नई कृत्रिम बुद्धिमत्ता प्रणाली पेश की है जो जटिल प्रयोग कर सकती है\nकल की ताज़ा ख़बरों के लिए हमारे पृष्ठ को अवश्य फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Experimental GLP-1 drug demonstrates pain relief in people with osteoarthritis during trials",
+      "link": "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece"
+    },
+    {
+      "title": "Swabbing public transport to identify urban microbiomes, a city’s microbial signature",
+      "link": "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece"
+    },
+    {
+      "title": "Now agentic AI can perform complex lab research, and maybe cheaper too",
+      "link": "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece"
+    }
+  ]
+}

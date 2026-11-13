@@ -1218,5 +1218,16 @@
       "https://www.thehindu.com/sci-tech/eu-leaders-seek-to-tackle-challenges-at-first-ever-ai-summit/article71696825.ece",
       "https://www.thehindu.com/news/international/who-is-nvidia-new-interim-ceo-colette-kress-after-jensen-huang-exit/article71696530.ece"
     ]
+  },
+  {
+    "number": 123,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अनुसंधान की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/health/experimental-glp-1-drug-demonstratespain-relief-in-people-with-osteoarthritis-during-trials/article71694910.ece",
+      "https://www.thehindu.com/sci-tech/health/swabbing-public-transport-to-identify-urban-microbiomes-a-citys-microbial-signature/article71686791.ece",
+      "https://www.thehindu.com/education/now-agentic-ai-can-perform-complex-lab-research-and-maybe-cheaper-too/article71692756.ece"
+    ]
   }
 ]
