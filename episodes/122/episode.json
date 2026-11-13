@@ -1,0 +1,58 @@
+{
+  "number": 122,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "माइक्रोसॉफ्ट और कृत्रिम बुद्धिमत्ता की प्रमुख खबरें",
+  "title_en": "Major Microsoft and AI News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "माइक्रोसॉफ्ट ने बड़ी वैश्विक बाधा के बाद अपनी सेवाओं को बहाल करना शुरू कर दिया है। यह बाधा अठारह घंटे तक चली थी।",
+      "en": "Microsoft has started restoring its services after a major global outage that lasted for eighteen hours.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "यूरोपीय संघ के नेता पहली बार आयोजित कृत्रिम बुद्धिमत्ता शिखर सम्मेलन में चुनौतियों का सामना करने के लिए एकत्र हुए।",
+      "en": "EU leaders gathered to tackle challenges at the first ever AI summit.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कोलेट क्रेस्स को एनवीडिया का नया अंतरिम मुख्य कार्यकारी अधिकारी नियुक्त किया गया है। वह इस पद पर तेरह वर्षों का अनुभव लेकर आई हैं।",
+      "en": "Colette Kress has been appointed as Nvidia's new interim CEO, bringing thirteen years of experience.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा तकनीक ख़बरों के लिए हमारे साथ जुड़े रहें।",
+      "en": "Stay connected with us for tomorrow's fresh tech news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ माइक्रोसॉफ्ट ने वैश्विक बाधा के बाद अपनी सेवाओं को बहाल करना शुरू कर दिया है।\n🌐 यूरोपीय संघ के नेताओं ने कृत्रिम बुद्धिमत्ता शिखर सम्मेलन में विभिन्न चुनौतियों पर चर्चा की।\n💻 कोलेट क्रेस्स को एनवीडिया का नया अंतरिम मुख्य कार्यकारी अधिकारी नियुक्त किया गया है।\n✨ दैनिक तकनीक समाचार के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Microsoft Outage LIVE: Microsoft begins restoring Outlook, Teams and other services after global outage",
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece"
+    },
+    {
+      "title": "EU leaders seek to tackle challenges at first ever AI summit",
+      "link": "https://www.thehindu.com/sci-tech/eu-leaders-seek-to-tackle-challenges-at-first-ever-ai-summit/article71696825.ece"
+    },
+    {
+      "title": "Who is Colette Kress? Nvidia's new interim CEO following Jensen Huang’s exit",
+      "link": "https://www.thehindu.com/news/international/who-is-nvidia-new-interim-ceo-colette-kress-after-jensen-huang-exit/article71696530.ece"
+    }
+  ]
+}

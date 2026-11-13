@@ -1207,5 +1207,16 @@
       "https://www.thehindu.com/sport/cricket/australia-vs-england-first-odi-in-perth/article71696836.ece",
       "https://www.thehindu.com/sport/cricket/saqib-takes-7-wickets-on-debut-before-rain-disrupts-pakistan-sri-lanka-first-cricket-test/article71695356.ece"
     ]
+  },
+  {
+    "number": 122,
+    "format": "news",
+    "category": "tech",
+    "title": "माइक्रोसॉफ्ट और कृत्रिम बुद्धिमत्ता की प्रमुख खबरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "https://www.thehindu.com/sci-tech/eu-leaders-seek-to-tackle-challenges-at-first-ever-ai-summit/article71696825.ece",
+      "https://www.thehindu.com/news/international/who-is-nvidia-new-interim-ceo-colette-kress-after-jensen-huang-exit/article71696530.ece"
+    ]
   }
 ]
