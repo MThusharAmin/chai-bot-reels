@@ -1,0 +1,58 @@
+{
+  "number": 124,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "कला और संस्कृति की विशेष और अनूठी ख़बरें",
+  "title_en": "Special and Unique News on Art and Culture",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "समकालीन कलाकार सिंह ट्विंस अपनी कलाकृतियों से ब्रिटिश साम्राज्य के इतिहास पर फिर से विचार कराते हैं। उनकी लघु चित्रकलाएं इतिहास को नए दृष्टिकोण से देखने का अवसर देती हैं।",
+      "en": "Contemporary artists Singh Twins make people re-examine British empire history through their miniatures.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "फैशन डिजाइनर राजेश प्रताप सिंह ने अपने घरेलू सामान का नया संग्रह पेश किया है। इसमें बिस्तर की चादरें, मेज का सामान और टाइलें शामिल हैं।",
+      "en": "Fashion designer Rajesh Pratap Singh introduces home furnishings including bed linen, tableware and tiles.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "स्कॉच निर्माता एम्मा वॉकर ने भारत के लिए एक विशेष त्योहारी मिश्रण लॉन्च किया है। यह उत्पाद भारतीय त्योहारों के स्वादों को ध्यान में रखकर तैयार किया गया है।",
+      "en": "Master blender Emma Walker launches a festive blend for India capturing the flavors of Indian festivals.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा और अनोखी ख़बरों के लिए हमारे पेज को फॉलो करना न भूलें।",
+      "en": "Do not forget to follow our page for tomorrow's fresh and unusual news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🎨 सिंह ट्विंस की कलाकृतियां ब्रिटिश इतिहास को नए तरीके से दिखाती हैं\n🏠 फैशन डिजाइनर राजेश प्रताप सिंह ने गृह सज्जा का नया सामान लॉन्च किया है\n🥃 एम्मा वॉकर ने भारतीय स्वादों को ध्यान में रखकर नया स्कॉच मिश्रण बनाया है\nरोज़ाना ऐसी ही अनोखी ख़बरों के लिए फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "The wit and gravity of The Singh Twins",
+      "link": "https://www.thehindu.com/entertainment/art/the-singh-twins-art-alive-a-moment-in-the-monumental-golden-bird-imperialism-britasia/article71697200.ece"
+    },
+    {
+      "title": "Diwali 2026: Rajesh Pratap Singh wants to dress your home",
+      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/diwali-2026-rajesh-pratap-singh-wants-to-dress-your-home/article71664390.ece"
+    },
+    {
+      "title": "Emma Walker, Johnnie Walker’s first female master blender, on creating a Scotch for India",
+      "link": "https://www.thehindu.com/food/features/emma-walker-johnnie-walkers-first-female-master-blender-on-creating-a-scotch-for-india/article71688686.ece"
+    }
+  ]
+}
