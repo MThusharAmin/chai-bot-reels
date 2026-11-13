@@ -1,0 +1,58 @@
+{
+  "number": 121,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज की प्रमुख खेल समाचार",
+  "title_en": "Today s top sports news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today s sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अंडर-१९ एशिया कप के फाइनल में भारतीय टीम पाकिस्तान के खिलाफ खेलेगी। भारतीय टीम अपना नौवां खिताब जीतने का प्रयास करेगी।",
+      "en": "In the under nineteen Asia cup final, the Indian team will play against Pakistan. The Indian team will try to win their ninth title.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "ऑस्ट्रेलिया और इंग्लैंड के बीच पहले एक दिवसीय मुकाबले में म्हाली बियर्डमैन ने छह विकेट लिए। उनकी इस शानदार गेंदबाज़ी से इंग्लैंड की टीम को हार का सामना करना पड़ा।",
+      "en": "In the first one day match between Australia and England, Mahli Beardman took six wickets. Due to his brilliant bowling, the England team faced defeat.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "पाकिस्तान और श्रीलंका के बीच पहले टेस्ट मैच में साकिब ने पदार्पण करते हुए सात विकेट लिए। इसके बाद बारिश के कारण मैच में बाधा उत्पन्न हुई।",
+      "en": "In the first test match between Pakistan and Sri Lanka, Saqib took seven wickets on debut. After this, rain disrupted the match.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए। धन्यवाद।",
+      "en": "Stay with us for tomorrow s latest news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 अंडर-१९ एशिया कप के फाइनल में भारत और पाकिस्तान का मुकाबला होगा\n🌟 ऑस्ट्रेलिया और इंग्लैंड के बीच पहले एक दिवसीय मैच में म्हाली बियर्डमैन ने छह विकेट लिए\n⚡ पाकिस्तान और श्रीलंका के पहले टेस्ट में साकिब ने पदार्पण पर सात विकेट लिए\nरोज़ाना ताज़ा ख़बरों के लिए हमें फ़ॉलो कीजिए\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Under-19 Asia Cup final: India eyes improved batting, bowling effort against Pakistan",
+      "link": "https://www.thehindu.com/sport/cricket/under-19-asia-cup-final-india-vs-pakistan-on-november-14-2026/article71697037.ece"
+    },
+    {
+      "title": "AUS vs ENG first ODI: Mahli Beardman’s six wickets on debut sinks England",
+      "link": "https://www.thehindu.com/sport/cricket/australia-vs-england-first-odi-in-perth/article71696836.ece"
+    },
+    {
+      "title": "Saqib takes 7 wickets on debut before rain disrupts Pakistan-Sri Lanka first cricket Test",
+      "link": "https://www.thehindu.com/sport/cricket/saqib-takes-7-wickets-on-debut-before-rain-disrupts-pakistan-sri-lanka-first-cricket-test/article71695356.ece"
+    }
+  ]
+}
