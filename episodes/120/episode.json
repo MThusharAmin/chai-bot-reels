@@ -1,0 +1,58 @@
+{
+  "number": 120,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की नई घोषणाएं",
+  "title_en": "New Announcements in Entertainment World",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नेटफ्लिक्स ने सुदीप शर्मा के निर्देशन में बनने वाली क्राईम केपर सीरीज़ पुष्पक विमान की घोषणा की है। इस सीरीज़ को सुदीप शर्मा और अभिषेक बनर्जी ने मिलकर बनाया है।",
+      "en": "Netflix announced crime-caper series Pushpak Vimaan directed by Sudip Sharma, co-created by Sudip Sharma and Abhishek Banerjee.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आमिर खान प्रोडक्शंस और एक्सेल एंटरटेनमेंट ने एक माइक्रोड्रामा प्लेटफॉर्म लॉन्च करने के लिए हाथ मिलाया है। यह नया उद्यम मूल सामग्री और डिजिटल रचनाकारों के साथ साझेदारी करेगा।",
+      "en": "Aamir Khan Productions and Excel Entertainment join hands to launch a microdrama platform leveraging original content and digital creator partnerships.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "फ़िल्म गनमास्टर जी नौ का ट्रेलर जारी कर दिया गया है। इस एक्शन फ़िल्म में इमरान हाशमी, जेनेलिया देशमुख और अपारशक्ति खुराना मुख्य भूमिकाओं में हैं।",
+      "en": "The trailer for Gunmaaster G9 has been released, starring Emraan Hashmi, Genelia Deshmukh and Aparshakti Khurana.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए। आपका दिन शुभ हो।",
+      "en": "Stay connected with us for tomorrow's fresh news. Have a good day.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n☕ नेटफ्लिक्स ने सुदीप शर्मा की नई सीरीज़ पुष्पक विमान की घोषणा की है।\n🎬 आमिर खान प्रोडक्शंस और एक्सेल एंटरटेनमेंट ने माइक्रोड्रामा प्लेटफॉर्म लॉन्च किया है।\n🔥 फ़िल्म गनमास्टर जी नौ का नया ट्रेलर जारी हो गया है।\n✨ मनोरंजन जगत की ऐसी ही ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Pushpak Vimaan’: Netflix announces crime-caper series helmed by Sudip Sharma",
+      "link": "https://www.thehindu.com/entertainment/movies/pushpak-vimaan-netflix-announces-crime-caper-series-helmed-by-sudip-sharma/article71693412.ece"
+    },
+    {
+      "title": "Aamir Khan Productions, Excel Entertainment join hands to launch microdrama platform",
+      "link": "https://www.thehindu.com/entertainment/movies/aamir-khan-productions-excel-entertainment-join-hands-to-launch-microdrama-platform/article71693323.ece"
+    },
+    {
+      "title": "‘Gunmaaster G9’ trailer: Emraan Hashmi is out to take revenge in pulpy actioner",
+      "link": "https://www.thehindu.com/entertainment/movies/gunmaaster-g9-trailer-emraan-hashmi-is-out-to-take-revenge-in-pulpy-actioner/article71693246.ece"
+    }
+  ]
+}
