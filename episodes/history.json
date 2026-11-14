@@ -1262,5 +1262,16 @@
       "https://www.thehindu.com/sport/cricket/sooryavanshi-becomes-youngest-captain-in-mens-t20-cricket-history/article71701393.ece",
       "https://www.thehindu.com/sport/cricket/deepti-sharma-named-icc-womens-player-of-the-month-for-october/article71699605.ece"
     ]
+  },
+  {
+    "number": 127,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक और गैजेट्स की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-announces-google-co-developed-smart-glasses-pricing-and-sale-details/article71701046.ece",
+      "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
+      "https://www.thehindu.com/children/is-it-ai-is-it-not-ai/article71664120.ece"
+    ]
   }
 ]
