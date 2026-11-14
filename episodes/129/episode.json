@@ -1,0 +1,58 @@
+{
+  "number": 129,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की बड़ी घोषणाएं",
+  "title_en": "Big entertainment world announcements",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "तेलुगु सुपरस्‍टार जूनियर एनटीआर ने निर्देशक अनिल रविपुडी के साथ अपनी अगली फ़िल्म की घोषणा की है। उन्होंने सोशल मीडिया के माध्यम से इस सहयोग की पुष्टि की है।",
+      "en": "Telugu superstar Jr NTR has announced his next film with director Anil Ravipudi. He confirmed this collaboration through social media.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रामायण फ़िल्म ने बॉक्स ऑफ़िस पर एक हज़ार करोड़ रुपये का आंकड़ा पार कर लिया है। आठ दिनों में इस फ़िल्म की कुल कमाई एक हज़ार तैंतीस करोड़ रुपये से अधिक हो गई है।",
+      "en": "Ramayana has crossed the one thousand crore rupee mark at the box office. In eight days, the total collection of this film has exceeded one thousand thirty three crore rupees.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "होम्बले फ़िल्म्स ने इस्कॉन के संस्थापक पर एक नई बायोपिक की घोषणा की है। इस फ़िल्म का शीर्षक शरणागति द लाइफ़ ऑफ़ ए सरेंडरड सोल रखा गया है।",
+      "en": "Hombale Films has announced a new biopic on the founder of ISKCON. This film is titled Saranagati The Life of a Surrendered Soul.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's new stories.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 अभिनेता जूनियर एनटीआर ने अनिल रविपुडी के साथ अपनी अगली फ़िल्म की घोषणा की है\n💰 फ़िल्म रामायण ने बॉक्स ऑफ़िस पर एक हज़ार करोड़ रुपये का आंकड़ा पार कर लिया है\n🎥 होम्बले फ़िल्म्स ने इस्कॉन संस्थापक पर आधारित बायोपिक शरणागति की घोषणा की है\n✨ प्रतिदिन ऐसी ही ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Jr NTR announces his next with Anil Ravipudi",
+      "link": "https://www.thehindu.com/entertainment/movies/jr-ntr-announces-his-next-with-anil-ravipudi/article71701775.ece"
+    },
+    {
+      "title": "'Ramayana' becomes 11th Indian film to cross Rs 1,000 crore mark at box office",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-becomes-11th-indian-film-to-cross-rs-1000-crore-mark-at-box-office/article71701145.ece"
+    },
+    {
+      "title": "‘Sarangati’: Hombale Films announces biopic on ISKCON founder",
+      "link": "https://www.thehindu.com/entertainment/movies/hombale-films-sarangati-biopic-iskcon-founder-a-c-bhaktivedanta-swami-srila-prabhupada-salaar-2/article71699397.ece"
+    }
+  ]
+}

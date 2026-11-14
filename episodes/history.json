@@ -1284,5 +1284,16 @@
       "https://www.thehindu.com/news/cities/Visakhapatnam/tourism-revives-as-roads-reopen-in-agency-areas/article71702302.ece",
       "https://www.thehindu.com/news/cities/Visakhapatnam/rainbow-hospital-in-visakhapatnam-marks-world-prematurity-day/article71702547.ece"
     ]
+  },
+  {
+    "number": 129,
+    "format": "news",
+    "category": "entertainment",
+    "title": "मनोरंजन जगत की बड़ी घोषणाएं",
+    "links": [
+      "https://www.thehindu.com/entertainment/movies/jr-ntr-announces-his-next-with-anil-ravipudi/article71701775.ece",
+      "https://www.thehindu.com/entertainment/movies/ramayana-becomes-11th-indian-film-to-cross-rs-1000-crore-mark-at-box-office/article71701145.ece",
+      "https://www.thehindu.com/entertainment/movies/hombale-films-sarangati-biopic-iskcon-founder-a-c-bhaktivedanta-swami-srila-prabhupada-salaar-2/article71699397.ece"
+    ]
   }
 ]
