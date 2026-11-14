@@ -1,0 +1,58 @@
+{
+  "number": 126,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज की मुख्य खेल समाचार",
+  "title_en": "Today's main sports news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "उन्नीस वर्ष से कम उम्र के एशिया कप के फाइनल मुकाबले में भारत ने पाकिस्तान को एक रोमांचक मैच में एक विकेट से पराजित किया।",
+      "en": "In the under nineteen Asia Cup final match, India defeated Pakistan by one wicket in a thrilling match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सूर्यवंशी पुरुषों के बीस ओवर के क्रिकेट इतिहास में सबसे कम उम्र के कप्तान बन गए हैं। उन्होंने अपने इस रिकॉर्ड वाले मैच में बारह गेंदों पर अठारह रन बनाए।",
+      "en": "Sooryavanshi has become the youngest captain in men's twenty over cricket history. He scored eighteen runs off twelve deliveries in his record-breaking match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दीप्ति शर्मा को अक्टूबर महीने के लिए अंतरराष्ट्रीय क्रिकेट परिषद की महिला खिलाड़ी का पुरस्कार मिला है। उन्होंने सोभाना मोस्तारी और एनाबेल सदरलैंड को पीछे छोड़ा।",
+      "en": "Deepti Sharma has received the International Cricket Council's women's player of the month award for October. She left behind Sobhana Mostary and Annabel Sutherland.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "चाय की चुस्की के साथ आज की ख़बरें समाप्त हुईं। कल की ताज़ा खेल ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Today's news ends with a sip of tea. Stay with us for tomorrow's fresh sports news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 भारत ने रोमांचक मुकाबले में पाकिस्तान को हराया\n🏏 सूर्यवंशी बने सबसे कम उम्र के कप्तान\n🏏 दीप्ति शर्मा को मिला महीने का सर्वश्रेष्ठ खिलाड़ी पुरस्कार\nकल की खेल ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "U19 Asia Cup final: India overcome Pakistan by one wicket in thriller",
+      "link": "https://www.thehindu.com/sport/cricket/u19-asia-cup-final-india-vs-pakistan-usman-khan-nov-14-2026/article71701378.ece"
+    },
+    {
+      "title": "Sooryavanshi becomes youngest captain in men's T20 cricket history",
+      "link": "https://www.thehindu.com/sport/cricket/sooryavanshi-becomes-youngest-captain-in-mens-t20-cricket-history/article71701393.ece"
+    },
+    {
+      "title": "Deepti Sharma named ICC Women’s Player of the Month for October",
+      "link": "https://www.thehindu.com/sport/cricket/deepti-sharma-named-icc-womens-player-of-the-month-for-october/article71699605.ece"
+    }
+  ]
+}
