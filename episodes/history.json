@@ -1273,5 +1273,16 @@
       "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
       "https://www.thehindu.com/children/is-it-ai-is-it-not-ai/article71664120.ece"
     ]
+  },
+  {
+    "number": 128,
+    "format": "news",
+    "category": "feelgood",
+    "title": "चाय बॉट की अनोखी और अच्छी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/entertainment/art/vikram-goyal-wings-amp-tales-many-lives-of-ramayana-mayfair-london-repousse-sam-dalrymple/article71697533.ece",
+      "https://www.thehindu.com/news/cities/Visakhapatnam/tourism-revives-as-roads-reopen-in-agency-areas/article71702302.ece",
+      "https://www.thehindu.com/news/cities/Visakhapatnam/rainbow-hospital-in-visakhapatnam-marks-world-prematurity-day/article71702547.ece"
+    ]
   }
 ]

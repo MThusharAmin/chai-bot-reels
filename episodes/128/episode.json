@@ -1,0 +1,58 @@
+{
+  "number": 128,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और अच्छी ख़बरें",
+  "title_en": "Chai Bot Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's good news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विक्रम गोयल की बैठक ने लंदन में सांस्कृतिक कहानियों को बढ़ावा दिया। यह प्रदर्शनी बातचीत पर आधारित थी।",
+      "en": "Vikram Goyal's baithak promoted cultural stories in London. This exhibition was based on conversation.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सड़कों के खुलने और ठंड के आने से पर्यटन फिर से जीवंत हो उठा है। पर्यटकों के आने से कारोबारियों में खुशी है।",
+      "en": "Tourism has revived due to reopening of roads and onset of winter. Arrivals have brought cheer to stakeholders.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विशाखापत्तनम के रेनबो अस्पताल ने विश्व समय से पहले जन्म लेने वाले शिशु दिवस को मनाया।",
+      "en": "Rainbow Hospital in Visakhapatnam marked World Prematurity Day.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे पृष्ठ का अनुसरण अवश्य करें।",
+      "en": "Be sure to follow our page for tomorrow's new news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ लंदन में भारतीय कहानियों और संस्कृति पर आधारित एक विशेष बैठक का आयोजन किया गया।\n🛣️ सड़कों के खुलने और सर्दी के आने से पर्यटन में वृद्धि हुई है जिससे खुशी का माहौल है।\n👶 विशाखापत्तनम के एक अस्पताल ने समय से पहले जन्म लेने वाले बच्चों का विशेष दिन मनाया।\n✨ रोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमारे पृष्ठ से जुड़े रहें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "The many lives of the ‘Ramayana’ in London",
+      "link": "https://www.thehindu.com/entertainment/art/vikram-goyal-wings-amp-tales-many-lives-of-ramayana-mayfair-london-repousse-sam-dalrymple/article71697533.ece"
+    },
+    {
+      "title": "Tourism revives as roads reopen in Agency Areas",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/tourism-revives-as-roads-reopen-in-agency-areas/article71702302.ece"
+    },
+    {
+      "title": "Rainbow Hospital in Visakhapatnam marks World Prematurity Day",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/rainbow-hospital-in-visakhapatnam-marks-world-prematurity-day/article71702547.ece"
+    }
+  ]
+}
