@@ -1,0 +1,58 @@
+{
+  "number": 125,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "सिनेमा और फिल्म जगत की ताजा खबरें",
+  "title_en": "Latest Updates From The Cinema World",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की मनोरंजन खबरों में आपका स्वागत है। सिनेमा जगत की आज की ताजा खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's entertainment news. Listen to today's latest updates from the cinema world.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इकतीसवें अंतर्राष्ट्रीय फिल्म महोत्सव केरल के लिए फिल्मों की घोषणा हो गई है। मलयालम फिल्मों को वैश्विक पहचान दिलाने के लिए इसमें एक नया वर्ग भी जोड़ा गया है।",
+      "en": "Selections have been announced for the thirty-first International Film Festival of Kerala. A new category has also been introduced to give global recognition to Malayalam cinema.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कन्नड़ अभिनेता शाइन शेट्टी अब फिल्म शंकराभरणा के साथ निर्माता बनने जा रहे हैं। सुमंत भट के निर्देशन में बन रही इस फिल्म में अभिनेत्री तन्वी राम भी शामिल हैं।",
+      "en": "Kannada actor Shine Shetty is turning producer with the film Shankarabharanna. Directed by Sumanth Bhat, the film also features actress Tanvi Ram.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक संतोष दावाखर की फिल्म गोंधळ भारत की ऑस्कर प्रविष्टि बनी है। यह फिल्म एक पारंपरिक प्रथा और समृद्ध संस्कृति को प्रभावशाली ढंग से दर्शाती है।",
+      "en": "Director Santosh Davakhar's film Gondhal has become India's Oscar entry. The film effectively portrays a traditional practice and vibrant culture.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "सिनेमा जगत की और खबरों के लिए हमसे जुड़े रहें और कल फिर आइए।",
+      "en": "Stay connected with us for more cinema news and join us again tomorrow.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 इकतीसवें अंतर्राष्ट्रीय फिल्म महोत्सव केरल में फिल्मों के चयन की घोषणा हुई और नया वर्ग जोड़ा गया।\n🎥 कन्नड़ अभिनेता शाइन शेट्टी फिल्म 'शंकराभरणा' से निर्माता के रूप में शुरुआत कर रहे हैं।\n🏆 निर्देशक संतोष दावाखर की फिल्म 'गोंधळ' भारत की आधिकारिक ऑस्कर प्रविष्टि बनी।\nमनोरंजन जगत की दैनिक खबरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "31st IFFK International Competition and Indian film selections announced, new Critics Discovery section introduced",
+      "link": "https://www.thehindu.com/news/national/kerala/31st-iffk-international-competition-and-indian-film-selections-announced-new-critics-discovery-section-introduced/article71698778.ece"
+    },
+    {
+      "title": "Beyond Bigg Boss: Shine Shetty speaks about starting afresh with ‘Shankarabharanna’",
+      "link": "https://www.thehindu.com/entertainment/movies/shankarabharanna-shine-shetty-interview-kannada-movie-sumanth-bhat-shankarabharanna-kannada-bigg-boss/article71692412.ece"
+    },
+    {
+      "title": "‘Gondhal’ movie review: Santosh Davakhar’s illuminating one-night tragedy",
+      "link": "https://www.thehindu.com/entertainment/movies/gondhal-movie-review-santosh-davakhars-illuminating-one-night-tragedy/article71700899.ece"
+    }
+  ]
+}
