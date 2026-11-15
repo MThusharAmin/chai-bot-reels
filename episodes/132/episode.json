@@ -1,0 +1,58 @@
+{
+  "number": 132,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Major Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अंतरिक्ष एजेंसी स्पेस एक्स ने पहली बार अपने अंतरिक्ष यान को सफलतापूर्वक पकड़ लिया। यह अंतरिक्ष यान वायुमंडल की गर्मी सहकर सुरक्षित नीचे उतरा।",
+      "en": "Space agency SpaceX successfully caught its spaceship for the first time.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नासा का वायेजर एक अंतरिक्ष यान नया दूरी रिकॉर्ड बनाने के करीब है। इस यान को एक प्रकाश वर्ष की पूरी दूरी तय करने में अभी अठारह हज़ार साल लगेंगे।",
+      "en": "NASA's Voyager 1 spacecraft is close to setting a new distance record.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "स्पेस एक्स ने अपने पंद्रहवें स्टारशिप अभियान का प्रक्षेपण किया। इस उड़ान का उद्देश्य पहली बार सुरक्षित वापसी करना था।",
+      "en": "SpaceX launched its fifteenth Starship mission with the goal of a safe return.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की चाय के साथ ख़बरें समाप्त हुईं। कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "The news concludes with today's tea. Stay with us for tomorrow's fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🚀 अंतरिक्ष एजेंसी स्पेस एक्स ने पहली बार अपने अंतरिक्ष यान को सफलतापूर्वक पकड़ लिया\n🛰️ नासा का वायेजर एक अंतरिक्ष यान नया दूरी रिकॉर्ड बनाने के करीब है\n🌌 स्पेस एक्स ने अपने पंद्रहवें स्टारशिप अभियान का प्रक्षेपण किया\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "SpaceX pulls off first-ever spaceship ‘catch’",
+      "link": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece"
+    },
+    {
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for new distance record",
+      "link": "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece"
+    },
+    {
+      "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
+      "link": "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece"
+    }
+  ]
+}

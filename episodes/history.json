@@ -1316,5 +1316,16 @@
       "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece",
       "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece"
     ]
+  },
+  {
+    "number": 132,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+      "https://www.thehindu.com/sci-tech/science/nasas-voyager-1-closes-in-on-a-light-day-in-interstellar-space-for-new-distance-record/article71704036.ece",
+      "https://www.thehindu.com/sci-tech/science/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip/article71700818.ece"
+    ]
   }
 ]
