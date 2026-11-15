@@ -1,0 +1,58 @@
+{
+  "number": 134,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा ख़बरें",
+  "title_en": "Latest Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की मनोरंजन ख़बरों में आपका स्वागत है। चलिए, आज की मुख्य ख़बरें सुनते हैं।",
+      "en": "Hello, welcome to Chai Bot's entertainment news. Let us hear today's top stories.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक जेम्स गन ने 'सुपरमैन: मैन ऑफ़ टुमारो' में बदलाव से इनकार किया है। यह फ़िल्म नौ जुलाई सन दो हज़ार सत्ताईस को रिलीज़ होगी।",
+      "en": "Director James Gunn has refused changes in 'Superman: Man of Tomorrow'. This film will release on July ninth, twenty twenty-seven.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "मेघालय के भोइरिमबॉन्ग में बीस और इक्कीस नवंबर को चेरी ब्लॉसम महोत्सव आयोजित किया जाएगा। इस संगीत समारोह में नेली, ख़ालिद और दर्शन रावल प्रस्तुति देंगे।",
+      "en": "The Cherry Blossom Festival will be held in Bhoirymbong, Meghalaya on November twentieth and twenty-first. Nelly, Khalid, and Darshan Raval will perform at this music event.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु में 'रीइन्कारॉक' नामक एक नई संगीत श्रृंखला शुरू की गई है। इसका मुख्य उद्देश्य शहर के स्थानीय रॉक बैंडों को प्रस्तुति का मंच प्रदान करना है।",
+      "en": "A new concert series named 'Reincarock' has been launched in Bengaluru. Its main objective is to provide a performance platform for the city's local rock bands.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "आज के लिए इतना ही, कल के ताज़ा समाचारों के लिए हमें ज़रूर फ़ॉलो करें।",
+      "en": "That is all for today, make sure to follow us for tomorrow's latest news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 'सुपरमैन: मैन ऑफ़ टुमारो' में बदलाव से जेम्स गन का इनकार, फ़िल्म नौ जुलाई सन दो हज़ार सत्ताईस को होगी रिलीज़।\n🌸 मेघालय के भोइरिमबॉन्ग में बीस और इक्कीस नवंबर को आयोजित होगा चेरी ब्लॉसम संगीत महोत्सव।\n🎸 बेंगलुरु के स्थानीय रॉक बैंडों को मंच देने के लिए शुरू हुई 'रीइन्कारॉक' कॉन्सर्ट श्रृंखला।\nदैनिक समाचारों के लिए हमारे पेज को ज़रूर फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "James Gunn refuses changes in ‘Superman: Man of Tomorrow’",
+      "link": "https://www.thehindu.com/entertainment/movies/james-gunn-refuses-changes-in-superman-man-of-tomorrow/article71704638.ece"
+    },
+    {
+      "title": "Shillong Cherry Blossom Festival 2026: Nelly, Khalid, and Swae Lee headline two days of music",
+      "link": "https://www.thehindu.com/entertainment/music/shillong-cherry-blossom-festival-2026-nelly-khalid-and-swae-lee-headline-two-days-of-music/article71692760.ece"
+    },
+    {
+      "title": "Rock gets a new incarnation, courtesy Bengaluru’s Reincarock",
+      "link": "https://www.thehindu.com/entertainment/music/rock-gets-a-new-incarnation-courtesy-bengalurus-reincarock/article71701169.ece"
+    }
+  ]
+}
