@@ -1,0 +1,58 @@
+{
+  "number": 130,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज के मुख्य खेल समाचार",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़ास पेशकश में आपका स्वागत है। आइए सुनते हैं आज के प्रमुख खेल समाचार।",
+      "en": "Hello and welcome to Chai Bot's special presentation. Let us hear today's top sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "पांचवें एकदिवसीय मैच में भारतीय गेंदबाज़ों के शानदार प्रदर्शन से भारत ने न्यूज़ीलैंड को बाईस रनों से हरा दिया।",
+      "en": "In the fifth ODI, India defeated New Zealand by 22 runs on the back of a fine performance by Indian bowlers.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अंडर-उन्नीस एशिया कप के फ़ाइनल में भारत ने पाकिस्तान को हराकर जीत दर्ज की। इस टूर्नामेंट में आर्यवीर सहवाग ने पाँच मैचों में तीन सौ इकसठ रन बनाए।",
+      "en": "India defeated Pakistan to claim victory in the Under-19 Asia Cup final. Aaryavir Sehwag scored 361 runs in five matches in the tournament.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दूसरे एकदिवसीय मैच में टॉम बैंटन के शतक की मदद से इंग्लैंड ने छह विकेट पर तीन सौ पचपन रन बनाए। इस मुक़ाबले में ऑस्ट्रेलिया के गेंदबाज़ महली बियर्डमैन को विश्राम दिया गया।",
+      "en": "In the second ODI, England scored 355 for 6 with the help of Tom Banton's century. Australia's bowler Mahli Beardman was rested for this match.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत की ताज़ा ख़बरों के लिए हमें फ़ॉलो अवश्य करें।",
+      "en": "Be sure to follow us for the latest sports news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 पांचवें एकदिवसीय मैच में भारत ने न्यूज़ीलैंड को बाईस रनों से हराया।\n🏆 अंडर-उन्नीस एशिया कप में आर्यवीर सहवाग ने पाँच मैचों में तीन सौ इकसठ रन बनाकर सर्वश्रेष्ठ खिलाड़ी का पुरस्कार जीता।\n🏏 टॉम बैंटन के शतक की बदौलत दूसरे एकदिवसीय मैच में इंग्लैंड ने तीन सौ पचपन रन बनाए।\nताज़ा खेल समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "IND vs NZ fifth ODI: Bowlers step up to lift India to 22-run win over NZ",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fifth-odi-in-mount-maunganui-on-november-15/article71703996.ece"
+    },
+    {
+      "title": "Aaryavir Sehwag, Virender Sehwag’s son, takes first steps towards forging own identity",
+      "link": "https://www.thehindu.com/sport/cricket/aaryavir-sehwag-virender-sehwags-son-takes-first-steps-towards-forging-own-identity/article71704216.ece"
+    },
+    {
+      "title": "AUS vs ENG second ODI: Tom Banton’s century powers England to 355-6 against Australia",
+      "link": "https://www.thehindu.com/sport/cricket/australia-vs-england-second-odi-in-adelaide/article71704366.ece"
+    }
+  ]
+}
