@@ -1,0 +1,58 @@
+{
+  "number": 133,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "मुंबई में अर्थशॉट पुरस्कार का आयोजन",
+  "title_en": "Earthshot Prize to be hosted in Mumbai",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मुंबई शहर सत्रह नवंबर को छठे अर्थशॉट पुरस्कार समारोह की मेज़बानी करेगा। इस सबसे बड़े संस्करण में पांच विजेताओं को उनकी पर्यावरण पहलों के लिए पुरस्कार राशि दी जाएगी।",
+      "en": "Mumbai city will host the sixth Earthshot Prize ceremony on November 17. In this biggest edition, five winners will be given prize money for their environmental initiatives.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक हालिया स्वास्थ्य शिविर में दो सौ मरीजों को आवश्यक चिकित्सा सेवाएं प्रदान की गईं। इस आयोजन से स्थानीय लोगों को लाभ मिला।",
+      "en": "Two hundred patients were provided necessary medical services at a recent health camp. Locals benefited from this event.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अहमदाबाद शहर में एक यात्री ने अपनी यात्रा के दौरान समकालीन कला केंद्रों और ऐतिहासिक वास्तुकला का अन्वेषण किया। उन्होंने साबरमती आश्रम का भी भ्रमण किया।",
+      "en": "In Ahmedabad city, a traveler explored contemporary art centers and historic architecture during their journey. They also visited Sabarmati Ashram.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ मुंबई सत्रह नवंबर को छठे अर्थशॉट पुरस्कार समारोह की मेज़बानी करेगा।\n🩺 एक स्वास्थ्य शिविर में दो सौ मरीजों को चिकित्सा सेवाएं प्रदान की गईं।\n🏛️ अहमदाबाद में एक यात्री ने ऐतिहासिक वास्तुकला और साबरमती आश्रम का भ्रमण किया।\nकल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Mumbai to host sixth Earthshot Prize Awards on November 17; organisers promise biggest edition yet",
+      "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-to-host-sixth-earthshot-prize-awards-on-november-17-organisers-promise-biggest-edition-yet/article71705598.ece"
+    },
+    {
+      "title": "200 patients receive medical services at health camp",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/200-patients-receive-medical-services-at-health-camp/article71705552.ece"
+    },
+    {
+      "title": "Twenty-four hours in Ahmedabad: A quick guide to India’s first UNESCO World Heritage City",
+      "link": "https://www.thehindu.com/life-and-style/travel/twenty-four-hours-in-ahmedabad-a-quick-guide-to-indias-first-unesco-world-heritage-city/article71686532.ece"
+    }
+  ]
+}
