@@ -1,0 +1,48 @@
+{
+  "number": 131,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "माइक्रोसॉफ्ट की वैश्विक तकनीकी सेवाएँ बहाल",
+  "title_en": "Microsoft global tech services restored",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "माइक्रोसॉफ्ट की सेवाओं में एक वैश्विक तकनीकी खराबी आ गई थी। इस समस्या के कारण दुनिया भर में लाखों सेवाएँ प्रभावित हुईं।",
+      "en": "A global technical disruption occurred in Microsoft services. Millions of services were affected worldwide due to this issue.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में भी माइक्रोसॉफ्ट की क्लाउड आधारित ईमेल सेवा बाधित हुई। इससे व्यावसायिक कामकाज और विमानन ग्राहक सहायता पर असर पड़ा।",
+      "en": "Cloud-based email service of Microsoft was disrupted in India as well. This impacted business operations and airline customer support.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे पेज को अवश्य फॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's new updates.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n🔹 माइक्रोसॉफ्ट की सेवाओं में एक वैश्विक तकनीकी खराबी आ गई थी।\n🔹 भारत में भी माइक्रोसॉफ्ट की क्लाउड आधारित ईमेल सेवा बाधित हुई।\nरोज़ की ताज़ा ख़बरों के लिए फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "How the Microsoft outage affected millions worldwide | Explained",
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-why-did-microsoft-outlook-and-other-products-go-offline-globally/article71696554.ece"
+    },
+    {
+      "title": "Microsoft Outage updates: Global outage ends after tech giant restores services across all affected systems",
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece"
+    }
+  ]
+}
