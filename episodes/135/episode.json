@@ -1,0 +1,58 @@
+{
+  "number": 135,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की प्रमुख ख़बरें",
+  "title_en": "Major Sports News Highlights",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज के खेल समाचार सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जय शाह को निर्विरोध रूप से दोबारा अंतरराष्ट्रीय क्रिकेट परिषद का अध्यक्ष चुन लिया गया है। यह निर्णय बाली में आयोजित वैश्विक संस्था की बैठक में लिया गया।",
+      "en": "Jay Shah has been reappointed unopposed as the ICC Chairman. This decision was taken during the global body's meeting held in Bali.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दक्षिण अफ्रीका और बांग्लादेश के बीच पहले टेस्ट मैच में हृदय के शतक से बांग्लादेश ने छह विकेट पर तीन सौ सत्ताईस रन बनाए। वहीं रबाडा ने पांच विकेट हासिल किए।",
+      "en": "In the first Test between South Africa and Bangladesh, Hridoy's century guided Bangladesh to 327 for 6, while Rabada took five wickets.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "इंडियन प्रीमियर लीग में हर्षल पटेल सनराइजर्स हैदराबाद से गुजरात टाइटंस की टीम में शामिल होंगे। यह स्थानांतरण पूर्ण नकद सौदे के तहत तय हुआ है।",
+      "en": "In the Indian Premier League, Harshal Patel is set to switch from Sunrisers Hyderabad to Gujarat Titans in an all-cash deal.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत की ताज़ा खबरों के लिए कल फिर मिलिए, धन्यवाद।",
+      "en": "Join us again tomorrow for the latest sports news, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 जय शाह को बाली में आयोजित बैठक में पुनः आईसीसी का अध्यक्ष चुना गया।\n🏏 दक्षिण अफ्रीका के विरुद्ध पहले टेस्ट में हृदय के शतक की मदद से बांग्लादेश ने मजबूत स्कोर बनाया।\n🏏 हर्षल पटेल सनराइजर्स हैदराबाद से गुजरात टाइटंस की टीम में शामिल होने जा रहे हैं।\nप्रतिदिन ताज़ा खेल समाचारों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Jay Shah reappointed unopposed as ICC Chairman for second term",
+      "link": "https://www.thehindu.com/sport/cricket/jay-shah-reappointed-as-icc-chairman-for-second-term/article71706905.ece"
+    },
+    {
+      "title": "South Africa vs Bangladesh first Test: Hridoy’s century takes Bangladesh to 327 for 6, Rabada takes five wickets",
+      "link": "https://www.thehindu.com/sport/cricket/hridoy-ton-as-bangladesh-reaches-327-6-on-first-day-of-the-first-cricket-test-vs-south-africa-rabada-5-51/article71706825.ece"
+    },
+    {
+      "title": "IPL Trade: Harshal Patel set for SRH to GT switch in all-cash deal",
+      "link": "https://www.thehindu.com/sport/cricket/ipl-trade-harshal-patel-set-for-srh-to-gt-switch-in-all-cash-deal/article71701987.ece"
+    }
+  ]
+}
