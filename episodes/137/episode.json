@@ -1,0 +1,58 @@
+{
+  "number": 137,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य खबरें",
+  "title_en": "Main Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "केरल में सड़क के पेड़ों से बचाए गए सत्ताईस हजार से अधिक स्थानीय ऑर्किड। एक से दो साल के बाद इनमें से इकहत्तर प्रतिशत से अधिक जीवित बचे।",
+      "en": "Over twenty-seven thousand native orchids saved from roadside trees in Kerala. After one to two years, over seventy-one percent of these survived.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्यूर्टो रिको के एक रेडियो टेलीस्कोप से सुदूर गोलাকার समूह तक। यह मानवता के वर्ष उन्नीस सौ चौहत्तर के बाहरी अंतरिक्ष बुद्धिमत्ता से संवाद के प्रयास का अध्ययन है।",
+      "en": "From a radio telescope in Puerto Rico to a distant globular cluster. This explores humanity's 1974 attempt to communicate with extraterrestrial intelligence.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दो आकाशीय पिंड प्राचीन क्वासर का एक करीबी जोड़ा हैं। यह प्रारंभिक ब्लैक होल के विकास के बारे में मौजूदा विचारों को चुनौती दे रहे हैं।",
+      "en": "Two celestial bodies are a close pair of ancient quasars. These are challenging ideas about early black hole growth.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "चाय का आनंद लीजिए और कल की ख़बरों के लिए हमें फ़ॉलो कीजिए।",
+      "en": "Enjoy your tea and follow us for tomorrow's news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🌱 केरल में सड़क के पेड़ों से सत्ताईस हजार से अधिक स्थानीय ऑर्किड बचाए गए।\n📡 वर्ष उन्नीस सौ चौहत्तर में बाहरी अंतरिक्ष बुद्धिमत्ता से संवाद का प्रयास किया गया था।\n✨ दो आकाशीय पिंड प्राचीन क्वासर प्रारंभिक ब्लैक होल के विकास को चुनौती दे रहे हैं।\nकल की ख़बरों के लिए हमें फ़ॉलो कीजिए।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Keralam’s orchids endure from highway trees to salt-sprayed shores",
+      "link": "https://www.thehindu.com/sci-tech/science/keralams-orchids-endure-from-highway-trees-to-salt-sprayed-shores/article71704813.ece"
+    },
+    {
+      "title": "Daily Quiz: Communication with extraterrestrial intelligence",
+      "link": "https://www.thehindu.com/sci-tech/science/daily-quiz-communication-with-extraterrestrial-intelligence/article71706616.ece"
+    },
+    {
+      "title": "Nāpōwawāʻenakaulua",
+      "link": "https://www.thehindu.com/sci-tech/science/napowawa%CA%BBenakaulua/article71704825.ece"
+    }
+  ]
+}
