@@ -1,0 +1,58 @@
+{
+  "number": 138,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "नई और अनोखी जीवन शैली की ख़बरें",
+  "title_en": "New and unusual lifestyle news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अनोखी और अच्छी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's unusual and good news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सन दो हज़ार छब्बीस के नवंबर महीने की इक्कीस और बाईस तारीख को कोच्चि में मोटो समिट आयोजित होगा। यह केरल का पहला मोटर स्पोर्ट्स और जीवन शैली उत्सव होगा।",
+      "en": "Moto Summit will be held in Kochi on November 21 and 22, 2026. This will be Kerala's first motorsports and lifestyle festival.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "पीतल के आभूषण अब पारंपरिक पहचान छोड़कर एक नया रूप ले रहे हैं। डिजाइनर इन्हें बहुमुखी और किफायती विकल्प के रूप में प्रस्तुत कर रहे हैं।",
+      "en": "Brass jewellery is shedding traditional identity to take on a new form. Designers are presenting them as a versatile and affordable alternative.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "गायिका शहरज़ाद अपना पहला पूरा एल्बम रिलीज़ करने जा रही हैं। इस एल्बम में दस गाने शामिल हैं जो प्रवासी अनुभवों को दर्शाते हैं।",
+      "en": "Singer Sheherazaad is going to release her first full-length album. This album includes ten songs reflecting migrant experiences.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की चाय यहीं समाप्त होती है। कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Today's tea ends here. Stay with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ कोच्चि में सन दो हज़ार छब्बीस के नवंबर महीने में मोटो समिट आयोजित किया जाएगा\n\n✨ पीतल के आभूषण एक नए रूप में पारंपरिक पहचान छोड़कर उभर रहे हैं\n\n🎵 गायिका शहरज़ाद अपने पहले एल्बम के साथ प्रवासी अनुभवों पर बात कर रही हैं\n\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "The inaugural edition of the Moto Summit Kochi 2026 will take place on November 21 and 22",
+      "link": "https://www.thehindu.com/society/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece"
+    },
+    {
+      "title": "Brass jewellery is having a moment: Why designers are giving pital a luxe makeover",
+      "link": "https://www.thehindu.com/life-and-style/fashion/brass-jewellery-is-having-a-moment-why-designers-are-giving-pital-a-luxe-makeover/article71685470.ece"
+    },
+    {
+      "title": "‘Khudgarzi’ by Sheherazaad addresses migrant experiences and the diasporan influence",
+      "link": "https://www.thehindu.com/entertainment/music/khudgarzi-by-sheherazaad-addresses-migrant-experiences-and-the-diasporan-influence/article71656129.ece"
+    }
+  ]
+}
