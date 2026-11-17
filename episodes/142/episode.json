@@ -1,0 +1,58 @@
+{
+  "number": 142,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय की चुस्की के साथ अनोखी और अच्छी ख़बरें",
+  "title_en": "Good and unusual news with a cup of tea",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बच्चों के लिए छह पुस्तकों की नई श्रृंखला आई है। यह श्रृंखला बच्चों में आपसी भिन्नता स्वीकार करने और डिजिटल साक्षरता जैसे विषयों पर आधारित है।",
+      "en": "A new series of six books has been launched for children. This series focuses on themes such as accepting differences and digital literacy among children.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नई दिल्ली में तेरह वर्ष के रुद्रनिल मित्रा की कला और मूर्तिकला की प्रदर्शनी लगी है। यह प्रदर्शनी उनकी असाधारण कल्पनाशीलता को दर्शाती है जहाँ साधारण वस्तुएँ कला बन जाती हैं।",
+      "en": "An art and sculpture exhibition by thirteen-year-old Rudranil Mitra has opened in New Delhi. This exhibition showcases his extraordinary imagination where everyday objects become art.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु का संगीत समूह लक्ष्य अपना नया एल्बम लेकर आया है। इस एल्बम में दुनिया भर के पाँच अंतरराष्ट्रीय कलाकार शामिल हैं और यह दक्षिण भारत की संगीत परंपराओं से जुड़ा है।",
+      "en": "Bengaluru-based music ensemble Lakkshya has brought out its new album. This album features five international artists from around the world and is rooted in South Indian musical traditions.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "आज की ख़बरें समाप्त हुईं। कल की ताज़ा ख़बरों के लिए कृपया हमें फ़ॉलो करें।",
+      "en": "Today's news is concluded. Please follow us for tomorrow's fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\nबच्चों के लिए छह नई पुस्तकों की श्रृंखला लॉन्च की गई है\nतेरह वर्ष के रुद्रनिल मित्रा की अनोखी कला प्रदर्शनी नई दिल्ली में लगी है\nबेंगलुरु का संगीत समूह लक्ष्य अपना नया एल्बम लेकर आया है\nरोज़ाना ऐसी ही अच्छी ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Woodpecker Books launches new Social-Emotional Learning series",
+      "link": "https://www.thehindu.com/life-and-style/woodpecker-books-launches-new-social-emotional-learning-series/article71710358.ece"
+    },
+    {
+      "title": "How 13-year-old Rudranil Mitra finds his voice through art and sculpture",
+      "link": "https://www.thehindu.com/entertainment/art/how-13-year-old-rudranil-mitra-finds-his-voice-through-art-and-sculpture/article71710508.ece"
+    },
+    {
+      "title": "Bengaluru-based music ensemble LAKKSHYA features five international artistes in new album",
+      "link": "https://www.thehindu.com/entertainment/music/bengaluru-based-music-ensemble-lakkshya-features-five-international-artistes-in-new-album/article71656178.ece"
+    }
+  ]
+}
