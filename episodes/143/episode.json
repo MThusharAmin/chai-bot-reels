@@ -1,0 +1,58 @@
+{
+  "number": 143,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास और रोचक खबरें",
+  "title_en": "Special and interesting news from entertainment world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की मनोरंजन खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सन दो हज़ार छब्बीस के भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में दो सौ तीस से अधिक फिल्में दिखाई जाएंगी। इस आयोजन में स्पेन को देश सम्मान दिया गया है।",
+      "en": "Over two hundred thirty films will be screened at the International Film Festival of India in the year twenty twenty six. Spain has been given the country of honour in this event.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रॉबर्ट पैटिनसन को सातवां जेम्स बॉन्ड चुना गया है। वह डैनियल क्रेग से यह भूमिका संभालेंगे।",
+      "en": "Robert Pattinson has been chosen as the seventh James Bond. He will take over this role from Daniel Craig.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु में चौदह वर्षों के बाद गंस एन रोज़ेज़ ने संगीत कार्यक्रम प्रस्तुत किया। इस कार्यक्रम में प्रशंसकों ने पुरानी यादों को ताजा किया।",
+      "en": "Guns N Roses performed a concert in Bengaluru after fourteen years. Fans relived old memories in this event.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "आज के लिए बस इतना ही। कल की खबरों के लिए हमें फॉलो करना न भूलें।",
+      "en": "That is all for today. Do not forget to follow us for tomorrow's news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 सन दो हज़ार छब्बीस के फिल्म महोत्सव में दो सौ तीस से अधिक फिल्में प्रदर्शित होंगी और स्पेन देश सम्मान प्राप्त करेगा।\n🎥 रॉबर्ट पैटिनसन डैनियल क्रेग के बाद नए जेम्स बॉन्ड के रूप में नजर आएंगे।\n🎸 चौदह वर्षों के लंबे अंतराल के बाद बेंगलुरु में गंस एन रोज़ेज़ ने अपना संगीत कार्यक्रम प्रस्तुत किया।\nकल की ताज़ा खबरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "IFFI 2026: Over 230 films to be screened in Goa; Spain named Country of Honour",
+      "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-goa-opening-film-fatherland-dhurandhar-becoming-indian-panorama-spain-country-of-honour/article71710929.ece"
+    },
+    {
+      "title": "Robert Pattinson is named the 7th James Bond, taking over the role from Daniel Craig",
+      "link": "https://www.thehindu.com/entertainment/movies/robert-pattinson-is-named-the-7th-james-bond-taking-over-the-role-from-daniel-craig/article71708862.ece"
+    },
+    {
+      "title": "What a Guns N’ Roses concert feels like in 2026",
+      "link": "https://www.thehindu.com/entertainment/music/what-a-guns-n-roses-concert-feels-like-in-2026/article71708834.ece"
+    }
+  ]
+}
