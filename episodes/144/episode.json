@@ -1,0 +1,58 @@
+{
+  "number": 144,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की आज की मुख्य बातें",
+  "title_en": "Today's main highlights in sports",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चौंतीस वर्ष के राजस्थान कप्तान दीपक चाहर राजस्थान के साथ सफेद गेंद की ट्रॉफियां जीतना चाहते हैं। वह कुछ और साल खेलना चाहते हैं।",
+      "en": "Thirty-four year old Rajasthan captain Deepak Chahar wants to win white-ball trophies with Rajasthan. He wants to play for a few more years.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारत के खिलाफ पांचवें एकदिवसीय मैच में बल्लेबाजी करते समय दाहिना हाथ फ्रैक्चर होने के कारण सैंटनर श्रृंखला से बाहर हो गए हैं।",
+      "en": "Santner has been ruled out of the series due to fracturing his right hand while batting in the fifth ODI against India.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "रिपोर्ट के अनुसार ट्रैविस हेड सन दो हज़ार सत्ताईस के इंडियन प्रीमियर लीग से चूक सकते हैं। इससे सलामी जोड़ी प्रभावित हो सकती है।",
+      "en": "According to reports, Travis Head is likely to miss the Indian Premier League in twenty twenty-seven. This could affect the opening pair.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे पृष्ठ को अवश्य फ़ॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 दीपक चाहर राजस्थान के साथ सफेद गेंद की ट्रॉफियां जीतना चाहते हैं और कुछ और साल खेलना चाहते हैं\n🏏 पांचवें एकदिवसीय मैच में दाहिना हाथ फ्रैक्चर होने के कारण सैंटनर श्रृंखला से बाहर हो गए हैं\n🏏 रिपोर्ट के अनुसार ट्रैविस हेड सन दो हज़ार सत्ताईस के इंडियन प्रीमियर लीग से चूक सकते हैं\nप्रतिदिन की खेल ख़बरों के लिए हमारे पृष्ठ को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Chahar wants to win white-ball trophies with Rajasthan",
+      "link": "https://www.thehindu.com/sport/cricket/chahar-wants-to-win-white-ball-trophies-with-rajasthan/article71712082.ece"
+    },
+    {
+      "title": "IND vs NZ Tests: Santner’s absence leaves leadership void, says Rachin Ravindra",
+      "link": "https://www.thehindu.com/sport/cricket/ind-vs-nz-tests-santners-absence-leaves-leadership-void-says-rachin-ravindra/article71711344.ece"
+    },
+    {
+      "title": "Travis Head likely to miss IPL 2027: Report",
+      "link": "https://www.thehindu.com/sport/cricket/travis-head-likely-to-miss-ipl-2027-report/article71711264.ece"
+    }
+  ]
+}
