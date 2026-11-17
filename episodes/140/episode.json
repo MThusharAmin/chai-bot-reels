@@ -1,0 +1,58 @@
+{
+  "number": 140,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "लक्ष्य ने कोच को जीत समर्पित की",
+  "title_en": "Lakshya dedicates win to coach",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "लक्ष्य रैचंदानी ने अंडर उन्नीस एशिया कप की खिताबी जीत अपने दिवंगत कोच को समर्पित की है। उन्होंने जो रूट और विराट कोहली की खेल शैली की प्रशंसा की है।",
+      "en": "Lakshya Raichandani dedicated the Under-19 Asia Cup title win to his late coach. He praised the playing styles of Joe Root and Virat Kohli.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इंडियन प्रीमियर लीग सत्र दो हज़ार सत्ताइस की प्रतिधारण समय सीमा समाप्त हो गई है। इसके तहत चार ट्रेड में छह फ्रेंचाइजी के बीच दस खिलाड़ियों की अदला-बदली हुई है।",
+      "en": "The retention deadline for Indian Premier League season 2027 has ended. Under this, ten players were traded among six franchises in four trades.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "पूर्व कप्तान महेंद्र सिंह धोनी ने इंडियन प्रीमियर लीग में खिलाड़ी के रूप में अपना करियर समाप्त कर दिया है। चेन्नई सुपर किंग्स ने उन्हें टीम का संरक्षक नियुक्त किया है।",
+      "en": "Former captain Mahendra Singh Dhoni has ended his playing career in the Indian Premier League. Chennai Super Kings has appointed him as the team mentor.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh sports news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏆 लक्ष्य रैचंदानी ने अंडर उन्नीस एशिया कप की जीत अपने दिवंगत कोच को समर्पित की\n🏏 इंडियन प्रीमियर लीग सत्र दो हज़ार सत्ताइस के लिए खिलाड़ियों की प्रतिधारण सूची जारी हुई\n🤝 महेंद्र सिंह धोनी ने खिलाड़ी के रूप में आईपीएल करियर समाप्त किया और सीएसके के संरक्षक बने\n✨ रोज़ाना ऐसी ही ताज़ा ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Lakshya dedicates u-19 Asia Cup win to his late coach",
+      "link": "https://www.thehindu.com/sport/cricket/lakshya-dedicates-u-19-asia-cup-win-to-his-late-coach/article71710459.ece"
+    },
+    {
+      "title": "IPL 2027 retention LIVE: Dhoni retires, teams announce lists of released and retained players as deadline ends",
+      "link": "https://www.thehindu.com/sport/cricket/ipl-2027-retention-live-updates-team-wise-full-list-of-retained-released-players-mi-csk-rcb-kkr-dc-pbks-srh-rr-gt-lsg/article71711351.ece"
+    },
+    {
+      "title": "Dhoni ends IPL playing career as CSK appoints him team mentor",
+      "link": "https://www.thehindu.com/sport/cricket/chennai-super-kings-ms-dhoni-team-mentor-retire-nov-17-2026/article71711142.ece"
+    }
+  ]
+}
