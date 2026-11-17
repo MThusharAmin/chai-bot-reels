@@ -1,0 +1,58 @@
+{
+  "number": 141,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की मुख्य खबरें",
+  "title_en": "Main tech and gadget news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "स्मार्ट सुविधाओं के कारण वायु शोधक उपकरणों की बिक्री में तेजी आई है। दिल्ली के अलावा मुंबई और अन्य शहरों में भी इसकी मांग बढ़ रही है।",
+      "en": "Sales of air purifiers have surged due to smart features. Demand is rising in Mumbai and other cities besides Delhi.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सन दो हज़ार छब्बीस की तीसरी तिमाही में सैमसंग ने भारतीय स्मार्टफोन बाजार का नेतृत्व किया। कुल शिपमेंट में गिरावट के बावजूद एप्पल चौथे स्थान पर रहा।",
+      "en": "Samsung led the Indian smartphone market in the third quarter of 2026. Apple remained at the fourth position despite a drop in total shipments.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अमेरिका के बड़े बैंकों में तकनीकी समस्या के कारण ऑनलाइन बैंकिंग में देरी हुई। बैंक ने स्पष्ट किया कि यह किसी साइबर हमले का परिणाम नहीं था।",
+      "en": "Online banking faced delays in major US banks due to a technical problem. The bank clarified that it was not the result of a cyber attack.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की खबरों के लिए हमारे चैनल को अवश्य फॉलो करें।",
+      "en": "Be sure to follow our channel for tomorrow's news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\nस्मार्ट सुविधाओं के कारण वायु शोधक उपकरणों की बिक्री बढ़ी है\nसैमसंग ने भारतीय स्मार्टफोन बाजार का नेतृत्व किया है\nअमेरिका के बड़े बैंकों में तकनीकी समस्या आई है\nकल की खबरों के लिए फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Air purifier sales surge as demand, smart features drive market growth",
+      "link": "https://www.thehindu.com/sci-tech/technology/air-purifier-sales-surge-as-demand-smart-features-drive-market-growth/article71710866.ece"
+    },
+    {
+      "title": "Samsung led India’s smartphone market during Q3 2026, overall shipments collapsed 23%",
+      "link": "https://www.thehindu.com/sci-tech/technology/samsung-led-indias-smartphone-market-during-q3-2026-overall-shipments-collapsed-23/article71710701.ece"
+    },
+    {
+      "title": "What to know about the online banking delays affecting major U.S. banks",
+      "link": "https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece"
+    }
+  ]
+}
