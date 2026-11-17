@@ -1,0 +1,58 @@
+{
+  "number": 139,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "आज की बड़ी मनोरंजन ख़बरें",
+  "title_en": "Today's Major Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़ास पेशकश में आपका स्वागत है। आज के मुख्य मनोरंजन समाचार सुनिए।",
+      "en": "Hello and welcome to Chai Bot's special bulletin. Listen to today's top entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेता रॉबर्ट पैटिनसन को सातवें जेम्स बॉन्ड के रूप में चुना गया है। वह इस प्रसिद्ध जासूसी किरदार में अभिनेता डैनियल क्रेग की जगह लेंगे।",
+      "en": "Actor Robert Pattinson has been chosen as the seventh James Bond. He will take over the iconic spy role from Daniel Craig.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "फ़िल्म रामायण ने बारह दिनों में दुनिया भर से कुल एक हज़ार तीन सौ चौरासी करोड़ रुपये कमा लिए हैं। भारत में इसका संग्रह सात सौ उनहत्तर करोड़ रुपये रहा।",
+      "en": "The film Ramayana Part One has grossed over one thousand three hundred eighty-four crore rupees worldwide in twelve days. Its net collection in India stood at seven hundred sixty-nine crore rupees.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "सन दो हज़ार सत्ताईस के ग्रैमी पुरस्कारों के नामांकनों की घोषणा हो गई है। अंग्रेज़ी गायिका और गीतकार रे इस सूची में सबसे आगे हैं।",
+      "en": "Nominations for the 2027 Grammy Awards have been announced. English singer-songwriter Raye leads the list.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "आज की मनोरंजन ख़बरों में इतना ही, ताज़ा जानकारियों के लिए हमसे जुड़े रहें।",
+      "en": "That is all for today's entertainment news, stay tuned with us for latest updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 अभिनेता रॉबर्ट पैटिनसन को सातवें जेम्स बॉन्ड के रूप में चुना गया है।\n💰 फ़िल्म रामायण के पहले भाग ने बारह दिनों में शानदार बॉक्स ऑफ़िस कमाई दर्ज की है।\n🎶 वर्ष दो हज़ार सत्ताईस के ग्रैमी पुरस्कारों के नामांकनों में गायिका रे सबसे आगे रहीं।\n\nप्रतिदिन की ताज़ा ख़बरों के लिए इस पेज को ज़रूर फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Robert Pattinson named 7th James Bond: Here are the 007 actors who came before him",
+      "link": "https://www.thehindu.com/entertainment/movies/robert-pattinson-007-actor-james-bond-mgm-studios-full-list-of-actors-who-portrayed-james-bond-before/article71710483.ece"
+    },
+    {
+      "title": "‘Ramayana: Part 1’: Decoding the film’s massive budget and box-office performance",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-box-office-ramayana-part-1-yash-ranbir-kapoor-ramayana-sita-ramayana-budget-namit-malhotra/article71707320.ece"
+    },
+    {
+      "title": "Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more",
+      "link": "https://www.thehindu.com/entertainment/music/raye-leads-2027-grammy-nominations-followed-by-rosalia-ella-langley-olivia-rodrigo-and-more/article71709052.ece"
+    }
+  ]
+}
