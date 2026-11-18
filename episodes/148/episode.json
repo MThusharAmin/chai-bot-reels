@@ -1,0 +1,58 @@
+{
+  "number": 148,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की नई घोषणाएं",
+  "title_en": "New Announcements in Entertainment World",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "थ्री बॉडी प्रॉब्लम सीजन दो का टीज़र सामने आ गया है। इस श्रंखला में मानव जाति बढ़ती हुई बाहरी अंतरिक्ष की चुनौतियों का सामना करेगी।",
+      "en": "The teaser of Three Body Problem Season 2 is out. In this series, humanity will face escalating outer space challenges.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नवाजुद्दीन सिद्दीकी और दिया मिर्जा डॉक्टर हसन नामक धारावाहिक में नजर आएंगे। यह श्रंखला हाउस एम डी का रूपांतरण है जिसका निर्देशन रोहन सिप्पी कर रहे हैं।",
+      "en": "Nawazuddin Siddiqui and Dia Mirza will appear in a series named Dr. Hassan. This series is an adaptation of House MD directed by Rohan Sippy.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अली फजल ई एम फोस्टर के उपन्यास अ पैसेज टू इंडिया पर आधारित श्रंखला में मुख्य भूमिका निभाएंगे। इसे पांच भागों में बनाया जा रहा है और इसका निर्देशन रिची मेहता कर रहे हैं।",
+      "en": "Ali Fazal will play the lead role in a series based on E.M. Forster's novel A Passage to India. It is being made in five parts and directed by Richie Mehta.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ जुड़े रहिए। धन्यवाद।",
+      "en": "Stay connected with us for tomorrow's latest news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\nनमस्कार, आज की मनोरंजन जगत की मुख्य बातें इस प्रकार हैं।\nथ्री बॉडी प्रॉब्लम सीजन दो का टीज़र जारी हुआ जिसमें मानव जाति अंतरिक्ष की चुनौतियों से लड़ेगी।\nनवाजुद्दीन सिद्दीकी और दिया मिर्जा हाउस एम डी के रूपांतरण डॉक्टर हसन में अभिनय करेंगे।\nअली फजल ई एम फोस्टर के उपन्यास अ पैसेज टू इंडिया के नए रूपांतरण में मुख्य भूमिका निभाएंगे।\nऐसी ही रोज की खबरों के लिए हमें फॉलो करना न भूलें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘3 Body Problem Season 2’ teaser: Humans fight escalating alien threats",
+      "link": "https://www.thehindu.com/entertainment/movies/3-body-problem-season-2-teaser-netflix-david-benioff-db-weiss-alexaner-woo-3-body-problem-season-2-premiere/article71715245.ece"
+    },
+    {
+      "title": "‘Dr. Hassan’: Nawazuddin Siddiqui and Dia Mirza to star in ‘House MD’ adaptation",
+      "link": "https://www.thehindu.com/entertainment/movies/dr-hassan-nawazuddin-siddiqui-and-dia-mirza-to-star-in-house-md-adaptation/article71715560.ece"
+    },
+    {
+      "title": "Ali Fazal to headline BBC-CBC adaptation of E.M. Forster’s ‘A Passage to India’",
+      "link": "https://www.thehindu.com/entertainment/movies/ali-fazal-em-forster-a-passage-to-india-bbc-cbc-adaptation-richie-mehta-emmy-award-winning-director/article71715058.ece"
+    }
+  ]
+}
