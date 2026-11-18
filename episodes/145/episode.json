@@ -1,0 +1,58 @@
+{
+  "number": 145,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक जगत की आज की मुख्य ख़बरें",
+  "title_en": "Today's Top Tech News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़ास पेशकश में आपका स्वागत है। आज की तकनीक से जुड़ी ख़बरें सुनिए।",
+      "en": "Hello and welcome to Chai Bot's special bulletin. Listen to today's tech news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक नया टू-डी रिदम प्लैटफ़ॉर्मर वीडियो गेम पेश हुआ है। यह गेम भारत की विविधताओं को समर्पित है।",
+      "en": "A new 2D rhythm platformer video game has arrived. This game is an ode to India's diversity.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कंप्यूटर की दुनिया में लाइनशाइन शीर्ष पर बना हुआ है। इसे कंप्यूटरों का डिफेंडिंग चैंपियन बताया गया है।",
+      "en": "LineShine remains at the top in the computer world. It has been described as the defending champion of computers.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "माइक्रोसॉफ्ट आउटलुक की सेवा बाधित होने का मामला सामने आया है। इसने डिजिटल प्रणालियों के केंद्रीकरण के ख़तरों को उजागर किया है।",
+      "en": "Microsoft Outlook faced a service outage. It highlighted the risks of centralising digital systems.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "तकनीक की दुनिया की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें। कल फिर मिलेंगे, धन्यवाद।",
+      "en": "Follow us for the latest news from the tech world. See you tomorrow, thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n🎮 भारत की विविधताओं को समर्पित एक नया टू-डी रिदम प्लैटफ़ॉर्मर वीडियो गेम पेश हुआ है।\n💻 कंप्यूटर जगत में लाइनशाइन ने अपनी शीर्ष स्थिति सफलतापूर्वक बनाए रखी है।\n🌐 आउटलुक सेवा बाधित होने से डिजिटल प्रणालियों के केंद्रीकरण की चुनौतियाँ सामने आई हैं।\nतकनीक की दुनिया की हर ताज़ा ख़बर जानने के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "This 2D rhythm platformer video game is an ode to India’s multiplicities",
+      "link": "https://www.thehindu.com/life-and-style/this-2d-rhythm-platformer-video-game-is-an-ode-to-indias-multiplicities/article71697393.ece"
+    },
+    {
+      "title": "LineShine: Computers’ defending champ",
+      "link": "https://www.thehindu.com/sci-tech/technology/lineshine-computers-defending-champ/article71712174.ece"
+    },
+    {
+      "title": "Outlook outage: On Microsoft and dangers of centralising digital systems",
+      "link": "https://www.thehindu.com/opinion/editorial/outlook-outage-the-hindu-editorial-on-microsoft-and-dangers-of-centralising-systems/article71708179.ece"
+    }
+  ]
+}
