@@ -1,0 +1,58 @@
+{
+  "number": 150,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "नई तकनीक और गैजेट्स की मुख्य खबरें",
+  "title_en": "Main news of new tech and gadgets",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "शाओमी अठारह प्रो और शाओमी अठारह प्रो मैक्स फोन लॉन्च किए गए हैं। इन नए फोन में पीछे की तरफ एक डिस्प्ले दिया गया है।",
+      "en": "Xiaomi 18 Pro and Xiaomi 18 Pro Max phones have been launched. A display has been provided on the back in these new phones.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कैलिफोर्निया ने ओपनएआई पर मुकदमा दायर किया है। यह कार्रवाई हगिंग फेस पर हुए साइबर हमले के बाद अदालत द्वारा बदलाव की मांग के लिए की गई है।",
+      "en": "California has sued OpenAI. This action has been taken to seek court-ordered changes after the cyber attack on Hugging Face.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में सेवा ठप होने की समस्याओं का समाधान कैसे किया जाता है। क्या भारतीय कानून के तहत रिपोर्ट करना अनिवार्य है।",
+      "en": "How are service outage issues addressed in India. Is it mandatory to report under Indian law.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ जुड़े रहें। चाय का आनंद लेते रहें।",
+      "en": "Stay connected with us for tomorrow's fresh news. Keep enjoying tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\nशाओमी अठारह प्रो और शाओमी अठारह प्रो मैक्स फोन लॉन्च हुए\nकैलिफोर्निया ने ओपनएआई पर मुकदमा दायर किया\nभारत में सेवा ठप होने की समस्याओं पर चर्चा\nकल की खबरों के लिए फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Xiaomi 18 Pro and Xiaomi 18 Pro Max launched with a back display",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-18-pro-and-xiaomi-18-pro-max-launched-with-a-back-display/article71715318.ece"
+    },
+    {
+      "title": "California sues OpenAI, seeking court-ordered changes after the Hugging Face hack",
+      "link": "https://www.thehindu.com/sci-tech/technology/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/article71710460.ece"
+    },
+    {
+      "title": "How does India address service outages?",
+      "link": "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
+    }
+  ]
+}

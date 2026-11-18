@@ -1513,5 +1513,16 @@
       "https://www.thehindu.com/sport/abhimanyu-leads-bengal-to-second-straight-win/article71716806.ece",
       "https://www.thehindu.com/sport/cricket/nishants-all-round-show-milestone-man-chahals-mastery-propel-haryana-to-a-facile-win-over-tn/article71716963.ece"
     ]
+  },
+  {
+    "number": 150,
+    "format": "news",
+    "category": "tech",
+    "title": "नई तकनीक और गैजेट्स की मुख्य खबरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/xiaomi-18-pro-and-xiaomi-18-pro-max-launched-with-a-back-display/article71715318.ece",
+      "https://www.thehindu.com/sci-tech/technology/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/article71710460.ece",
+      "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
+    ]
   }
 ]
