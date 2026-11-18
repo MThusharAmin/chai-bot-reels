@@ -1,0 +1,58 @@
+{
+  "number": 147,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अच्छी और अनोखी ख़बरें",
+  "title_en": "Chai Bot good and unusual news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "प्रिंस विलियम ने अपनी भारत यात्रा के दौरान मुंबई में वड़ा पाव और पारसी कीमा का स्वाद लिया। उनके लिए यह खास मेनू शेफ आनंद मोरवानी ने तैयार किया था।",
+      "en": "Prince William tasted vada pav and Parsi kheema in Mumbai during his India visit. This special menu was curated for him by chef Anand Morwani.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वुडपेकर बुक्स ने बच्चों के लिए एक नई सामाजिक और भावनात्मक सीखने की श्रृंखला लॉन्च की है। इस सेट में छह किताबें शामिल हैं जो बच्चों के लिए बहुत उपयोगी हैं।",
+      "en": "Woodpecker Books has launched a new social and emotional learning series for children. This set includes six books which are very useful for children.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सलोनी दोषी ने कहा है कि कला का संग्रह करना एक अकेली यात्रा है। स्पेस एक सौ अठारह में आयोजित इस कला प्रदर्शनी को जयवीर जोहल ने क्यूरेट किया है।",
+      "en": "Saloni Doshi has said that collecting art is a lonely journey. This art exhibition held at Space 118 was curated by Jaiveer Johal.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रोज़ाना ऐसी ही ताज़ा और अच्छी ख़बरें पाने के लिए हमें फ़ॉलो करना न भूलें।",
+      "en": "Do not forget to follow us to get fresh and good news like this daily.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ प्रिंस विलियम ने मुंबई में वड़ा पाव और पारसी कीमा का लिया स्वाद\n📚 वुडपेकर बुक्स ने बच्चों के लिए नई शिक्षा श्रृंखला की लॉन्च\n🎨 सलोनी दोषी की कला प्रदर्शनी स्पेस एक सौ अठारह में आयोजित\nरोज़ाना ऐसी ही अच्छी और अनोखी ख़बरें पाने के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Prince William gets a taste of Mumbai with vada pav and Parsi kheema",
+      "link": "https://www.thehindu.com/entertainment/prince-william-gets-a-taste-of-mumbai-with-vada-pav-and-parsi-kheema/article71715886.ece"
+    },
+    {
+      "title": "Woodpecker Books launches new Social-Emotional Learning series",
+      "link": "https://www.thehindu.com/books/woodpecker-books-launches-new-social-emotional-learning-series/article71710358.ece"
+    },
+    {
+      "title": "‘In Quiet Measure’ | Collecting is a lonely journey, says Saloni Doshi",
+      "link": "https://www.thehindu.com/entertainment/art/in-quiet-measure-art-collector-saloni-doshi-figurative-art-jaiveer-johal-space-118/article71709326.ece"
+    }
+  ]
+}
