@@ -1,0 +1,48 @@
+{
+  "number": 149,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "सैयद मुश्ताक अली ट्रॉफी में शानदार मुकाबले",
+  "title_en": "Exciting matches in Syed Mushtaq Ali Trophy",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक अली प्रतियोगिता में अभिमन्यु के नेतृत्व में बंगाल ने लगातार दूसरी जीत हासिल की। कर्नाटक ने उत्तर प्रदेश को करारी शिकस्त दी।",
+      "en": "In the Syed Mushtaq Ali tournament, Bengal led by Abhimanyu secured their second consecutive win. Karnataka thrashed Uttar Pradesh.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "हरियाणा ने तमिलनाडु के खिलाफ आसान जीत दर्ज की। इस मुकाबले में निशांत के चौतरफा प्रदर्शन और चहल की फिरकी का जादू देखने को मिला।",
+      "en": "Haryana registered an easy win against Tamil Nadu. Nishant's all-round show and Chahal's mastery were seen in this match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चाय की चुस्की के साथ रोज़ ऐसी ताज़ा खेल ख़बरें पाने के लिए हमें फ़ॉलो करें।",
+      "en": "Follow us to get such fresh sports news daily with a sip of tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🔹 सैयद मुश्ताक अली प्रतियोगिता में अभिमन्यु के नेतृत्व में बंगाल ने लगातार दूसरी जीत हासिल की।\n🔹 हरियाणा ने तमिलनाडु के खिलाफ आसान जीत दर्ज की।\nरोज़ की ताज़ा ख़बरों के लिए फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "SMAT: Abhimanyu leads Bengal to second straight win; Karnataka thrashes UP",
+      "link": "https://www.thehindu.com/sport/abhimanyu-leads-bengal-to-second-straight-win/article71716806.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: Nishant’s all-round show, milestone-man Chahal’s mastery propel Haryana to a facile win over TN",
+      "link": "https://www.thehindu.com/sport/cricket/nishants-all-round-show-milestone-man-chahals-mastery-propel-haryana-to-a-facile-win-over-tn/article71716963.ece"
+    }
+  ]
+}
