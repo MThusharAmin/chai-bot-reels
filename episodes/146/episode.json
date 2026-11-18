@@ -1,0 +1,58 @@
+{
+  "number": 146,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "दुनिया के सबसे शक्तिशाली सुपरकंप्यूटरों की सूची में चीन का लाइनशाइन पहले स्थान पर बना हुआ है। इस सूची में शक्ति क्लाउड पैंतीसवें स्थान पर है।",
+      "en": "China's LineShine remains in the top spot on the list of world's most powerful supercomputers. Shakti Cloud is at number thirty-five on this list.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नासा का वायेजर एक अंतरिक्ष यान पृथ्वी से एक प्रकाश दिन की दूरी पर पहुँचने वाला है। यह मानव निर्मित सबसे दूर का अंतरिक्ष यान है।",
+      "en": "NASA's Voyager 1 spacecraft is about to reach a distance of one light-day from Earth. This is the farthest human-made spacecraft.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "तीन अंतरिक्ष कंपनियों को भारतीय शहरों के लिए उच्च रिज़ॉल्यूशन त्रिआयामी पुनर्निर्माण तकनीक विकसित करने के वास्ते चुना गया है। इसके तहत बेंगलुरु और शिमला शहरों को शामिल किया जाएगा।",
+      "en": "Three space companies have been selected to develop high-resolution 3D reconstruction techniques for Indian cities. This will cover the cities of Bengaluru and Shimla.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पन्ने को अवश्य फॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🖥️ दुनिया के सबसे शक्तिशाली सुपरकंप्यूटरों की सूची में चीन का लाइनशाइन पहले स्थान पर है और शक्ति क्लाउड पैंतीसवें स्थान पर है।\n🚀 नासा का वायेजर एक अंतरिक्ष यान पृथ्वी से एक प्रकाश दिन की दूरी पर पहुँचने वाला है।\n🏙️ तीन अंतरिक्ष कंपनियों को बेंगलुरु और शिमला के लिए त्रिआयामी पुनर्निर्माण तकनीक विकसित करने के वास्ते चुना गया है।\nदैनिक ख़बरों के लिए फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "China’s LineShine retains top spot on list of world’s most powerful supercomputers",
+      "link": "https://www.thehindu.com/sci-tech/science/lineshine-computers-defending-champ/article71712174.ece"
+    },
+    {
+      "title": "NASA’s Voyager 1 reaches one light-day from Earth on November 18: What does it mean?",
+      "link": "https://www.thehindu.com/sci-tech/science/voyager-1-reaches-one-light-day-from-earth-on-november-18-what-it-means-nasa-latest-news/article71704297.ece"
+    },
+    {
+      "title": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
+      "link": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece"
+    }
+  ]
+}
