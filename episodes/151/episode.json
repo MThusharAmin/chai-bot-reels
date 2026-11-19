@@ -1,0 +1,58 @@
+{
+  "number": 151,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Major Science And Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "पंजाब विश्वविद्यालय ने अंतर्विषयक वैज्ञानिक अनुसंधान में अपनी वैश्विक स्थिति बेहतर की है। इस सूची में एक हजार से अधिक संस्थानों का मूल्यांकन किया गया।",
+      "en": "Panjab University has improved its global standing in interdisciplinary scientific research. Over one thousand institutions were evaluated.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "गणितीय विज्ञान के लिए रिद्धिप्रतिम बसु को दो हज़ार छब्बीस का इंफोसिस पुरस्कार मिला है। वह यादृच्छिक घटनाओं को समझने के लिए गणित का उपयोग करते हैं।",
+      "en": "Riddhipratim Basu received the twenty twenty-six Infosys Prize for mathematical sciences. He uses mathematics to understand random events.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत अपने पहले मानव अंतरिक्ष मिशन की तैयारी कर रहा है। अंतरिक्ष यात्रियों के चयन से जैव अंतरिक्षन विज्ञान को बढ़ावा मिल रहा है।",
+      "en": "India is preparing for its first manned space mission. Crew selection gives impetus to bioastronautics.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पृष्ठ को अवश्य फॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's latest news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ पंजाब विश्वविद्यालय ने वैज्ञानिक अनुसंधान में अपनी वैश्विक स्थिति में सुधार किया है।\n🔬 रिद्धिप्रतिम बसु को गणितीय विज्ञान श्रेणी में इंफोसिस पुरस्कार से सम्मानित किया गया है।\n🚀 भारत के पहले मानव अंतरिक्ष मिशन के लिए अंतरिक्ष यात्रियों का चयन किया गया है।\n✨ प्रतिदिन ऐसी ही महत्वपूर्ण ख़बरों के लिए हमारे पृष्ठ को फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Panjab University improves its global standing in interdisciplinary scientific research",
+      "link": "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece"
+    },
+    {
+      "title": "Keep humans at centre of math as we adapt to AI: Infosys laureate",
+      "link": "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece"
+    },
+    {
+      "title": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
+      "link": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece"
+    }
+  ]
+}

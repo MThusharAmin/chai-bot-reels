@@ -1524,5 +1524,16 @@
       "https://www.thehindu.com/sci-tech/technology/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/article71710460.ece",
       "https://www.thehindu.com/sci-tech/technology/how-does-india-address-service-outages/article71707944.ece"
     ]
+  },
+  {
+    "number": 151,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+    "links": [
+      "https://www.thehindu.com/news/national/chandigarh/panjab-university-improves-its-global-standing-in-interdisciplinary-scientific-research/article71717519.ece",
+      "https://www.thehindu.com/sci-tech/science/riddhipratim-basu-infosys-prize-mathematics-artificial-intelligence-climate/article71715981.ece",
+      "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece"
+    ]
   }
 ]
