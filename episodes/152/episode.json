@@ -1,0 +1,58 @@
+{
+  "number": 152,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "संस्कृति और कला की अच्छी ख़बरें",
+  "title_en": "Good news on culture and art",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चेन्नई का दक्षिणचित्र संस्थान अपनी संस्कृति की रक्षा के तीस साल पूरे कर रहा है। इसके निदेशक ने संस्था की लंबी यात्रा और भविष्य की योजनाओं पर बात की है।",
+      "en": "DakshinaChitra in Chennai is celebrating thirty years of preserving culture. Its director discussed the journey and future plans.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "क्रिसमस के स्वागत के लिए एगमोर म्यूजियम थिएटर में एक नाटक का मंचन किया जाएगा। मेललो सर्कल नाम की संस्था इस संगीत नाटक के जरिए उत्सव की शुरुआत करेगी।",
+      "en": "A play will be staged at the Egmore Museum Theatre to welcome Christmas. Mellow Circle will kickstart the festive season.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "भारती से लेकर ग्रैमी तक देवान का वरूवाई गाना चर्चा में है। यह ग्रैमी में नामांकित होने वाला पहला तमिल गाना बन गया है।",
+      "en": "From Bharati to the Grammys, Devan's Varuvaaiy is in discussion. It has become the first Tamil song to earn a Grammy nomination.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करना न भूलें। धन्यवाद।",
+      "en": "Do not forget to follow our page for tomorrow's fresh news. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ चेन्नई का दक्षिणचित्र संस्थान अपनी संस्कृति की रक्षा के तीस साल पूरे कर रहा है\n🎄 क्रिसमस के स्वागत के लिए एगमोर म्यूजियम थिएटर में एक संगीत नाटक का मंचन किया जाएगा\n🎵 भारती से लेकर ग्रैमी तक देवान का वरूवाई पहला तमिल गाना बना जिसे ग्रैमी नामांकन मिला है\nरोज़ाना ऐसी ही अच्छी ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "DakshinaChitra in Chennai celebrates 30 years of preserving South India’s rich cultural heritage",
+      "link": "https://www.thehindu.com/entertainment/art/dakshinachitra-in-chennai-celebrates-30-years-of-preserving-south-indias-rich-cultural-heritage/article71707338.ece"
+    },
+    {
+      "title": "Egmore Museum Theatre to stage ‘Anna of Nazareth’, a musical to welcome Christmas",
+      "link": "https://www.thehindu.com/news/cities/chennai/egmore-museum-theatre-to-stage-anna-of-nazareth-a-musical-to-welcome-christmas/article71711681.ece"
+    },
+    {
+      "title": "From Bharati to the Grammys: Inside Devan’s ‘Varuvaaiy’, the first Tamil song to earn a Grammy nomination",
+      "link": "https://www.thehindu.com/entertainment/music/from-bharati-to-the-grammys-inside-devans-varuvaaiy-the-first-tamil-song-to-earn-a-grammy-nomination/article71711002.ece"
+    }
+  ]
+}
