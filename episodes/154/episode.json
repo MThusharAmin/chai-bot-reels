@@ -1,0 +1,58 @@
+{
+  "number": 154,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज की प्रमुख खेल ख़बरें",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के समाचार बुलेटिन में आपका स्वागत है। आइए आज की प्रमुख खेल ख़बरें सुनते हैं।",
+      "en": "Hello, welcome to Chai Bot's news bulletin. Let us listen to today's top sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वेलिंगटन टेस्ट के पहले दिन न्यूज़ीलैंड के हेनरी निकोल्स ने नाबाद एक सौ तेरह रन बनाए। उनकी इस पारी ने मेज़बान टीम को सहारा दिया।",
+      "en": "On the opening day of the Wellington Test, New Zealand's Henry Nicholls scored an unbeaten 113 runs. His innings gave stability to the home side.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "क्रिकेट खिलाड़ी निशांत सिंधु ने महेंद्र सिंह धोनी की सलाह साझा की। धोनी ने उन्हें अपने पहले सत्र के बाद फ़िटनेस पर ज़्यादा ध्यान देने के लिए कहा था।",
+      "en": "Cricketer Nishant Sindhu shared advice from M.S. Dhoni. Dhoni had told him to focus more on fitness after his first season.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "राजस्थान रॉयल्स ने उन्नीस खिलाड़ियों को बरकरार रखा है और नौ को बाहर किया है। नीलामी के लिए टीम के पास सत्ताईस दशमलव शून्य पाँच करोड़ रुपये उपलब्ध हैं।",
+      "en": "Rajasthan Royals has retained nineteen players and released nine. The team has 27.05 crore rupees available for the auction.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल के ताज़ा समाचारों के लिए हमसे जुड़े रहिए। हर रोज़ की प्रमुख ख़बरों के लिए हमें फ़ॉलो ज़रूर कीजिए।",
+      "en": "Stay tuned for tomorrow's fresh news. Do follow us for daily top stories.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 हेनरी निकोल्स ने वेलिंगटन टेस्ट के पहले दिन नाबाद 113 रन बनाकर टीम को संभाला।\n🏏 निशांत सिंधु ने बताया कि पहले सत्र के बाद महेंद्र सिंह धोनी ने उन्हें फ़िटनेस पर ध्यान देने की सलाह दी थी।\n🏏 राजस्थान रॉयल्स ने 19 खिलाड़ियों को बरकरार रखा और नीलामी के लिए 27.05 करोड़ रुपये शेष रखे।\nदैनिक खेल समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Henry Nicholls continues to sparkle at his happy hunting ground",
+      "link": "https://www.thehindu.com/sport/cricket/henry-nicholls-continues-to-sparkle-at-his-happy-hunting-ground/article71720739.ece"
+    },
+    {
+      "title": "Dhoni told me to focus more on fitness after my first season, says Nishant Sindhu",
+      "link": "https://www.thehindu.com/sport/cricket/haryana-all-rounder-nishant-sindhu-on-ms-dhoni/article71719027.ece"
+    },
+    {
+      "title": "Rajasthan Royals retains 19 players, releases nine; ₹27.05 crore available for IPL 2027 auction",
+      "link": "https://www.thehindu.com/sport/cricket/rajasthan-royals-retained-players-released-full-list-ipl-auction/article71715610.ece"
+    }
+  ]
+}
