@@ -1,0 +1,58 @@
+{
+  "number": 153,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा और मुख्य ख़बरें",
+  "title_en": "Fresh and main news of the entertainment world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सूरज बड़जात्या की नई फ़िल्म ये प्रेम मोल लिया का ट्रेलर जारी हो गया है। इस फ़िल्म में आयुष्मान खुराना और शर्वरी वाघ मुख्य भूमिकाओं में हैं।",
+      "en": "The trailer of Sooraj Barjatya's new film Yeh Prem Mol Liya has been released. This film stars Ayushmann Khurrana and Sharvari Wagh in the lead roles.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "वैश्विक पत्रिका ने अपनी टाइम सौ नेक्स्ट इंडिया सूची की घोषणा की है। इस सूची में आलिया भट्ट, आर्यन खान, पायल कपाड़िया और थेजा रियो को स्थान मिला है।",
+      "en": "Global magazine has announced its TIME100 Next India list. Alia Bhatt, Aryan Khan, Payal Kapadia and Theja Rio have secured a place in this list.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "फ़िल्म निर्माता भारतबाला और ए आर रहमान एक बार फिर साथ आ रहे हैं। दोनों पिता और पुत्री के रिश्ते पर आधारित ड्रामा फ़िल्म बनारस के लिए पुनः एकजुट हुए हैं।",
+      "en": "Filmmaker Bharatbala and A.R. Rahman are coming together once again. Both have reunited for the drama film Banaras based on the relationship between father and daughter.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे साथ बने रहिए। धन्यवाद।",
+      "en": "Stay tuned with us for tomorrow's new news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 सूरज बड़जात्या की फ़िल्म ये प्रेम मोल लिया का ट्रेलर आया सामने\n🌟 आलिया भट्ट और आर्यन खान टाइम सौ नेक्स्ट इंडिया सूची में शामिल\n🎵 फ़िल्म निर्माता भारतबाला और ए आर रहमान फ़िल्म बनारस के लिए हुए एकजुट\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Yeh Prem Mol Liya’ trailer: Ayushmann Khurrana and Sharvari Wagh tackle family dynamics in Sooraj Barjatya’s film",
+      "link": "https://www.thehindu.com/entertainment/movies/yeh-prem-mol-liya-trailer-ayushmann-khurrana-and-sharvari-wagh-tackle-family-dynamics-in-sooraj-barjatyas-film/article71719590.ece"
+    },
+    {
+      "title": "Alia Bhatt, Aryan Khan, Theja Rio, Payal Kapadia feature in TIME100 Next India list",
+      "link": "https://www.thehindu.com/entertainment/movies/alia-bhatt-aryan-khan-theja-rio-payal-kapadia-feature-in-time100-next-india-list/article71719532.ece"
+    },
+    {
+      "title": "Filmmaker Bharatbala reunites with AR Rahman for father-daughter drama ‘Banaras’",
+      "link": "https://www.thehindu.com/entertainment/movies/filmmaker-bharatbala-reunites-with-ar-rahman-for-father-daughter-drama-banaras/article71718798.ece"
+    }
+  ]
+}
