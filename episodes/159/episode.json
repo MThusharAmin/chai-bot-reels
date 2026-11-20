@@ -1,0 +1,58 @@
+{
+  "number": 159,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "पाकिस्तान की शानदार जीत और घरेलू क्रिकेट के मुकाबले",
+  "title_en": "Pakistan impressive win and domestic cricket matches",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "पाकिस्तान ने श्रीलंका के खिलाफ दूसरा टेस्ट मैच आठ विकेट से जीत लिया है। इसी के साथ टीम ने दो साल में अपनी पहली श्रृंखला अपने नाम कर ली है।",
+      "en": "Pakistan has won the second Test match against Sri Lanka by eight wickets. With this, the team has claimed its first series win in two years.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक अली ट्रॉफी में झारखंड ने कर्नाटक को हरा दिया है। विराट और अनुकूल की शानदार साझेदारी ने टीम को शुरुआती झटकों से उबारा।",
+      "en": "In the Syed Mushtaq Ali Trophy, Jharkhand defeated Karnataka. The brilliant partnership between Virat and Anukul helped the team recover from early jolts.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एक अन्य मुकाबले में पंजाब ने रोमांचक अंदाज में जीत दर्ज की है। इस बीच सौराष्ट्र ने भी अपनी शानदार फॉर्म बरकरार रखी है।",
+      "en": "In another match, Punjab registered a thrilling victory. Meanwhile, Saurashtra has also maintained its impressive form.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करना न भूलें। आपकी चाय का कप तैयार है।",
+      "en": "Do not forget to follow us for tomorrow's fresh news. Your cup of tea is ready.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ पाकिस्तान ने श्रीलंका को हराकर दो साल में अपनी पहली टेस्ट श्रृंखला जीती\n🏏 सैयद मुश्ताक अली ट्रॉफी में झारखंड ने कर्नाटक को हराया\n🏆 पंजाब और सौराष्ट्र ने भी घरेलू मुकाबलों में शानदार प्रदर्शन किया\n✨ कल की खेल ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "PAK vs SL second Test: Pakistan romps to eight-wicket win; first series win in 2 years",
+      "link": "https://www.thehindu.com/sport/cricket/pakistan-vs-sri-lanka-second-test-in-rawalpindi/article71723424.ece"
+    },
+    {
+      "title": "SMAT: Virat-Anukul show takes Jharkhand home",
+      "link": "https://www.thehindu.com/sport/virat-anukul-show-takes-jharkhand-home/article71725695.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: Punjab snatches win from the jaws of defeat against TN",
+      "link": "https://www.thehindu.com/sport/cricket/syed-mushtaq-ali-trophy-punjab-snatches-win-from-the-jaws-of-defeat-against-tn/article71725628.ece"
+    }
+  ]
+}
