@@ -1,0 +1,58 @@
+{
+  "number": 160,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की मुख्य खबरें",
+  "title_en": "Main tech and gadget news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadget news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "त्योहारों के मौसम में भारत की स्मार्टफोन बिक्री में बाईस प्रतिशत की गिरावट दर्ज की गई। हालांकि औसत बिक्री मूल्य बढ़ने से बाजार का कुल मूल्य लगभग स्थिर रहा।",
+      "en": "India's smartphone sales recorded a twenty-two percent drop during the festive season. However, market value remained flat due to higher average selling prices.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कृत्रिम बुद्धिमत्ता कंपनी एंथ्रोपिक ने अपने आरंभिक सार्वजनिक निर्गम के माध्यम से इक्यासी अरब डॉलर जुटाए हैं। इस कंपनी के शेयरों की ट्रेडिंग नैस्डैक पर शुरू होने जा रही है।",
+      "en": "Artificial intelligence company Anthropic raised eighty-one billion dollars through its initial public offering. Trading of its shares is scheduled to begin on Nasdaq.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ग्रैंड थेफ्ट ऑटो सिक्स ने रिकॉर्ड एक अरब दस करोड़ डॉलर का अग्रिम बुकिंग राजस्व प्राप्त किया है। यह खेल साल के अंत तक डिजिटल जुड़ाव पर हावी रहने के लिए तैयार है।",
+      "en": "Grand Theft Auto Six achieved a record one billion one hundred million dollars in pre-order revenue. The game is set to dominate digital engagement through year end.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की खबरों के लिए हमारे साथ जुड़े रहें। चाय का आनंद लेते रहें और सुरक्षित रहें।",
+      "en": "Stay connected with us for tomorrow's news. Keep enjoying your tea and stay safe.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\nत्योहारों के मौसम में भारत की स्मार्टफोन बिक्री में बाईस प्रतिशत की गिरावट आई।\nकृत्रिम बुद्धिमत्ता कंपनी एंथ्रोपिक ने अपने सार्वजनिक निर्गम से इक्यासी अरब डॉलर जुटाए।\nग्रैंड थेफ्ट ऑटो सिक्स ने रिकॉर्ड एक अरब दस करोड़ डॉलर का अग्रिम बुकिंग राजस्व हासिल किया।\nकल की ताजा खबरों के लिए हमें फॉलो करना न भूलें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "India’s smartphone sale plunged 22% during festive season",
+      "link": "https://www.thehindu.com/sci-tech/technology/indias-smartphone-sale-plunged-22-during-festive-season/article71723721.ece"
+    },
+    {
+      "title": "Anthropic raises $81 billion in IPO amid AI market volatility",
+      "link": "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece"
+    },
+    {
+      "title": "GTA VI generates record $1.1 billion pre-order revenue",
+      "link": "https://www.thehindu.com/sci-tech/technology/gta-vi-generates-record-11-billion-pre-order-revenue/article71719831.ece"
+    }
+  ]
+}

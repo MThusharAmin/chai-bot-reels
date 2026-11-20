@@ -1623,5 +1623,16 @@
       "https://www.thehindu.com/sport/virat-anukul-show-takes-jharkhand-home/article71725695.ece",
       "https://www.thehindu.com/sport/cricket/syed-mushtaq-ali-trophy-punjab-snatches-win-from-the-jaws-of-defeat-against-tn/article71725628.ece"
     ]
+  },
+  {
+    "number": 160,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक और गैजेट्स की मुख्य खबरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/indias-smartphone-sale-plunged-22-during-festive-season/article71723721.ece",
+      "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
+      "https://www.thehindu.com/sci-tech/technology/gta-vi-generates-record-11-billion-pre-order-revenue/article71719831.ece"
+    ]
   }
 ]
