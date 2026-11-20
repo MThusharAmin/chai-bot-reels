@@ -1,0 +1,58 @@
+{
+  "number": 156,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Big Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "शोधकर्ताओं ने एक नया वीडियो गेम बनाया है। यह खेल आत्मकेंद्रित किशोरों को जानकारी समझने में मदद करेगा।",
+      "en": "Researchers have developed a new video game. This game will help autistic adolescents understand information.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अंतरिक्ष यान वोयाजर एक ने एक नया इतिहास बनाया है। यह मानव निर्मित पहला ऐसा यंत्र है जो एक प्रकाश दिन की दूरी पर पहुँच गया है।",
+      "en": "Spacecraft Voyager 1 has made new history. It is the first man-made device to reach a distance of one light day.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "संयुक्त राष्ट्र के सतत विकास लक्ष्यों के लिए विज्ञान और प्रौद्योगिकी समूह का पुनर्गठन किया गया है। यह निर्णय दो हजार तीस के एजेंडे को पूरा करने के प्रयासों के तहत लिया गया है।",
+      "en": "The science and technology group for the United Nations sustainable development goals has been rejigged. This decision has been taken under efforts to fulfill the twenty thirty agenda.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे पृष्ठ को अवश्य फ़ॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🎮 शोधकर्ताओं ने आत्मकेंद्रित किशोरों की मदद के लिए एक नया ऑनलाइन वीडियो गेम विकसित किया है।\n🚀 वोयाजर एक मानव निर्मित ऐसा पहला अंतरिक्ष यान बन गया है जो एक प्रकाश दिन की दूरी तय कर चुका है।\n🌐 सतत विकास लक्ष्यों को प्राप्त करने के लिए विज्ञान और प्रौद्योगिकी समूह का पुनर्गठन किया गया है।\nकल की ताज़ा ख़बरों के लिए हमारे पृष्ठ को फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "How do autistic people parse information? A video game can help say",
+      "link": "https://www.thehindu.com/sci-tech/science/how-do-autistic-people-parse-information-a-video-game-can-help-say/article71711501.ece"
+    },
+    {
+      "title": "Daily Quiz: On Voyager 1",
+      "link": "https://www.thehindu.com/sci-tech/science/daily-quiz-on-voyager-1/article71722882.ece"
+    },
+    {
+      "title": "UN Sustainable Development Goals group for science, technology rejigged",
+      "link": "https://www.thehindu.com/sci-tech/science/un-sustainable-development-goals-group-for-science-technology-rejigged/article71716677.ece"
+    }
+  ]
+}
