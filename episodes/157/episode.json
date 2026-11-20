@@ -1,0 +1,58 @@
+{
+  "number": 157,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और प्रेरणादायक ख़बरें",
+  "title_en": "Chai Bot Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत का सिंगल माल्ट क्लब अपने सदस्यों के साथ व्हिस्की और जीवन पर चर्चा करता है। इस समुदाय में साढ़े सात हजार से अधिक सदस्य जुड़े हुए हैं।",
+      "en": "India's single malt club discusses whisky and life with its members. Over seven thousand five hundred members are connected to this community.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्रिंस विलियम ने अपने दौरे के दौरान एक भारतीय ब्रांड की नेहरु जैकेट पहनी। इस नोएड़ा आधारित ब्रांड को इस से विशेष पहचान मिली है।",
+      "en": "Prince William wore a Nehru jacket by an Indian brand during his tour. This Noida-based brand received special recognition from this.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "केरल का पहला मोटरस्पोर्ट्स और लाइफस्टाइल उत्सव मोटर समिट कोच्चि सन दो हज़ार छब्बीस के नवंबर महीने में आयोजित होगा। यह कार्यक्रम चकोला मिल में होगा।",
+      "en": "Keralam's first motorsports and lifestyle festival Moto Summit Kochi will be held in November of the year two thousand twenty-six. This event will take place at Chakola Mill.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की ख़बरें समाप्त हुईं। कल की ताज़ा ख़बरों के लिए हमसे जुड़े रहें।",
+      "en": "Today's news is finished. Stay connected with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ भारत के सिंगल माल्ट क्लब के सदस्य व्हिस्की और जीवन पर चर्चा करते हैं।\n🧥 प्रिंस विलियम ने अपने दौरे में भारतीय ब्रांड की नेहरु जैकेट पहनी।\n🏍️ केरल का पहला मोटरस्पोर्ट्स उत्सव मोटर समिट कोच्चि नवंबर में आयोजित होगा।\n✨ ऐसी ही दिलचस्प ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Inside SMAC: India’s single malt club of whisky nerds",
+      "link": "https://www.thehindu.com/food/features/inside-smac-indias-single-malt-club-of-whisky-nerds/article71724070.ece"
+    },
+    {
+      "title": "Prince William’s Nehru jacket spotlights Indian label Kardo during Earthshot tour",
+      "link": "https://www.thehindu.com/life-and-style/fashion/prince-williams-nehru-jacket-spotlights-indian-label-kardo-during-earthshot-tour/article71723445.ece"
+    },
+    {
+      "title": "The inaugural edition of the Moto Summit Kochi 2026 will take place on November 21 and 22",
+      "link": "https://www.thehindu.com/life-and-style/motoring/the-inaugural-edition-of-the-moto-summit-kochi-2026-will-take-place-on-november-21-and-22/article71692605.ece"
+    }
+  ]
+}
