@@ -1,0 +1,58 @@
+{
+  "number": 158,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास ख़बरें",
+  "title_en": "Special News from Entertainment World",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेत्री आलिया भट्ट ने अपनी पहली बच्चों की पुस्तक लिखी है। इस पुस्तक का नाम एडवेंचर्स ऑफ एड अ मम्मा है।",
+      "en": "Actress Alia Bhatt has written her first children's book. The name of this book is Adventures of Ed a Mamma.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "मलयालम अभिनेता ममूटी सात साल बाद तमिल सिनेमा में वापसी कर रहे हैं। वह धनुष के साथ फिल्म ओ एम में नजर आएंगे।",
+      "en": "Malayalam actor Mammootty is returning to Tamil cinema after seven years. He will be seen with Dhanush in the film O M.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रॉबर्ट पैटिंसन को अगली शून्य शून्य सात फिल्म के लिए चुना गया है। यह उनकी सिनेमैटिक विरासत को नया आकार देगा।",
+      "en": "Robert Pattinson has been chosen for the next double O seven film. This will reshape his cinematic legacy.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की चाय यहीं समाप्त होती है। कल की ताजा खबरों के लिए हमारे साथ बने रहें।",
+      "en": "Today's tea ends here. Stay with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 अभिनेत्री आलिया भट्ट ने बच्चों के लिए अपनी पहली पुस्तक लिखी है\n🎬 अभिनेता ममूटी सात साल बाद तमिल सिनेमा में लौट रहे हैं\n🎬 रॉबर्ट पैटिंसन को अगली शून्य शून्य सात फिल्म के लिए चुना गया है\nकल की खबरों के लिए हमें फॉलो करना न भूलें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘O.M Operation Mole’: Is Mammootty’s casting in the Dhanush-starrer justified?",
+      "link": "https://www.thehindu.com/entertainment/movies/om-operation-mole-mammootty-dhanush-sai-pallavi-rajkumar-periasamy-sai-abhyankkar/article71723402.ece"
+    },
+    {
+      "title": "Robert Pattinson: The new 007",
+      "link": "https://www.thehindu.com/entertainment/movies/robert-pattinson-the-new-007/article71723724.ece"
+    },
+    {
+      "title": "Alia Bhatt interview | On storytelling, motherhood and writing her first children’s book",
+      "link": "https://www.thehindu.com/entertainment/movies/alia-bhatt-interview-on-storytelling-motherhood-and-writing-her-first-childrens-book/article68303306.ece"
+    }
+  ]
+}
