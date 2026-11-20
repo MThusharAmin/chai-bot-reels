@@ -1,0 +1,58 @@
+{
+  "number": 155,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की मुख्य खबरें",
+  "title_en": "Main Tech and Gadgets News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की तकनीक और गैजेट्स खबरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "लावा ने भारतीय बाजार में स्मार्ट चार प्रो फोन पेश किया है। इस नए फोन में सात हजार मिलीएम्पीयर आवर की बैटरी और टाइप सी चार्जिंग दी गई है।",
+      "en": "Lava has launched the Smart Four Pro phone in the Indian market. This new phone features a seven thousand milliampere hour battery and type C charging.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एन्थ्रॉपिक कंपनी ने अपने शुरुआती सार्वजनिक निर्गम के तहत इक्यासी अरब डॉलर जुटाए हैं। कारोबार के पहले दिन कंपनी के शेयर सत्रह प्रतिशत ऊपर बंद हुए।",
+      "en": "Anthropic has raised eighty-one billion dollars in its initial public offering. On the first day of trading, the company's shares closed seventeen percent higher.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "बहुप्रतीक्षित वीडियो गेम ग्रैंड थेफ्ट ऑटो छः को वैश्विक स्तर पर जारी कर दिया गया है। खिलाड़ी इस खेल में लूसिया कामिनोस और जेसन डुवाल की कहानी का अनुभव कर रहे हैं।",
+      "en": "The highly anticipated video game Grand Theft Auto Six has been released globally. Players are experiencing the story of Lucia Caminos and Jason Duval in this game.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's latest news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n☕ लावा ने भारत में सात हजार मिलीएम्पीयर आवर बैटरी वाला नया स्मार्ट चार प्रो फोन पेश किया है।\n📈 एन्थ्रॉपिक कंपनी ने अपने शुरुआती सार्वजनिक निर्गम में इक्यासी अरब डॉलर जुटाए हैं और शेयर मजबूत रहे।\n🎮 बहुप्रतीक्षित वीडियो गेम ग्रैंड थेफ्ट ऑटो छः को वैश्विक स्तर पर जारी कर दिया गया है।\n✨ रोजाना नई खबरों के लिए हमें फॉलो करना न भूलें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Lava launches Smart 4 Pro 4G phone for offline buyers in India",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/lava-launches-smart-4-pro-4g-phone-for-offline-buyers-in-india/article71723467.ece"
+    },
+    {
+      "title": "Anthropic shares close 17% higher on first day of trading",
+      "link": "https://www.thehindu.com/business/markets/ai-firm-anthropic-shares-wall-streets-nasdaq-debut/article71721723.ece"
+    },
+    {
+      "title": "GTA VI: Gamers enter Vice City as most-awaited game is rolled out globally",
+      "link": "https://www.thehindu.com/entertainment/gta-vi-gamers-enter-vice-city-as-most-awaited-game-begins-globalrollout/article71719016.ece"
+    }
+  ]
+}
