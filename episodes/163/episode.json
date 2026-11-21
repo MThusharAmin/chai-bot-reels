@@ -1,0 +1,58 @@
+{
+  "number": 163,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की मुख्य बड़ी ख़बरें",
+  "title_en": "Main headlines from the entertainment world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ड्यून फ़िल्म के पहले और दूसरे भाग को सिनेमाघरों में फिर से रिलीज़ किया जाएगा। ड्यून का तीसरा भाग इसी वर्ष अठारह दिसंबर को सिनेमाघरों में रिलीज़ होगा।",
+      "en": "Part one and part two of the Dune film will be re-released in theatres. The third part of Dune will be released in theatres on December 18 this year.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "टेलर स्विफ़्ट को दादासाहेब फाल्के अंतर्राष्ट्रीय फ़िल्म महोत्सव में इंटरनेशनल आर्टिस्ट ऑफ़ द ईयर चुना गया है। इस पुरस्कार के अन्य प्राप्तकर्ताओं में माइकल बी जॉर्डन और जेम्स कैमरून जैसे नाम शामिल हैं।",
+      "en": "Taylor Swift has been named International Artist of the Year at the Dadasaheb Phalke International Film Festival. Other recipients of this award include names like Michael B Jordan and James Cameron.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "गोवा में सत्तावनवें भारतीय अंतर्राष्ट्रीय फ़िल्म महोत्सव की शुरुआत हो चुकी है। इस नौ दिवसीय महोत्सव में छियासी देशों की डेढ़ सौ से अधिक फ़िल्में दिखाई जा रही हैं।",
+      "en": "The 57th International Film Festival of India has begun in Goa. More than 150 films from 86 countries are being screened in this nine-day festival.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "Stay tuned with us for tomorrow's latest news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 ड्यून फ़िल्म के पहले और दूसरे भाग सिनेमाघरों में फिर से रिलीज़ होंगे।\n🏆 टेलर स्विफ़्ट को दादासाहेब फाल्के अंतर्राष्ट्रीय फ़िल्म महोत्सव में इंटरनेशनल आर्टिस्ट ऑफ़ द ईयर चुना गया।\n🎥 गोवा में सत्तावनवें भारतीय अंतर्राष्ट्रीय फ़िल्म महोत्सव की शुरुआत हुई।\nरोज़ाना ताज़ा ख़बरों के लिए फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Dune: Part One’ and ‘Dune: Part Two’ to re-release in theatres ahead of third instalment",
+      "link": "https://www.thehindu.com/entertainment/movies/dune-part-one-and-dune-part-two-to-re-release-in-theatres-ahead-of-third-instalment/article71727601.ece"
+    },
+    {
+      "title": "Taylor Swift named International Artist of the Year at Dadasaheb Phalke International Film Festival 2026",
+      "link": "https://www.thehindu.com/entertainment/movies/taylor-swift-named-international-artist-of-the-year-at-dadasaheb-phalke-international-film-festival-2026/article71727317.ece"
+    },
+    {
+      "title": "IFFI 2026 opens in Goa with ‘Stories without Borders’ theme; Ricky Kej leads musical tribute to world cinema",
+      "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-opens-in-goa-with-stories-without-borders-theme-ricky-kej-leads-musical-tribute-to-world-cinema/article71725990.ece"
+    }
+  ]
+}
