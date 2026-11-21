@@ -1,0 +1,58 @@
+{
+  "number": 166,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "अच्छी और अनोखी ख़बरें",
+  "title_en": "Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जर्मन डीजे एडम पोर्ट ने कोलकाता में अपना पहला प्रदर्शन किया। इस संगीत कार्यक्रम ने शहर के संगीत प्रेमियों को एक साथ ला दिया।",
+      "en": "German DJ Adam Port performed for the first time in Kolkata. This music event brought the city's music lovers together.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में दाल पकाने की सैकड़ों अनोखी परंपराएं मौजूद हैं। यह साधारण सामग्री विभिन्न संस्कृतियों और रसोईघरों की यात्रा करती है।",
+      "en": "There are hundreds of unique dal cooking traditions in India. This humble ingredient travels through different cultures and kitchens.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कर्नाटक के कूर्ग और चिकमगलूर में कॉफ़ी बागान पर्यटकों को आकर्षित कर रहे हैं। ये स्थान कॉफ़ी के पौधे से कप तक की यात्रा का अनुभव कराते हैं।",
+      "en": "Coffee plantations in Coorg and Chikmagalur of Karnataka are attracting tourists. These places offer the experience of the journey from coffee cherry to cup.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए। अपनी गरमा-गरम चाय का आनंद लीजिए।",
+      "en": "Stay connected with us for tomorrow's fresh news. Enjoy your hot tea.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ जर्मन डीजे एडम पोर्ट के कोलकाता में पहले प्रदर्शन ने संगीत प्रेमियों को जोड़ा\n🍲 भारत में दाल पकाने की सैकड़ों और विविध परंपराएं मौजूद हैं\n☕ कर्नाटक के कॉफ़ी बागानों में पर्यटकों के लिए विशेष अनुभव तैयार किए जा रहे हैं\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Adam Port in Kolkata: How Keinemusik’s Afro-house found its rhythm in the city",
+      "link": "https://www.thehindu.com/entertainment/music/adam-port-in-kolkata-how-keinemusiks-afro-house-found-its-rhythm-in-the-city/article71710562.ece"
+    },
+    {
+      "title": "One country, hundreds of dal recipes: exploring India’s diverse lentil traditions",
+      "link": "https://www.thehindu.com/society/india-nation-of-dals-diverse-lentil-traditions-recipes/article71480594.ece"
+    },
+    {
+      "title": "Karnataka’s coffee country: Inside its most immersive plantation stays",
+      "link": "https://www.thehindu.com/life-and-style/travel/karnatakas-coffee-country-inside-its-most-immersive-plantation-stays/article71574406.ece"
+    }
+  ]
+}
