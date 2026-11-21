@@ -1634,5 +1634,16 @@
       "https://www.thehindu.com/business/anthropic-raises-81-billion-in-ipo-amid-ai-market-volatility/article71721392.ece",
       "https://www.thehindu.com/sci-tech/technology/gta-vi-generates-record-11-billion-pre-order-revenue/article71719831.ece"
     ]
+  },
+  {
+    "number": 161,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और गणित जगत के बड़े समाचार",
+    "links": [
+      "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece",
+      "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece",
+      "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece"
+    ]
   }
 ]

@@ -1,0 +1,58 @@
+{
+  "number": 161,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और गणित जगत के बड़े समाचार",
+  "title_en": "Major News From Science And Mathematics",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़ास ख़बरों में आपका स्वागत है। आज विज्ञान और अंतरिक्ष जगत के मुख्य समाचार सुनिए।",
+      "en": "Hello and welcome to Chai Bot's special news. Listen to today's top stories from the world of science and space.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एंथ्रोपिक कंपनी के लेवेंट अल्पोगे और उनके कृत्रिम बुद्धिमत्ता मॉडल क्लॉड ने रीमैन परिकल्पना का समाधान खोजने का दावा किया है। यह अभाज्य संख्याओं से जुड़ी एक सौ साठ साल पुरानी पहेली है।",
+      "en": "Levent Alpoge of Anthropic and the AI model Claude have claimed to find a proof for the Riemann hypothesis. This is a problem concerning prime numbers that remained unsolved for over one hundred and sixty years.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "उसी दिन गणितज्ञ अलेसांद्रो मसूलो ने बिना किसी कृत्रिम बुद्धिमत्ता की मदद के इस परिकल्पना पर अपना शोध पत्र प्रस्तुत किया। उन्होंने कहा कि मानव गणितज्ञ अभी भी पूरी तरह सक्रिय हैं।",
+      "en": "On the same day, mathematician Alessandro Masullo presented his research paper on this hypothesis without any AI assistance. He stated that human mathematicians are still very much active.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में प्रोजेक्ट चीता के तहत जंगली बिल्लियों का पहला अंतरमहाद्वीपीय स्थानांतरण किया गया है। देश में इस महत्वाकांक्षी परियोजना की प्रगति की समीक्षा की गई है।",
+      "en": "Under Project Cheetah, the first intercontinental transfer of wild cats has taken place in India. The progress of this ambitious project in the country has been reviewed.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "विज्ञान और तकनीक की ताज़ा जानकारियों के लिए हमसे जुड़े रहें, कल फिर मिलेंगे।",
+      "en": "Stay connected with us for the latest science and technology updates, see you tomorrow.",
+      "face": "happy"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🤖 एंथ्रोपिक के शोधकर्ता और कृत्रिम बुद्धिमत्ता मॉडल क्लॉड ने गणित की प्रसिद्ध रीमैन परिकल्पना को हल करने की घोषणा की।\n📝 गणितज्ञ अलेसांद्रो मसूलो ने कृत्रिम बुद्धिमत्ता के बिना इसी समस्या पर अपना नया शोध पत्र जारी किया।\n🐆 भारत में जंगली बिल्लियों के पहले अंतरमहाद्वीपीय स्थानांतरण 'प्रोजेक्ट चीता' की प्रगति का विश्लेषण किया गया।\n\nरोज़ाना विज्ञान समाचार देखने के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "AI cracks math’s most famous problem. Have mathematicians lost a guiding light?",
+      "link": "https://www.thehindu.com/sci-tech/science/anthropic-scientist-claims-proof-of-maths-most-famous-problem-with-ai-help/article71727161.ece"
+    },
+    {
+      "title": "‘All human, no AI’ Riemann hypothesis proof out on same day as Claude’s claim",
+      "link": "https://www.thehindu.com/sci-tech/science/all-human-no-ai-riemann-hypothesis-proof-out-on-same-day-as-claudes-claim/article71727336.ece"
+    },
+    {
+      "title": "Watch | How has ‘Project Cheetah’ progressed in India?",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/how-has-project-cheetah-progressed-in-india/article66230373.ece"
+    }
+  ]
+}
