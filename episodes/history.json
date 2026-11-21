@@ -1678,5 +1678,16 @@
       "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-opening-test-match-day-3-updates/article71727104.ece",
       "https://www.thehindu.com/sport/cricket/smat-andhra-inflicts-first-defeat-on-madhya-pradesh/article71724927.ece"
     ]
+  },
+  {
+    "number": 165,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक और गैजेट्स की ताज़ा ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/gadgets/iphone-duo-a-definitive-foldable-that-aces-its-debut/article71727181.ece",
+      "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece",
+      "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece"
+    ]
   }
 ]

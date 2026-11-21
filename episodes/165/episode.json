@@ -1,0 +1,58 @@
+{
+  "number": 165,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की ताज़ा ख़बरें",
+  "title_en": "Latest Tech and Gadgets News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के समाचार बुलेटिन में आपका स्वागत है। आज की तकनीक और गैजेट्स से जुड़ी बड़ी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news bulletin. Listen to today's top tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल कंपनी ने अपना पहला मुड़ने वाला स्मार्टफोन आईफ़ोन डुओ पेश किया है। यह विशेष उपकरण छोटे टैबलेट की तरह काम करता है और आसानी से जेब में आ जाता है।",
+      "en": "Apple has introduced its first foldable smartphone, the iPhone Duo. This special device functions like a mini-tablet and easily fits in a pocket.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "गूगल ने नया कृत्रिम बुद्धिमत्ता मॉडल जेमिनी चार नियॉन प्रस्तुत किया है। इसे जटिल कोडिंग, विश्लेषणात्मक तर्क और व्यावसायिक कार्यों के लिए तैयार किया गया है।",
+      "en": "Google has launched a new artificial intelligence model, Gemini 4 Neon. It is designed for complex coding, analytical reasoning, and enterprise workflows.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "पुणे के एक नए उद्यम ने एक परमाणु घड़ी का प्रारूप विकसित किया है। यह तकनीक उपग्रह संचालन, दूरसंचार और अंतरिक्ष अभियानों के लिए अत्यंत आवश्यक मानी जाती है।",
+      "en": "A Pune startup has developed an atomic clock prototype. This technology is considered essential for satellite navigation, telecommunications, and space missions.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "आज के लिए इतना ही, तकनीक जगत की दैनिक ख़बरों के लिए हमसे जुड़े रहें। धन्यवाद।",
+      "en": "That is all for today, stay connected with us for daily technology news. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n📱 एप्पल ने अपना पहला फोल्डेबल स्मार्टफोन आईफ़ोन डुओ पेश किया।\n🤖 गूगल ने जटिल कोडिंग और व्यावसायिक कार्यों के लिए जेमिनी चार नियॉन जारी किया।\n⏰ पुणे के स्टार्टअप ने उपग्रह और अंतरिक्ष अभियानों के लिए परमाणु घड़ी का प्रारूप तैयार किया।\nदैनिक तकनीकी समाचारों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "iPhone Duo: A definitive foldable that aces its debut",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/iphone-duo-a-definitive-foldable-that-aces-its-debut/article71727181.ece"
+    },
+    {
+      "title": "Google launches Gemini 4 Neon taking on Claude Opus 5.5 and GPT-6.2 Sol",
+      "link": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-neon-taking-on-claude-opus-55-and-gpt-62-sol/article71727599.ece"
+    },
+    {
+      "title": "Pune startup develops atomic clock prototype amid growing export curbs on critical technologies",
+      "link": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece"
+    }
+  ]
+}
