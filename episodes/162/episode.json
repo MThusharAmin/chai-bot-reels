@@ -1,0 +1,58 @@
+{
+  "number": 162,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "कला और संस्कृति की विशेष ख़बरें",
+  "title_en": "Special news on art and culture",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "पारंपरिक बंगाली अल्पना कला अब आंगन से आगे निकल रही है। यह सुंदर कला रूप अब फर्नीचर और कपड़ों पर भी नया रूप ले रहा है।",
+      "en": "Traditional Bengali alpona art is moving beyond courtyards. This art form is taking on a new look on furniture and clothes.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में पालतू जानवरों के साथ यात्रा करने का चलन बढ़ रहा है। लोग अपने चार पैरों वाले साथियों के साथ सड़क और ट्रेन यात्राओं की यादें बना रहे हैं।",
+      "en": "Traveling with pets in India is growing. People are making travel memories on roads and trains with their four-legged companions.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "ऐतिहासिक अल्ची मठ प्राचीन बौद्ध कला का एक अनूठा केंद्र है। यहाँ हजार साल पुरानी दुर्लभ भित्ति चित्रकला मौजूद है।",
+      "en": "The historic Alchi monastery is a unique center of ancient Buddhist art. Rare one thousand-year-old murals are present here.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's new news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🎨 पारंपरिक बंगाली अल्पना कला अब फर्नीचर और कपड़ों पर भी सज रही है\n🐾 भारत में लोग अपने पालतू जानवरों के साथ यात्रा करने की यादें बना रहे हैं\n🏛️ ऐतिहासिक अल्ची मठ में एक हजार साल पुरानी दुर्लभ भित्ति कला मौजूद है\nरोज़ाना ऐसी ही अच्छी ख़बरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Alpona art: A traditional Bengali art form gets a modern makeover",
+      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/alpona-art-a-traditional-bengali-art-form-gets-a-modern-makeover/article71693271.ece"
+    },
+    {
+      "title": "Travelling with pets in India: Paws, planes and plenty of pit stops",
+      "link": "https://www.thehindu.com/life-and-style/travelling-with-pets-in-india-paws-planes-and-plenty-of-pit-stops/article71716539.ece"
+    },
+    {
+      "title": "Inside Alchi monastery: Where cultures converge in ancient Buddhist art",
+      "link": "https://www.thehindu.com/society/history-and-culture/inside-alchi-monastery-a-treasure-trove-of-buddhist-art/article71677842.ece"
+    }
+  ]
+}
