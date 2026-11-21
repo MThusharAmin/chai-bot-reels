@@ -1,0 +1,58 @@
+{
+  "number": 164,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "भारतीय क्रिकेट टीम का शानदार प्रदर्शन",
+  "title_en": "Impressive performance by Indian cricket team",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "के एल राहुल ने टेस्ट बैटिंग में अपने बदले हुए अंदाज़ को दिखाया। उनकी यह पारी बहुत खास रही।",
+      "en": "KL Rahul showed his transformed approach in Test batting. This innings was very special.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत ने टेस्ट मैच के तीसरे दिन चार विकेट पर चार सौ छियासी रन बनाए। टीम के पास बढ़त भी है।",
+      "en": "India scored 486 for 4 on day three of the Test match. The team also has a lead.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक अली ट्रॉफी में आंध्र ने मध्य प्रदेश को पहली हार दी। यह मुकाबला बहुत रोमांचक रहा।",
+      "en": "In the Syed Mushtaq Ali Trophy, Andhra inflicted the first defeat on Madhya Pradesh. This match was very exciting.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ बने रहिए। धन्यवाद।",
+      "en": "Stay tuned with us for tomorrow's fresh sports news. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\nके एल राहुल ने टेस्ट बैटिंग में अपने बदले हुए अंदाज़ को दिखाया। भारत ने टेस्ट मैच के तीसरे दिन चार विकेट पर चार सौ छियासी रन बनाए। सैयद मुश्ताक अली ट्रॉफी में आंध्र ने मध्य प्रदेश को पहली हार दी। रोज़ाना ताज़ा ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "IND vs NZ 1st Test: K.L. Rahul’s 136 reflects a transformed approach to Test batting",
+      "link": "https://www.thehindu.com/sport/cricket/ind-vs-nz-1st-test-kl-rahuls-136-reflects-a-transformed-approach-to-test-batting/article71727851.ece"
+    },
+    {
+      "title": "IND vs NZ, 1st Test: India end Day 3 on 486/4, lead by 118",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-opening-test-match-day-3-updates/article71727104.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: Andhra inflicts first defeat on Madhya Pradesh",
+      "link": "https://www.thehindu.com/sport/cricket/smat-andhra-inflicts-first-defeat-on-madhya-pradesh/article71724927.ece"
+    }
+  ]
+}
