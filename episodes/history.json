@@ -1732,5 +1732,16 @@
       "https://www.thehindu.com/entertainment/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports/article71727468.ece",
       "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece"
     ]
+  },
+  {
+    "number": 170,
+    "format": "news",
+    "category": "science",
+    "title": "विज्ञान और अनुसंधान की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece",
+      "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece",
+      "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece"
+    ]
   }
 ]

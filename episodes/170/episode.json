@@ -1,0 +1,58 @@
+{
+  "number": 170,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अनुसंधान की मुख्य ख़बरें",
+  "title_en": "Main News on Science and Research",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय विज्ञान संस्थानों को बेहतर अनुसंधान के लिए समय पर धन और अधिक स्वायत्तता की आवश्यकता है। प्रशासनिक बोझ को कम करना भी जरूरी है।",
+      "en": "Indian science institutions need timely funding and more autonomy for better research. Reducing administrative burden is also necessary.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "बंगाल की खाड़ी में तीन सप्ताह में तीन चक्रवात आए हैं। मानसून के बाद के महीनों में इस तरह की आवृत्ति असामान्य है लेकिन अद्वितीय नहीं है।",
+      "en": "Three cyclones have occurred in the Bay of Bengal in three weeks. Such frequency in post-monsoon months is uncommon but not unique.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कोशिका और आणविक जीव विज्ञान केंद्र के वैज्ञानिकों ने ऐसे जीनों की पहचान की है जो तंत्रिका मरम्मत को बढ़ावा देते हैं। इससे पक्षाघात के उपचार की संभावना बढ़ गई है।",
+      "en": "Scientists at the Centre for Cellular and Molecular Biology have identified genes that promote nerve repair. This increases the possibility of paralysis treatment.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चाय की चुस्की के साथ कल फिर मिलेंगे। कल की ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow with a sip of tea. Do not forget to follow our page for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ भारतीय विज्ञान संस्थानों को बेहतर अनुसंधान के लिए समय पर धन और अधिक स्वायत्तता की आवश्यकता है\n🌪️ बंगाल की खाड़ी में तीन सप्ताह में तीन चक्रवात आए हैं जो एक असामान्य स्थिति है\n🧬 कोशिका और आणविक जीव विज्ञान केंद्र ने तंत्रिका मरम्मत करने वाले जीनों की पहचान की है\n✨ कल की ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करना न भूलें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Indian science needs fewer borders",
+      "link": "https://www.thehindu.com/opinion/op-ed/indian-science-needs-fewer-borders/article71732225.ece"
+    },
+    {
+      "title": "Three cyclones in three weeks: What’s happening in the Bay of Bengal? | Explained",
+      "link": "https://www.thehindu.com/news/national/three-cyclones-in-three-weeks-whats-happening-in-the-bay-of-bengal-explained/article71721198.ece"
+    },
+    {
+      "title": "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/ccmb-team-identifies-genes-that-spur-nerve-repair/article71724538.ece"
+    }
+  ]
+}
