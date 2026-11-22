@@ -1,0 +1,58 @@
+{
+  "number": 167,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की प्रमुख ख़बरें",
+  "title_en": "Top Entertainment News Updates",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़ास पेशकश में आपका स्वागत है। आइए सुनते हैं आज के मुख्य मनोरंजन समाचार।",
+      "en": "Hello and welcome to Chai Bot's special bulletin. Let us hear today's top entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फ़िल्म कभी ख़ुशी कभी ग़म के पच्चीस वर्ष पूरे होने पर अभिनेत्री करीना कपूर ख़ान ने चर्चा की। इस अवसर पर रायचंद हाउस को एक नए अनुभव के रूप में पेश किया गया है।",
+      "en": "Actress Kareena Kapoor Khan spoke on the completion of twenty-five years of the film Kabhi Khushi Kabhie Gham. On this occasion, Raichand House has been recreated as an experience.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "पोलिश निर्माता ईवा पुश्चिन्स्का की फ़िल्म फ़ादरलैंड से बीस नवंबर को सत्तावनवें अंतर्राष्ट्रीय फ़िल्म महोत्सव की शुरुआत हुई। उनका कहना है कि फ़िल्में लोगों की सोच को बदल सकती हैं।",
+      "en": "The fifty-seventh International Film Festival opened on November twentieth with Polish producer Ewa Puszczynska's film Fatherland. She stated that cinema can open minds.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "तेलुगु फ़िल्म आकाशमलो ओका तारा में दुलकर सलमान और सात्विका वीरवल्ली नज़र आए हैं। निर्देशक पवन सादिनेनी की यह फ़िल्म बेटियों और उनके बड़े सपनों का उत्सव मनाती है।",
+      "en": "Dulquer Salmaan and Satvika Veeravalli star in the Telugu film Aaksamlo Oka Tara. Directed by Pavan Sadineni, the film celebrates the girl child and big dreams.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "सिनेमा की ऐसी ही दिलचस्प ख़बरों के लिए हमसे जुड़े रहें और हमें फ़ॉलो करना न भूलें।",
+      "en": "Stay connected with us for such interesting cinema news and do not forget to follow us.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 फ़िल्म 'कभी ख़ुशी कभी ग़म' के पच्चीस वर्ष पूरे होने पर करीना कपूर ख़ान ने फ़िल्म और रायचंद हाउस से जुड़े अनुभव साझा किए।\n🎥 बीस नवंबर को सत्तावनवें भारतीय अंतर्राष्ट्रीय फ़िल्म महोत्सव की शुरुआत पोलिश फ़िल्म 'फ़ादरलैंड' के साथ हुई।\n🌟 दुलकर सलमान और सात्विका वीरवल्ली अभिनीत नई तेलुगु फ़िल्म 'आकाशमलो ओका तारा' बालिकाओं के सपनों और उम्मीदों की कहानी पेश करती है।\nताज़ा और सटीक दैनिक समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Kareena Kapoor Khan on 25 years of ‘Kabhi Khushi Kabhie Gham’ and recreating Raichand House",
+      "link": "https://www.thehindu.com/entertainment/movies/kareena-kapoor-khan-on-25-years-of-kabhi-khushi-kabhie-gham-and-recreating-raichand-house-karan-johar/article71723293.ece"
+    },
+    {
+      "title": "IFFI 2026 | ‘Fatherland’ producer Ewa Puszczyńska: Films may not change the world overnight, but can open minds",
+      "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-fatherland-producer-ewa-puszczynska-films-may-not-change-the-world-overnight-but-can-open-minds/article71727907.ece"
+    },
+    {
+      "title": "‘Aaksamlo Oka Tara’ movie review: Dulquer Salmaan, Satvika Veeravalli shine in a Telugu film about hope",
+      "link": "https://www.thehindu.com/entertainment/movies/aaksamlo-oka-tara-movie-review-dulquer-salmaan-satvika-veeravalli-shine-in-a-telugu-film-about-hope/article71721323.ece"
+    }
+  ]
+}
