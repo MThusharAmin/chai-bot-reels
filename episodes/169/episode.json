@@ -1,0 +1,48 @@
+{
+  "number": 169,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की मुख्य खबरें",
+  "title_en": "Main Tech and Gadgets News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स से जुड़ी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's technology and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वीडियो गेम ग्रैंड थेफ्ट ऑटो छः ने पहले ही दिन तीन अरब उन्यासी करोड़ अमेरिकी डॉलर की खुदरा बिक्री का रिकॉर्ड बनाया है। यह जानकारी रॉकस्टार गेम्स ने दी है।",
+      "en": "Video game Grand Theft Auto six has set a retail sales record of 3.79 billion US dollars on the first day. This information was given by Rockstar Games.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "मैसेजिंग ऐप सिग्नल ने कृत्रिम बुद्धिमत्ता एजेंटों को संदेश पढ़ने से रोकने के लिए स्क्रीनशॉट पर प्रतिबंध लगा दिया है। सुरक्षित संदेश भेजने के लिए इस ऐप को अग्रणी माना जाता है।",
+      "en": "Messaging app Signal has restricted screenshots to prevent artificial intelligence agents from reading messages. This app is considered a leader in secure messaging.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमारे पेज को अवश्य फॉलो करें। आपकी गरमा-गरम चाय तैयार है।",
+      "en": "Be sure to follow our page for tomorrow's new news. Your hot tea is ready.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n🔹 वीडियो गेम ग्रैंड थेफ्ट ऑटो छः ने पहले ही दिन तीन अरब उन्यासी करोड़ अमेरिकी डॉलर की खुदरा बिक्री का रिकॉर्ड बनाया है।\n🔹 मैसेजिंग ऐप सिग्नल ने कृत्रिम बुद्धिमत्ता एजेंटों को संदेश पढ़ने से रोकने के लिए स्क्रीनशॉट पर प्रतिबंध लगा दिया है।\nरोज़ की ताज़ा ख़बरों के लिए फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Grand Theft Auto VI’ sets record with $3.79B in first-day retail sales, Rockstar Games reports",
+      "link": "https://www.thehindu.com/entertainment/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports/article71727468.ece"
+    },
+    {
+      "title": "Signal restricts screenshots to block AI agents from reading messages",
+      "link": "https://www.thehindu.com/sci-tech/technology/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages/article71727329.ece"
+    }
+  ]
+}
