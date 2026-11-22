@@ -1,0 +1,58 @@
+{
+  "number": 168,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "भारतीय क्रिकेट और घरेलू मुकाबलों की मुख्य खेल ख़बरें",
+  "title_en": "Major sports news on Indian cricket and domestic matches",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक अली ट्वेंटी ट्वेंटी क्रिकेट प्रतियोगिता में मुंबई ने छत्तीसगढ़ के खिलाफ शानदार जीत दर्ज की है। बड़ौदा ने बंगाल को हराया और चंडीगढ़ ने कर्नाटक को चौंका दिया।",
+      "en": "In the Syed Mushtaq Ali T20 cricket tournament, Mumbai registered a commanding win against Chhattisgarh. Baroda defeated Bengal and Chandigarh stunned Karnataka.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "न्यूजीलैंड के खिलाफ पहले टेस्ट मैच में भारत ने अपनी पारी नौ विकेट पर सात सौ बीस रन बनाकर घोषित की। यह न्यूजीलैंड में किसी भी टेस्ट पारी का सबसे बड़ा स्कोर है।",
+      "en": "In the first Test match against New Zealand, India declared their innings at seven hundred twenty for nine wickets. This is the highest total in a Test innings in New Zealand.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चौथे दिन का खेल समाप्त होने पर न्यूजीलैंड की टीम भारत के स्कोर से दो सौ तैंतीस रन पीछे है। खेल का मैदान और पिच दिन-प्रतिदिन धीमी होती जा रही है।",
+      "en": "At stumps on day four, New Zealand trails India's score by two hundred thirty-three runs. The pitch is getting slow day by day.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा खेल ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh sports news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ सैयद मुश्ताक अली ट्वेंटी ट्वेंटी प्रतियोगिता में मुंबई और बड़ौदा ने शानदार प्रदर्शन किया\n🏏 न्यूजीलैंड के खिलाफ टेस्ट मैच में भारत ने सात सौ बीस रन का विशाल स्कोर बनाया\n📉 चौथे दिन का खेल समाप्त होने पर न्यूजीलैंड की टीम भारत से पीछे चल रही है\n✨ कल की ताज़ा खेल ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Raghuvanshi’s show guides Mumbai to commanding win over Chhattisgarh in the Syed Mushtaq Ali T20 cricket tournament",
+      "link": "https://www.thehindu.com/sport/cricket/raghuvanshis-show-guides-mumbai-to-commanding-win-over-chhattisgarh-in-the-syed-mushtaq-ali-t20-cricket-tournament/article71731831.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: Baroda gets the better of Bengal; Chandigarh stuns Karnataka",
+      "link": "https://www.thehindu.com/sport/cricket/syed-mushtaq-ali-trophy-baroda-gets-the-better-of-bengal-chandigarh-stuns-karnataka/article71731586.ece"
+    },
+    {
+      "title": "IND vs NZ 1st Test Day 4 Stumps: New Zealand trail by 233 after India’s mammoth 720/9 declaration",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-4-updates-november-22-2026/article71730494.ece"
+    }
+  ]
+}
