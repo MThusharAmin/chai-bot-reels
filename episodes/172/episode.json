@@ -1,0 +1,58 @@
+{
+  "number": 172,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "आज का मनोरंजन समाचार बुलेटिन",
+  "title_en": "Today's Entertainment News Bulletin",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फिल्म रामायण ने देश में एक हज़ार करोड़ रुपये की कमाई कर ली है। नितेश तिवारी की इस फिल्म का वैश्विक कारोबार सोलह सौ करोड़ रुपये पार हो गया है।",
+      "en": "The film Ramayana has earned one thousand crore rupees domestically. Directed by Nitesh Tiwari, the film's global earnings have crossed sixteen hundred crore rupees.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "लद्दाखी निर्माता स्तांज़िन जिग्मेत की लघु फिल्म द ड्रैगन लेटर निन्यानवेवें अकादमी पुरस्कारों के लिए भेजी गई है। गुनीत मोंगा कपूर और अचिन जैन इसका समर्थन कर रहे हैं।",
+      "en": "Ladakhi filmmaker Stanzin Jigmet's short film 'The Dragon Letter' has been submitted for the 99th Academy Awards. Guneet Monga Kapoor and Achin Jain are backing it.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अभिनेत्री रश्मिका मंदाना की एक्शन थ्रिलर फिल्म मैसा की रिलीज़ स्थगित कर दी गई है। यह फिल्म पहले सत्ताइस नवंबर को प्रदर्शित होने वाली थी।",
+      "en": "Actress Rashmika Mandanna's action thriller film 'Mysaa' has been postponed. The film was earlier scheduled to release on November twenty-seventh.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्रतिदिन की ताज़ा ख़बरें जानने के लिए हमें फॉलो करना न भूलें।",
+      "en": "Don't forget to follow us to know daily fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 फिल्म रामायण ने देश में एक हज़ार करोड़ रुपये और वैश्विक स्तर पर सोलह सौ करोड़ रुपये से अधिक की कमाई की।\n🏆 लद्दाखी फिल्म निर्माता स्तांज़िन जिग्मेत की लघु फिल्म द ड्रैगन लेटर निन्यानवेवें अकादमी पुरस्कारों के लिए भेजी गई।\n📅 अभिनेत्री रश्मिका मंदाना की एक्शन थ्रिलर फिल्म मैसा की रिलीज़ स्थगित की गई।\n\nप्रतिदिन की मुख्य ख़बरों के लिए हमें फॉलो करें!\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Ramayana’ crosses Rs 1000 crore at domestic box office, earns over Rs 1600 crore globally",
+      "link": "https://www.thehindu.com/entertainment/movies/ramayana-crosses-rs-1000-crore-at-domestic-box-office-earns-over-rs-1600-crore-globally-ranbir-kapoor-yash-namit-malhotra/article71733415.ece"
+    },
+    {
+      "title": "Guneet Monga Kapoor and Achin Jain back Ladakhi filmmaker Stanzin Jigmet’s short ‘The Dragon Letter’",
+      "link": "https://www.thehindu.com/entertainment/movies/guneet-monga-kapoor-and-achin-jain-back-ladakhi-filmmaker-stanzin-jigmets-short-the-dragon-letter/article71734424.ece"
+    },
+    {
+      "title": "‘Mysaa’: Rashmika Mandanna’s action thriller gets postponed",
+      "link": "https://www.thehindu.com/entertainment/movies/mysaa-rashmika-mandannas-action-thriller-gets-postponed/article71733749.ece"
+    }
+  ]
+}
