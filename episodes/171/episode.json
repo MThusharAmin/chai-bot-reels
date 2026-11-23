@@ -1,0 +1,58 @@
+{
+  "number": 171,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "स्वास्थ्य और सामाजिक सुधार की खास ख़बरें",
+  "title_en": "Special news on health and social reforms",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "राष्ट्रीय प्रौद्योगिकी संस्थान कालीकट ने एक स्वास्थ्य केंद्र स्थापित करने के लिए समझौता किया है। इस परियोजना से विद्यार्थियों और शिक्षकों को बेहतर स्वास्थ्य सेवाएं मिलेंगी।",
+      "en": "National Institute of Technology Calicut has signed an agreement to set up a health centre. This project will provide better health services to students and teachers.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "केरल में निजी बसों के नियमों के उल्लंघन की शिकायत के लिए एक नया वेब एप्लीकेशन शुरू किया गया है। इस ऐप को एक सप्ताह में छह सौ से अधिक शिकायतें प्राप्त हुई हैं।",
+      "en": "A new web application has been launched in Kerala to report violations of rules by private buses. This app has received over six hundred complaints in a week.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "धारवाड़ में कल एक बड़े रक्तदान शिविर का आयोजन किया जाएगा।",
+      "en": "A mega blood donation drive will be organised in Dharwad tomorrow.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ राष्ट्रीय प्रौद्योगिकी संस्थान कालीकट में नया स्वास्थ्य केंद्र बनेगा\n🚌 केरल में निजी बसों की शिकायतों के लिए नया वेब ऐप शुरू\n🩸 धारवाड़ में कल होगा एक बड़ा रक्तदान शिविर\n✨ कल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "NIT-C inks pact with IRFC Foundation to set up health centre",
+      "link": "https://www.thehindu.com/news/national/kerala/nit-c-inks-pact-with-irfc-foundation-to-set-up-health-centre/article71734637.ece"
+    },
+    {
+      "title": "Private buses in Keralam reported for violations on the new web app Idi Vandi",
+      "link": "https://www.thehindu.com/sci-tech/private-buses-in-keralam-reported-for-violations-on-the-new-web-app-idi-vandi/article71727510.ece"
+    },
+    {
+      "title": "Mega blood donation drive in Dharwad tomorrow",
+      "link": "https://www.thehindu.com/news/national/karnataka/mega-blood-donation-drive-in-dharwad-tomorrow/article71734555.ece"
+    }
+  ]
+}
