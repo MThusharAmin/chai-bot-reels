@@ -1,0 +1,58 @@
+{
+  "number": 174,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की ताज़ा ख़बरें",
+  "title_en": "Latest Tech and Gadgets News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स से जुड़ी बड़ी ख़बरें सुनिए।",
+      "en": "Hello and welcome to Chai Bot news. Listen to today's top stories from technology and gadgets.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय साइबर अपराध समन्वय केंद्र ने व्हाट्सएप वेब सत्रों के दुरुपयोग को लेकर चेतावनी जारी की है। उपयोगकर्ताओं को प्रत्येक सत्र के बाद मैन्युअली लॉग आउट करने की सलाह दी गई है।",
+      "en": "The Indian Cyber Crime Coordination Centre has warned about the misuse of WhatsApp Web sessions. Users have been advised to manually log out after every session.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रेडियो गार्डन ऐप श्रोताओं को दुनिया भर के संगीत और रेडियो को एक ही जगह सुनने की सुविधा देता है। यह मंच हर उम्र के संगीत प्रेमियों के लिए उपलब्ध है।",
+      "en": "The Radio Garden app allows listeners to tune into world radio music from a single platform. It is a fantastic tool for listeners of all ages.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कृत्रिम बुद्धिमत्ता कंपनी एंथ्रोपिक अब तक के सबसे बड़े आईपीओ की तैयारी कर रही है। यह कंपनी शक्तिशाली एआई मॉडल बनाने के साथ इसके खतरों के प्रति भी आगाह करती है।",
+      "en": "AI company Anthropic is behind the largest-ever IPO. The company is racing to build powerful AI models while warning that AI could be dangerous.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज के लिए बस इतना ही, तकनीक की ताज़ा ख़बरों के लिए कल फिर ज़रूर जुड़िए।",
+      "en": "That is all for today, make sure to tune in again tomorrow for the latest tech news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n⚠️ भारतीय साइबर अपराध समन्वय केंद्र ने व्हाट्सएप वेब उपयोगकर्ताओं को उपयोग के बाद मैन्युअली लॉग आउट करने की सलाह दी है।\n📻 रेडियो गार्डन ऐप के ज़रिए श्रोता एक ही जगह से दुनिया भर के विभिन्न रेडियो संगीत का आनंद ले सकते हैं।\n🤖 कृत्रिम बुद्धिमत्ता कंपनी एंथ्रोपिक अब तक के सबसे बड़े आईपीओ की तैयारी में जुटी हुई है।\nताज़ा और सटीक ख़बरों के लिए हमारे पेज को ज़रूर फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Indian Cyber Crime Coordination Centre warns of possible misuse of WhatsApp Web sessions",
+      "link": "https://www.thehindu.com/news/national/cybercriminals-may-hijack-account-if-whatsapp-web-session-left-logged-in-on-public-computer-govt/article71734286.ece"
+    },
+    {
+      "title": "How to tune into world radio music from a single app",
+      "link": "https://www.thehindu.com/sci-tech/technology/how-to-tune-into-world-radio-music-from-a-single-app/article71733921.ece"
+    },
+    {
+      "title": "Anthropic IPO: Tracing an ‘unusual’ AI company’s race to the top",
+      "link": "https://www.thehindu.com/data/data-viewpoint-on-anthropic-ipo/article71733208.ece"
+    }
+  ]
+}
