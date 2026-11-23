@@ -1,0 +1,58 @@
+{
+  "number": 173,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "भारतीय क्रिकेट और अंतरराष्ट्रीय खेल की मुख्य खबरें",
+  "title_en": "Main news of Indian cricket and international sports",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत और न्यूज़ीलैंड के बीच पहला टेस्ट मैच ड्रॉ पर समाप्त हुआ। मेहमान टीम दो सौ उनतालीस रन पर पांच विकेट के साथ मैदान पर डटी रही।",
+      "en": "The first Test match between India and New Zealand ended in a draw. The visiting team remained firm at two hundred thirty nine for five.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "विराट कोहली और शुभमन गिल के शानदार प्रदर्शन से भारत ने श्रीलंका के खिलाफ श्रृंखला अपने नाम की। इस मुकाबले में भारतीय टीम ने तीन सौ सत्रह रन से बड़ी जीत दर्ज की।",
+      "en": "With brilliant performances by Virat Kohli and Shubman Gill, India won the series against Sri Lanka. The Indian team registered a massive win by three hundred seventeen runs.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक अन्य मुकाबले में मैक्सवेल के शानदार प्रदर्शन से ऑस्ट्रेलिया ने नीदरलैंड्स को हराया। वार्नर के शतक की बदौलत टीम ने तीन सौ نिन्यानवे रन का बड़ा स्कोर खड़ा किया।",
+      "en": "In another match, Australia defeated the Netherlands with Maxwell's stellar performance. Thanks to Warner's century, the team posted a huge total of three hundred ninety nine runs.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई खबरों के साथ। चाय का आनंद लीजिए और पेज को अवश्य फॉलो कीजिए।",
+      "en": "Will meet again tomorrow with new news. Enjoy your tea and be sure to follow the page.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\nनमस्कार! आज की खेल खबरों में सुनिए भारत और न्यूज़ीलैंड के टेस्ट मैच के ड्रॉ होने की बात। भारत ने श्रीलंका के खिलाफ श्रृंखला में शानदार जीत दर्ज की। ऑस्ट्रेलिया ने भी मुकाबले में बेहतरीन प्रदर्शन किया। कल की खबरों के लिए पेज को फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "IND vs NZ first Test Day 5: New Zealand batters blunt Indian attack; match ends in draw",
+      "link": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-5-updates-november-23-2026/article71733174.ece"
+    },
+    {
+      "title": "Ind vs SL, third ODI | Kohli, Gill power India to series sweep with record 317-run win",
+      "link": "https://www.thehindu.com/sport/cricket/india-sri-lanka-3rd-odi-january-15-2023/article66380819.ece"
+    },
+    {
+      "title": "AUS vs NED | Maxwell puts on a big show, rips the Netherlands apart",
+      "link": "https://www.thehindu.com/sport/cricket/icc-world-cup/aus-vs-ned-maxwell-conjures-fastest-world-cup-century-after-warners-hundred-australia-posts-3998/article67458062.ece"
+    }
+  ]
+}
