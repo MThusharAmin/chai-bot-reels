@@ -1,0 +1,58 @@
+{
+  "number": 175,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और अच्छी ख़बरें",
+  "title_en": "Chai Bot Good And Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वीडियो गेम ग्रैंड थेफ्ट ऑटो का नया संस्करण आ गया है। यह खेल वीडियो गेम की दुनिया में एक बड़ा मील का पत्थर साबित होगा।",
+      "en": "The new version of the video game Grand Theft Auto is out. This game will prove to be a major milestone in the world of video games.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "आजकल रेस्तरां अपने अंदरूनी हिस्सों को खास बनाने के लिए कला का उपयोग कर रहे हैं। पारंपरिक शिल्प और कलात्मक स्थापनाओं से भोजन कक्षों को अनूठा रूप दिया जा रहा है।",
+      "en": "Nowadays restaurants are using art to make their interiors special. Dining rooms are being given a unique look with traditional crafts and artistic installations.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दक्षिण भारत में दाल पकाने के हज़ारों तरीके मौजूद हैं। नारियल के साथ नरम की गई दाल हर वर्ग के लोगों को पसंद आती है।",
+      "en": "There are thousands of ways to cook dal in South India. Dal softened with coconut is liked by people of all classes.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहें।",
+      "en": "Stay connected with us for tomorrow's fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ ग्रैंड थेफ्ट ऑटो का नया संस्करण हुआ जारी\n🎨 रेस्तरां के अंदरूनी हिस्सों में कला का हो रहा है उपयोग\n🍲 दक्षिण भारत में दाल पकाने के हैं हज़ारों अनूठे तरीके\nप्रतिदिन की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Grand Theft Auto VI: The new benchmark for open worlds",
+      "link": "https://www.thehindu.com/entertainment/grand-theft-auto-vi-the-new-benchmark-for-open-worlds/article71731543.ece"
+    },
+    {
+      "title": "How art is bringing character to restaurant interiors",
+      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/how-art-is-bringing-character-to-restaurant-interiors/article71719040.ece"
+    },
+    {
+      "title": "Rice has a partner and South India has a thousand ways to cook it",
+      "link": "https://www.thehindu.com/food/features/south-india-dal-pappu-parippu-thousand-ways-to-cook-it/article71714709.ece"
+    }
+  ]
+}
