@@ -1,0 +1,58 @@
+{
+  "number": 179,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Big news in science and space",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंतरिक्ष कंपनियों ने उपग्रह प्रणालियों के लिए एक बड़ा समझौता किया है। बेलैट्रिक्स एयरोस्पेस गैलेक्सी आई के तीस उपग्रहों के लिए प्रोपल्सन प्रणाली प्रदान करेगी।",
+      "en": "Indian space companies have signed a major deal for satellite systems. Bellatrix Aerospace will provide propulsion systems for GalaxEye's thirty satellites.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "हाल के एक अध्ययन से पता चला है कि लीमर और ओपेरा गायक एक ही तरीका अपनाते हैं। यह तरीका उनकी आवाज़ को पीछे बैठे दर्शकों तक पहुँचाने में मदद करता है।",
+      "en": "A recent study shows lemurs and opera singers use the same method. This helps their voice reach the audience sitting at the back.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "जापान और यूरोप का बेपि कोलंबो अंतरिक्ष यान बुध ग्रह की कक्षा में पहुँच गया है। यह मिशन बुध ग्रह के चुंबकीय क्षेत्र और ध्रुवीय गड्ढों में बर्फ़ से जुड़े रहस्यों को सुलझाएगा।",
+      "en": "The Japan and Europe spacecraft BepiColombo has reached Mercury's orbit. This mission will solve mysteries related to Mercury's magnetic field and ice in polar craters.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा और दिलचस्प ख़बरों के लिए हमारे चैनल को फ़ॉलो करें।",
+      "en": "Follow our channel for tomorrow's fresh and interesting news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🛰️ भारतीय अंतरिक्ष कंपनियों ने उपग्रह प्रणाली के लिए एक बड़ा समझौता किया है\n🎵 एक अध्ययन से पता चला है कि लीमर और ओपेरा गायक आवाज़ पहुँचाने का एक जैसा तरीका अपनाते हैं\n🪐 बेपि कोलंबो अंतरिक्ष यान बुध ग्रह की कक्षा में प्रवेश कर चुका है\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Indian space companies sign largest-of-its-kind deal on satellite systems",
+      "link": "https://www.thehindu.com/business/Industry/indian-space-companies-sign-largest-of-its-kind-deal-on-satellite-systems/article71739125.ece"
+    },
+    {
+      "title": "What do lemurs and opera singers share?",
+      "link": "https://www.thehindu.com/children/what-do-lemurs-and-opera-singers-share/article71689211.ece"
+    },
+    {
+      "title": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
+      "link": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece"
+    }
+  ]
+}
