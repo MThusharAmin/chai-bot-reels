@@ -1,0 +1,58 @@
+{
+  "number": 180,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अच्छी और अनोखी ख़बरें",
+  "title_en": "Chai Bot Good and Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कोलंबो में अनित्रा रत्ननायके ने बिलिंग नामक नया रेस्टोरेंट खोला है। यहाँ पारंपरिक व्यंजनों को एक आधुनिक और नया रूप दिया गया है।",
+      "en": "In Colombo, Anithra Ratnayake has opened a new restaurant named Biling. Here, traditional dishes have been given a modern makeover.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "केरल के कोच्चि में तट रक्षक बल ने एक सराहनीय कार्य किया है। उन्होंने समुद्र में दिल का दौरा पड़ने वाले एक फिलीपी्नी नागरिक की जान बचा ली है।",
+      "en": "In Kochi, Kerala, the Coast Guard has done a commendable job. They saved the life of a Filipino national who suffered a stroke at sea.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विश्व शतरंज चैंपियनशिप के पहले मुकाबले में भारतीय खिलाड़ी गुकेश ने शानदार खेल दिखाया। समय की कमी से जूझने के बावजूद उन्होंने मुकाबला ड्रॉ करा लिया।",
+      "en": "Indian player Gukesh showed brilliant play in the first match of the world chess championship. Despite struggling with time, he managed to draw the match.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे कुछ नई और रोचक ख़बरों के साथ। ऐसी ही ताज़ा जानकारियों के लिए हमें फॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow with some new and interesting news. Do not forget to follow us for such fresh updates.",
+      "face": "love"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ कोलंबो में पारंपरिक व्यंजनों को मिला एक आधुनिक और नया रूप\n🌊 केरल के कोच्चि में तट रक्षक बल ने समुद्र में एक व्यक्ति की बचाई जान\n♟️ विश्व शतरंज चैंपियनशिप के पहले मुकाबले में गुकेश ने संघर्ष कर मुकाबला ड्रॉ कराया\n✨ कल की नई ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "At Biling, Colombo’s culinary heritage gets a modern makeover",
+      "link": "https://www.thehindu.com/food/features/at-biling-colombos-culinary-heritage-gets-a-modern-makeover/article71626051.ece"
+    },
+    {
+      "title": "Coast Guard in Keralam’s Kochi rescues Filipino national who suffered stroke at sea",
+      "link": "https://www.thehindu.com/news/national/kerala/coast-guard-rescues-filipino-national-who-suffered-stroke-at-sea/article71738690.ece"
+    },
+    {
+      "title": "World chess championship: Gritty Gukesh weathers time pressure, holds Sindarov",
+      "link": "https://www.thehindu.com/sport/world-chess-championship-gritty-gukesh-weathers-time-pressure-holds-sindarov/article71739969.ece"
+    }
+  ]
+}
