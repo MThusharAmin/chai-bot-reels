@@ -1,0 +1,58 @@
+{
+  "number": 178,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "तकनीक और गैजेट्स की मुख्य ख़बरें",
+  "title_en": "Main tech and gadget news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadget news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में मोटरولا एज सत्तर नियो स्मार्टफोन को सात हज़ार मिलीएम्पियर घंटे की बैटरी और पैंतालीस वॉट चार्जिंग के साथ बाज़ार में उतारा गया है।",
+      "en": "In India, Motorola Edge 70 Neo smartphone has been launched in the market with a 7,000 mAh battery and 45W charging.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "इंग्लैंड ने कृत्रिम बुद्धिमत्ता की मदद से स्तन कैंसर की जांच का दुनिया का सबसे बड़ा परीक्षण शुरू किया है।",
+      "en": "England has launched the world's largest breast cancer screening trial with the help of artificial intelligence.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एनवीडिया के मुख्य कार्यकारी अधिकारी के पद पर जेनसन हुआंग की वापसी के बाद वॉल स्ट्रीट के शेयरों में बत्तीस दशमलव दो प्रतिशत की भारी बढ़त दर्ज की गई है।",
+      "en": "Following the return of Jensen Huang as Nvidia CEO, Wall Street shares recorded a massive surge of 32.2 percent.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us for tomorrow's latest news.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n📱 भारत में मोटरولا एज सत्तर नियो स्मार्टफोन सात हज़ार मिलीएम्पियर घंटे की बैटरी के साथ लॉन्च हुआ है।\n🏥 इंग्लैंड ने कृत्रिम बुद्धिमत्ता की मदद से स्तन कैंसर की जांच का बड़ा परीक्षण शुरू किया है।\n📈 जेनसन हुआंग की वापसी के बाद एनवीडिया के शेयरों में भारी उछाल आया है।\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Motorola launches Edge 70 Neo for premium segment buyers in India",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-launches-edge-70-neo-for-premium-segment-buyers-in-india/article71737595.ece"
+    },
+    {
+      "title": "England launches world's largest AI-aided breast cancer screening trial",
+      "link": "https://www.thehindu.com/sci-tech/health/england-launches-worlds-largest-ai-aided-breast-cancer-screening-trial/article71734765.ece"
+    },
+    {
+      "title": "Wall Street roars back as Nvidia reinstates Jensen Huang as CEO",
+      "link": "https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece"
+    }
+  ]
+}
