@@ -1,0 +1,58 @@
+{
+  "number": 176,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन की बड़ी ख़बरें और फ़िल्मी अपडेट",
+  "title_en": "Big entertainment news and film updates",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मार्वल स्टूडियोज ने अवेंजर्स डूम्सडे का अंतिम ट्रेलर जारी कर दिया है। इस ट्रेलर में डॉक्टर डूम के खिलाफ कई महानायकों का मिलन दिखाया गया है।",
+      "en": "Marvel Studios has released the final trailer of Avengers Doomsday. The trailer shows the union of many heroes against Doctor Doom.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सन एक हज़ार नौ सौ बयासी के एक बंगाली डिस्को गीत ने इंटरनेट पर धूम मचा दी है। यह गाना वीडियो गेम में शामिल होने के बाद से चर्चा में है।",
+      "en": "A Bengali disco song from nineteen eighty two has taken the internet by storm. This song is in discussion after being included in a video game.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एप्पल टीवी ने कानूनी थ्रिलर श्रृंखला प्रिज्यूम्ड इनोसेंट के नए सीजन की रिलीज की तारीख की पुष्टि कर दी है। इस नए सीजन में मुख्य भूमिकाओं में कलाकार नजर आएंगे।",
+      "en": "Apple TV has confirmed the release date for the new season of the legal thriller series Presumed Innocent. Artists will feature in lead roles in this new season.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ जुड़े रहें और चाय का आनंद लें।",
+      "en": "Stay connected with us for tomorrow's fresh news and enjoy your tea.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 मार्वल स्टूडियोज ने अवेंजर्स डूम्सडे का अंतिम ट्रेलर जारी किया\n🎵 एक पुराना बंगाली डिस्को गीत वीडियो गेम में आने के बाद इंटरनेट पर छाया\n📺 एप्पल टीवी ने कानूनी थ्रिलर प्रिज्यूम्ड इनोसेंट के नए सीजन की पुष्टि की\nरोज़ाना ताज़ा मनोरंजन खबरों के लिए हमें फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Avengers: Doomsday’ final trailer: Avengers and X-Men reunite against Doctor Doom",
+      "link": "https://www.thehindu.com/entertainment/movies/avengers-doomsday-trailer-doomsday-trailer-avengers-x-men-doctor-doom-doomsday-released-date/article71737946.ece"
+    },
+    {
+      "title": "44-year-old Bengali disco song is taking the internet by storm after landing in GTA VI",
+      "link": "https://www.thehindu.com/entertainment/music/how-a-44-year-old-bengali-disco-song-is-taking-the-internet-by-storm-after-landing-in-grand-theft-auto-vi/article71737887.ece"
+    },
+    {
+      "title": "‘Presumed Innocent’ season 2: Apple TV confirms release date of legal thriller",
+      "link": "https://www.thehindu.com/entertainment/movies/presumed-innocent-season-2-apple-tv-confirms-release-date-of-legal-thriller/article71733994.ece"
+    }
+  ]
+}
