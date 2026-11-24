@@ -1,0 +1,58 @@
+{
+  "number": 177,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "सैयद मुश्ताक अली और अन्य खेल समाचार",
+  "title_en": "Syed Mushtaq Ali and other sports news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक अली ट्रॉफी में प्रियांश आर्या ने शानदार पारी खेली। उन्होंने एक सौ इक्यासी रन बनाकर कई रिकॉर्ड तोड़े।",
+      "en": "Priyansh Arya played a brilliant innings in the Syed Mushtaq Ali Trophy. He broke several records by scoring 181 runs.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक अन्य मैच में हेब्बर ने नाबाद अर्धशतक लगाया जिससे आंध्र को जीत मिली। केरल की टीम ने भी शानदार प्रदर्शन किया।",
+      "en": "In another match, Hebbar hit an unbeaten half-century giving Andhra a win. The Kerala team also performed brilliantly.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "क्रिकेट में एक और बड़ी उपलब्धि सामने आई। सूर्यवंशी ने सबसे तेज लिस्ट ए दोहरा शतक जड़कर नया इतिहास रचा।",
+      "en": "Another major achievement came in cricket. Suryavanshi created new history by scoring the fastest List A double century.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहें। चाय का आनंद लें और फॉलो करें।",
+      "en": "Stay connected with us for tomorrow's fresh news. Enjoy your tea and follow.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ सैयद मुश्ताक अली ट्रॉफी में प्रियांश आर्या ने एक सौ इक्यासी रन बनाकर तोड़े रिकॉर्ड\n☕ हेब्बर के नाबाद अर्धशतक से आंध्र को मिली रोमांचक जीत और केरल का शानदार प्रदर्शन\n☕ सूर्यवंशी ने बनाया सबसे तेज लिस्ट ए दोहरा शतक\nकल की खेल ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Syed Mushtaq Ali Trophy: Peerless Priyansh plunders a hapless Tamil Nadu attack",
+      "link": "https://www.thehindu.com/sport/cricket/peerless-priyansh-plunders-a-hapless-tamil-nadu-attack/article71739957.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: Hebbar guides Andhra to a thrilling win; Kerala coasts to a facile victory",
+      "link": "https://www.thehindu.com/sport/syed-mushtaq-ali-trophy-hebbarguides-andhra-to-a-thrilling-win-kerala-coasts-to-a-facile-victory/article71739499.ece"
+    },
+    {
+      "title": "Sooryavanshi smashes fastest List A double hundred",
+      "link": "https://www.thehindu.com/sport/cricket/sooryavanshi-smashes-fastest-list-a-hundred/article71738467.ece"
+    }
+  ]
+}
