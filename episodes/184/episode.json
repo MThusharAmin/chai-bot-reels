@@ -1,0 +1,58 @@
+{
+  "number": 184,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Science and Space Top News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत की अंतरिक्ष अर्थव्यवस्था वर्तमान में लगभग नौ अरब डॉलर की है। एक दशक से भी कम समय में इसके चालीस से पैंतालीस अरब डॉलर तक पहुँचने का अनुमान है।",
+      "en": "India's space economy is currently valued at nearly nine billion dollars. It is expected to reach forty to forty-five billion dollars in less than a decade.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "नवंबर के पूर्ण चंद्रमा को बीवर सुपरमून कहा जाता है। पृथ्वी के निकट होने के कारण यह सामान्य से अधिक बड़ा और चमकदार दिखाई देता है।",
+      "en": "The full moon of November is called the Beaver Supermoon. Being closer to Earth, it appears larger and brighter than usual.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "चीन ने अपने अंतरिक्ष स्टेशन के लिए शेंझोउ चौबीस अंतरिक्ष यान प्रक्षेपित किया है। इसमें पाकिस्तान के पहले अंतरिक्ष यात्री जीशान अली शामिल हैं।",
+      "en": "China has launched the Shenzhou twenty-four spacecraft to its space station. This mission includes Pakistan's first astronaut, Zeeshan Ali.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "प्रतिदिन की ताज़ा ख़बरों के लिए हमें फॉलो अवश्य करें।",
+      "en": "Be sure to follow us for daily news updates.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🚀 भारत की अंतरिक्ष अर्थव्यवस्था आने वाले दशक में चालीस से पैंतालीस अरब डॉलर तक पहुँच सकती है।\n🌕 नवंबर का बीवर सुपरमून पृथ्वी के समीप होने के कारण अधिक बड़ा और चमकदार दिखता है।\n🛰️ चीन के शेंझोउ चौबीस मिशन में पाकिस्तान के पहले अंतरिक्ष यात्री जीशान अली शामिल हैं।\nप्रतिदिन की ताज़ा ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "India’s satellite supply chain ‘highly dependent on imports’, says space body",
+      "link": "https://www.thehindu.com/sci-tech/science/indias-satellite-supply-chain-highly-dependent-on-imports-says-space-body/article71743312.ece"
+    },
+    {
+      "title": "What is Beaver Supermoon, when is the next supermoon and more",
+      "link": "https://www.thehindu.com/sci-tech/science/what-is-beaver-supermoon-november-2026-next-full-moon/article71741634.ece"
+    },
+    {
+      "title": "China launches crewed spaceship carrying first Pakistani astronaut to its space station",
+      "link": "https://www.thehindu.com/sci-tech/science/chinas-shenzhou-24-space-flight-takes-off-with-pakistani-national-as-first-foreign-astronaut/article71740891.ece"
+    }
+  ]
+}
