@@ -1,0 +1,58 @@
+{
+  "number": 181,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की बड़ी ख़बरें",
+  "title_en": "Major Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत की पौराणिक गाथा रामायण ऑस्कर पुरस्कारों की दृश्य प्रभाव दौड़ में शामिल हो गई है। यह फिल्म इस सूची में आगे बढ़ गई है।",
+      "en": "India's mythological epic Ramayana has joined the Oscars visual effects race. The film has advanced in this list.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "वरुवाय गीत ने ग्रैमी मानचित्र पर तमिल संगीत को स्थान दिलाया है। इस ऐतिहासिक नामांकन से दुनियाभर के तमिल भाषियों में खुशी की लहर है।",
+      "en": "The song Varuvaaiy has put Tamil music on the Grammy map. This historic nomination brings joy to Tamil speakers worldwide.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "ऑर्केस्ट्रल कव्वाली प्रोजेक्ट पहली बार भारत आने जा रहा है। यह संगीत समूह पांच दिसंबर से तेरह दिसंबर के बीच चार शहरों में प्रदर्शन करेगा।",
+      "en": "The Orchestral Qawwali Project is coming to India for the first time. This musical group will perform in four cities between December 5 and 13.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की नई ख़बरों के लिए हमसे जुड़े रहें। चाय का आनंद लेते रहें।",
+      "en": "Stay connected with us for tomorrow's new news. Keep enjoying your tea.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 भारत की रामायण फिल्म ऑस्कर की दृश्य प्रभाव दौड़ में शामिल हुई\n🎵 वरुवाय गीत ने ग्रैमी पुरस्कारों में तमिल संगीत को स्थान दिलाया\n🎶 ऑर्केस्ट्रल कव्वाली प्रोजेक्ट पहली बार भारत में प्रस्तुतियां देगा\nकल की मनोरंजन खबरों के लिए हमें अवश्य फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Oscars 2027 VFX shortlist: ‘Ramayana’ joins ‘Godzilla Minus Zero’, ‘The Odyssey’ and ‘Dune: Part Three’ in the race",
+      "link": "https://www.thehindu.com/entertainment/movies/oscars-2027-vfx-shortlist-ramayana-joins-godzilla-minus-zero-the-odyssey-and-dune-part-three-in-the-race/article71741712.ece"
+    },
+    {
+      "title": "‘Varuvaaiy’ puts Tamil music on the Grammy map, but raises questions of creative credit",
+      "link": "https://www.thehindu.com/entertainment/music/varuvaaiy-puts-tamil-music-on-the-grammy-map-but-raises-questions-of-creative-credit/article71725854.ece"
+    },
+    {
+      "title": "The Orchestral Qawwali Project comes to India for the first time on December 5",
+      "link": "https://www.thehindu.com/entertainment/music/the-orchestral-qawwali-project-comes-to-india-for-the-first-time-on-december-5/article71730963.ece"
+    }
+  ]
+}
