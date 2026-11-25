@@ -1,0 +1,58 @@
+{
+  "number": 185,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "चाय बॉट की अनोखी और अच्छी ख़बरें",
+  "title_en": "Chai Bot Good And Unusual News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अनोखी और अच्छी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's unusual and good news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "साइबेरिया से आने वाला छोटा प्रवासी पक्षी लिटिल स्टिंट भारत की आर्द्रभूमि पर आता है। यह नन्हा पक्षी आर्द्रभूमि के संरक्षण के बारे में एक महत्वपूर्ण संदेश देता है।",
+      "en": "The little stint migrant bird from Siberia visits India's wetlands. This tiny bird gives an important message about wetland conservation.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कॉर्डेलिया क्रूज़ ने अपने बेड़े का विस्तार करते हुए कॉर्डेलिया स्काई नामक नया जहाज़ लॉन्च किया है। यात्री मुंबई से शुरू होने वाले इस सफर में समुद्र के बीच आनंद ले सकते हैं।",
+      "en": "Cordelia Cruises has launched a new ship named Cordelia Sky expanding its fleet. Passengers can enjoy the middle of the sea on this journey starting from Mumbai.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु के द लीला पैलेस में एक विशेष सात सीटों वाला बार बनाया गया है। यह स्थान कृत्रिम बुद्धिमत्ता और सिनेमाई कहानी के साथ अनोखा коктейल अनुभव देता है।",
+      "en": "A special seven-seater bar has been created at The Leela Palace Bengaluru. This place gives a unique cocktail experience with artificial intelligence and cinematic storytelling.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। ऐसी ही दिलचस्प ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "We will meet again tomorrow. Stay with us for such interesting news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n☕ साइबेरिया से भारत की आर्द्रभूमि पर आने वाला लिटिल स्टिंट पक्षी संरक्षण का संदेश देता है\n🚢 कॉर्डेलिया क्रूज़ ने अपने बेड़े में कॉर्डेलिया स्काई जहाज़ को शामिल किया है\n🍸 बेंगलुरु के एक होटल में कृत्रिम बुद्धिमत्ता और सिनेमाई कहानी पर आधारित अनोखा बार शुरू हुआ है\nरोज़ाना ताज़ा और अनोखी ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Meet the little stint: The tiny Siberian traveller visiting India’s wetlands",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/meet-the-little-stint-the-tiny-siberian-traveller-visiting-indias-wetlands/article71719477.ece"
+    },
+    {
+      "title": "Aboard the newly-launched Cordelia Sky’s Mumbai weekend cruise",
+      "link": "https://www.thehindu.com/life-and-style/aboard-the-newly-launched-cordelia-skys-mumbai-weekend-cruise/article71711577.ece"
+    },
+    {
+      "title": "Theatre by ZLB 23: Bengaluru’s most intimate cocktail experience",
+      "link": "https://www.thehindu.com/food/features/theatre-by-zlb-23-bengalurus-most-intimate-cocktail-experience/article71701264.ece"
+    }
+  ]
+}
