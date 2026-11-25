@@ -1,0 +1,58 @@
+{
+  "number": 186,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की ताज़ा ख़बरें",
+  "title_en": "Fresh Entertainment News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जितेन्द्र कुमार और प्रिया बापट हिंदी डिजिटल मंच पर आ रहे हैं। उनका नया थ्रिलर नाटक एक लापता बच्चे और मानसिक चिकित्सालय से भागे व्यक्ति की कहानी पर आधारित है।",
+      "en": "Jitendra Kumar and Priya Bapat are coming to a Hindi digital platform. Their new thriller drama is based on the story of a missing child and a man who escaped a psychiatric facility.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "बेंगलुरु का संगीत उत्सव अपने दसवें वर्ष में प्रवेश कर रहा है। यह आयोजन अब एक नए और बड़े स्थान पर स्थानांतरित हो रहा है।",
+      "en": "Bengaluru's music festival is entering its tenth year. This event is now moving to a newer and bigger location.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक संगीत कार्यक्रम में वरिष्ठ गायिका सुधा रघुनाथन ने अपने विचार साझा किए। इस विशेष आयोजन में दो सौ आमंत्रित बच्चों ने उनकी संगीत कला का अनुभव किया।",
+      "en": "At a musical event, senior vocalist Sudha Ragunathan shared her thoughts. In this special event, two hundred invited children experienced her musical art.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया चाय बॉट को फ़ॉलो करें।",
+      "en": "We will meet again tomorrow with new news. Please follow Chai Bot.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n☕ जितेन्द्र कुमार और प्रिया बापट की नई थ्रिलर श्रृंखला ज़ी फ़ाइव पर आ रही है\n🎶 बेंगलुरु का संगीत उत्सव अपने दसवें वर्ष में एक नए स्थान पर पहुँच रहा है\n🎵 प्रसिद्ध गायिका सुधा रघुनाथन ने एक विशेष कार्यक्रम में बच्चों के साथ अपने विचार साझा किए\n✨ कल की मनोरंजन ख़बरों के लिए चाय बॉट को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Dalimb’ trailer: Jitendra Kumar and Priya Bapat star in Hindi ZEE5’s psychological thriller",
+      "link": "https://www.thehindu.com/entertainment/movies/dalimb-trailer-jitendra-kumar-enters-a-dark-new-world-in-hindi-zee5s-psychological-thriller/article71741947.ece"
+    },
+    {
+      "title": "Echoes of Earth 2026: The Hills come alive",
+      "link": "https://www.thehindu.com/entertainment/music/echoes-of-earth-2026-the-hills-come-alive/article71714758.ece"
+    },
+    {
+      "title": "Lessons on the raga: Sudha Ragunathan shares her insights through concert and conversation",
+      "link": "https://www.thehindu.com/entertainment/music/lessons-on-the-raga-sudha-raghunathan-shares-her-insights-through-concert-and-conversation/article71734372.ece"
+    }
+  ]
+}
