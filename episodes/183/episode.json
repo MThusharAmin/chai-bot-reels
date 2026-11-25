@@ -1,0 +1,58 @@
+{
+  "number": 183,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "आज की बड़ी तकनीक और गैजेट ख़बरें",
+  "title_en": "Today's Major Tech and Gadget News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की ख़बरें सुनिए।",
+      "en": "Hello and welcome to Chai Bot news. Listen to today's tech and gadget updates.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "प्रसिद्ध वीडियो गेम ग्रैंड थेफ़्ट ऑटो छह जारी हो गया है। इस गेम के शहर का एक बड़ा हिस्सा बेंगलुरु में तैयार किया गया है।",
+      "en": "The famous video game Grand Theft Auto VI has arrived. A major part of the city in this game was built in Bengaluru.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विभिन्न कंपनियाँ अपनी ब्लैक फ्राइडे छूट को सीमित करने के लिए कृत्रिम बुद्धिमत्ता उपकरणों का सहारा ले रही हैं। कपड़ों से लेकर त्वचा की देखभाल वाले उत्पाद बेचने वाले ब्रांड इसमें शामिल हैं।",
+      "en": "Various companies are using AI tools to curb Black Friday deals. This includes brands selling everything from clothes to skincare products.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "गूगल ने भारत में बड़े पैमाने पर कर्मचारियों को निकालने की अफ़वाहों को ख़ारिज कर दिया है। कंपनी के अनुसार केवल लगभग तीस पदों को समाप्त किया गया है।",
+      "en": "Google has denied rumors of large-scale layoffs in India. According to the company, only approximately 30 roles were eliminated.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की मुख्य तकनीक ख़बरें यहीं समाप्त होती हैं। ताज़ा ख़बरों के लिए हमें फ़ॉलो अवश्य करें।",
+      "en": "That concludes today's key technology news. Be sure to follow us for fresh updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n🎮 ग्रैंड थेफ़्ट ऑटो छह का एक बड़ा हिस्सा बेंगलुरु में तैयार हुआ।\n🤖 कंपनियाँ ब्लैक फ्राइडे छूट को सीमित करने के लिए एआई का उपयोग कर रही हैं।\n💻 गूगल ने भारत में बड़े पैमाने पर छंटनी की अफ़वाहों का खंडन किया।\n\nरोज़ाना ताज़ा ख़बरों के लिए हमें फ़ॉलो करें!\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "GTA VI is here, and India has taken the day off",
+      "link": "https://www.thehindu.com/sci-tech/technology/gta-vi-is-here-and-india-has-taken-the-day-off/article71718783.ece"
+    },
+    {
+      "title": "AI tools help brands curb Black Friday deals, from clothes to skincare",
+      "link": "https://www.thehindu.com/sci-tech/technology/ai-tools-help-brands-curb-black-friday-deals-from-clothes-to-skincare/article71737076.ece"
+    },
+    {
+      "title": "Google denies rumours of large-scale layoffs in India",
+      "link": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece"
+    }
+  ]
+}
