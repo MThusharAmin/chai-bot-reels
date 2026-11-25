@@ -1,0 +1,58 @@
+{
+  "number": 182,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज का खेल समाचार बुलेटिन",
+  "title_en": "Today's Sports News Bulletin",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आइए आज की प्रमुख खेल ख़बरों पर नज़र डालते हैं।",
+      "en": "Hello, welcome to Chai Bot news. Let us take a look at today's top sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इण्डियन प्रीमियर लीग नीलामी के लिए कुल एक हज़ार दो सौ बीस खिलाड़ियों ने पंजीकरण कराया है। इनमें नौ सौ उनतालीस भारतीय खिलाड़ी शामिल हैं।",
+      "en": "A total of 1,220 players have registered for the Indian Premier League auction. This includes 939 Indian players.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "रेलवे के बल्लेबाज़ रवि सिंह ने जम्मू और कश्मीर के ख़िलाफ़ तूफ़ानी पारी खेली। उन्होंने मात्र छप्पन गेंदों में एक सौ बारह रन बनाए।",
+      "en": "Railways batter Ravi Singh played a fiery innings against Jammu and Kashmir. He scored 112 runs in just 56 balls.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एशिया कप राइजिंग स्टार्स प्रतियोगिता में भारत ए टीम का सामना श्रीलंका से होगा। भारतीय टीम का लक्ष्य जीत दर्ज करके फ़ाइनल में पहुँचना है।",
+      "en": "In the Asia Cup Rising Stars tournament, Team India A will face Sri Lanka. The Indian team aims to win and reach the final.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "खेल जगत की ऐसी ही ताज़ा ख़बरों के लिए हमसे जुड़े रहें। धन्यवाद।",
+      "en": "Stay connected with us for more such fresh sports news. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 इण्डियन प्रीमियर लीग नीलामी के लिए कुल 1,220 खिलाड़ियों ने पंजीकरण कराया है।\n🏏 रेलवे के बल्लेबाज़ रवि सिंह ने जम्मू और कश्मीर के ख़िलाफ़ 56 गेंदों में 112 रन बनाए।\n🏆 एशिया कप राइजिंग स्टार्स में फ़ाइनल में जगह बनाने के लिए भारत 'ए' का मुकाबला श्रीलंका से होगा।\n\nरोज़ाना ताज़ा ख़बरें पाने के लिए हमें फ़ॉलो करें!\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "2027 IPL auction | Ben Stokes returns; Australia, South Africa lead overseas registrations",
+      "link": "https://www.thehindu.com/sport/cricket/indian-premier-league-2027-auction-players-registration/article71741569.ece"
+    },
+    {
+      "title": "Railways’ collective struggles leave Ravi Singh’s efforts in shadows",
+      "link": "https://www.thehindu.com/sport/cricket/railways-collective-struggles-leave-ravi-singhs-efforts-in-shadows/article71741770.ece"
+    },
+    {
+      "title": "Asia Cup Rising Stars: Sooryavanshi in focus as India ‘A’ eyes collective show for a berth in final",
+      "link": "https://www.thehindu.com/sport/cricket/asia-cup-rising-stars-semifinal-india-a-vs-sri-lanka-a/article71741329.ece"
+    }
+  ]
+}
