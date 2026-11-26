@@ -1,0 +1,58 @@
+{
+  "number": 191,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास खबरें",
+  "title_en": "Special News from Entertainment World",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फिल्म वृषाकर्मा के साथ अभिनेता नागा चैतन्य ने बड़े कैनवास के सिनेमा में कदम रखा है। निर्देशक कार्तिक वर्मा दांडू के साथ काम करने पर उन्होंने अपने विचार साझा किए।",
+      "en": "Actor Naga Chaitanya has stepped into big canvas cinema with the film Vrushakarma. He shared his thoughts on working with director Karthik Varma Dandu.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "अंतर्राष्ट्रीय फिल्म महोत्सव दो हज़ार छब्बीस में ब्रैड बर्ड की फिल्म रे गन को प्रदर्शित किया गया। इस अंतरिक्ष युग की फिल्म में सैम रॉकवेल और स्कारलेट जोहानसन ने काम किया है।",
+      "en": "Brad Bird's film Ray Gunn was screened at the International Film Festival 2026. Sam Rockwell and Scarlett Johansson have acted in this space age film.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक विष्णु रेविकुमार की थ्रिलर फिल्म हेल मेरी में कुंचाको बोबन, सूरज वेंजरमूडु और सुहासिनी मणिरत्नम ने अभिनय किया है। यह फिल्म अपने शक्तिशाली कथ्य से प्रभावित करती है।",
+      "en": "Director Vishnu Revikumar's thriller film Hail Mary stars Kunchacko Boban, Suraj Venjaramoodu and Suhasini Maniratnam. This film impresses with its powerful premise.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे। कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "We will meet again tomorrow. Stay with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 अभिनेता नागा चैतन्य ने फिल्म वृषाकर्मा के साथ बड़े कैनवास के सिनेमा में प्रवेश किया है।\n✨ अंतर्राष्ट्रीय फिल्म महोत्सव दो हज़ार छब्बीस में ब्रैड बर्ड की अंतरिक्ष युग की फिल्म रे गन को सराहा गया है।\n🎥 निर्देशक विष्णु रेविकुमार की थ्रिलर फिल्म हेल मेरी अपनी दमदार कहानी से दर्शकों को आकर्षित करती है।\nचाय बॉट के साथ मनोरंजन की खबरों से जुड़े रहने के लिए फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Hail Mary’ movie review: Kunchacko Boban anchors a gripping yet flawed investigation thriller",
+      "link": "https://www.thehindu.com/entertainment/movies/hail-mary-movie-review-kunchacko-boban-suraj-venjaramoodu-anu-sithara-suhasini-maniratnam/article71745898.ece"
+    },
+    {
+      "title": "IFFI 2026 | ‘Ray Gunn’ movie review: Brad Bird’s sultry space-age noir is a real knockout",
+      "link": "https://www.thehindu.com/entertainment/movies/ffi-2026-ray-gunn-movie-review-brad-bird-sam-rockwell-scarlett-johansson-retrofuturist-noir/article71743189.ece"
+    },
+    {
+      "title": "Naga Chaitanya interview: ‘Vrushakarma’ marks my leap into big-canvas cinema",
+      "link": "https://www.thehindu.com/entertainment/movies/naga-chaitanya-interview-vrushakarma-marks-my-leap-into-big-canvas-cinema/article71733989.ece"
+    }
+  ]
+}
