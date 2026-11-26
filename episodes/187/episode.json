@@ -1,0 +1,58 @@
+{
+  "number": 187,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "खेल जगत की आज की मुख्य बातें",
+  "title_en": "Today's main highlights from the sports world",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "क्रिकेटर बाबा अपराजित ने अपने खेलने के करियर को समाप्त करने की घोषणा की है। वह अब अपने कोचिंग करियर पर ध्यान केंद्रित करेंगे।",
+      "en": "Cricketer B. Aparajith has announced the end of his playing career. He will now focus on his coaching career.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "यशस्वी जयसवाल ने अपने शुरुआती चार विदेशी टेस्ट मैचों को अपने खेल के लिए एक बड़ा अनुभव बताया है। इन दौरों ने उन्हें लाल गेंद के क्रिकेट की चुनौतियों से अवगत कराया है।",
+      "en": "Yashasvi Jaiswal described his first four away Test matches as a great experience for his game. These tours made him aware of the challenges of red-ball cricket.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "राजस्थान के महिपाल लोमरोर का कहना है कि सरे के साथ काउंटी खेलने का अनुभव उनकी बल्लेबाजी के प्रति नकारात्मक धारणाओं को दूर करने में मददगार रहा है।",
+      "en": "Mahipal Lomror of Rajasthan says that county stint with Surrey has helped banish negative perceptions about his batting.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की खेल ख़बरों के लिए हमारे साथ बने रहिए। धन्यवाद।",
+      "en": "Stay with us for tomorrow's sports news. Thank you.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 बाबा अपराजित ने अपने खेलने के करियर को समाप्त कर कोचिंग पर ध्यान देने का निर्णय लिया है\n🏏 यशस्वी जयसवाल ने अपने शुरुआती चार विदेशी टेस्ट मैचों के अनुभवों को साझा किया है\n🏏 महिपाल लोमरोर ने सरे के साथ काउंटी अनुभव को अपने खेल के लिए लाभकारी बताया है\nकल की खेल ख़बरों के लिए हमारे पेज को फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "B. Aparajith calls time on playing career, to focus on coaching",
+      "link": "https://www.thehindu.com/sport/cricket/aparajith-calls-time-on-playing-career-to-focus-on-coaching/article71743703.ece"
+    },
+    {
+      "title": "Jaiswal — the all-terrain red-ball machine",
+      "link": "https://www.thehindu.com/sport/cricket/jaiswal-all-terrain-red-ball-machine/article71743902.ece"
+    },
+    {
+      "title": "Rajasthan’s Mahipal Lomror says county stint with Surrey has helped banish negative perceptions about his batting",
+      "link": "https://www.thehindu.com/sport/cricket/rajasthans-mahipal-lomror-says-county-stint-with-surrey-has-helped-banish-negative-perceptions-about-his-batting/article71742736.ece"
+    }
+  ]
+}
