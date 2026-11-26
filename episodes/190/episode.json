@@ -1,0 +1,58 @@
+{
+  "number": 190,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "कला और पर्यावरण की अनोखी ख़बरें",
+  "title_en": "Unique News on Art and Environment",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Namaste, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सातवें ऑल लिविंग थिंग्स एनवायरनमेंटल फ़िल्म फ़ेस्टिवल की शुरुआत हो रही है। इस आयोजन में बयालीस देशों की अट्ठासी फ़िल्में और वर्चुअल रिएलिटी अनुभव दर्शकों को मिलेंगे।",
+      "en": "The seventh All Living Things Environmental Film Festival is beginning. This event will bring eighty-eight films from forty-two countries and virtual reality experiences to audiences.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "स्नकरहुड देसी ड्रिप फ़ेस्टिवल हैदराबाद में अपनी शुरुआत करने जा रहा है। इस कार्यक्रम में स्नीकर ड्रॉप्स, फ़ैशन शो, कला और लाइव संगीत का प्रदर्शन किया जाएगा।",
+      "en": "The Sneakerhood Desi Drip festival is making its debut in Hyderabad. This program will showcase sneaker drops, fashion shows, art, and live music.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "हैदराबाद में पहले बावड़ी कला संगम का आयोजन किया जा रहा है। यह चालीस दिनों का उत्सव सांस्कृतिक और सामुदायिक अनुभवों के माध्यम से विरासत स्थलों को पुनर्जीवित कर रहा है।",
+      "en": "Hyderabad is hosting its first stepwell art sangam. This forty-day festival is reviving heritage sites through cultural and community experiences.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया चाय बॉट को फ़ॉलो करें।",
+      "en": "We will meet again tomorrow with new news. Please follow Chai Bot.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🎬 ऑल लिविंग थिंग्स एनवायरनमेंटल फ़िल्म फ़ेस्टिवल में बयालीस देशों की फ़िल्में प्रदर्शित की जा रही हैं।\n👟 स्नकरहुड देसी ड्रिप फ़ेस्टिवल हैदराबाद में स्नीकर संस्कृति और संगीत लेकर आ रहा है।\n🏛️ हैदराबाद के ऐतिहासिक स्थलों पर पहले बावड़ी कला संगम का आयोजन हो रहा है।\nरोज़ाना ऐसी अनोखी ख़बरें सुनने के लिए चाय बॉट को फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Stories for a world in flux: Inside ALTEFF 2026",
+      "link": "https://www.thehindu.com/entertainment/stories-for-a-world-in-flux-inside-alteff-2026/article71719121.ece"
+    },
+    {
+      "title": "Hyderabad gets a taste of sneaker culture with SNKRHOOD Desi Drip",
+      "link": "https://www.thehindu.com/life-and-style/fashion/hyderabad-gets-a-taste-of-sneaker-culture-with-snkrhood-desi-drip/article71741541.ece"
+    },
+    {
+      "title": "Inside Hyderabad’s first stepwell-based art biennale",
+      "link": "https://www.thehindu.com/entertainment/art/inside-hyderabads-first-stepwell-based-art-biennale/article71723872.ece"
+    }
+  ]
+}
