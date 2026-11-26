@@ -1,0 +1,58 @@
+{
+  "number": 188,
+  "format": "news",
+  "category": "tech",
+  "category_hi": "तकनीक और गैजेट्स",
+  "category_en": "Tech & Gadgets",
+  "title": "नई तकनीक और गैजेट्स की मुख्य खबरें",
+  "title_en": "Main news of new technology and gadgets",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खबरों में आपका स्वागत है। आज की तकनीक और गैजेट्स की खबरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's tech and gadgets news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "वीवो कंपनी ने भारत में नए स्मार्टफोन और वॉच जीटी दो को लॉन्च कर दिया है। इस नई स्मार्टवॉच में पच्चीस दिन तक की बैटरी लाइफ मिलने का दावा किया गया है।",
+      "en": "Vivo has launched new smartphones and Watch GT 2 in India. This new smartwatch is claimed to offer up to twenty-five days of battery life.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "एचपी ने रचनाकारों के लिए ओमनीबुक अल्ट्रा सोलह एआई लैपटॉप पेश किया है। इस नए लैपटॉप में तीन के ओलेड टच डिस्प्ले के साथ एक सौ बीस हर्ट्ज रिफ्रेश रेट दिया गया है।",
+      "en": "HP has introduced the OmniBook Ultra 16 AI laptop for creators. This new laptop features a 3K OLED touch display with a 120Hz refresh rate.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "व्हाट्सएप ने अपने उपयोगकर्ताओं के लिए मैसेज शेड्यूल करने का नया फीचर जारी कर दिया है। अब उपयोगकर्ता दस मिनट से चौदह दिन तक के समय के लिए संदेश तैयार करके भेज सकेंगे।",
+      "en": "WhatsApp has released a new message scheduling feature for its users. Now users can draft and send messages for a time ranging from ten minutes to fourteen days.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की खबरों के लिए हमारे चैनल को फॉलो करना न भूलें। अपना ध्यान रखें और चाय का आनंद लें।",
+      "en": "Do not forget to follow our channel for tomorrow's news. Take care and enjoy your tea.",
+      "face": "love"
+    }
+  ],
+  "caption": "तकनीक और गैजेट्स ☕🤖\n\n📱 वीवो ने भारत में नए स्मार्टफोन और वॉच जीटी दो को लॉन्च किया\n💻 एचपी ने रचनाकारों के लिए नया ओमनीबुक अल्ट्रा सोलह एआई लैपटॉप पेश किया\n💬 व्हाट्सएप उपयोगकर्ताओं के लिए मैसेज शेड्यूल करने का नया फीचर आया\nकल की ताजा तकनीक और गैजेट्स खबरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #technews #gadgets #तकनीक #smartphone",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Vivo launches X500 Pro Max, X500 and X500 along with Watch GT2",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/vivo-launches-x500-pro-max-x500-and-x500-along-with-watch-gt2/article71745760.ece"
+    },
+    {
+      "title": "HP launches OmniBook Ultra 16 AI laptop for creators",
+      "link": "https://www.thehindu.com/sci-tech/technology/gadgets/hp-launches-omnibook-ultra-16-ai-laptop-for-creators/article71745619.ece"
+    },
+    {
+      "title": "WhatsApp users can now schedule messages to be sent later",
+      "link": "https://www.thehindu.com/sci-tech/technology/whatsapp-users-can-now-schedule-messages-to-be-sent-later/article71745328.ece"
+    }
+  ]
+}
