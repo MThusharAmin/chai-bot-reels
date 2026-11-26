@@ -1,0 +1,48 @@
+{
+  "number": 189,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Big science and space news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष की ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नासा के डार्ट मिशन द्वारा टकराए गए क्षुद्रग्रह के नए चित्र सामने आए हैं। इन चित्रों में अंतरिक्ष में तैरते हुए बोल्डर और गड्ढा स्पष्ट दिखाई दे रहा है।",
+      "en": "New images reveal crater on asteroid hit by NASA's DART mission.",
+      "face": "shocked"
+    },
+    {
+      "who": "bot",
+      "text": "वर्ष दो हज़ार छब्बीस के दौरान कृत्रिम बुद्धिमत्ता मॉडल ने कई कठिन गणितीय समस्याओं को हल करने का प्रयास किया है। इस दिशा में हाल ही में कई नई घोषणाएं सामने आई हैं।",
+      "en": "Artificial intelligence models have taken a run at top math problems in 2026.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की चाय की चुस्की के साथ हमारी ख़बरें समाप्त होती हैं। कल की ताज़ा ख़बरों के लिए हमारे चैनल को फ़ॉलो करें।",
+      "en": "Our news ends with today's sip of tea. Follow our channel for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n🔹 नासा के डार्ट मिशन द्वारा टकराए गए क्षुद्रग्रह के नए चित्र सामने आए हैं।\n🔹 वर्ष दो हज़ार छब्बीस के दौरान कृत्रिम बुद्धिमत्ता मॉडल ने कई कठिन गणितीय समस्याओं को हल करने का प्रयास किया है।\nरोज़ की ताज़ा ख़बरों के लिए फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "New images reveal crater on asteroid hit by NASA’s DART planetary defence mission",
+      "link": "https://www.thehindu.com/sci-tech/science/new-images-reveal-crater-on-asteroid-struck-by-dart-spacecraft/article71745339.ece"
+    },
+    {
+      "title": "Top 10 math problems AI models have taken a run at in 2026 (so far)",
+      "link": "https://www.thehindu.com/sci-tech/science/top-10-math-problems-ai-models-have-taken-a-run-at-in-2026-so-far/article71745209.ece"
+    }
+  ]
+}
