@@ -1,0 +1,58 @@
+{
+  "number": 192,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "सैयद मुश्ताक अली ट्रॉफी के मुकाबले",
+  "title_en": "Syed Mushtaq Ali Trophy Matches",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की खेल ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's sports news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "सैयद मुश्ताक अली ट्रॉफी में केरल ने शानदार प्रदर्शन किया। अझारुद्दीन के शतक की बदौलत केरल ने हिमाचल प्रदेश के खिलाफ सड़सठ रन से जीत दर्ज की।",
+      "en": "Kerala performed brilliantly in the Syed Mushtaq Ali Trophy. Thanks to Azharuddeen's century, Kerala registered a sixty-seven run win against Himachal Pradesh.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "मुंबई की टीम ने टूर्नामेंट में बेहतरीन खेल दिखाया। मुशीर के ऑलराउंड प्रदर्शन के दम पर मुंबई ने बिना कोई मैच हारे अपनी जीत का सिलसिला कायम रखा।",
+      "en": "The Mumbai team played exceptionally well in the tournament. On the strength of Musheer's all-round performance, Mumbai maintained its winning streak without losing a single match.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "राजस्थान की टीम ने भी अगले दौर में प्रवेश किया। तोमर और लोमरोर की शतकीय साझेदारी की मदद से राजस्थान ने बंगाल को पीछे छोड़ दिया।",
+      "en": "The Rajasthan team also advanced to the next round. With the help of Tomar and Lomror's century partnership, Rajasthan left Bengal behind.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज की चाय के साथ बस इतना ही। कल की ताज़ा ख़बरों के लिए हमारे साथ बने रहिए।",
+      "en": "That is all with today's tea. Stay with us for tomorrow's fresh news.",
+      "face": "love"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n☕ सैयद मुश्ताक अली ट्रॉफी में केरल ने हिमाचल प्रदेश के खिलाफ शानदार जीत दर्ज की।\n🏏 मुशीर के ऑलराउंड प्रदर्शन से मुंबई की टीम ने टूर्नामेंट में बेहतरीन खेल दिखाया।\n🌟 तोमर और लोमरोर की साझेदारी की मदद से राजस्थान ने अगले दौर में प्रवेश किया।\n🔔 रोज़ाना ऐसी ही खेल ख़बरों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Syed Mushtaq Ali Trophy: Azharuddeen’s century powers Kerala into the Super League",
+      "link": "https://www.thehindu.com/sport/cricket/syed-mushtaq-ali-trophy-azharuddeens-century-powers-kerala-into-the-super-league/article71747210.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: Himateja’s fine knock helps Hyderabad sign off on a high",
+      "link": "https://www.thehindu.com/sport/cricket/syed-mushtaq-ali-trophy-himatejas-fine-knock-helps-hyderabad-sign-off-on-a-high/article71746483.ece"
+    },
+    {
+      "title": "Syed Mushtaq Ali Trophy: The Tomar-Lomror show powers Rajasthan through to Super League at Bengal’s expense",
+      "link": "https://www.thehindu.com/sport/cricket/the-tomar-lomror-show-powers-rajasthan-through-at-bengals-expense-in-the-syed-mushtaq-ali-trophy-t20-cricket/article71746493.ece"
+    }
+  ]
+}
