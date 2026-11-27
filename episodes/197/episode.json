@@ -1,0 +1,58 @@
+{
+  "number": 197,
+  "format": "news",
+  "category": "sports",
+  "category_hi": "खेल समाचार",
+  "category_en": "Sports News",
+  "title": "आज के मुख्य खेल समाचार",
+  "title_en": "Today's Top Sports News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की खेल ख़बरों में आपका स्वागत है। आइए, आज के मुख्य समाचार सुनते हैं।",
+      "en": "Hello, welcome to Chai Bot's sports news. Let us hear today's top headlines.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारतीय अंडर-उन्नीस महिला क्रिकेट टीम ने इंग्लैंड को छत्तीस रनों से हरा दिया। भारत ने अक्षह परमार और भाविका अहिरे की पारियों के दम पर पाँच विकेट पर एक सौ सत्तानवे रन बनाए।",
+      "en": "The Indian Under-19 women's cricket team defeated England by thirty-six runs. India posted one hundred and ninety-seven for five powered by innings from Achsah Parmar and Bhavika Ahire.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "रोहित शर्मा एक बार फिर मुंबई इंडियंस टीम की कप्तानी संभालेंगे। उनके नेतृत्व में इस टीम ने पहले पाँच बार ख़िताब अपने नाम किया है।",
+      "en": "Rohit Sharma will once again take charge as captain of the Mumbai Indians team. Under his leadership, the team has previously won five titles.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "भारत और न्यूज़ीलैंड के दूसरे टेस्ट मैच में न्यूज़ीलैंड ने दो सौ छियालीस रन बनाए। भारतीय गेंदबाज़ आकाश दीप ने बेहतरीन गेंदबाज़ी का प्रदर्शन किया।",
+      "en": "In the second Test match between India and New Zealand, New Zealand scored two hundred and forty-six runs. Indian bowler Akash Deep delivered an impressive performance.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "आज के खेल बुलेटिन में बस इतना ही। कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए।",
+      "en": "That is all for today's sports bulletin. Stay tuned with us for tomorrow's latest news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "खेल समाचार ☕🤖\n\n🏏 भारतीय अंडर-उन्नीस महिला क्रिकेट टीम ने इंग्लैंड को छत्तीस रनों से हराया।\n🏏 रोहित शर्मा फिर से मुंबई इंडियंस की कप्तानी की ज़िम्मेदारी संभालेंगे।\n🏏 भारत के ख़िलाफ़ दूसरे टेस्ट में आकाश दीप की उम्दा गेंदबाज़ी के बीच न्यूज़ीलैंड ने दो सौ छियालीस रन बनाए।\nदैनिक समाचारों के लिए हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sportsnews #cricket #खेल #indiansports",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Bhavika Ahire, Uma Kashvi help India U-19 women beat England by 36 runs",
+      "link": "https://www.thehindu.com/sport/cricket/bhavika-ahire-uma-kashvi-help-india-u-19-women-beat-england-by-36-runs/article71752100.ece"
+    },
+    {
+      "title": "IPL 2027: Rohit Sharma back in the saddle for Mumbai Indians",
+      "link": "https://www.thehindu.com/sport/cricket/ipl-2027-rohit-sharma-to-return-as-mumbai-indians-captain-after-three-seasons/article71750731.ece"
+    },
+    {
+      "title": "IND vs NZ second Test: Blundell, Phillips take New Zealand to 246 after Akash Deep’s spirited spell",
+      "link": "https://www.thehindu.com/sport/cricket/india-new-zealand-second-test-day-1-updates-november-27-2026/article71748299.ece"
+    }
+  ]
+}
