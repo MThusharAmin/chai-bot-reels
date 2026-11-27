@@ -1,0 +1,58 @@
+{
+  "number": 195,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "देश से अच्छी और अनोखी ख़बरें",
+  "title_en": "Good and Inspiring News from India",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज सुनिए देश की अच्छी और अनोखी ख़बरें।",
+      "en": "Hello, welcome to Chai Bot's news. Today, listen to good and unique stories from across the country.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कुर्सियांग में नौ दिनों का घूम विंटर फेस्टिवल कल से शुरू हो रहा है। यहाँ लोग चाय संस्कृति और यूनेस्को रेलवे संग्रहालय को देख सकेंगे।",
+      "en": "The nine-day Ghum Winter Festival is starting tomorrow in Kurseong. Visitors can experience the local tea culture and the UNESCO railway museum.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "विशाखापट्टनम के रुशिकोंडा समुद्र तट पर पढ़ने के लिए एक अनूठा केंद्र शुरू किया गया है। इसे आंध्र प्रदेश पर्यटन और स्थानीय पुस्तकालय ने मिलकर तैयार किया है।",
+      "en": "A unique beachside reading space has opened at Rushikonda in Visakhapatnam. It has been set up jointly by Andhra Pradesh Tourism and the local public library.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "हैदराबाद में डेट अ बुक पुस्तकालय बंद होने की सूचना पर तीन दिनों में पाँच सौ से अधिक पाठक पहुँचे। इन सभी ने छूट पर बिक रही किताबें ख़रीदीं।",
+      "en": "More than five hundred readers visited Date a Book library in Hyderabad in three days following news of its closure, purchasing books at discounted prices.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "हर रोज़ ऐसी ही सकारात्मक और ताज़ा ख़बरें सुनने के लिए हमारे साथ जुड़े रहिए।",
+      "en": "Stay connected with us every day for more positive and fresh news updates.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n🚂 कुर्सियांग में कल से शुरू हो रहा है नौ दिवसीय घूम विंटर फेस्टिवल।\n🏖️ विशाखापट्टनम के रुशिकोंडा तट पर पाठकों के लिए अनूठा अध्ययन केंद्र खुला।\n📖 हैदराबाद में पुस्तकालय बंद होने की घोषणा के बाद किताबें ख़रीदने उमड़े पाठक।\nऐसी सकारात्मक ख़बरों के लिए रोज़ाना हमें फ़ॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Explore Kurseong’s monasteries, UNESCO railway museum at the Ghum Winter Festival 2026",
+      "link": "https://www.thehindu.com/life-and-style/travel/explore-kurseongs-monasteries-unesco-railway-museum-at-the-ghum-winter-festival-2026/article71718806.ece"
+    },
+    {
+      "title": "A beachside reading space at Rushikonda in Visakhapatnam",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/a-beachside-reading-space-at-rushikonda-in-visakhapatnam/article71745169.ece"
+    },
+    {
+      "title": "Hyderabad readers come together to save books from a closing library",
+      "link": "https://www.thehindu.com/books/hyderabad-readers-come-together-to-save-books-from-a-closing-library/article71742014.ece"
+    }
+  ]
+}
