@@ -1,0 +1,58 @@
+{
+  "number": 194,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की बड़ी ख़बरें",
+  "title_en": "Major Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और अंतरिक्ष ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's science and space news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "जापानी अंतरिक्ष एजेंसी ने चंद्रयान पांच ल्यूपेक्स मिशन के रोवर का प्रोटोटाइप दिखाया है। यह रोवर जापान में पच्चीस नवंबर को सबके सामने लाया गया था।",
+      "en": "The Japanese space agency has unveiled the prototype of the Chandrayaan five LuPEX mission rover. This rover was showcased in Japan on November twenty-fifth.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "जलवायु परिवर्तन के कारण जंगलों और बगीचों की हवा में महक बदलने लगी है। शोधकर्ताओं के अनुसार जलवायु परिवर्तन वाष्पशील कार्बनिक यौगिकों के स्तर को बदल रहा है।",
+      "en": "Due to climate change, the scent in the air of forests and gardens is beginning to change. According to researchers, climate change is altering volatile organic compounds.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "जीवन के शुरुआती हजार दिनों में चीनी का सेवन सीमित करने से कैंसर का जोखिम कम होता है। इस शोध में वैज्ञानिकों ने पाया कि इससे उम्र बढ़ने की गति भी धीमी होती है।",
+      "en": "Restricting sugar in the first thousand days of life reduces cancer risk. In this study, scientists found that this also slows down the pace of ageing.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कल की विज्ञान और अंतरिक्ष से जुड़ी नई ख़बरों के लिए हमारे पेज को ज़रूर फॉलो करें।",
+      "en": "Be sure to follow our page for tomorrow's new science and space news.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\n☕ जापानी अंतरिक्ष एजेंसी ने चंद्रयान पांच ल्यूपेक्स मिशन के रोवर का प्रोटोटाइप दिखाया है\n🌿 जलवायु परिवर्तन के कारण जंगलों और बगीचों की हवा में महक बदलने लगी है\n🧬 जीवन के शुरुआती दिनों में चीनी कम खाने से कैंसर का जोखिम कम होता है\n✨ विज्ञान और अंतरिक्ष की रोज़ाना ताज़ा ख़बरों के लिए हमारे पेज को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Prototype of Chandrayaan-5/LUPEX rover unveiled",
+      "link": "https://www.thehindu.com/sci-tech/science/prototype-of-chandrayaan-5lupex-rover-unveiled/article71746762.ece"
+    },
+    {
+      "title": "The changing scents of a warming world",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/the-changing-scents-of-a-warming-world/article71741960.ece"
+    },
+    {
+      "title": "Sugar restriction during first 1000 days of life reduces cancer incidence, pace of ageing: study",
+      "link": "https://www.thehindu.com/sci-tech/health/sugar-restriction-during-first-1000-days-of-life-reduces-cancer-incidence-pace-of-ageing-study/article71749630.ece"
+    }
+  ]
+}
