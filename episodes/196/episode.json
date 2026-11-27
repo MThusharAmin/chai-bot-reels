@@ -1,0 +1,58 @@
+{
+  "number": 196,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "सिनेमा और मनोरंजन जगत की प्रमुख ख़बरें",
+  "title_en": "Top Entertainment and Cinema News Updates",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट के समाचार बुलेटिन में आपका स्वागत है। आज के मनोरंजन जगत की मुख्य ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot's news bulletin. Listen to today's top entertainment news stories.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "फ़िल्म 'यह प्रेम मोल लिया' में अभिनेता आयुष्मान और अभिनेत्री शर्वरी मुख्य भूमिकाओं में नज़र आए हैं। इस पारिवारिक प्रेमकथा का निर्देशन सूरज बड़जात्या ने किया है।",
+      "en": "Actors Ayushmann and Sharvari star in lead roles in the film 'Yeh Prem Mol Liya'. This family romance is directed by Sooraj Barjatya.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "अंतर्राष्ट्रीय फ़िल्म महोत्सव में जापानी निर्देशक हिरोकाज़ू कोरे-एदा की फ़िल्म 'लुक बैक' की चर्चा रही। यह भावुक फ़िल्म लेखक तात्सुकी फ़ुजीमोतो की कहानी पर आधारित है।",
+      "en": "Japanese director Hirokazu Kore-eda's film 'Look Back' drew acclaim at the International Film Festival. This touching film is based on Tatsuki Fujimoto's story.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "निर्देशक अभिजीत जोसेफ़ की नई फ़ैंटेसी थ्रिलर फ़िल्म 'कॉस्मिक सैमसन' सामने आई है। इस फ़िल्म में अभिनेता संदीप प्रदीप, मुकेश और अभिनेत्री मिया जॉर्ज ने काम किया है।",
+      "en": "Director Abhijith Joseph's new fantasy thriller film 'Cosmic Samson' has arrived. Actors Sandeep Pradeep, Mukesh, and Miya George feature in this film.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "सिनेमा और मनोरंजन से जुड़ी ताज़ा ख़बरें जानने के लिए हमारे पेज को ज़रूर फॉलो करें। धन्यवाद।",
+      "en": "Do follow our page for the latest news from cinema and entertainment. Thank you.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 सूरज बड़जात्या के निर्देशन में बनी फ़िल्म 'यह प्रेम मोल लिया' में आयुष्मान और शर्वरी मुख्य भूमिका में हैं।\n📽️ फ़िल्म महोत्सव में जापानी निर्देशक हिरोकाज़ू कोरे-एदा की फ़िल्म 'लुक बैक' को दिखाया गया।\n✨ अभिजीत जोसेफ़ द्वारा निर्देशित नई फ़ैंटेसी थ्रिलर फ़िल्म 'कॉस्मिक सैमसन' दर्शकों के सामने आई।\nमनोरंजन की दैनिक ख़बरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Yeh Prem Mol Liya’ movie review: Ayushmann and Sharvari anchor a romance that is radical by half",
+      "link": "https://www.thehindu.com/entertainment/movies/yeh-prem-mol-liya-review-sooraj-barjatya-ayushmann-khurrana-sharvari-rajshri-salman-khan/article71751396.ece"
+    },
+    {
+      "title": "IFFI 2026 | ‘Look Back’ movie review: Hirokazu Kore-eda draws a moving elegy from Tatsuki Fujimoto’s art of rewriting the past",
+      "link": "https://www.thehindu.com/entertainment/movies/iffi-2026-look-back-movie-review-hirokazu-kore-eda-tatsuki-fujimoto-manga-anime/article71750567.ece"
+    },
+    {
+      "title": "‘Cosmic Samson’ review: Sandeep Pradeep-starrer is a middling fantasy thriller with a few high moments",
+      "link": "https://www.thehindu.com/entertainment/movies/cosmic-samson-review-this-sandeep-pradeep-starrer-is-a-middling-fantasy-thriller-with-a-few-high-moments/article71749972.ece"
+    }
+  ]
+}
