@@ -2039,5 +2039,16 @@
       "https://www.thehindu.com/sport/cricket/ipl-2027-rohit-sharma-to-return-as-mumbai-indians-captain-after-three-seasons/article71750731.ece",
       "https://www.thehindu.com/sport/cricket/india-new-zealand-second-test-day-1-updates-november-27-2026/article71748299.ece"
     ]
+  },
+  {
+    "number": 198,
+    "format": "news",
+    "category": "tech",
+    "title": "तकनीक और गैजेट्स की मुख्य ख़बरें",
+    "links": [
+      "https://www.thehindu.com/sci-tech/technology/smartphone-prices-surged-around-17-in-last-12-months-laptops-and-tablets-rose-135-and-133/article71753854.ece",
+      "https://www.thehindu.com/sci-tech/technology/motorola-pivots-to-premiumisation-aims-for-third-spot-in-india/article71749650.ece",
+      "https://www.thehindu.com/sci-tech/science/isro-invites-indian-industry-to-develop-human-space-flight-analog-simulation-facility/article71751015.ece"
+    ]
   }
 ]
