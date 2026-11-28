@@ -1,0 +1,58 @@
+{
+  "number": 201,
+  "format": "news",
+  "category": "entertainment",
+  "category_hi": "मनोरंजन समाचार",
+  "category_en": "Entertainment News",
+  "title": "मनोरंजन जगत की खास और नई ख़बरें",
+  "title_en": "Special and new entertainment world news",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की मनोरंजन ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's entertainment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "नया गाना डैडी कूल आ गया है। इस गाने में शाहरुख खान और करीना कपूर खान एक साथ थिरकते नजर आ रहे हैं।",
+      "en": "A new song Daddy Cool has arrived. In this song, Shah Rukh Khan and Kareena Kapoor Khan are seen dancing together.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "इमरान हाशमी की फिल्म गनमास्टर जी नौ रिलीज हो गई है। यह फिल्म अपने एक्शन और पंच वाले संवादों के कारण चर्चा में है।",
+      "en": "Emraan Hashmi's film Gunmaaster G9 has been released. This film is in discussion due to its action and punchy dialogues.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कोलकाता में एक प्रदर्शनी का आयोजन किया गया है। इसमें प्रसिद्ध अभिनेता और फिल्मकार अपर्णा सेन की श्वेत श्याम तस्वीरें प्रदर्शित की गई हैं।",
+      "en": "An exhibition has been organized in Kolkata. In this, black and white photographs of famous actor and filmmaker Aparna Sen have been displayed.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताजा खबरों के लिए हमारे साथ बने रहें।",
+      "en": "Stay with us for tomorrow's fresh news.",
+      "face": "happy"
+    }
+  ],
+  "caption": "मनोरंजन समाचार ☕🤖\n\n🎬 शाहरुख खान और करीना कपूर खान नए गाने डैडी कूल में एक साथ नजर आए।\n🎥 इमरान हाशमी की फिल्म गनमास्टर जी नौ एक्शन और संवादों से भरपूर है।\n📸 कोलकाता की प्रदर्शनी में अपर्णा सेन की श्वेत श्याम तस्वीरें दिखाई गई हैं।\n✨ रोजाना ऐसी खबरों के लिए हमें फॉलो करें।\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #entertainmentnews #movies #मनोरंजन #newrelease",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "‘Daddy Cool’: Shah Rukh Khan grooves with Kareena Kapoor Khan in new song from ‘King’",
+      "link": "https://www.thehindu.com/entertainment/movies/daddy-cool-shah-rukh-khan-grooves-with-kareena-kapoor-khan-in-new-song-from-king/article71753960.ece"
+    },
+    {
+      "title": "‘Gunmaaster G9’ movie review: Emraan Hashmi’s pulpier action-hero turn hits more than it loses",
+      "link": "https://www.thehindu.com/entertainment/movies/gunmaaster-g9-movie-review-emraan-hashmi-himesh-reshammiya-genelia-deshmukh-aparshakti-khurana/article71750180.ece"
+    },
+    {
+      "title": "Beyond cinema: Exploring Aparna Sen’s world of photography",
+      "link": "https://www.thehindu.com/entertainment/music/beyond-cinema-exploring-aparna-sens-world-of-photography/article71741755.ece"
+    }
+  ]
+}
