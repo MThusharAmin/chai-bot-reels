@@ -1,0 +1,58 @@
+{
+  "number": 200,
+  "format": "news",
+  "category": "feelgood",
+  "category_hi": "अच्छी और अनोखी ख़बरें",
+  "category_en": "Good & Unusual News",
+  "title": "भारत की अच्छी और अनोखी ख़बरें",
+  "title_en": "Good and Unusual News from India",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की अच्छी और अनोखी ख़बरें सुनिए।",
+      "en": "Hello, welcome to Chai Bot news. Listen to today's good and unusual news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "भारत में डार्क स्काई स्थानों पर खगोल पर्यटन तेजी से बढ़ रहा है। लोग लद्दाख से लेकर अंडमान तक रात के समय आकाश को निहारने और उल्कापात देखने का आनंद ले रहे हैं।",
+      "en": "Astrotourism is growing fast at dark sky locations in India. People are enjoying stargazing and meteor showers from Ladakh to the Andamans.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "दिल्ली का एक पादत्राण स्टार्टअप अब तीन आयाम मुद्रण तकनीक का उपयोग कर रहा है। इससे जूते ग्राहकों के पैरों के अनुसार अधिक अनुकूल बनाए जा रहे हैं।",
+      "en": "A Delhi footwear startup is now using three-dimensional printing technology. This is making shoes more adaptable according to individual feet.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक भारतीय फैशन ब्रांड ने कच्छ की प्राकृतिक सुंदरता से प्रेरित होकर अपना नया संग्रह प्रस्तुत किया है। इसमें पुनर्चक्रित जैकेट और हाथ से कते हुए कपड़ों का उपयोग किया गया है।",
+      "en": "An Indian fashion brand has presented its new collection inspired by the natural beauty of Kutch. It uses reclaimed jackets and handspun fabrics.",
+      "face": "love"
+    },
+    {
+      "who": "bot",
+      "text": "कल फिर मिलेंगे नई ख़बरों के साथ। कृपया चाय बॉट को फॉलो करना न भूलें।",
+      "en": "We will meet again tomorrow with new news. Please do not forget to follow Chai Bot.",
+      "face": "happy"
+    }
+  ],
+  "caption": "अच्छी और अनोखी ख़बरें ☕🤖\n\n✨ लद्दाख से अंडमान तक देश में खगोल पर्यटन और स्टारगेजिंग का रोमांच बढ़ रहा है\n👟 दिल्ली का एक स्टार्टअप तीन आयाम मुद्रण तकनीक से अनोखे जूते बना रहा है\n👗 फैशन ब्रांड इलेवन एलेवन ने कच्छ की पृष्ठभूमि से प्रेरित नया संग्रह पेश किया है\n📌 ऐसी ही रोचक और अच्छी ख़बरों के लिए चाय बॉट को फॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #goodnews #positivenews #अनोखी_ख़बर #inspiring",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Astrotourism in India: Where to go stargazing, from Ladakh to the Andamans",
+      "link": "https://www.thehindu.com/life-and-style/astrotourism-in-india-where-to-go-stargazing-from-ladakh-to-the-andamans/article71739849.ece"
+    },
+    {
+      "title": "Can 3D printing change the way we make shoes? This Delhi footwear brand seems to think so",
+      "link": "https://www.thehindu.com/life-and-style/fashion/can-3d-printing-change-the-way-we-make-shoes-this-delhi-footwear-brand-seems-to-think-so/article71714937.ece"
+    },
+    {
+      "title": "Fashion label 11.11/eleven eleven’s new line is inspired by Kutch’s Kadiya Dhro landscape",
+      "link": "https://www.thehindu.com/life-and-style/fashion/fashion-label-1111s-new-line-is-inspired-by-kutchs-kadiya-dhro-landscape/article71745795.ece"
+    }
+  ]
+}
