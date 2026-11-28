@@ -1,0 +1,58 @@
+{
+  "number": 199,
+  "format": "news",
+  "category": "science",
+  "category_hi": "विज्ञान और अंतरिक्ष",
+  "category_en": "Science & Space",
+  "title": "विज्ञान और अंतरिक्ष की मुख्य ख़बरें",
+  "title_en": "Main Science and Space News",
+  "reaction": "happy",
+  "lines": [
+    {
+      "who": "bot",
+      "text": "नमस्कार, चाय बॉट की ख़बरों में आपका स्वागत है। आज की विज्ञान और पर्यावरण ख़बरें सुनिए।",
+      "en": "Greetings, welcome to Chai Bot news. Listen to today's science and environment news.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "एक दशक में ओजोन छिद्र सबसे बड़ा हो गया है। फिर भी दुनिया इसे सिकोड़ने की राह पर है।",
+      "en": "The ozone hole is the largest in a decade. Yet the world remains on track to shrinking it.",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "क्या पंजाब में पराली जलाने से श्रीलंका की वायु गुणवत्ता प्रभावित हो रही है।",
+      "en": "Is stubble burning in Punjab affecting Sri Lanka's air quality?",
+      "face": "neutral"
+    },
+    {
+      "who": "bot",
+      "text": "कोच्चि में पिंट ऑफ़ व्यू व्याख्यान केरल की अनूठी सामाजिक सांस्कृतिक पहचान का पता लगाते हैं।",
+      "en": "Pint of View lectures in Kochi explore Keralam's unique socio-cultural identity.",
+      "face": "happy"
+    },
+    {
+      "who": "bot",
+      "text": "कल की ताज़ा ख़बरों के लिए हमारे साथ जुड़े रहिए और चाय का आनंद लीजिए।",
+      "en": "Stay connected with us for tomorrow's fresh news and enjoy your chai.",
+      "face": "love"
+    }
+  ],
+  "caption": "विज्ञान और अंतरिक्ष ☕🤖\n\nओजोन छिद्र एक दशक में सबसे बड़ा हुआ लेकिन इसे सिकोड़ने की राह जारी है\nपंजाब में पराली जलाने का असर श्रीलंका की वायु गुणवत्ता पर पड़ रहा है\nकोच्चि के व्याख्यानों में केरल की अनूठी पहचान पर चर्चा हुई\nकल की ताज़ा ख़बरों के लिए हमें फ़ॉलो करें\n\nस्रोत: द हिंदू (The Hindu)\n\n#chaibot3000 #hindinews #हिंदी_समाचार #news #sciencenews #space #विज्ञान #isro",
+  "hashtags": [],
+  "sources": [
+    {
+      "title": "Ozone hole largest in a decade — yet world remains on track to shrinking it",
+      "link": "https://www.thehindu.com/sci-tech/science/ozone-hole-largest-in-a-decade-yet-world-remains-on-track-to-shrinking-it/article71753776.ece"
+    },
+    {
+      "title": "Is stubble burning in Punjab affecting Sri Lanka’s air quality?",
+      "link": "https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece"
+    },
+    {
+      "title": "Pint of View Kochi lectures explore Keralam’s unique socio-cultural identity",
+      "link": "https://www.thehindu.com/news/cities/Kochi/pint-of-view-kochi-lectures-explore-keralams-unique-socio-cultural-identity/article71742807.ece"
+    }
+  ]
+}
